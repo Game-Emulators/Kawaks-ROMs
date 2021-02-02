@@ -1,0 +1,103 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,100003,63,100002,3B
+Default=0
+
+[1]
+Name=Kill Boss with 1 hit Now!
+0=Disabled
+1=Enabled,1029B6,00,100010,00
+Default=0
+
+[2]
+Name=Big Diamond Every time
+0=Disabled
+1=Enabled,10000A,01
+Default=0
+
+[3]
+Name=Bonus Ratio always x 64
+0=Disabled
+1=Enabled,100283,06
+Default=0
+
+[4]
+Name=Go to Final Stage Now!
+0=Disabled
+1=Enabled,10004B,04
+Default=0
+
+[5]
+Name=Go to Final Area Now!
+0=Disabled
+1=Enabled,10004A,04
+Default=0
+
+[6]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,100054,03
+Default=0
+
+[7]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,102C1A,03
+Default=0
+
+[8]
+Name=Always have Fire Power Up PL1
+0=Disabled
+1=Enabled,100053,FF
+Default=0
+
+[9]
+Name=Always have Speed Power Up PL1
+0=Disabled
+1=Enabled,100050,FF
+Default=0
+
+[10]
+Name=Always have Firing Range Power Up PL1
+0=Disabled
+1=Enabled,100052,FF
+Default=0
+
+[11]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,10028A,03
+Default=0
+
+[12]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,102EE4,03
+Default=0
+
+[13]
+Name=Always have Fire Power Up PL2
+0=Disabled
+1=Enabled,100289,FF
+Default=0
+
+[14]
+Name=Always have Speed Power Up PL2
+0=Disabled
+1=Enabled,100286,FF
+Default=0
+
+[15]
+Name=Always have Firing Range Power Up PL2
+0=Disabled
+1=Enabled,100288,FF
+Default=0
+
+[16]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

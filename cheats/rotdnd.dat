@@ -1,0 +1,280 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,106B10,63
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,106B10,00
+Default=0
+
+[2]
+Name=Infinite Character Selection Time
+0=Disabled
+1=Enabled,106BDF,02
+Default=0
+
+[3]
+Name=Select Stage
+0=Disabled
+1=1,106908,00
+2=2,106908,01
+3=3,106908,02
+4=4,106908,03
+5=5,106908,04
+6=6,106908,05
+7=7,106908,06
+8=8,106908,07
+Default=0
+
+[4]
+Name=Select Background
+0=Disabled
+1=Sonia/Jimmy,106B96,00
+2=Pepe/Pupa,106B96,01
+3=Cassandra/Oni,106B96,02
+4=Billy/Lynn,106B96,03
+5=Alica/Elias,106B96,04
+6=Radel/Annie,106B96,05
+7=Abubo,106B96,06
+8=Jones/Kang,106B96,07
+9=Johann,106B96,08
+Default=0
+
+[5]
+Name=Infinite Energy (Active Char) PL1
+0=Disabled
+1=Enabled,1024CE,B4,1024D2,B4
+Default=0
+
+[6]
+Name=Infinite Energy (Inactive Char) PL1
+0=Disabled
+1=Enabled,1027BE,B4,1027C2,B4
+Default=0
+
+[7]
+Name=Drain All Energy Now! (Active Char) PL1
+0=Disabled
+1=Enabled,1024CE,00,1024D2,00
+Default=0
+
+[8]
+Name=Drain All Energy Now! (Inactive Char) PL1
+0=Disabled
+1=Enabled,1027BE,00,1027C2,00
+Default=0
+
+[9]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,1024E2,D8
+Default=0
+
+[10]
+Name=Never have Power PL1
+0=Disabled
+1=Enabled,1024E2,00
+Default=0
+
+[11]
+Name=Drain All Power Now! PL1
+0=Disabled
+1=Enabled,1024E2,00
+Default=0
+
+[12]
+Name=No Wait Time to switch characters PL1
+0=Disabled
+1=Enabled,1024E4,28
+Default=0
+
+[13]
+Name=Can never switch characters PL1
+0=Disabled
+1=Enabled,1024E4,00
+Default=0
+
+[14]
+Name=Select First Character PL1
+0=Disabled
+1=Billy,106BE2,00
+2=Lynn,106BE2,01
+3=Radel,106BE2,02
+4=Annie,106BE2,03
+5=Cassandra,106BE2,04
+6=Oni,106BE2,05
+7=Pepe,106BE2,06
+8=Pupa,106BE2,07
+9=Alice,106BE2,08
+10=Elias,106BE2,09
+11=Jones,106BE2,0A
+12=Kang,106BE2,0B
+13=Sonia,106BE2,0C
+14=Jimmy,106BE2,0D
+15=Abubo,106BE2,0E
+16=Johann,106BE2,0F
+Default=0
+
+[15]
+Name=Select First Character Colour PL1
+0=Disabled
+1=Colour A,106BE4,00
+2=Colour B,106BE4,01
+3=Colour C,106BE4,02
+4=Colour D,106BE4,03
+Default=0
+
+[16]
+Name=Select Second Character PL1
+0=Disabled
+1=Billy,106BE6,00
+2=Lynn,106BE6,01
+3=Radel,106BE6,02
+4=Annie,106BE6,03
+5=Cassandra,106BE6,04
+6=Oni,106BE6,05
+7=Pepe,106BE6,06
+8=Pupa,106BE6,07
+9=Alice,106BE6,08
+10=Elias,106BE6,09
+11=Jones,106BE6,0A
+12=Kang,106BE6,0B
+13=Sonia,106BE6,0C
+14=Jimmy,106BE6,0D
+15=Abubo,106BE6,0E
+16=Johann,106BE6,0F
+Default=0
+
+[17]
+Name=Select Second Character Colour PL1
+0=Disabled
+1=Colour A,106BE8,00
+2=Colour B,106BE8,01
+3=Colour C,106BE8,02
+4=Colour D,106BE8,03
+Default=0
+
+[18]
+Name=Infinite Energy (Active Char) PL2
+0=Disabled
+1=Enabled,102356,B4,10235A,B4
+Default=0
+
+[19]
+Name=Infinite Energy (Inactive Char) PL2
+0=Disabled
+1=Enabled,102646,B4,10264A,B4
+Default=0
+
+[20]
+Name=Drain All Energy Now! (Active Char) PL2
+0=Disabled
+1=Enabled,102356,00,10235A,00
+Default=0
+
+[21]
+Name=Drain All Energy Now! (Inactive Char) PL2
+0=Disabled
+1=Enabled,102646,00,10264A,00
+Default=0
+
+[22]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,10236A,D8
+Default=0
+
+[23]
+Name=Never have Power PL2
+0=Disabled
+1=Enabled,10236A,00
+Default=0
+
+[24]
+Name=Drain All Power Now! PL2
+0=Disabled
+1=Enabled,10236A,00
+Default=0
+
+[25]
+Name=No Wait Time to switch characters PL2
+0=Disabled
+1=Enabled,10236C,28
+Default=0
+
+[26]
+Name=Can never switch characters PL2
+0=Disabled
+1=Enabled,10236C,00
+Default=0
+
+[27]
+Name=Select First Character PL2
+0=Disabled
+1=Billy,106BF0,00
+2=Lynn,106BF0,01
+3=Radel,106BF0,02
+4=Annie,106BF0,03
+5=Cassandra,106BF0,04
+6=Oni,106BF0,05
+7=Pepe,106BF0,06
+8=Pupa,106BF0,07
+9=Alice,106BF0,08
+10=Elias,106BF0,09
+11=Jones,106BF0,0A
+12=Kang,106BF0,0B
+13=Sonia,106BF0,0C
+14=Jimmy,106BF0,0D
+15=Abubo,106BF0,0E
+16=Johann,106BF0,0F
+Default=0
+
+[28]
+Name=Select First Character Colour PL2
+0=Disabled
+1=Colour A,106BF2,00
+2=Colour B,106BF2,01
+3=Colour C,106BF2,02
+4=Colour D,106BF2,03
+Default=0
+
+[29]
+Name=Select Second Character PL2
+0=Disabled
+1=Billy,106BF4,00
+2=Lynn,106BF4,01
+3=Radel,106BF4,02
+4=Annie,106BF4,03
+5=Cassandra,106BF4,04
+6=Oni,106BF4,05
+7=Pepe,106BF4,06
+8=Pupa,106BF4,07
+9=Alice,106BF4,08
+10=Elias,106BF4,09
+11=Jones,106BF4,0A
+12=Kang,106BF4,0B
+13=Sonia,106BF4,0C
+14=Jimmy,106BF4,0D
+15=Abubo,106BF4,0E
+16=Johann,106BF4,0F
+Default=0
+
+[30]
+Name=Select Second Character Colour PL2
+0=Disabled
+1=Colour A,106BF6,00
+2=Colour B,106BF6,01
+3=Colour C,106BF6,02
+4=Colour D,106BF6,03
+Default=0
+
+[31]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

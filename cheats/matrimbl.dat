@@ -1,0 +1,87 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10B90A,63
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,10B90A,01
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,103068,C8,10306A,C8,10306E,C8
+Default=0
+
+[3]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,103068,00,10306A,00,10306E,00
+Default=0
+
+[4]
+Name=Always have Maximum POW PL1
+0=Disabled
+1=Enabled,10307C,F0
+Default=0
+
+[5]
+Name=Always have SSS Rank PL1
+0=Disabled
+1=Enabled,10B84C,07
+Default=0
+
+[6]
+Name=Select Character PL1
+0=Disabled
+1=Princess Sissy,10B81E,0F,10B822,0F
+2=Mr.Jones,10B81E,10,10B822,10,102224,0F
+3=Lynn Baker,10B81E,11,10B822,11,102224,11
+4=Elias Patrick,10B81E,12,10B822,12,102224,10
+5=Jimmy,10B81E,13,10B822,13,102224,12
+Default=0
+
+[7]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,102E9C,C8,102E9E,C8,102EA2,C8
+Default=0
+
+[8]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,102E9C,00,102E9E,00,102EA2,00
+Default=0
+
+[9]
+Name=Always have Maximum POW PL2
+0=Disabled
+1=Enabled,102EB0,F0
+Default=0
+
+[10]
+Name=Always have SSS Rank PL2
+0=Disabled
+1=Enabled,10B87C,07
+Default=0
+
+[11]
+Name=Select Character PL2
+0=Disabled
+1=Princess Sissy,10B84E,0F,10B852,0F
+2=Mr.Jones,10B84E,10,10B852,10,1024E4,0F
+3=Lynn Baker,10B84E,11,10B852,11,1024E4,11
+4=Elias Patrick,10B84E,12,10B852,12,1024E4,10
+5=Jimmy,10B84E,13,10B852,13,1024E4,12
+Default=0
+
+[12]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

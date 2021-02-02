@@ -1,0 +1,271 @@
+[0]
+Name=Finish Round Now!
+0=Disabled
+1=Enabled,10A837,00
+Default=0
+
+[1]
+Name=Boss code + Timer stop
+0=Disabled
+1=Enabled,100001,04
+Default=0
+
+[2]
+Name=Enable hidden characters
+0=Disabled
+1=Enabled,10E79B,01
+Default=0
+
+[3]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,108220,CF
+Default=0
+
+[4]
+Name=Drain all Energy Now! PL1
+0=Disabled
+1=Enabled,108220,00
+Default=0
+
+[5]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,1082F1,01
+Default=0
+
+[6]
+Name=Always have Max POW PL1
+0=Disabled
+1=Enabled,108218,7F
+Default=0
+
+[7]
+Name=Get Max POW Now! PL1
+0=Disabled
+1=Enabled,108218,7F
+Default=0
+
+[8]
+Name=Select 1st Character PL1
+0=Disabled
+1=Heidern,10A842,00
+2=Ralf,10A842,01
+3=Clark,10A842,02
+4=Athena,10A842,03
+5=Kensou,10A842,04
+6=Chin,10A842,05
+7=Kyo,10A842,06
+8=Benimaru,10A842,07
+9=Daimon,10A842,08
+10=Iori,10A842,09
+11=Eiji,10A842,0A
+12=Billy,10A842,0B
+13=Kim,10A842,0C
+14=Chang,10A842,0D
+15=Choi,10A842,0E
+16=Terry,10A842,0F
+17=Andy,10A842,10
+18=Joe,10A842,11
+19=Ryo,10A842,12
+20=Robert,10A842,13
+21=Takuma,10A842,14
+22=Yuri,10A842,15
+23=Mai,10A842,16
+24=King,10A842,17
+25=Saisyu Kusanagi,10A842,18
+26=Omega Rugal,10A842,19
+Default=0
+
+[9]
+Name=Select 2nd Character PL1
+0=Disabled
+1=Heidern,10A845,00
+2=Ralf,10A845,01
+3=Clark,10A845,02
+4=Athena,10A845,03
+5=Kensou,10A845,04
+6=Chin,10A845,05
+7=Kyo,10A845,06
+8=Benimaru,10A845,07
+9=Daimon,10A845,08
+10=Iori,10A845,09
+11=Eiji,10A845,0A
+12=Billy,10A845,0B
+13=Kim,10A845,0C
+14=Chang,10A845,0D
+15=Choi,10A845,0E
+16=Terry,10A845,0F
+17=Andy,10A845,10
+18=Joe,10A845,11
+19=Ryo,10A845,12
+20=Robert,10A845,13
+21=Takuma,10A845,14
+22=Yuri,10A845,15
+23=Mai,10A845,16
+24=King,10A845,17
+25=Saisyu Kusanagi,10A845,18
+26=Omega Rugal,10A845,19
+Default=0
+
+[10]
+Name=Select 3rd Character PL1
+0=Disabled
+1=Heidern,10A844,00
+2=Ralf,10A844,01
+3=Clark,10A844,02
+4=Athena,10A844,03
+5=Kensou,10A844,04
+6=Chin,10A844,05
+7=Kyo,10A844,06
+8=Benimaru,10A844,07
+9=Daimon,10A844,08
+10=Iori,10A844,09
+11=Eiji,10A844,0A
+12=Billy,10A844,0B
+13=Kim,10A844,0C
+14=Chang,10A844,0D
+15=Choi,10A844,0E
+16=Terry,10A844,0F
+17=Andy,10A844,10
+18=Joe,10A844,11
+19=Ryo,10A844,12
+20=Robert,10A844,13
+21=Takuma,10A844,14
+22=Yuri,10A844,15
+23=Mai,10A844,16
+24=King,10A844,17
+25=Saisyu Kusanagi,10A844,18
+26=Omega Rugal,10A844,19
+Default=0
+
+[11]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,108420,CF
+Default=0
+
+[12]
+Name=Drain all Energy Now! PL2
+0=Disabled
+1=Enabled,108420,00
+Default=0
+
+[13]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,1084F1,01
+Default=0
+
+[14]
+Name=Always have Max POW PL2
+0=Disabled
+1=Enabled,108418,7F
+Default=0
+
+[15]
+Name=Get Max POW Now! PL2
+0=Disabled
+1=Enabled,108418,7F
+Default=0
+
+[16]
+Name=Select 1st Character PL2
+0=Disabled
+1=Heidern,10A852,00
+2=Ralf,10A852,01
+3=Clark,10A852,02
+4=Athena,10A852,03
+5=Kensou,10A852,04
+6=Chin,10A852,05
+7=Kyo,10A852,06
+8=Benimaru,10A852,07
+9=Daimon,10A852,08
+10=Iori,10A852,09
+11=Eiji,10A852,0A
+12=Billy,10A852,0B
+13=Kim,10A852,0C
+14=Chang,10A852,0D
+15=Choi,10A852,0E
+16=Terry,10A852,0F
+17=Andy,10A852,10
+18=Joe,10A852,11
+19=Ryo,10A852,12
+20=Robert,10A852,13
+21=Takuma,10A852,14
+22=Yuri,10A852,15
+23=Mai,10A852,16
+24=King,10A852,17
+25=Saisyu Kusanagi,10A852,18
+26=Omega Rugal,10A852,19
+Default=0
+
+[17]
+Name=Select 2nd Character PL2
+0=Disabled
+1=Heidern,10A855,00
+2=Ralf,10A855,01
+3=Clark,10A855,02
+4=Athena,10A855,03
+5=Kensou,10A855,04
+6=Chin,10A855,05
+7=Kyo,10A855,06
+8=Benimaru,10A855,07
+9=Daimon,10A855,08
+10=Iori,10A855,09
+11=Eiji,10A855,0A
+12=Billy,10A855,0B
+13=Kim,10A855,0C
+14=Chang,10A855,0D
+15=Choi,10A855,0E
+16=Terry,10A855,0F
+17=Andy,10A855,10
+18=Joe,10A855,11
+19=Ryo,10A855,12
+20=Robert,10A855,13
+21=Takuma,10A855,14
+22=Yuri,10A855,15
+23=Mai,10A855,16
+24=King,10A855,17
+25=Saisyu Kusanagi,10A855,18
+26=Omega Rugal,10A855,19
+Default=0
+
+[18]
+Name=Select 3rd Character PL2
+0=Disabled
+1=Heidern,10A854,00
+2=Ralf,10A854,01
+3=Clark,10A854,02
+4=Athena,10A854,03
+5=Kensou,10A854,04
+6=Chin,10A854,05
+7=Kyo,10A854,06
+8=Benimaru,10A854,07
+9=Daimon,10A854,08
+10=Iori,10A854,09
+11=Eiji,10A854,0A
+12=Billy,10A854,0B
+13=Kim,10A854,0C
+14=Chang,10A854,0D
+15=Choi,10A854,0E
+16=Terry,10A854,0F
+17=Andy,10A854,10
+18=Joe,10A854,11
+19=Ryo,10A854,12
+20=Robert,10A854,13
+21=Takuma,10A854,14
+22=Yuri,10A854,15
+23=Mai,10A854,16
+24=King,10A854,17
+25=Saisyu Kusanagi,10A854,18
+26=Omega Rugal,10A854,19
+Default=0
+
+[19]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

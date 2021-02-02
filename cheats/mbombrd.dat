@@ -1,0 +1,60 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FFA00D,09,FFA00C,05,FFA00F,0A
+Default=0
+
+[1]
+Name=Finish this Match Now!
+0=Disabled
+1=Enabled,FFA00D,00,FFA00C,00,FFA00F,00
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF907A,FF
+Default=0
+
+[3]
+Name=Drain ALL Energy Now! PL1
+0=Disabled
+1=Enabled,FF907A,00
+Default=0
+
+[4]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF927A,FF
+Default=0
+
+[5]
+Name=Drain ALL Energy Now! PL2
+0=Disabled
+1=Enabled,FF927A,00
+Default=0
+
+[6]
+Name=Infinite Energy PL3
+0=Disabled
+1=Enabled,FF947A,FF
+Default=0
+
+[7]
+Name=Drain ALL Energy Now! PL3
+0=Disabled
+1=Enabled,FF947A,00
+Default=0
+
+[8]
+Name=Infinite Energy PL4
+0=Disabled
+1=Enabled,FF967A,FF
+Default=0
+
+[9]
+Name=Drain ALL Energy Now! PL4
+0=Disabled
+1=Enabled,FF967A,00
+Default=0
+

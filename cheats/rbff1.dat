@@ -1,0 +1,145 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,106AA9,9A
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,106AA9,00
+Default=0
+
+[2]
+Name=Select Starting Fight
+0=Disabled
+1=Fight 1,106A36,01
+2=Fight 2,106A36,02
+3=Fight 3,106A36,03
+4=Fight 4,106A36,04
+5=Fight 5,106A36,05
+6=Fight 6,106A36,06
+7=Fight 7,106A36,07
+8=Fight 8,106A36,08
+9=Fight 9,106A36,09
+10=Fight 10,106A36,0A
+11=Fight 11,106A36,0B
+12=Fight 12,106A36,0C
+13=Boss (Last Fight),106A36,0D
+Default=0
+
+[3]
+Name=Left Wall always Solid
+0=Disabled
+1=Enabled,10969E,0A
+Default=0
+
+[4]
+Name=Right Wall always Solid
+0=Disabled
+1=Enabled,1096A0,0A
+Default=0
+
+[5]
+Name=Left Wall will collapse with 1 hit Now!
+0=Disabled
+1=Enabled,10969E,00
+Default=0
+
+[6]
+Name=Right Wall will collapse with 1 hit Now!
+0=Disabled
+1=Enabled,1096A0,00
+Default=0
+
+[7]
+Name=Always have Easy Supers
+0=Disabled
+1=Enabled,10E000,01
+Default=0
+
+[8]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,100488,C0
+Default=0
+
+[9]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,100488,00
+Default=0
+
+[10]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,1004BB,3C
+Default=0
+
+[11]
+Name=Select Character PL1
+0=Disabled
+1=Terry Bogard,106A24,01
+2=Andy Bogard,106A24,02
+3=Joe Higashi,106A24,03
+4=Mai Shiranui,106A24,04
+5=Geese Howard,106A24,05
+6=Sokaku Mochizuki,106A24,06
+7=Bob Wilson,106A24,07
+8=Hon-Fu,106A24,08
+9=Blue Mary,106A24,09
+10=Franco Bash,106A24,0A
+11=Ryuji Yamazaki,106A24,0B
+12=Jin Chonshu,106A24,0C
+13=Jin Chonrei,106A24,0D
+14=Duck King,106A24,0E
+15=Kim Kaphwan,106A24,0F
+16=Billy Kane,106A24,10
+Default=0
+
+[12]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,100588,C0
+Default=0
+
+[13]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,100588,00
+Default=0
+
+[14]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,1005BB,3C
+Default=0
+
+[15]
+Name=Select Character PL2
+0=Disabled
+1=Terry Bogard,106A26,01
+2=Andy Bogard,106A26,02
+3=Joe Higashi,106A26,03
+4=Mai Shiranui,106A26,04
+5=Geese Howard,106A26,05
+6=Sokaku Mochizuki,106A26,06
+7=Bob Wilson,106A26,07
+8=Hon-Fu,106A26,08
+9=Blue Mary,106A26,09
+10=Franco Bash,106A26,0A
+11=Ryuji Yamazaki,106A26,0B
+12=Jin Chonshu,106A26,0C
+13=Jin Chonrei,106A26,0D
+14=Duck King,106A26,0E
+15=Kim Kaphwan,106A26,0F
+16=Billy Kane,106A26,10
+Default=0
+
+[16]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,135 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF4D14,09
+Default=0
+
+[1]
+Name=Select the Starting Level
+0=Disabled
+1=1,FF4DD5,00
+2=2,FF4DD5,01
+3=3,FF4DD5,02
+4=4,FF4DD5,03
+5=5,FF4DD5,04
+6=6,FF4DD5,05
+7=7,FF4DD5,06
+Default=0
+
+[2]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,FF82ED,06
+Default=0
+
+[3]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,FF8304,06
+Default=0
+
+[4]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,FF8245,02,FF82F3,FF
+Default=0
+
+[5]
+Name=Select Weapon PL1
+0=Disabled
+1=Normal,FF82F0,00
+2=Flames,FF82F0,04
+3=3-way,FF82F0,08
+4=Shell,FF82F0,0C
+Default=0
+
+[6]
+Name=Always have Max Bomb Power PL1
+0=Disabled
+1=Enabled,FF830E,02
+Default=0
+
+[7]
+Name=Always have Maximum Bonus PL1
+0=Disabled
+1=Enabled,FF8329,1D
+Default=0
+
+[8]
+Name=Always have Power up PL1
+0=Disabled
+1=Enabled,FF8336,FF
+Default=0
+
+[9]
+Name=Select Plane PL1
+0=Disabled
+1=Lightning,FF8246,00
+2=Sinden,FF8246,01
+3=Mosquito,FF8246,02
+Default=0
+
+[10]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,FF83ED,06
+Default=0
+
+[11]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,FF8404,06
+Default=0
+
+[12]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,FF8345,02,FF83F3,FF
+Default=0
+
+[13]
+Name=Select Weapon PL2
+0=Disabled
+1=Normal,FF83F0,00
+2=Flames,FF83F0,04
+3=3-way,FF83F0,08
+4=Shell,FF83F0,0C
+Default=0
+
+[14]
+Name=Always have Max Bomb Power PL2
+0=Disabled
+1=Enabled,FF840E,02
+Default=0
+
+[15]
+Name=Always have Maximum Bonus PL2
+0=Disabled
+1=Enabled,FF8429,1D
+Default=0
+
+[16]
+Name=Always have Power up PL2
+0=Disabled
+1=Enabled,FF8436,FF
+Default=0
+
+[17]
+Name=Select Plane PL2
+0=Disabled
+1=Lightning,FF8346,00
+2=Sinden,FF8346,01
+3=Mosquito,FF8346,02
+Default=0
+
+[18]
+Name=Select Region
+0=Disabled
+1=Japan,FF4D6F,00
+2=USA,FF4D6F,01
+3=Asia,FF4D6F,02
+4=Hispanic,FF4D6F,03
+5=Euro,FF4D6F,04
+6=Brazil,FF4D6F,05
+Default=0
+

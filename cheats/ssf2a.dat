@@ -1,0 +1,640 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8CCF,99
+Default=0
+
+[1]
+Name=Always in Turbo Mode
+0=Disabled
+1=Enabled,FF82EC,01
+Default=0
+
+[2]
+Name=Go to Final Stage Next!
+0=Disabled
+1=Enabled,FF8BD0,0B
+Default=0
+
+[3]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF83F8,90
+Default=0
+
+[4]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,FF83F8,00
+Default=0
+
+[5]
+Name=Finish round to win match PL1
+0=Disabled
+1=Enabled,FF875F,02
+Default=0
+
+[6]
+Name=Rounds won always set = 0 PL1
+0=Disabled
+1=Enabled,FF875F,00
+Default=0
+
+[7]
+Name=Rounds won set = 0 Now! PL1
+0=Disabled
+1=Enabled,FF875F,00
+Default=0
+
+[8]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,FF858C,01
+Default=0
+
+[9]
+Name=Command during jump ON PL1
+0=Disabled
+1=Enabled,FF854E,00
+Default=0
+
+[10]
+Name=Hadouken motion Cancel PL1
+0=Disabled
+1=Enabled,FF83ED,01
+Default=0
+
+[11]
+Name=No limit next shot PL1
+0=Disabled
+1=Enabled,FF85A3,00,FF85A2,00
+Default=0
+
+[12]
+Name=Easy Tatsumaki (Ryu / Ken) PL1
+0=Disabled
+1=Enabled,FF845F,04
+Default=0
+
+[13]
+Name=Easy Hadouken (Ryu / Ken) PL1
+0=Disabled
+1=Enabled,FF8463,04
+Default=0
+
+[14]
+Name=Easy Syouryuuken (Ryu / Ken) PL1
+0=Disabled
+1=Enabled,FF8467,04
+Default=0
+
+[15]
+Name=Easy Fire hadouken (Ryu) PL1
+0=Disabled
+1=Enabled,FF84AF,08
+Default=0
+
+[16]
+Name=Easy Super zutsuki (E.Honda) PL1
+0=Disabled
+1=Enabled,FF844F,06
+Default=0
+
+[17]
+Name=Easy Hyakkan otoshi (E.Honda) PL1
+0=Disabled
+1=Enabled,FF8479,06
+Default=0
+
+[18]
+Name=Easy Rolling Attack (Blanka) PL1
+0=Disabled
+1=Enabled,FF844F,06
+Default=0
+
+[19]
+Name=Easy Vertical rolling (Blanka) PL1
+0=Disabled
+1=Enabled,FF847F,06
+Default=0
+
+[20]
+Name=Easy Backstep rolling (Blanka) PL1
+0=Disabled
+1=Enabled,FF8486,06
+Default=0
+
+[21]
+Name=Easy Sonic boom (Guile) PL1
+0=Disabled
+1=Enabled,FF844F,06
+Default=0
+
+[22]
+Name=Easy Somersault kick (Guile) PL1
+0=Disabled
+1=Enabled,FF8455,06
+Default=0
+
+[23]
+Name=Easy Spinning bird kick (ChunLi) PL1
+0=Disabled
+1=Enabled,FF844F,06
+Default=0
+
+[24]
+Name=Easy Kikouken (ChunLi) PL1
+0=Disabled
+1=Enabled,FF847F,06
+Default=0
+
+[25]
+Name=Easy Screw pile driver (Zangief) PL1
+0=Disabled
+1=Enabled,FF844F,06,FF844E,02
+Default=0
+
+[26]
+Name=Easy atomic Suplex (Zangief) PL1
+0=Disabled
+1=Enabled,FF8468,06,FF846B,02
+Default=0
+
+[27]
+Name=Easy Yoga fire (Dhalsim) PL1
+0=Disabled
+1=Enabled,FF844F,04
+Default=0
+
+[28]
+Name=Easy Yoga flame (Dhalsim) PL1
+0=Disabled
+1=Enabled,FF8453,08
+Default=0
+
+[29]
+Name=Easy Yoga teleport left (Dhalsim) PL1
+0=Disabled
+1=Enabled,FF8457,04,FF845A,05
+Default=0
+
+[30]
+Name=Easy Yoga teleport right (Dhalsim) PL1
+0=Disabled
+1=Enabled,FF8457,04,FF845A,06
+Default=0
+
+[31]
+Name=Easy Dash straight (M.Bison) PL1
+0=Disabled
+1=Enabled,FF844F,06
+Default=0
+
+[32]
+Name=Easy Dash upper (M.Bison) PL1
+0=Disabled
+1=Enabled,FF8457,06
+Default=0
+
+[33]
+Name=Easy Buffalo headbutt (M.Bison) PL1
+0=Disabled
+1=Enabled,FF848F,06
+Default=0
+
+[34]
+Name=Easy Tiger uppercut (Sagat) PL1
+0=Disabled
+1=Enabled,FF844F,04
+Default=0
+
+[35]
+Name=Easy Tiger knee crush (Sagat) PL1
+0=Disabled
+1=Enabled,FF8453,04
+Default=0
+
+[36]
+Name=Easy Tiger shot (Sagat) PL1
+0=Disabled
+1=Enabled,FF8457,04
+Default=0
+
+[37]
+Name=Easy Ground tiger shot (Sagat) PL1
+0=Disabled
+1=Enabled,FF845B,04
+Default=0
+
+[38]
+Name=Easy Rolling crystal flash (Balrog) PL1
+0=Disabled
+1=Enabled,FF8457,06
+Default=0
+
+[39]
+Name=Easy Flying barcelona attack (Balrog) PL1
+0=Disabled
+1=Enabled,FF845B,06
+Default=0
+
+[40]
+Name=Easy Sky high claw (Balrog) PL1
+0=Disabled
+1=Enabled,FF845F,06
+Default=0
+
+[41]
+Name=Easy Double knee press (Vega) PL1
+0=Disabled
+1=Enabled,FF8457,06
+Default=0
+
+[42]
+Name=Easy Head press (Vega) PL1
+0=Disabled
+1=Enabled,FF845E,06
+Default=0
+
+[43]
+Name=Easy Devil reverse (Vega) PL1
+0=Disabled
+1=Enabled,FF847B,06
+Default=0
+
+[44]
+Name=Easy Canon spike (Cammy) PL1
+0=Disabled
+1=Enabled,FF8461,04
+Default=0
+
+[45]
+Name=Easy Spiral arrow (Cammy) PL1
+0=Disabled
+1=Enabled,FF8465,04
+Default=0
+
+[46]
+Name=Easy Axel spin knackle (Cammy) PL1
+0=Disabled
+1=Enabled,FF8471,04
+Default=0
+
+[47]
+Name=Easy Tomahawk buster (T.Hawk) PL1
+0=Disabled
+1=Enabled,FF8461,04
+Default=0
+
+[48]
+Name=Easy Mexican typhoon (T.Hawk) PL1
+0=Disabled
+1=Enabled,FF8469,06,FF8468,02
+Default=0
+
+[49]
+Name=Easy sien kyaku (FeiLong) PL1
+0=Disabled
+1=Enabled,FF8463,04
+Default=0
+
+[50]
+Name=Easy Rekkaken (FeiLong) PL1
+0=Disabled
+1=Enabled,FF845F,04,FF846F,04
+Default=0
+
+[51]
+Name=Easy Double rolling (DeeJay) PL1
+0=Disabled
+1=Enabled,FF8461,06
+Default=0
+
+[52]
+Name=Easy Machinegun upper (DeeJay) PL1
+0=Disabled
+1=Enabled,FF8465,06
+Default=0
+
+[53]
+Name=Easy Air slasher (DeeJay) PL1
+0=Disabled
+1=Enabled,FF8475,06
+Default=0
+
+[54]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF87F8,90
+Default=0
+
+[55]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,FF87F8,00
+Default=0
+
+[56]
+Name=Finish round to win match PL2
+0=Disabled
+1=Enabled,FF8B5F,02
+Default=0
+
+[57]
+Name=Rounds won always set = 0 PL2
+0=Disabled
+1=Enabled,FF8B5F,00
+Default=0
+
+[58]
+Name=Rounds won set = 0 Now! PL2
+0=Disabled
+1=Enabled,FF8B5F,00
+Default=0
+
+[59]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,FF898C,01
+Default=0
+
+[60]
+Name=Command during jump ON PL2
+0=Disabled
+1=Enabled,FF894E,00
+Default=0
+
+[61]
+Name=Hadouken motion Cancel PL2
+0=Disabled
+1=Enabled,FF87ED,01
+Default=0
+
+[62]
+Name=No limit next shot PL2
+0=Disabled
+1=Enabled,FF89A3,00,FF89A2,00
+Default=0
+
+[63]
+Name=Easy Tatsumaki (Ryu / Ken) PL2
+0=Disabled
+1=Enabled,FF885F,04
+Default=0
+
+[64]
+Name=Easy Hadouken (Ryu / Ken) PL2
+0=Disabled
+1=Enabled,FF8863,04
+Default=0
+
+[65]
+Name=Easy Syouryuuken (Ryu / Ken) PL2
+0=Disabled
+1=Enabled,FF8867,04
+Default=0
+
+[66]
+Name=Easy Fire hadouken (Ryu) PL2
+0=Disabled
+1=Enabled,FF88AF,08
+Default=0
+
+[67]
+Name=Easy Super zutsuki (E.Honda) PL2
+0=Disabled
+1=Enabled,FF884F,06
+Default=0
+
+[68]
+Name=Easy Hyakkan otoshi (E.Honda) PL2
+0=Disabled
+1=Enabled,FF8879,06
+Default=0
+
+[69]
+Name=Easy Rolling Attack (Blanka) PL2
+0=Disabled
+1=Enabled,FF884F,06
+Default=0
+
+[70]
+Name=Easy Vertical rolling (Blanka) PL2
+0=Disabled
+1=Enabled,FF887F,06
+Default=0
+
+[71]
+Name=Easy Backstep rolling (Blanka) PL2
+0=Disabled
+1=Enabled,FF8886,06
+Default=0
+
+[72]
+Name=Easy Sonic boom (Guile) PL2
+0=Disabled
+1=Enabled,FF884F,06
+Default=0
+
+[73]
+Name=Easy Somersault kick (Guile) PL2
+0=Disabled
+1=Enabled,FF8855,06
+Default=0
+
+[74]
+Name=Easy Spinning bird kick (ChunLi) PL2
+0=Disabled
+1=Enabled,FF884F,06
+Default=0
+
+[75]
+Name=Easy Kikouken (ChunLi) PL2
+0=Disabled
+1=Enabled,FF887F,06
+Default=0
+
+[76]
+Name=Easy Screw pile driver (Zangief) PL2
+0=Disabled
+1=Enabled,FF884F,06,FF884E,02
+Default=0
+
+[77]
+Name=Easy atomic Suplex (Zangief) PL2
+0=Disabled
+1=Enabled,FF8868,06,FF886B,02
+Default=0
+
+[78]
+Name=Easy Yoga fire (Dhalsim) PL2
+0=Disabled
+1=Enabled,FF884F,04
+Default=0
+
+[79]
+Name=Easy Yoga flame (Dhalsim) PL2
+0=Disabled
+1=Enabled,FF8853,08
+Default=0
+
+[80]
+Name=Easy Yoga teleport left (Dhalsim) PL2
+0=Disabled
+1=Enabled,FF8857,04,FF885A,05
+Default=0
+
+[81]
+Name=Easy Yoga teleport right (Dhalsim) PL2
+0=Disabled
+1=Enabled,FF8857,04,FF885A,06
+Default=0
+
+[82]
+Name=Easy Dash straight (M.Bison) PL2
+0=Disabled
+1=Enabled,FF884F,06
+Default=0
+
+[83]
+Name=Easy Dash upper (M.Bison) PL2
+0=Disabled
+1=Enabled,FF8857,06
+Default=0
+
+[84]
+Name=Easy Buffalo headbutt (M.Bison) PL2
+0=Disabled
+1=Enabled,FF888F,06
+Default=0
+
+[85]
+Name=Easy Tiger uppercut (Sagat) PL2
+0=Disabled
+1=Enabled,FF884F,04
+Default=0
+
+[86]
+Name=Easy Tiger knee crush (Sagat) PL2
+0=Disabled
+1=Enabled,FF8853,04
+Default=0
+
+[87]
+Name=Easy Tiger shot (Sagat) PL2
+0=Disabled
+1=Enabled,FF8857,04
+Default=0
+
+[88]
+Name=Easy Ground tiger shot (Sagat) PL2
+0=Disabled
+1=Enabled,FF885B,04
+Default=0
+
+[89]
+Name=Easy Rolling crystal flash (Balrog) PL2
+0=Disabled
+1=Enabled,FF8857,06
+Default=0
+
+[90]
+Name=Easy Flying barcelona attack (Balrog) PL2
+0=Disabled
+1=Enabled,FF885B,06
+Default=0
+
+[91]
+Name=Easy Sky high claw (Balrog) PL2
+0=Disabled
+1=Enabled,FF885F,06
+Default=0
+
+[92]
+Name=Easy Double knee press (Vega) PL2
+0=Disabled
+1=Enabled,FF8857,06
+Default=0
+
+[93]
+Name=Easy Head press (Vega) PL2
+0=Disabled
+1=Enabled,FF885E,06
+Default=0
+
+[94]
+Name=Easy Devil reverse (Vega) PL2
+0=Disabled
+1=Enabled,FF887B,06
+Default=0
+
+[95]
+Name=Easy Canon spike (Cammy) PL2
+0=Disabled
+1=Enabled,FF8861,04
+Default=0
+
+[96]
+Name=Easy Spiral arrow (Cammy) PL2
+0=Disabled
+1=Enabled,FF8865,04
+Default=0
+
+[97]
+Name=Easy Axel spin knackle (Cammy) PL2
+0=Disabled
+1=Enabled,FF8871,04
+Default=0
+
+[98]
+Name=Easy Tomahawk buster (T.Hawk) PL2
+0=Disabled
+1=Enabled,FF8861,04
+Default=0
+
+[99]
+Name=Easy Mexican typhoon (T.Hawk) PL2
+0=Disabled
+1=Enabled,FF8869,06,FF8868,02
+Default=0
+
+[100]
+Name=Easy sien kyaku (FeiLong) PL2
+0=Disabled
+1=Enabled,FF8863,04
+Default=0
+
+[101]
+Name=Easy Rekkaken (FeiLong) PL2
+0=Disabled
+1=Enabled,FF885F,04,FF886F,04
+Default=0
+
+[102]
+Name=Easy Double rolling (DeeJay) PL2
+0=Disabled
+1=Enabled,FF8861,06
+Default=0
+
+[103]
+Name=Easy Machinegun upper (DeeJay) PL2
+0=Disabled
+1=Enabled,FF8865,06
+Default=0
+
+[104]
+Name=Easy Air slasher (DeeJay) PL2
+0=Disabled
+1=Enabled,FF8875,06
+Default=0
+
+[105]
+Name=Select Region
+0=Disabled
+1=Japan,FF82CE,00
+2=USA,FF82CE,02
+3=ETC,FF82CE,04
+4=Asia,FF82CE,08
+5=Asia TW,FF82CE,0A
+Default=0
+

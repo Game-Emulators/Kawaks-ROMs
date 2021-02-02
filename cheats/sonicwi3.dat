@@ -1,0 +1,78 @@
+[0]
+Name=Select Character
+0=Disabled
+1=Keaton [F4U Corsair] PL1 \ Blazers [P61 Black Widow] PL2,1003AA,00
+2=Blazers [P61 Black Widow] PL1 \ Keaton [F4U Corsair] PL2,1003AA,01
+3=Hien [Zero Fighter] PL1 \ Mao Mao [Seiran(M6A1)] PL2,1003AA,02
+4=Mao Mao [Seiran(M6A1)] PL1 \ Hien [Zero Fighter] PL2,1003AA,03
+5=Chaika + Pooshka [IL2 Stormovik] PL1 \ Spanky [Polikarpov I-16] PL2,1003AA,04
+6=Spanky [Polikarpov I-16] PL1 \ Chaika + Pooshka [IL2 Stormovik]  PL2,1003AA,05
+7=Malcolm [DO335 Pfeil] PL1 \ Kowful + River [JU-87 Stuka] PL2,1003AA,06
+8=Kowful + River [JU-87 Stuka] PL1 \ Malcolm [DO335 Pfeil] PL2,1003AA,07
+9=Alex + Pictus [Whirlwind] PL1 \ Ellen + Cindy [Swordfish] PL2,1003AA,08
+10=Ellen + Cindy [Swordfish] PL1 \ Alex + Pictus [Whirlwind] PL2,1003AA,09
+11=Kotomi [Red Rabbit] PL1 / The Man [Diabloon] PL2,1003AA,0A
+12=The Man [Diabloon] PL1 / Kotomi [Red Rabbit] PL2,1003AA,0B
+Default=0
+
+[1]
+Name=Enemies Can't Fire
+0=Disabled
+1=Enabled,10EA56,01
+Default=0
+
+[2]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,10E89A,05
+Default=0
+
+[3]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,10E8BB,03
+Default=0
+
+[4]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,10E8BE,01
+Default=0
+
+[5]
+Name=Maximum Power PL1
+0=Disabled
+1=Enabled,10E8B1,03
+Default=0
+
+[6]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,10E8F0,05
+Default=0
+
+[7]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,10E911,03
+Default=0
+
+[8]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,10E914,01
+Default=0
+
+[9]
+Name=Maximum Power PL2
+0=Disabled
+1=Enabled,10E907,03
+Default=0
+
+[10]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

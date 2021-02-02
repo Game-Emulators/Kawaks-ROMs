@@ -1,0 +1,168 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF81B3,3B
+Default=0
+
+[1]
+Name=Infinite Boss Time
+0=Disabled
+1=Enabled,FF81DF,63
+Default=0
+
+[2]
+Name=Kill all Enemies on this Level Now!
+0=Disabled
+1=Enabled,FF8198,FF
+Default=0
+
+[3]
+Name=Kill all On-Screen Enemies Now!
+0=Disabled
+1=Enabled,FFD1DF,FF,FFD0FF,FF,FFD01F,FF,FFCF3F,FF,FFCE5F,FF,FFCD7F,FF,FFCC9F,FF,FFCBBF,FF,FFCADF,FF
+Default=0
+
+[4]
+Name=Infinite Enemy Count
+0=Disabled
+1=Enabled,FF81AC,00
+Default=0
+
+[5]
+Name=Infinite Credits PL1
+0=Disabled
+1=Enabled,FF62F6,09
+Default=0
+
+[6]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,FF7F9A,03
+Default=0
+
+[7]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FFBE9E,68
+Default=0
+
+[8]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,FFBED4,02
+Default=0
+
+[9]
+Name=Always have Horse PL1
+0=Disabled
+1=Enabled,FFBE7E,01
+Default=0
+
+[10]
+Name=Always have Horse with Invincibility PL1
+0=Disabled
+1=Enabled,FFBE44,00,FFBE7F,00,FFBE7E,01
+Default=0
+
+[11]
+Name=Always Have Kusanagi Sword PL1
+0=Disabled
+1=Enabled,FFAF1D,81,FFAF1C,01,FFAF21,14,FFAF3C,00,FFAF3E,04,FFAF65,00,FFAF64,00,FFAF67,00,FFAF66,00,FFAF69,00,FFAFA9,BE,FFAFA8,1C,FFBEA9,AF,FFBEA8,1C
+Default=0
+
+[12]
+Name=Punch Only Combo PL1
+0=Disabled
+1=Enabled,FFBECB,02
+Default=0
+
+[13]
+Name=Finish Only PL1
+0=Disabled
+1=Enabled,FFBECB,01,FFBEC8,FF
+Default=0
+
+[14]
+Name=Always Command ON PL1
+0=Disabled
+1=Enabled,FFBEDC,FF
+Default=0
+
+[15]
+Name=Quick Bow Motion PL1
+0=Disabled
+1=Enabled,FFBECE,00
+Default=0
+
+[16]
+Name=Infinite Credits PL2
+0=Disabled
+1=Enabled,FF6306,09
+Default=0
+
+[17]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,FF7F9D,03
+Default=0
+
+[18]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FFBF7E,68
+Default=0
+
+[19]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,FFBFB4,02
+Default=0
+
+[20]
+Name=Always have Horse PL2
+0=Disabled
+1=Enabled,FFBF5E,01
+Default=0
+
+[21]
+Name=Always have Horse with Invincibility PL2
+0=Disabled
+1=Enabled,FFBF24,00,FFBF5F,00,FFBF5E,01
+Default=0
+
+[22]
+Name=Infinite Credits PL3
+0=Disabled
+1=Enabled,FF6316,09
+Default=0
+
+[23]
+Name=Infinite Lives PL3
+0=Disabled
+1=Enabled,FF7F9C,03
+Default=0
+
+[24]
+Name=Infinite Energy PL3
+0=Disabled
+1=Enabled,FFC05E,68
+Default=0
+
+[25]
+Name=Invincibility PL3
+0=Disabled
+1=Enabled,FFC094,02
+Default=0
+
+[26]
+Name=Always have Horse PL3
+0=Disabled
+1=Enabled,FFC03E,01
+Default=0
+
+[27]
+Name=Always have Horse with Invincibility PL3
+0=Disabled
+1=Enabled,FFC004,00,FFC03F,00,FFC03E,01
+Default=0
+

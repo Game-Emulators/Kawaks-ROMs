@@ -1,0 +1,463 @@
+[0]
+Name=Enable hidden characters (except Orochi)
+0=Disabled
+1=Enabled,10EC35,1F
+Default=0
+
+[1]
+Name=Select Current Round
+0=Disabled
+1=1,10A7F0,00
+2=2,10A7F0,01
+3=3,10A7F0,02
+4=4,10A7F0,03
+5=5,10A7F0,04
+6=6,10A7F0,05
+Default=0
+
+[2]
+Name=Select Backdrop
+0=Disabled
+1=Koshien Stadium  Japan,10A7EB,00
+2=Adventureland  USA,10A7EB,01
+3=Tuban  Bali,10A7EB,02
+4=Kowloon  China,10A7EB,03
+5=Kyong Bock Kung  Korea,10A7EB,04
+6=Ruccass Corner  Monaco,10A7EB,05
+7=Orochi Team,10A7EB,06
+8=Orochi,10A7EB,07
+Default=0
+
+[3]
+Name=Backdrop Always Red
+0=Disabled
+1=Enabled,10EC34,01
+Default=0
+
+[4]
+Name=Backdrop Turns Red Now!
+0=Disabled
+1=Enabled,10EC34,01
+Default=0
+
+[5]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,108238,67
+Default=0
+
+[6]
+Name=Never Get Dizzied PL1
+0=Disabled
+1=Enabled,10823E,67
+Default=0
+
+[7]
+Name=Every Hit Will Dizzy PL1
+0=Disabled
+1=Enabled,10823E,00
+Default=0
+
+[8]
+Name=Never Get Guard Crushed PL1
+0=Disabled
+1=Enabled,108246,67
+Default=0
+
+[9]
+Name=Every Block Will Guard Crush PL1
+0=Disabled
+1=Enabled,108246,00
+Default=0
+
+[10]
+Name=Select Mode PL1
+0=Disabled
+1=Advanced Mode,10A848,00
+2=Extra Mode,10A848,01
+Default=0
+
+[11]
+Name=Select Rounds Lost PL1
+0=Disabled
+1=0,10A84B,00
+2=1,10A84B,01
+3=2,10A84B,02
+Default=0
+
+[12]
+Name=Select Character (A) PL1
+0=Disabled
+1=Kyo Kusanagi,10A84A,00
+2=Benimaru Nikaido,10A84A,01
+3=Goro Daimon,10A84A,02
+4=Terry Bogard,10A84A,03
+5=Andy Bogard,10A84A,04
+6=Joe Higashi,10A84A,05
+7=Ryo Sakazaki,10A84A,06
+8=Robert Garcia,10A84A,07
+9=Yuri Sakazaki,10A84A,08
+10=Leona,10A84A,09
+11=Ralf Jones,10A84A,0A
+12=Clark Steel,10A84A,0B
+13=Athena Asamiya,10A84A,0C
+14=Sie Kensou,10A84A,0D
+15=Chin Gentsai,10A84A,0E
+16=Chizuru Kagura,10A84A,0F
+17=Mai Shiranui,10A84A,10
+18=King,10A84A,11
+19=Kim Kaphwan,10A84A,12
+20=Chang Koehan,10A84A,13
+21=Choi Bounge,10A84A,14
+22=Yashiro Nanakase,10A84A,15
+23=Shermie,10A84A,16
+24=Chris,10A84A,17
+25=Ryuji Yamazaki,10A84A,18
+26=Blue Mary,10A84A,19
+27=Billy Kane,10A84A,1A
+28=Iori Yagami,10A84A,1B
+29=#Orochi Iori,10A84A,1C
+30=#Orochi Leona,10A84A,1D
+31=#Orochi,10A84A,1E
+32=Shingo Yabuki,10A84A,1F
+Default=0
+
+[13]
+Name=Select Character (B) PL1
+0=Disabled
+1=Kyo Kusanagi,10A84D,00
+2=Benimaru Nikaido,10A84D,01
+3=Goro Daimon,10A84D,02
+4=Terry Bogard,10A84D,03
+5=Andy Bogard,10A84D,04
+6=Joe Higashi,10A84D,05
+7=Ryo Sakazaki,10A84D,06
+8=Robert Garcia,10A84D,07
+9=Yuri Sakazaki,10A84D,08
+10=Leona,10A84D,09
+11=Ralf Jones,10A84D,0A
+12=Clark Steel,10A84D,0B
+13=Athena Asamiya,10A84D,0C
+14=Sie Kensou,10A84D,0D
+15=Chin Gentsai,10A84D,0E
+16=Chizuru Kagura,10A84D,0F
+17=Mai Shiranui,10A84D,10
+18=King,10A84D,11
+19=Kim Kaphwan,10A84D,12
+20=Chang Koehan,10A84D,13
+21=Choi Bounge,10A84D,14
+22=Yashiro Nanakase,10A84D,15
+23=Shermie,10A84D,16
+24=Chris,10A84D,17
+25=Ryuji Yamazaki,10A84D,18
+26=Blue Mary,10A84D,19
+27=Billy Kane,10A84D,1A
+28=Iori Yagami,10A84D,1B
+29=#Orochi Iori,10A84D,1C
+30=#Orochi Leona,10A84D,1D
+31=#Orochi,10A84D,1E
+32=Shingo Yabuki,10A84D,1F
+Default=0
+
+[14]
+Name=Select Character (C) PL1
+0=Disabled
+1=Kyo Kusanagi,10A84C,00
+2=Benimaru Nikaido,10A84C,01
+3=Goro Daimon,10A84C,02
+4=Terry Bogard,10A84C,03
+5=Andy Bogard,10A84C,04
+6=Joe Higashi,10A84C,05
+7=Ryo Sakazaki,10A84C,06
+8=Robert Garcia,10A84C,07
+9=Yuri Sakazaki,10A84C,08
+10=Leona,10A84C,09
+11=Ralf Jones,10A84C,0A
+12=Clark Steel,10A84C,0B
+13=Athena Asamiya,10A84C,0C
+14=Sie Kensou,10A84C,0D
+15=Chin Gentsai,10A84C,0E
+16=Chizuru Kagura,10A84C,0F
+17=Mai Shiranui,10A84C,10
+18=King,10A84C,11
+19=Kim Kaphwan,10A84C,12
+20=Chang Koehan,10A84C,13
+21=Choi Bounge,10A84C,14
+22=Yashiro Nanakase,10A84C,15
+23=Shermie,10A84C,16
+24=Chris,10A84C,17
+25=Ryuji Yamazaki,10A84C,18
+26=Blue Mary,10A84C,19
+27=Billy Kane,10A84C,1A
+28=Iori Yagami,10A84C,1B
+29=#Orochi Iori#,10A84C,1C
+30=#Orochi Leona#,10A84C,1D
+31=#Orochi#,10A84C,1E
+32=Shingo Yabuki,10A84C,1F
+Default=0
+
+[15]
+Name=Select Colour PL1 (A)
+0=Disabled
+1=A colour (Advanced Mode),10A84F,00
+2=D colour (Advanced Mode),10A84F,01
+3=A colour (Extra Mode),10A84F,02
+4=D colour (Extra Mode),10A84F,03
+Default=0
+
+[16]
+Name=Select Colour PL1 (B)
+0=Disabled
+1=A colour (Advanced Mode),10A84E,00
+2=D colour (Advanced Mode),10A84E,01
+3=A colour (Extra Mode),10A84E,02
+4=D colour (Extra Mode),10A84E,03
+Default=0
+
+[17]
+Name=Select Colour PL1 (C)
+0=Disabled
+1=A colour (Advanced Mode),10A851,00
+2=D colour (Advanced Mode),10A851,01
+3=A colour (Extra Mode),10A851,02
+4=D colour (Extra Mode),10A851,03
+Default=0
+
+[18]
+Name=Select First Character PL1
+0=Disabled
+1=Character A,10A850,00
+2=Character B,10A850,01
+3=Character C,10A850,02
+Default=0
+
+[19]
+Name=Select Second Character PL1
+0=Disabled
+1=Character A,10A853,00
+2=Character B,10A853,01
+3=Character C,10A853,02
+Default=0
+
+[20]
+Name=Select Third Character PL1
+0=Disabled
+1=Character A,10A852,00
+2=Character B,10A852,01
+3=Character C,10A852,02
+Default=0
+
+[21]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,108438,67
+Default=0
+
+[22]
+Name=Never Get Dizzied PL1
+0=Disabled
+1=Enabled,10843E,67
+Default=0
+
+[23]
+Name=Every Hit Will Dizzy PL1
+0=Disabled
+1=Enabled,10843E,00
+Default=0
+
+[24]
+Name=Never Get Guard Crushed PL1
+0=Disabled
+1=Enabled,108446,67
+Default=0
+
+[25]
+Name=Every Block Will Guard Crush PL1
+0=Disabled
+1=Enabled,108446,00
+Default=0
+
+[26]
+Name=Select Mode PL2
+0=Disabled
+1=Advanced Mode,10A85B,00
+2=Extra Mode,10A85B,01
+Default=0
+
+[27]
+Name=Select Rounds Lost PL2
+0=Disabled
+1=0,10A84B,00
+2=1,10A84B,01
+3=2,10A84B,02
+Default=0
+
+[28]
+Name=Select Character (A) PL2
+0=Disabled
+1=Kyo Kusanagi,10A85D,00
+2=Benimaru Nikaido,10A85D,01
+3=Goro Daimon,10A85D,02
+4=Terry Bogard,10A85D,03
+5=Andy Bogard,10A85D,04
+6=Joe Higashi,10A85D,05
+7=Ryo Sakazaki,10A85D,06
+8=Robert Garcia,10A85D,07
+9=Yuri Sakazaki,10A85D,08
+10=Leona,10A85D,09
+11=Ralf Jones,10A85D,0A
+12=Clark Steel,10A85D,0B
+13=Athena Asamiya,10A85D,0C
+14=Sie Kensou,10A85D,0D
+15=Chin Gentsai,10A85D,0E
+16=Chizuru Kagura,10A85D,0F
+17=Mai Shiranui,10A85D,10
+18=King,10A85D,11
+19=Kim Kaphwan,10A85D,12
+20=Chang Koehan,10A85D,13
+21=Choi Bounge,10A85D,14
+22=Yashiro Nanakase,10A85D,15
+23=Shermie,10A85D,16
+24=Chris,10A85D,17
+25=Ryuji Yamazaki,10A85D,18
+26=Blue Mary,10A85D,19
+27=Billy Kane,10A85D,1A
+28=Iori Yagami,10A85D,1B
+29=#Orochi Iori#,10A85D,1C
+30=#Orochi Leona#,10A85D,1D
+31=#Orochi#,10A85D,1E
+32=Shingo Yabuki,10A85D,1F
+Default=0
+
+[29]
+Name=Select Character (B) PL2
+0=Disabled
+1=Kyo Kusanagi,10A85C,00
+2=Benimaru Nikaido,10A85C,01
+3=Goro Daimon,10A85C,02
+4=Terry Bogard,10A85C,03
+5=Andy Bogard,10A85C,04
+6=Joe Higashi,10A85C,05
+7=Ryo Sakazaki,10A85C,06
+8=Robert Garcia,10A85C,07
+9=Yuri Sakazaki,10A85C,08
+10=Leona,10A85C,09
+11=Ralf Jones,10A85C,0A
+12=Clark Steel,10A85C,0B
+13=Athena Asamiya,10A85C,0C
+14=Sie Kensou,10A85C,0D
+15=Chin Gentsai,10A85C,0E
+16=Chizuru Kagura,10A85C,0F
+17=Mai Shiranui,10A85C,10
+18=King,10A85C,11
+19=Kim Kaphwan,10A85C,12
+20=Chang Koehan,10A85C,13
+21=Choi Bounge,10A85C,14
+22=Yashiro Nanakase,10A85C,15
+23=Shermie,10A85C,16
+24=Chris,10A85C,17
+25=Ryuji Yamazaki,10A85C,18
+26=Blue Mary,10A85C,19
+27=Billy Kane,10A85C,1A
+28=Iori Yagami,10A85C,1B
+29=#Orochi Iori#,10A85C,1C
+30=#Orochi Leona#,10A85C,1D
+31=#Orochi#,10A85C,1E
+32=Shingo Yabuki,10A85C,1F
+Default=0
+
+[30]
+Name=Select Character (C) PL2
+0=Disabled
+1=Kyo Kusanagi,10A85F,00
+2=Benimaru Nikaido,10A85F,01
+3=Goro Daimon,10A85F,02
+4=Terry Bogard,10A85F,03
+5=Andy Bogard,10A85F,04
+6=Joe Higashi,10A85F,05
+7=Ryo Sakazaki,10A85F,06
+8=Robert Garcia,10A85F,07
+9=Yuri Sakazaki,10A85F,08
+10=Leona,10A85F,09
+11=Ralf Jones,10A85F,0A
+12=Clark Steel,10A85F,0B
+13=Athena Asamiya,10A85F,0C
+14=Sie Kensou,10A85F,0D
+15=Chin Gentsai,10A85F,0E
+16=Chizuru Kagura,10A85F,0F
+17=Mai Shiranui,10A85F,10
+18=King,10A85F,11
+19=Kim Kaphwan,10A85F,12
+20=Chang Koehan,10A85F,13
+21=Choi Bounge,10A85F,14
+22=Yashiro Nanakase,10A85F,15
+23=Shermie,10A85F,16
+24=Chris,10A85F,17
+25=Ryuji Yamazaki,10A85F,18
+26=Blue Mary,10A85F,19
+27=Billy Kane,10A85F,1A
+28=Iori Yagami,10A85F,1B
+29=#Orochi Iori#,10A85F,1C
+30=#Orochi Leona#,10A85F,1D
+31=#Orochi#,10A85F,1E
+32=Shingo Yabuki,10A85F,1F
+Default=0
+
+[31]
+Name=Select Colour PL1 (A)
+0=Disabled
+1=A colour (Advanced Mode),10A85E,00
+2=D colour (Advanced Mode),10A85E,01
+3=A colour (Extra Mode),10A85E,02
+4=D colour (Extra Mode),10A85E,03
+Default=0
+
+[32]
+Name=Select Colour PL1 (B)
+0=Disabled
+1=A colour (Advanced Mode),10A861,00
+2=D colour (Advanced Mode),10A861,01
+3=A colour (Extra Mode),10A861,02
+4=D colour (Extra Mode),10A861,03
+Default=0
+
+[33]
+Name=Select Colour PL1 (C)
+0=Disabled
+1=A colour (Advanced Mode),10A860,00
+2=D colour (Advanced Mode),10A860,01
+3=A colour (Extra Mode),10A860,02
+4=D colour (Extra Mode),10A860,03
+Default=0
+
+[34]
+Name=Select First Character PL2
+0=Disabled
+1=Character A,10A863,00
+2=Character B,10A863,01
+3=Character C,10A863,02
+Default=0
+
+[35]
+Name=Select Second Character PL2
+0=Disabled
+1=Character A,10A862,00
+2=Character B,10A862,01
+3=Character C,10A862,02
+Default=0
+
+[36]
+Name=Select Third Character PL2
+0=Disabled
+1=Character A,10A865,00
+2=Character B,10A865,01
+3=Character C,10A865,02
+Default=0
+
+[37]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

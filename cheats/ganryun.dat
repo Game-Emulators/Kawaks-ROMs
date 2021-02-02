@@ -1,0 +1,61 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,100452,63
+Default=0
+
+[1]
+Name=Invincibility
+0=Disabled
+1=Enabled,109D10,01
+Default=0
+
+[2]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,1004A0,07
+Default=0
+
+[3]
+Name=Infinite Weapons PL1
+0=Disabled
+1=Enabled,100496,63
+Default=0
+
+[4]
+Name=Select Weapon PL1
+0=Disabled
+1=Normal,100498,01
+2=Shuriken,100498,02
+3=Dynamite,100498,03
+4=Flying Balls,100498,04
+Default=0
+
+[5]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,1004C0,07
+Default=0
+
+[6]
+Name=Infinite Weapons PL2
+0=Disabled
+1=Enabled,1004B6,63
+Default=0
+
+[7]
+Name=Select Weapon PL2
+0=Disabled
+1=Normal,1004B8,01
+2=Shurikens,1004B8,02
+3=Dynamite,1004B8,03
+4=Flying Balls,1004B8,04
+Default=0
+
+[8]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

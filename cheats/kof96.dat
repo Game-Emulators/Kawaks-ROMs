@@ -1,0 +1,502 @@
+[0]
+Name=Boss code + Timer stop
+0=Disabled
+1=Enabled,100001,04
+Default=0
+
+[1]
+Name=Enable hidden characters
+0=Disabled
+1=Enabled,10E753,01
+Default=0
+
+[2]
+Name=Select Opponent Lineup
+0=Disabled
+1=Normal Teams,10E751,00
+2=Variation 1,10E751,01
+3=Variation 2,10E751,02
+4=Variation 3,10E751,03
+Default=0
+
+[3]
+Name=Select Current Round
+0=Disabled
+1=1,10A7EC,00
+2=2,10A7EC,01
+3=3,10A7EC,02
+4=4,10A7EC,03
+5=5,10A7EC,04
+6=6,10A7EC,05
+Default=0
+
+[4]
+Name=Select Backdrop
+0=Disabled
+1=Japan Team,10A7E9,00
+2=Fatal Fury Team,10A7E9,01
+3=Art of Fighting Team,10A7E9,02
+4=Ikari Team,10A7E9,03
+5=Psycho Soldier Team,10A7E9,04
+6=Gals Fighters Team,10A7E9,05
+7=Korea Team,10A7E9,06
+8=Iori Team,10A7E9,07
+9=Boss Team,10A7E9,08
+10=Chizuru,10A7E9,09
+11=Goenitz,10A7E9,0A
+Default=0
+
+[5]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,108238,67
+Default=0
+
+[6]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,1081E9,80,1081EB,3C,10824C,04
+Default=0
+
+[7]
+Name=Never Get Dizzied PL1
+0=Disabled
+1=Enabled,10823E,67
+Default=0
+
+[8]
+Name=Every Hit Will Dizzy PL1
+0=Disabled
+1=Enabled,10823E,00
+Default=0
+
+[9]
+Name=Stun Gauge Never Recovers Until Dizzied PL1
+0=Disabled
+1=Enabled,108245,10
+Default=0
+
+[10]
+Name=Stun Gauge Instantly Recovers PL1
+0=Disabled
+1=Enabled,108245,00
+Default=0
+
+[11]
+Name=Never Get Guard Crushed PL1
+0=Disabled
+1=Enabled,108246,67
+Default=0
+
+[12]
+Name=Every Block Will Guard Crush PL1
+0=Disabled
+1=Enabled,108246,00
+Default=0
+
+[13]
+Name=Guard Bar Never Recovers Until Guard Crushed PL1
+0=Disabled
+1=Enabled,10824D,10
+Default=0
+
+[14]
+Name=Guard Bar Instantly Recovers PL1
+0=Disabled
+1=Enabled,10824D,00
+Default=0
+
+[15]
+Name=Select Team PL1
+0=Disabled
+1=Japan Team,10A845,00
+2=Fatal Fury Team,10A845,01
+3=Art of Fighting Team,10A845,02
+4=Ikari Team,10A845,03
+5=Psycho Soldier Team,10A845,04
+6=Womens Team,10A845,05
+7=Korea Team,10A845,06
+8=Yagami Team,10A845,07
+9=Boss Team,10A845,08
+10=Chizuru (solo),10A845,09
+11=Goenitz (solo),10A845,0A
+12=Weapons of God Team,10A845,0B
+13=Goenitz Team,10A845,0C
+14=Custom Team,10A845,FF
+Default=0
+
+[16]
+Name=Select Rounds Lost PL1
+0=Disabled
+1=0,10A844,00
+2=1,10A844,01
+3=2,10A844,02
+Default=0
+
+[17]
+Name=Select Character (A) PL1
+0=Disabled
+1=Kyo Kusanagi,10A847,00
+2=Benimaru Nikaido,10A847,01
+3=Goro Daimon,10A847,02
+4=Terry Bogard,10A847,03
+5=Andy Bogard,10A847,04
+6=Joe Higashi,10A847,05
+7=Ryo Sakazaki,10A847,06
+8=Robert Garcia,10A847,07
+9=Yuri Sakazaki,10A847,08
+10=Leona,10A847,09
+11=Ralf Jones,10A847,0A
+12=Clark Steel,10A847,0B
+13=Athena Asamiya,10A847,0C
+14=Sie Kensou,10A847,0D
+15=Chin Gentsai,10A847,0E
+16=Kasumi Todo,10A847,0F
+17=Mai Shiranui,10A847,10
+18=King,10A847,11
+19=Kim Kaphwan,10A847,12
+20=Chang Koehan,10A847,13
+21=Choi Bounge,10A847,14
+22=Iori Yagami,10A847,15
+23=Mature,10A847,16
+24=Vice,10A847,17
+25=Geese Howard,10A847,18
+26=Wolfgang Krauser,10A847,19
+27=Mr. Big,10A847,1A
+28=#Chizuru Kagura,10A847,1B
+29=#Goenitz,10A847,1C
+Default=0
+
+[18]
+Name=Select Character (B) PL1
+0=Disabled
+1=Kyo Kusanagi,10A846,00
+2=Benimaru Nikaido,10A846,01
+3=Goro Daimon,10A846,02
+4=Terry Bogard,10A846,03
+5=Andy Bogard,10A846,04
+6=Joe Higashi,10A846,05
+7=Ryo Sakazaki,10A846,06
+8=Robert Garcia,10A846,07
+9=Yuri Sakazaki,10A846,08
+10=Leona,10A846,09
+11=Ralf Jones,10A846,0A
+12=Clark Steel,10A846,0B
+13=Athena Asamiya,10A846,0C
+14=Sie Kensou,10A846,0D
+15=Chin Gentsai,10A846,0E
+16=Kasumi Todo,10A846,0F
+17=Mai Shiranui,10A846,10
+18=King,10A846,11
+19=Kim Kaphwan,10A846,12
+20=Chang Koehan,10A846,13
+21=Choi Bounge,10A846,14
+22=Iori Yagami,10A846,15
+23=Mature,10A846,16
+24=Vice,10A846,17
+25=Geese Howard,10A846,18
+26=Wolfgang Krauser,10A846,19
+27=Mr. Big,10A846,1A
+28=#Chizuru Kagura,10A846,1B
+29=#Goenitz,10A846,1C
+Default=0
+
+[19]
+Name=Select Character (C) PL1
+0=Disabled
+1=Kyo Kusanagi,10A849,00
+2=Benimaru Nikaido,10A849,01
+3=Goro Daimon,10A849,02
+4=Terry Bogard,10A849,03
+5=Andy Bogard,10A849,04
+6=Joe Higashi,10A849,05
+7=Ryo Sakazaki,10A849,06
+8=Robert Garcia,10A849,07
+9=Yuri Sakazaki,10A849,08
+10=Leona,10A849,09
+11=Ralf Jones,10A849,0A
+12=Clark Steel,10A849,0B
+13=Athena Asamiya,10A849,0C
+14=Sie Kensou,10A849,0D
+15=Chin Gentsai,10A849,0E
+16=Kasumi Todo,10A849,0F
+17=Mai Shiranui,10A849,10
+18=King,10A849,11
+19=Kim Kaphwan,10A849,12
+20=Chang Koehan,10A849,13
+21=Choi Bounge,10A849,14
+22=Iori Yagami,10A849,15
+23=Mature,10A849,16
+24=Vice,10A849,17
+25=Geese Howard,10A849,18
+26=Wolfgang Krauser,10A849,19
+27=Mr. Big,10A849,1A
+28=#Chizuru Kagura,10A849,1B
+29=#Goenitz,10A849,1C
+Default=0
+
+[20]
+Name=Select Colour PL1 (A)
+0=Disabled
+1=A colour,10A848,00
+2=D colour,10A848,01
+Default=0
+
+[21]
+Name=Select Colour PL1 (B)
+0=Disabled
+1=A colour,10A84B,00
+2=D colour,10A84B,01
+Default=0
+
+[22]
+Name=Select Colour PL1 (C)
+0=Disabled
+1=A colour,10A84A,00
+2=D colour,10A84A,01
+Default=0
+
+[23]
+Name=Select First Character PL1
+0=Disabled
+1=Character A,10A84D,00
+2=Character B,10A84D,01
+3=Character C,10A84D,02
+Default=0
+
+[24]
+Name=Select Second Character PL1
+0=Disabled
+1=Character A,10A84C,00
+2=Character B,10A84C,01
+3=Character C,10A84C,02
+Default=0
+
+[25]
+Name=Select Third Character PL1
+0=Disabled
+1=Character A,10A84F,00
+2=Character B,10A84F,01
+3=Character C,10A84F,02
+Default=0
+
+[26]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,108438,67
+Default=0
+
+[27]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,1083E9,80,1083EB,3C,10844C,04
+Default=0
+
+[28]
+Name=Never Get Dizzied PL2
+0=Disabled
+1=Enabled,10843E,67
+Default=0
+
+[29]
+Name=Every Hit Will Dizzy PL2
+0=Disabled
+1=Enabled,10843E,00
+Default=0
+
+[30]
+Name=Stun Gauge Never Recovers Until Dizzied PL2
+0=Disabled
+1=Enabled,108445,10
+Default=0
+
+[31]
+Name=Stun Gauge Instantly Recovers PL2
+0=Disabled
+1=Enabled,108445,00
+Default=0
+
+[32]
+Name=Never Get Guard Crushed PL2
+0=Disabled
+1=Enabled,108446,67
+Default=0
+
+[33]
+Name=Every Block Will Guard Crush PL2
+0=Disabled
+1=Enabled,108446,00
+Default=0
+
+[34]
+Name=Guard Bar Never Recovers Until Guard Crushed PL2
+0=Disabled
+1=Enabled,10844D,10
+Default=0
+
+[35]
+Name=Guard Bar Instantly Recovers PL2
+0=Disabled
+1=Enabled,10844D,00
+Default=0
+
+[36]
+Name=Select Team PL2
+0=Disabled
+1=Japan Team,10A854,00
+2=Fatal Fury Team,10A854,01
+3=Art of Fighting Team,10A854,02
+4=Ikari Team,10A854,03
+5=Psycho Soldier Team,10A854,04
+6=Womens Team,10A854,05
+7=Korea Team,10A854,06
+8=Yagami Team,10A854,07
+9=Boss Team,10A854,08
+10=Chizuru (solo),10A854,09
+11=Goenitz (solo),10A854,0A
+12=Weapons of God Team,10A854,0B
+13=Goenitz Team,10A854,0C
+14=Custom Team,10A854,FF
+Default=0
+
+[37]
+Name=Select Rounds Lost PL2
+0=Disabled
+1=0,10A857,00
+2=1,10A857,01
+3=2,10A857,02
+Default=0
+
+[38]
+Name=Select Character (A) PL2
+0=Disabled
+1=Kyo Kusanagi,10A856,00
+2=Benimaru Nikaido,10A856,01
+3=Goro Daimon,10A856,02
+4=Terry Bogard,10A856,03
+5=Andy Bogard,10A856,04
+6=Joe Higashi,10A856,05
+7=Ryo Sakazaki,10A856,06
+8=Robert Garcia,10A856,07
+9=Yuri Sakazaki,10A856,08
+10=Leona,10A856,09
+11=Ralf Jones,10A856,0A
+12=Clark Steel,10A856,0B
+13=Athena Asamiya,10A856,0C
+14=Sie Kensou,10A856,0D
+15=Chin Gentsai,10A856,0E
+16=Kasumi Todo,10A856,0F
+17=Mai Shiranui,10A856,10
+18=King,10A856,11
+19=Kim Kaphwan,10A856,12
+20=Chang Koehan,10A856,13
+21=Choi Bounge,10A856,14
+22=Iori Yagami,10A856,15
+23=Mature,10A856,16
+24=Vice,10A856,17
+25=Geese Howard,10A856,18
+26=Wolfgang Krauser,10A856,19
+27=Mr. Big,10A856,1A
+28=#Chizuru Kagura,10A856,1B
+29=#Goenitz,10A856,1C
+Default=0
+
+[39]
+Name=Select Character (B) PL2
+0=Disabled
+1=Kyo Kusanagi,10A859,00
+2=Benimaru Nikaido,10A859,01
+3=Goro Daimon,10A859,02
+4=Terry Bogard,10A859,03
+5=Andy Bogard,10A859,04
+6=Joe Higashi,10A859,05
+7=Ryo Sakazaki,10A859,06
+8=Robert Garcia,10A859,07
+9=Yuri Sakazaki,10A859,08
+10=Leona,10A859,09
+11=Ralf Jones,10A859,0A
+12=Clark Steel,10A859,0B
+13=Athena Asamiya,10A859,0C
+14=Sie Kensou,10A859,0D
+15=Chin Gentsai,10A859,0E
+16=Kasumi Todo,10A859,0F
+17=Mai Shiranui,10A859,10
+18=King,10A859,11
+19=Kim Kaphwan,10A859,12
+20=Chang Koehan,10A859,13
+21=Choi Bounge,10A859,14
+22=Iori Yagami,10A859,15
+23=Mature,10A859,16
+24=Vice,10A859,17
+25=Geese Howard,10A859,18
+26=Wolfgang Krauser,10A859,19
+27=Mr. Big,10A859,1A
+28=#Chizuru Kagura,10A859,1B
+29=#Goenitz,10A859,1C
+Default=0
+
+[40]
+Name=Select Character (C) PL2
+0=Disabled
+1=Kyo Kusanagi,10A858,00
+2=Benimaru Nikaido,10A858,01
+3=Goro Daimon,10A858,02
+4=Terry Bogard,10A858,03
+5=Andy Bogard,10A858,04
+6=Joe Higashi,10A858,05
+7=Ryo Sakazaki,10A858,06
+8=Robert Garcia,10A858,07
+9=Yuri Sakazaki,10A858,08
+10=Leona,10A858,09
+11=Ralf Jones,10A858,0A
+12=Clark Steel,10A858,0B
+13=Athena Asamiya,10A858,0C
+14=Sie Kensou,10A858,0D
+15=Chin Gentsai,10A858,0E
+16=Kasumi Todo,10A858,0F
+17=Mai Shiranui,10A858,10
+18=King,10A858,11
+19=Kim Kaphwan,10A858,12
+20=Chang Koehan,10A858,13
+21=Choi Bounge,10A858,14
+22=Iori Yagami,10A858,15
+23=Mature,10A858,16
+24=Vice,10A858,17
+25=Geese Howard,10A858,18
+26=Wolfgang Krauser,10A858,19
+27=Mr. Big,10A858,1A
+28=#Chizuru Kagura,10A858,1B
+29=#Goenitz,10A858,1C
+Default=0
+
+[41]
+Name=Select First Character PL2
+0=Disabled
+1=Character A,10A85C,00
+2=Character B,10A85C,01
+3=Character C,10A85C,02
+Default=0
+
+[42]
+Name=Select Second Character PL2
+0=Disabled
+1=Character A,10A85F,00
+2=Character B,10A85F,01
+3=Character C,10A85F,02
+Default=0
+
+[43]
+Name=Select Third Character PL2
+0=Disabled
+1=Character A,10A85E,00
+2=Character B,10A85E,01
+3=Character C,10A85E,02
+Default=0
+
+[44]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

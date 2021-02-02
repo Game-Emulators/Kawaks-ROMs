@@ -1,0 +1,89 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,1044C8,06,1044CA,00
+Default=0
+
+[1]
+Name=Always have Max 'Miracle' Power PL1
+0=Disabled
+1=Enabled,10444D,80,104460,03
+Default=0
+
+[2]
+Name=Always have No Power PL1
+0=Disabled
+1=Enabled,10444D,00,104460,00
+Default=0
+
+[3]
+Name=Get Max 'Miracle' Power Now! PL1
+0=Disabled
+1=Enabled,10444D,80,104460,03
+Default=0
+
+[4]
+Name=Get No Power Now! PL1
+0=Disabled
+1=Enabled,10444D,00,104460,00
+Default=0
+
+[5]
+Name=Select Character PL1
+0=Disabled
+1=Chinta,1041AE,00
+2=Siren,1041AE,01
+3=Hiromu,1041AE,02
+4=Bloody Wolf,1041AE,03
+5=Simon,1041AE,04
+6=Surya,1041AE,05
+7=Mr. Justice,1041AE,06
+8=#Hegins 2nd#,1041AE,07
+9=#Takuzo#,1041AE,08
+Default=0
+
+[6]
+Name=Always have Max 'Miracle' Power PL2
+0=Disabled
+1=Enabled,104477,80,10448A,03
+Default=0
+
+[7]
+Name=Always have No Power PL2
+0=Disabled
+1=Enabled,104477,00,10448A,00
+Default=0
+
+[8]
+Name=Get Max 'Miracle' Power Now! PL2
+0=Disabled
+1=Enabled,104477,80,10448A,03
+Default=0
+
+[9]
+Name=Get No Power Now! PL2
+0=Disabled
+1=Enabled,104477,00,10448A,00
+Default=0
+
+[10]
+Name=Select Character PL2
+0=Disabled
+1=Chinta,1041B0,00
+2=Siren,1041B0,01
+3=Hiromu,1041B0,02
+4=Bloody Wolf,1041B0,03
+5=Simon,1041B0,04
+6=Surya,1041B0,05
+7=Mr. Justice,1041B0,06
+8=#Hegins 2nd#,1041B0,07
+9=#Takuzo#,1041B0,08
+Default=0
+
+[11]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

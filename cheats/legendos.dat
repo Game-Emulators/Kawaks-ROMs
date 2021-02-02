@@ -1,0 +1,49 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,10FD88,64,1003E3,00,1007E3,00
+Default=0
+
+[1]
+Name=Infinite Time PL1
+0=Disabled
+1=Enabled,100368,00
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,100362,78
+Default=0
+
+[3]
+Name=Drain PL1's Opponent's Energy Now!
+0=Disabled
+1=Enabled,100462,01
+Default=0
+
+[4]
+Name=Infinite Time PL2
+0=Disabled
+1=Enabled,100768,00
+Default=0
+
+[5]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,100762,78
+Default=0
+
+[6]
+Name=Drain PL2's Opponent's Energy Now!
+0=Disabled
+1=Enabled,100862,01
+Default=0
+
+[7]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

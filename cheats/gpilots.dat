@@ -1,0 +1,73 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,10A688,64
+Default=0
+
+[1]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,103F36,09
+Default=0
+
+[2]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,103F41,09
+Default=0
+
+[3]
+Name=Always have Maximum Stars PL1
+0=Disabled
+1=Enabled,103F45,99
+Default=0
+
+[4]
+Name=Get Maximum Stars Now! PL1
+0=Disabled
+1=Enabled,103F45,99
+Default=0
+
+[5]
+Name=Maximum Weapon Power PL1
+0=Disabled
+1=Enabled,103F3C,1C
+Default=0
+
+[6]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,103FB6,09
+Default=0
+
+[7]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,103FC1,09
+Default=0
+
+[8]
+Name=Always have Maximum Stars PL2
+0=Disabled
+1=Enabled,103FC5,99
+Default=0
+
+[9]
+Name=Get Maximum Stars Now! PL2
+0=Disabled
+1=Enabled,103FC5,99
+Default=0
+
+[10]
+Name=Maximum Weapon Power PL2
+0=Disabled
+1=Enabled,103FBC,1C
+Default=0
+
+[11]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

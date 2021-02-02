@@ -1,0 +1,178 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF4809,99
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,FF4809,00
+Default=0
+
+[2]
+Name=Challenge Gouki Surely
+0=Disabled
+1=Enabled,FF4920,18
+Default=0
+
+[3]
+Name=Select Background
+0=Disabled
+1=Wolverine,FF488E,00
+2=Psylocke,FF488E,01
+3=Colossus,FF488E,02
+4=Cyclops/Gouki,FF488E,03
+5=Storm,FF488E,04
+6=Iceman,FF488E,05
+7=Spiral,FF488E,06
+8=Silver Samurai,FF488E,07
+9=Omega Red,FF488E,08
+10=Sentinel,FF488E,09
+11=Juggernaut,FF488E,0A
+12=Magneto,FF488E,0B
+Default=0
+
+[4]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF4190,8F
+Default=0
+
+[5]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,FF4190,00
+Default=0
+
+[6]
+Name=Never Faint PL1
+0=Disabled
+1=Enabled,FF40FC,00
+Default=0
+
+[7]
+Name=Action Speed Up PL1
+0=Disabled
+1=Enabled,FF403E,01
+Default=0
+
+[8]
+Name=Always have Max Power PL1
+0=Disabled
+1=Enabled,FF4199,02,FF4194,8E
+Default=0
+
+[9]
+Name=Always have Min Power PL1
+0=Disabled
+1=Enabled,FF4199,00,FF4194,00
+Default=0
+
+[10]
+Name=Get Max Power Now! PL1
+0=Disabled
+1=Enabled,FF4199,02,FF4194,8E
+Default=0
+
+[11]
+Name=Get Min Power Now! PL1
+0=Disabled
+1=Enabled,FF4199,00,FF4194,00
+Default=0
+
+[12]
+Name=Select Character PL1
+0=Disabled
+1=Wolverine,FF4050,00
+2=Psylocke,FF4050,02
+3=Colossus,FF4050,04
+4=Cyclops,FF4050,06
+5=Storm,FF4050,08
+6=Iceman,FF4050,0A
+7=Spiral,FF4050,0C
+8=Silver Samurai,FF4050,0E
+9=Omega Red,FF4050,10
+10=Sentinel,FF4050,12
+11=#Juggernaut,FF4050,14
+12=#Magneto,FF4050,16
+13=#Gouki,FF4050,18
+Default=0
+
+[13]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF4590,8F
+Default=0
+
+[14]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,FF4590,00
+Default=0
+
+[15]
+Name=Never Faint PL2
+0=Disabled
+1=Enabled,FF44FC,00
+Default=0
+
+[16]
+Name=Action Speed Up PL2
+0=Disabled
+1=Enabled,FF443E,01
+Default=0
+
+[17]
+Name=Always have Max Power PL2
+0=Disabled
+1=Enabled,FF4599,02,FF4594,8E
+Default=0
+
+[18]
+Name=Always have Min Power PL2
+0=Disabled
+1=Enabled,FF4599,00,FF4594,00
+Default=0
+
+[19]
+Name=Get Max Power Now! PL2
+0=Disabled
+1=Enabled,FF4599,02,FF4594,8E
+Default=0
+
+[20]
+Name=Get Min Power Now! PL2
+0=Disabled
+1=Enabled,FF4599,00,FF4594,00
+Default=0
+
+[21]
+Name=Select Character PL2
+0=Disabled
+1=Wolverine,FF4450,00
+2=Psylocke,FF4450,02
+3=Colossus,FF4450,04
+4=Cyclops,FF4450,06
+5=Storm,FF4450,08
+6=Iceman,FF4450,0A
+7=Spiral,FF4450,0C
+8=Silver Samurai,FF4450,0E
+9=Omega Red,FF4450,10
+10=Sentinel,FF4450,12
+11=#Juggernaut,FF4450,14
+12=#Magneto,FF4450,16
+13=#Gouki,FF4450,18
+Default=0
+
+[22]
+Name=Select Region
+0=Disabled
+1=Japan,FF4BF6,00
+2=USA,FF4BF6,02
+3=Euro,FF4BF6,04
+4=ASIA,FF4BF6,06
+5=Hispanic,FF4BF6,08
+6=Brazil,FF4BF6,0A
+Default=0
+

@@ -1,0 +1,127 @@
+[0]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,1001AE,03
+Default=0
+
+[1]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,102CF2,06
+Default=0
+
+[2]
+Name=Permanent Weapons PL1
+0=Disabled
+1=Enabled,102D1F,10
+Default=0
+
+[3]
+Name=Infinite Ninja Morph Time PL1
+0=Disabled
+1=Enabled,102D5E,3C
+Default=0
+
+[4]
+Name=Infinite Old Man Morph Time PL1
+0=Disabled
+1=Enabled,102D61,3C
+Default=0
+
+[5]
+Name=Infinite Dog Morph Time PL1
+0=Disabled
+1=Enabled,102D60,3C
+Default=0
+
+[6]
+Name=Standard Weapon PL1
+0=Disabled
+1=Enabled,102D28,00
+Default=0
+
+[7]
+Name=Get Blue Sphere PL1
+0=Disabled
+1=Enabled,102D28,01
+Default=0
+
+[8]
+Name=Get Pink Sphere PL1
+0=Disabled
+1=Enabled,102D28,02
+Default=0
+
+[9]
+Name=Get Yellow Sphere PL1
+0=Disabled
+1=Enabled,102D28,03
+Default=0
+
+[10]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,1001B0,03
+Default=0
+
+[11]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,102DF2,06
+Default=0
+
+[12]
+Name=Permanent Weapons PL2
+0=Disabled
+1=Enabled,102E1F,10
+Default=0
+
+[13]
+Name=Infinite Ninja Morph Time PL2
+0=Disabled
+1=Enabled,102E5E,3C
+Default=0
+
+[14]
+Name=Infinite Old Man Morph Time PL2
+0=Disabled
+1=Enabled,102E61,3C
+Default=0
+
+[15]
+Name=Infinite Dog Morph Time PL2
+0=Disabled
+1=Enabled,102E60,3C
+Default=0
+
+[16]
+Name=Standard Weapon PL2
+0=Disabled
+1=Enabled,102E28,00
+Default=0
+
+[17]
+Name=Get Blue Sphere PL2
+0=Disabled
+1=Enabled,102E28,01
+Default=0
+
+[18]
+Name=Get Pink Sphere PL2
+0=Disabled
+1=Enabled,102E28,02
+Default=0
+
+[19]
+Name=Get Yellow Sphere PL2
+0=Disabled
+1=Enabled,102E28,03
+Default=0
+
+[20]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

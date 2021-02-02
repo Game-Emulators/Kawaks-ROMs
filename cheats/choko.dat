@@ -1,0 +1,30 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF809F,09
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF63E9,03,FF63E8,E7
+Default=0
+
+[2]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,FF5197,00
+Default=0
+
+[3]
+Name=Select Region
+0=Disabled
+1=Japan,FF80B4,00
+2=USA,FF80B4,02
+3=Hispanic,FF80B4,04
+4=Oceania,FF80B4,06
+5=Asia,FF80B4,08
+6=Euro,FF80B4,0A
+7=Brazil,FF80B4,0C
+Default=0
+

@@ -1,0 +1,98 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,100AC7,98
+Default=0
+
+[1]
+Name=Select Background
+0=Disabled
+1=Haohmaru,100AD8,00
+2=Nakoruru,100AD8,01
+3=Hanzo,100AD8,02
+4=Galford,100AD8,03
+5=Wan-Fu,100AD8,04
+6=Ukyo,100AD8,05
+7=Kyoshiro,100AD8,06
+8=Gen-An,100AD8,07
+9=Earthquake,100AD8,08
+10=Jubei,100AD8,09
+11=Charlotte,100AD8,0B
+12=Genjuro,100AD8,0C
+13=Cham Cham,100AD8,0D
+14=Sieger,100AD8,0E
+15=Nicotine,100AD8,0F
+16=Mizuki,100AD8,10
+17=Kuroko,100AD8,11
+Default=0
+
+[2]
+Name=Select Starting Stage
+0=Disabled
+1=Stage 1,100AEF,00
+2=Stage 2,100AEF,01
+3=Stage 3,100AEF,02
+4=Stage 4,100AEF,03
+5=Stage 5,100AEF,04
+6=Stage 6,100AEF,05
+7=Stage 7,100AEF,06
+8=Stage 8,100AEF,07
+9=Stage 9,100AEF,08
+10=Stage 10,100AEF,09
+11=Stage 11,100AEF,0A
+12=Stage 12,100AEF,0B
+13=Final Stage,100AEF,0C
+14=Special Stage(Kuroko  S Stage),100AEF,0D
+Default=0
+
+[3]
+Name=Select Character PL1
+0=Disabled
+1=Haohmaru,100D0A,00
+2=Nakoruru,100D0A,01
+3=Hanzo,100D0A,02
+4=Galford,100D0A,03
+5=Wan-Fu,100D0A,04
+6=Ukyo,100D0A,05
+7=Kyoshiro,100D0A,06
+8=Gen-An,100D0A,07
+9=Earthquake,100D0A,08
+10=Jubei,100D0A,09
+11=Charlotte,100D0A,0B
+12=Genjuro,100D0A,0C
+13=Cham Cham,100D0A,0D
+14=Sieger,100D0A,0E
+15=Nicotine,100D0A,0F
+16=Mizuki,100D0A,10
+17=Kuroko,100D0A,11
+Default=0
+
+[4]
+Name=Select Character PL2
+0=Disabled
+1=Haohmaru,100D1A,00
+2=Nakoruru,100D1A,01
+3=Hanzo,100D1A,02
+4=Galford,100D1A,03
+5=Wan-Fu,100D1A,04
+6=Ukyo,100D1A,05
+7=Kyoshiro,100D1A,06
+8=Gen-An,100D1A,07
+9=Earthquake,100D1A,08
+10=Jubei,100D1A,09
+11=Charlotte,100D1A,0B
+12=Genjuro,100D1A,0C
+13=Cham Cham,100D1A,0D
+14=Sieger,100D1A,0E
+15=Nicotine,100D1A,0F
+16=Mizuki,100D1A,10
+17=Kuroko,100D1A,11
+Default=0
+
+[5]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

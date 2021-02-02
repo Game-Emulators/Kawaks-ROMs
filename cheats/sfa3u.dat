@@ -1,0 +1,817 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8108,63
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,FF8108,00
+Default=0
+
+[2]
+Name=Select Backdrop
+0=Disabled
+1=Japan (Sunset),FF8100,00
+2=USA (Hotel),FF8100,02
+3=Japan (Cave),FF8100,04
+4=USA (Hangar),FF8100,06
+5=China,FF8100,08
+6=Thailand (Temple),FF8100,0A
+7=USA (Japanese),FF8100,0C
+8=USA (Metro City),FF8100,0E
+9=England,FF8100,10
+10=Italy,FF8100,12
+11=Point 48106 (Night),FF8100,14
+12=Thailand (Statue),FF8100,16
+13=Japan (Swings),FF8100,18
+14=Japan (Market at Day),FF8100,1A
+15=USA (Military),FF8100,1C
+16=India,FF8100,1E
+17=Russia,FF8100,20
+18=Hong Kong,FF8100,22
+19=Point 48106 (Day),FF8100,2A
+20=Greece,FF8100,2C
+21=Japan (Sumo Ring),FF8100,30
+22=Brazil,FF8100,32
+23=Japan (Seaside),FF8100,34
+24=USA (Prison),FF8100,36
+25=Spain,FF8100,38
+26=Japan (Market at Night),FF8100,3A
+Default=0
+
+[3]
+Name=Skip Character Intros
+0=Disabled
+1=Enabled,FF8430,00
+Default=0
+
+[4]
+Name=Skip Map Screen
+0=Disabled
+1=Enabled,FF8110,FF
+Default=0
+
+[5]
+Name=Skip Story PL1
+0=Disabled
+1=Enabled,FF8548,FF
+Default=0
+
+[6]
+Name=Skip Story PL2
+0=Disabled
+1=Enabled,FF8948,FF
+Default=0
+
+[7]
+Name=Select Mode PL1
+0=Disabled
+1=Normal Mode,FF854A,00
+2=Survival Mode,FF854A,FF
+Default=0
+
+[8]
+Name=Select Mode PL2
+0=Disabled
+1=Normal Mode,FF894A,00
+2=Survival Mode,FF894A,FF
+Default=0
+
+[9]
+Name=Dramatic Battle Mode PL1/PL2
+0=Disabled
+1=Enabled,FF8169,01
+Default=0
+
+[10]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF8451,00,FF8450,90,FF8453,00,FF8452,90
+Default=0
+
+[11]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,FF8451,00,FF8450,00,FF8453,00,FF8452,00
+Default=0
+
+[12]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,FF851E,90
+Default=0
+
+[13]
+Name=No Power PL1
+0=Disabled
+1=Enabled,FF851E,00
+Default=0
+
+[14]
+Name=Refill Power Now! PL1
+0=Disabled
+1=Enabled,FF851E,90
+Default=0
+
+[15]
+Name=Drain Power Now! PL1
+0=Disabled
+1=Enabled,FF851E,00
+Default=0
+
+[16]
+Name=Never Get Dizzied PL1
+0=Disabled
+1=Enabled,FF86CD,00,FF86CC,28
+Default=0
+
+[17]
+Name=Always Get Dizzied When Hit PL1
+0=Disabled
+1=Enabled,FF86CD,FA,FF86CC,FA
+Default=0
+
+[18]
+Name=Never Get Guard Crushed PL1
+0=Disabled
+1=Enabled,FF864D,70,FF864C,00
+Default=0
+
+[19]
+Name=Always Get Guard Crushed When Blocking PL1
+0=Disabled
+1=Enabled,FF864D,10,FF864C,10
+Default=0
+
+[20]
+Name=Infinite Fireballs PL1
+0=Disabled
+1=Enabled,FF8639,00
+Default=0
+
+[21]
+Name=Never have use of Fireballs PL1
+0=Disabled
+1=Enabled,FF8639,01
+Default=0
+
+[22]
+Name=Infinite Taunts PL1
+0=Disabled
+1=Enabled,FF84BD,01
+Default=0
+
+[23]
+Name=Infinite Air Special/Super moves PL1
+0=Disabled
+1=Enabled,FF8430,00
+Default=0
+
+[24]
+Name=Recalculate Damage When Hit PL1
+0=Disabled
+1=Enabled,FF865B,03,FF865A,03
+Default=0
+
+[25]
+Name=Always Be in Original Combo PL1
+0=Disabled
+1=Enabled,FF84B8,01
+Default=0
+
+[26]
+Name=Infinite Time for Original Combo PL1
+0=Disabled
+1=Enabled,FF84BA,9A
+Default=0
+
+[27]
+Name=Select Original Combo Afterimage Type PL1
+0=Disabled
+1=LP+LK Combo,FF86A7,00,FF86A6,0F,FF86A9,00,FF86A8,05
+2=MP+MK Combo,FF86A7,00,FF86A6,30,FF86A9,00,FF86A8,10
+3=HP+HK Combo,FF86A7,00,FF86A6,51,FF86A9,00,FF86A8,1B
+Default=0
+
+[28]
+Name=Select Control PL1
+0=Disabled
+1=User,FF8524,00
+2=CPU,FF8524,01
+Default=0
+
+[29]
+Name=Enable Classical Mode Now! PL1
+0=Disabled
+1=Enabled,FF855F,01
+Default=0
+
+[30]
+Name=Enable Mazi Mode Now! PL1
+0=Disabled
+1=Enabled,FF855B,01
+Default=0
+
+[31]
+Name=Enable Saikyou Mode Now! PL1
+0=Disabled
+1=Enabled,FF8530,01
+Default=0
+
+[32]
+Name=Select ISM PL1
+0=Disabled
+1=A-ISM,FF8522,00,FF8533,00
+2=V-ISM,FF8522,01,FF8533,01
+3=X-ISM,FF8522,FF,FF8533,FF
+4=S-ISM,FF8522,02,FF8533,00
+Default=0
+
+[33]
+Name=Select Character PL1
+0=Disabled
+1=Ryu,FF8503,00
+2=Ken Masters,FF8503,01
+3=Akuma,FF8503,02
+4=Charlie,FF8503,03
+5=Chun-Li,FF8503,04
+6=Adon,FF8503,05
+7=Sodom,FF8503,06
+8=Guy,FF8503,07
+9=Birdie,FF8503,08
+10=Rose,FF8503,09
+11=M. Bison,FF8503,0A
+12=Sagat,FF8503,0B
+13=Dan Hibiki,FF8503,0C
+14=Sakura Kasugano,FF8503,0D
+15=Rolento Schugerg,FF8503,0E
+16=Dhalsim,FF8503,0F
+17=Zangief,FF8503,10
+18=Gen (Sou-ryuu stance),FF8503,11
+19=#Gen (Ki-ryuu stance),FF8503,13
+20=#Balrog,FF8503,15
+21=Cammy,FF8503,16
+22=Edmund Honda,FF8503,18
+23=Blanka,FF8503,19
+24=Rainbow Mika Nanakawa,FF8503,1A
+25=Cody,FF8503,1B
+26=Vega,FF8503,1C
+27=Karin Kanzuki,FF8503,1D
+28=#Juli,FF8503,1E
+29=#Juni,FF8503,1F
+Default=0
+
+[34]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF8851,00,FF8850,90,FF8853,00,FF8852,90
+Default=0
+
+[35]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,FF8851,00,FF8850,00,FF8853,00,FF8852,00
+Default=0
+
+[36]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,FF891E,90
+Default=0
+
+[37]
+Name=No Power PL2
+0=Disabled
+1=Enabled,FF891E,00
+Default=0
+
+[38]
+Name=Refill Power Now! PL2
+0=Disabled
+1=Enabled,FF891E,90
+Default=0
+
+[39]
+Name=Drain Power Now! PL2
+0=Disabled
+1=Enabled,FF891E,00
+Default=0
+
+[40]
+Name=Never Get Dizzied PL2
+0=Disabled
+1=Enabled,FF8ACD,00,FF8ACC,28
+Default=0
+
+[41]
+Name=Always Get Dizzied When Hit PL2
+0=Disabled
+1=Enabled,FF8ACD,FA,FF8ACC,FA
+Default=0
+
+[42]
+Name=Never Get Guard Crushed PL2
+0=Disabled
+1=Enabled,FF8A4D,70,FF8A4C,00
+Default=0
+
+[43]
+Name=Always Get Guard Crushed When Blocking PL2
+0=Disabled
+1=Enabled,FF8A4D,10,FF8A4C,10
+Default=0
+
+[44]
+Name=Infinite Fireballs PL2
+0=Disabled
+1=Enabled,FF8A39,00
+Default=0
+
+[45]
+Name=Never have use of Fireballs PL2
+0=Disabled
+1=Enabled,FF8A39,01
+Default=0
+
+[46]
+Name=Infinite Taunts PL2
+0=Disabled
+1=Enabled,FF88BD,01
+Default=0
+
+[47]
+Name=Infinite Air Special/Super moves PL2
+0=Disabled
+1=Enabled,FF8830,00
+Default=0
+
+[48]
+Name=Recalculate Damage When Hit PL2
+0=Disabled
+1=Enabled,FF8A5B,03,FF8A5A,03
+Default=0
+
+[49]
+Name=Always Be in Original Combo PL2
+0=Disabled
+1=Enabled,FF88B8,01
+Default=0
+
+[50]
+Name=Infinite Time for Original Combo PL2
+0=Disabled
+1=Enabled,FF88BA,9A
+Default=0
+
+[51]
+Name=Select Original Combo Afterimage Type PL2
+0=Disabled
+1=LP+LK Combo,FF8AA7,00,FF8AA6,0F,FF8AA9,00,FF8AA8,05
+2=MP+MK Combo,FF8AA7,00,FF8AA6,30,FF8AA9,00,FF8AA8,10
+3=HP+HK Combo,FF8AA7,00,FF8AA6,51,FF8AA9,00,FF8AA8,1B
+Default=0
+
+[52]
+Name=Select Control PL2
+0=Disabled
+1=User,FF8924,00
+2=CPU,FF8924,01
+Default=0
+
+[53]
+Name=Enable Classical Mode Now! PL2
+0=Disabled
+1=Enabled,FF895F,01
+Default=0
+
+[54]
+Name=Enable Mazi Mode Now! PL2
+0=Disabled
+1=Enabled,FF895B,01
+Default=0
+
+[55]
+Name=Enable Saikyou Mode Now! PL2
+0=Disabled
+1=Enabled,FF8930,01
+Default=0
+
+[56]
+Name=Select ISM PL2
+0=Disabled
+1=A-ISM,FF8922,00,FF8933,00
+2=V-ISM,FF8922,01,FF8933,01
+3=X-ISM,FF8922,FF,FF8933,FF
+4=S-ISM,FF8922,02,FF8933,00
+Default=0
+
+[57]
+Name=Select Character PL2
+0=Disabled
+1=Ryu,FF8903,00
+2=Ken Masters,FF8903,01
+3=Akuma,FF8903,02
+4=Charlie,FF8903,03
+5=Chun-Li,FF8903,04
+6=Adon,FF8903,05
+7=Sodom,FF8903,06
+8=Guy,FF8903,07
+9=Birdie,FF8903,08
+10=Rose,FF8903,09
+11=M. Bison,FF8903,0A
+12=Sagat,FF8903,0B
+13=Dan Hibiki,FF8903,0C
+14=Sakura Kasugano,FF8903,0D
+15=Rolento Schugerg,FF8903,0E
+16=Dhalsim,FF8903,0F
+17=Zangief,FF8903,10
+18=Gen (Sou-ryuu stance),FF8903,11
+19=#Gen (Ki-ryuu stance),FF8903,13
+20=#Balrog,FF8903,15
+21=Cammy,FF8903,16
+22=Edmund Honda,FF8903,18
+23=Blanka,FF8903,19
+24=Rainbow Mika Nanakawa,FF8903,1A
+25=Cody,FF8903,1B
+26=Vega,FF8903,1C
+27=Karin Kanzuki,FF8903,1D
+28=#Juli,FF8903,1E
+29=#Juni,FF8903,1F
+Default=0
+
+[58]
+Name=Infinite Energy PL3
+0=Disabled
+1=Enabled,FF8C51,00,FF8C50,90,FF8C53,00,FF8C52,90
+Default=0
+
+[59]
+Name=Drain All Energy Now! PL3
+0=Disabled
+1=Enabled,FF8C51,00,FF8C50,00,FF8C53,00,FF8C52,00
+Default=0
+
+[60]
+Name=Infinite Power PL3
+0=Disabled
+1=Enabled,FF8D1E,90
+Default=0
+
+[61]
+Name=No Power PL3
+0=Disabled
+1=Enabled,FF8D1E,00
+Default=0
+
+[62]
+Name=Refill Power Now! PL3
+0=Disabled
+1=Enabled,FF8D1E,90
+Default=0
+
+[63]
+Name=Drain Power Now! PL3
+0=Disabled
+1=Enabled,FF8D1E,00
+Default=0
+
+[64]
+Name=Never Get Dizzied PL3
+0=Disabled
+1=Enabled,FF8ECD,00,FF8ECC,28
+Default=0
+
+[65]
+Name=Always Get Dizzied When Hit PL3
+0=Disabled
+1=Enabled,FF8ECD,FA,FF8ECC,FA
+Default=0
+
+[66]
+Name=Never Get Guard Crushed PL3
+0=Disabled
+1=Enabled,FF8E4D,70,FF8E4C,00
+Default=0
+
+[67]
+Name=Always Get Guard Crushed When Blocking PL3
+0=Disabled
+1=Enabled,FF8E4D,10,FF8E4C,10
+Default=0
+
+[68]
+Name=Infinite Fireballs PL3
+0=Disabled
+1=Enabled,FF8E39,00
+Default=0
+
+[69]
+Name=Never have use of Fireballs PL3
+0=Disabled
+1=Enabled,FF8E39,01
+Default=0
+
+[70]
+Name=Infinite Taunts PL3
+0=Disabled
+1=Enabled,FF8CBD,01
+Default=0
+
+[71]
+Name=Infinite Air Special/Super moves PL3
+0=Disabled
+1=Enabled,FF8C30,00
+Default=0
+
+[72]
+Name=Recalculate Damage When Hit PL3
+0=Disabled
+1=Enabled,FF8E5B,03,FF8E5A,03
+Default=0
+
+[73]
+Name=Always Be in Original Combo PL3
+0=Disabled
+1=Enabled,FF8CB8,01
+Default=0
+
+[74]
+Name=Infinite Time for Original Combo PL3
+0=Disabled
+1=Enabled,FF8CBA,9A
+Default=0
+
+[75]
+Name=Select Original Combo Afterimage Type PL3
+0=Disabled
+1=LP+LK Combo,FF8EA7,00,FF8EA6,0F,FF8EA9,00,FF8EA8,05
+2=MP+MK Combo,FF8EA7,00,FF8EA6,30,FF8EA9,00,FF8EA8,10
+3=HP+HK Combo,FF8EA7,00,FF8EA6,51,FF8EA9,00,FF8EA8,1B
+Default=0
+
+[76]
+Name=Select Control PL3
+0=Disabled
+1=User,FF8D24,00
+2=CPU,FF8D24,01
+Default=0
+
+[77]
+Name=Enable Classical Mode Now! PL3
+0=Disabled
+1=Enabled,FF8D5F,01
+Default=0
+
+[78]
+Name=Enable Mazi Mode Now! PL3
+0=Disabled
+1=Enabled,FF8D5B,01
+Default=0
+
+[79]
+Name=Enable Saikyou Mode Now! PL3
+0=Disabled
+1=Enabled,FF8D30,01
+Default=0
+
+[80]
+Name=Select ISM PL3
+0=Disabled
+1=A-ISM,FF8D22,00,FF8D33,00
+2=V-ISM,FF8D22,01,FF8D33,01
+3=X-ISM,FF8D22,FF,FF8D33,FF
+4=S-ISM,FF8D22,02,FF8D33,00
+Default=0
+
+[81]
+Name=Select Character PL3
+0=Disabled
+1=Ryu,FF8D03,00
+2=Ken Masters,FF8D03,01
+3=Akuma,FF8D03,02
+4=Charlie,FF8D03,03
+5=Chun-Li,FF8D03,04
+6=Adon,FF8D03,05
+7=Sodom,FF8D03,06
+8=Guy,FF8D03,07
+9=Birdie,FF8D03,08
+10=Rose,FF8D03,09
+11=M. Bison,FF8D03,0A
+12=Sagat,FF8D03,0B
+13=Dan Hibiki,FF8D03,0C
+14=Sakura Kasugano,FF8D03,0D
+15=Rolento Schugerg,FF8D03,0E
+16=Dhalsim,FF8D03,0F
+17=Zangief,FF8D03,10
+18=Gen (Sou-ryuu stance),FF8D03,11
+19=#Gen (Ki-ryuu stance),FF8D03,13
+20=#Balrog,FF8D03,15
+21=Cammy,FF8D03,16
+22=Edmund Honda,FF8D03,18
+23=Blanka,FF8D03,19
+24=Rainbow Mika Nanakawa,FF8D03,1A
+25=Cody,FF8D03,1B
+26=Vega,FF8D03,1C
+27=Karin Kanzuki,FF8D03,1D
+28=#Juli,FF8D03,1E
+29=#Juni,FF8D03,1F
+Default=0
+
+[82]
+Name=Infinite Energy PL4
+0=Disabled
+1=Enabled,FF9051,00,FF9050,90,FF9053,00,FF9052,90
+Default=0
+
+[83]
+Name=Drain All Energy Now! PL4
+0=Disabled
+1=Enabled,FF9051,00,FF9050,00,FF9053,00,FF9052,00
+Default=0
+
+[84]
+Name=Infinite Power PL4
+0=Disabled
+1=Enabled,FF911E,90
+Default=0
+
+[85]
+Name=No Power PL4
+0=Disabled
+1=Enabled,FF911E,00
+Default=0
+
+[86]
+Name=Refill Power Now! PL4
+0=Disabled
+1=Enabled,FF911E,90
+Default=0
+
+[87]
+Name=Drain Power Now! PL4
+0=Disabled
+1=Enabled,FF911E,00
+Default=0
+
+[88]
+Name=Never Get Dizzied PL4
+0=Disabled
+1=Enabled,FF92CD,00,FF92CC,28
+Default=0
+
+[89]
+Name=Always Get Dizzied When Hit PL4
+0=Disabled
+1=Enabled,FF92CD,FA,FF92CC,FA
+Default=0
+
+[90]
+Name=Never Get Guard Crushed PL4
+0=Disabled
+1=Enabled,FF924D,70,FF924C,00
+Default=0
+
+[91]
+Name=Always Get Guard Crushed When Blocking PL4
+0=Disabled
+1=Enabled,FF924D,10,FF924C,10
+Default=0
+
+[92]
+Name=Infinite Fireballs PL4
+0=Disabled
+1=Enabled,FF9239,00
+Default=0
+
+[93]
+Name=Never have use of Fireballs PL4
+0=Disabled
+1=Enabled,FF9239,01
+Default=0
+
+[94]
+Name=Infinite Taunts PL4
+0=Disabled
+1=Enabled,FF90BD,01
+Default=0
+
+[95]
+Name=Infinite Air Special/Super moves PL4
+0=Disabled
+1=Enabled,FF9030,00
+Default=0
+
+[96]
+Name=Recalculate Damage When Hit PL4
+0=Disabled
+1=Enabled,FF925B,03,FF925A,03
+Default=0
+
+[97]
+Name=Always Be in Original Combo PL4
+0=Disabled
+1=Enabled,FF90B8,01
+Default=0
+
+[98]
+Name=Infinite Time for Original Combo PL4
+0=Disabled
+1=Enabled,FF90BA,9A
+Default=0
+
+[99]
+Name=Select Original Combo Afterimage Type PL4
+0=Disabled
+1=LP+LK Combo,FF92A7,00,FF92A6,0F,FF92A9,00,FF92A8,05
+2=MP+MK Combo,FF92A7,00,FF92A6,30,FF92A9,00,FF92A8,10
+3=HP+HK Combo,FF92A7,00,FF92A6,51,FF92A9,00,FF92A8,1B
+Default=0
+
+[100]
+Name=Select Control PL4
+0=Disabled
+1=User,FF9124,00
+2=CPU,FF9124,01
+Default=0
+
+[101]
+Name=Enable Classical Mode Now! PL4
+0=Disabled
+1=Enabled,FF915F,01
+Default=0
+
+[102]
+Name=Enable Mazi Mode Now! PL4
+0=Disabled
+1=Enabled,FF915B,01
+Default=0
+
+[103]
+Name=Enable Saikyou Mode Now! PL4
+0=Disabled
+1=Enabled,FF9130,01
+Default=0
+
+[104]
+Name=Select ISM PL4
+0=Disabled
+1=A-ISM,FF9122,00,FF9133,00
+2=V-ISM,FF9122,01,FF9133,01
+3=X-ISM,FF9122,FF,FF9133,FF
+4=S-ISM,FF9122,02,FF9133,00
+Default=0
+
+[105]
+Name=Select Character PL4
+0=Disabled
+1=Ryu,FF9103,00
+2=Ken Masters,FF9103,01
+3=Akuma,FF9103,02
+4=Charlie,FF9103,03
+5=Chun-Li,FF9103,04
+6=Adon,FF9103,05
+7=Sodom,FF9103,06
+8=Guy,FF9103,07
+9=Birdie,FF9103,08
+10=Rose,FF9103,09
+11=M. Bison,FF9103,0A
+12=Sagat,FF9103,0B
+13=Dan Hibiki,FF9103,0C
+14=Sakura Kasugano,FF9103,0D
+15=Rolento Schugerg,FF9103,0E
+16=Dhalsim,FF9103,0F
+17=Zangief,FF9103,10
+18=Gen (Sou-ryuu stance),FF9103,11
+19=#Gen (Ki-ryuu stance),FF9103,13
+20=#Balrog,FF9103,15
+21=Cammy,FF9103,16
+22=Edmund Honda,FF9103,18
+23=Blanka,FF9103,19
+24=Rainbow Mika Nanakawa,FF9103,1A
+25=Cody,FF9103,1B
+26=Vega,FF9103,1C
+27=Karin Kanzuki,FF9103,1D
+28=#Juli,FF9103,1E
+29=#Juni,FF9103,1F
+Default=0
+
+[106]
+Name=Select Region
+0=Disabled
+1=Japan,FF8090,00
+2=USA,FF8090,02
+3=Hispanic,FF8090,04
+4=Oceania,FF8090,06
+5=Asia,FF8090,08
+6=Euro,FF8090,0A
+7=Brazil,FF8090,0C
+Default=0
+
+[107]
+Name=Sound Test Timer Stop
+0=Disabled
+1=Enabled,FF800A,FF
+Default=0
+

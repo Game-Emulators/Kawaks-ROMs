@@ -1,0 +1,127 @@
+[0]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,1002BC,00
+Default=0
+
+[1]
+Name=Kill 1st Boss Now!
+0=Disabled
+1=Enabled,10B17A,00
+Default=0
+
+[2]
+Name=Kill Cemetery Boss Now!
+0=Disabled
+1=Enabled,10B156,00
+Default=0
+
+[3]
+Name=Kill Toy Boss Now!
+0=Disabled
+1=Enabled,10B156,00
+Default=0
+
+[4]
+Name=Kill Jurassic Boss Now!
+0=Disabled
+1=Enabled,10B166,00
+Default=0
+
+[5]
+Name=Kill Park Boss Now!
+0=Disabled
+1=Enabled,10B17A,00
+Default=0
+
+[6]
+Name=Kill Japanese Boss Now!
+0=Disabled
+1=Enabled,10B156,00
+Default=0
+
+[7]
+Name=Kill Jungle Boss Now!
+0=Disabled
+1=Enabled,10B172,00
+Default=0
+
+[8]
+Name=Kill Level 7 Boss Now!
+0=Disabled
+1=Enabled,10B15E,00
+Default=0
+
+[9]
+Name=Kill Level 8 Boss Now!
+0=Disabled
+1=Enabled,10B176,00
+Default=0
+
+[10]
+Name=Kill Level 9 Boss Now!
+0=Disabled
+1=Enabled,10B16E,00
+Default=0
+
+[11]
+Name=Infinite Bonus Time
+0=Disabled
+1=Enabled,101C17,1E
+Default=0
+
+[12]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,1002C0,03
+Default=0
+
+[13]
+Name=Always have Speed Up PL1
+0=Disabled
+1=Enabled,10B4DC,28
+Default=0
+
+[14]
+Name=Always have Super Punch PL1
+0=Disabled
+1=Enabled,10B4DF,01
+Default=0
+
+[15]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,10A2DC,02
+Default=0
+
+[16]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,1002C2,03
+Default=0
+
+[17]
+Name=Always have Speed Up PL2
+0=Disabled
+1=Enabled,10B4E4,28
+Default=0
+
+[18]
+Name=Always have Super Punch PL2
+0=Disabled
+1=Enabled,10B4E7,01
+Default=0
+
+[19]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,10A2E4,02
+Default=0
+
+[20]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

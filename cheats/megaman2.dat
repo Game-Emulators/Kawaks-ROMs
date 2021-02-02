@@ -1,0 +1,240 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8118,45
+Default=0
+
+[1]
+Name=Infinite Final Dr. Wily Time
+0=Disabled
+1=Enabled,FFA83B,07
+Default=0
+
+[2]
+Name=Drain All Enemy Energy Now!
+0=Disabled
+1=Enabled,FFCD50,00,FFCE50,00
+Default=0
+
+[3]
+Name=Always have Extra Charge Level
+0=Disabled
+1=Enabled,FF815A,FF
+Default=0
+
+[4]
+Name=Always have Super Jump
+0=Disabled
+1=Enabled,FF815D,FF
+Default=0
+
+[5]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF8350,20
+Default=0
+
+[6]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,FF8353,02
+Default=0
+
+[7]
+Name=Infinite Weapon Energy PL1
+0=Disabled
+1=Enabled,FF8458,10,FF8452,10,FF8454,10,FF845A,10,FF845C,10,FF8456,10
+Default=0
+
+[8]
+Name=No Shot Limit PL1
+0=Disabled
+1=Enabled,FF8431,00
+Default=0
+
+[9]
+Name=Always have Extra Weapon 1 PL1
+0=Disabled
+1=Enabled,FF8448,01
+Default=0
+
+[10]
+Name=Always have Extra Weapon 2 PL1
+0=Disabled
+1=Enabled,FF844B,01
+Default=0
+
+[11]
+Name=Always have Extra Weapon 3 PL1
+0=Disabled
+1=Enabled,FF844A,01
+Default=0
+
+[12]
+Name=Always have Extra Weapon 4 PL1
+0=Disabled
+1=Enabled,FF844D,01
+Default=0
+
+[13]
+Name=Always have Extra Weapon 5 PL1
+0=Disabled
+1=Enabled,FF844C,01
+Default=0
+
+[14]
+Name=Always have Extra Weapon 6 PL1
+0=Disabled
+1=Enabled,FF844F,01
+Default=0
+
+[15]
+Name=Lose Extra Weapon 1 Now! PL1
+0=Disabled
+1=Enabled,FF8448,00
+Default=0
+
+[16]
+Name=Lose Extra Weapon 2 Now! PL1
+0=Disabled
+1=Enabled,FF844B,00
+Default=0
+
+[17]
+Name=Lose Extra Weapon 3 Now! PL1
+0=Disabled
+1=Enabled,FF844A,00
+Default=0
+
+[18]
+Name=Lose Extra Weapon 4 Now! PL1
+0=Disabled
+1=Enabled,FF844D,00
+Default=0
+
+[19]
+Name=Lose Extra Weapon 5 Now! PL1
+0=Disabled
+1=Enabled,FF844C,00
+Default=0
+
+[20]
+Name=Lose Extra Weapon 6 Now! PL1
+0=Disabled
+1=Enabled,FF844F,00
+Default=0
+
+[21]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF8750,20
+Default=0
+
+[22]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,FF8753,02
+Default=0
+
+[23]
+Name=Infinite Weapon Energy PL2
+0=Disabled
+1=Enabled,FF8858,10,FF8852,10,FF8854,10,FF885A,10,FF885C,10,FF8856,10
+Default=0
+
+[24]
+Name=No Shot Limit PL2
+0=Disabled
+1=Enabled,FF8831,00
+Default=0
+
+[25]
+Name=Always have Extra Weapon 1 PL2
+0=Disabled
+1=Enabled,FF8848,01
+Default=0
+
+[26]
+Name=Always have Extra Weapon 2 PL2
+0=Disabled
+1=Enabled,FF884B,01
+Default=0
+
+[27]
+Name=Always have Extra Weapon 3 PL2
+0=Disabled
+1=Enabled,FF884A,01
+Default=0
+
+[28]
+Name=Always have Extra Weapon 4 PL2
+0=Disabled
+1=Enabled,FF884D,01
+Default=0
+
+[29]
+Name=Always have Extra Weapon 5 PL2
+0=Disabled
+1=Enabled,FF884C,01
+Default=0
+
+[30]
+Name=Always have Extra Weapon 6 PL2
+0=Disabled
+1=Enabled,FF884F,01
+Default=0
+
+[31]
+Name=Lose Extra Weapon 1 Now! PL2
+0=Disabled
+1=Enabled,FF8848,00
+Default=0
+
+[32]
+Name=Lose Extra Weapon 2 Now! PL2
+0=Disabled
+1=Enabled,FF884B,00
+Default=0
+
+[33]
+Name=Lose Extra Weapon 3 Now! PL2
+0=Disabled
+1=Enabled,FF884A,00
+Default=0
+
+[34]
+Name=Lose Extra Weapon 4 Now! PL2
+0=Disabled
+1=Enabled,FF884D,00
+Default=0
+
+[35]
+Name=Lose Extra Weapon 5 Now! PL2
+0=Disabled
+1=Enabled,FF884C,00
+Default=0
+
+[36]
+Name=Lose Extra Weapon 6 Now! PL2
+0=Disabled
+1=Enabled,FF884F,00
+Default=0
+
+[37]
+Name=Select Region
+0=Disabled
+1=Japan,FF808C,00
+2=USA,FF808C,02
+3=Hispanic,FF808C,04
+4=Asia,FF808C,06
+5=Euro,FF808C,08
+6=Brazil,FF808C,0A
+Default=0
+
+[38]
+Name=Select Title
+0=Disabled
+1=Rock Man,FF80E1,00
+2=Mega Man,FF80E1,FF
+Default=0
+

@@ -1,0 +1,67 @@
+[0]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,1000D3,09
+Default=0
+
+[1]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,1000D2,0A
+Default=0
+
+[2]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,100096,02
+Default=0
+
+[3]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,1000D5,06
+Default=0
+
+[4]
+Name=Always X9 Pow PL1
+0=Disabled
+1=Enabled,1000D3,09
+Default=0
+
+[5]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,1001D3,09
+Default=0
+
+[6]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,1001D2,0A
+Default=0
+
+[7]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,100196,02
+Default=0
+
+[8]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,1001D5,06
+Default=0
+
+[9]
+Name=Always X9 Pow PL2
+0=Disabled
+1=Enabled,1001D3,09
+Default=0
+
+[10]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

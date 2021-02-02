@@ -1,0 +1,196 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10836A,3C
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,10836A,00
+Default=0
+
+[2]
+Name=Select Starting Stage
+0=Disabled
+1=1,10836D,00
+2=2,10836D,01
+3=3,10836D,02
+4=4,10836D,03
+5=5,10836D,04
+6=6,10836D,05
+7=7,10836D,06
+8=8,10836D,07
+9=9,10836D,08
+10=10,10836D,09
+Default=0
+
+[3]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,108444,7D
+Default=0
+
+[4]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,108444,00
+Default=0
+
+[5]
+Name=Always have Maximum Power PL1
+0=Disabled
+1=Enabled,10844F,40
+Default=0
+
+[6]
+Name=Always have Minimum Power PL1
+0=Disabled
+1=Enabled,10844F,00
+Default=0
+
+[7]
+Name=Always have Maximum Sword Power PL1
+0=Disabled
+1=Enabled,1085F9,78
+Default=0
+
+[8]
+Name=Always have Minimum Sword Power PL1
+0=Disabled
+1=Enabled,1085F9,00
+Default=0
+
+[9]
+Name=Blue Energy Gauge Length PL1
+0=Disabled
+1=Enabled,1085FF,7C
+Default=0
+
+[10]
+Name=Longer Sword Power Gauge PL1
+0=Disabled
+1=Enabled,108555,82
+Default=0
+
+[11]
+Name=Select Character PL1
+0=Disabled
+1=Haohmaru,108323,00
+2=Nakoruru,108323,01
+3=Rimururu,108323,02
+4=Hanzo,108323,03
+5=Galford,108323,04
+6=Senryu Kyoshiro,108323,05
+7=Ukyo,108323,06
+8=Genjuro,108323,07
+9=Basara,108323,08
+10=Shizumaru,108323,09
+11=Gaira,108323,0A
+12=Yumeji *,108323,0B
+13=Jubei,108323,0C
+14=Sankuro *,108323,0D
+15=Charlotte,108323,0E
+16=Tam Tam,108323,0F
+17=Kazuki,108323,10
+18=Sogetsu,108323,11
+19=Rasetsumaru,108323,12
+20=Rera,108323,13
+21=Enja,108323,14
+22=Suija,108323,15
+23=Yoshitora,108323,16
+24=Yunfei,108323,17
+25=Mina,108323,18
+26=Kusare-Gedou,108323,19
+27=Gaoh Kyougoku *,108323,1A
+28=Poppy **,108323,1B
+Default=0
+
+[12]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,108654,7D
+Default=0
+
+[13]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,108654,00
+Default=0
+
+[14]
+Name=Always have Maximum Power PL2
+0=Disabled
+1=Enabled,10865F,40
+Default=0
+
+[15]
+Name=Always have Minimum Power PL2
+0=Disabled
+1=Enabled,10865F,00
+Default=0
+
+[16]
+Name=Always have Maximum Sword Power PL2
+0=Disabled
+1=Enabled,108809,78
+Default=0
+
+[17]
+Name=Always have Minimum Sword Power PL2
+0=Disabled
+1=Enabled,108809,00
+Default=0
+
+[18]
+Name=Blue Energy Gauge Length PL2
+0=Disabled
+1=Enabled,10880F,7C
+Default=0
+
+[19]
+Name=Longer Sword Power Gauge PL2
+0=Disabled
+1=Enabled,108765,82
+Default=0
+
+[20]
+Name=Select Character PL2
+0=Disabled
+1=Haohmaru,108322,00
+2=Nakoruru,108322,01
+3=Rimururu,108322,02
+4=Hanzo,108322,03
+5=Galford,108322,04
+6=Senryu Kyoshiro,108322,05
+7=Ukyo,108322,06
+8=Genjuro,108322,07
+9=Basara,108322,08
+10=Shizumaru,108322,09
+11=Gaira,108322,0A
+12=Yumeji *,108322,0B
+13=Jubei,108322,0C
+14=Sankuro *,108322,0D
+15=Charlotte,108322,0E
+16=Tam Tam,108322,0F
+17=Kazuki,108322,10
+18=Sogetsu,108322,11
+19=Rasetsumaru,108322,12
+20=Rera,108322,13
+21=Enja,108322,14
+22=Suija,108322,15
+23=Yoshitora,108322,16
+24=Yunfei,108322,17
+25=Mina,108322,18
+26=Kusare-Gedou,108322,19
+27=Gaoh Kyougoku *,108322,1A
+28=Poppy **,108322,1B
+Default=0
+
+[21]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

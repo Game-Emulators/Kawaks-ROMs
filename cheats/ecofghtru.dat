@@ -1,0 +1,82 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF02EB,09
+Default=0
+
+[1]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,FFF5F3,09
+Default=0
+
+[2]
+Name=Always have Maximum Arm Weapon Power PL1
+0=Disabled
+1=Enabled,FF8953,05
+Default=0
+
+[3]
+Name=Always have Penetration Shot PL1
+0=Disabled
+1=Enabled,FF8923,00
+Default=0
+
+[4]
+Name=Always have Penetration Hammer PL1
+0=Disabled
+1=Enabled,FF895B,04
+Default=0
+
+[5]
+Name=Select Weapon PL1
+0=Disabled
+1=Energy Ball,FF8905,03
+2=Hammer,FF8905,04
+3=Wheel,FF8905,07
+4=Laser Sword,FF8905,09
+Default=0
+
+[6]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,FFF5F2,09
+Default=0
+
+[7]
+Name=Always have Maximum Arm Weapon Power PL2
+0=Disabled
+1=Enabled,FF8F23,05
+Default=0
+
+[8]
+Name=Always have Penetration Shot PL2
+0=Disabled
+1=Enabled,FF8EF3,00
+Default=0
+
+[9]
+Name=Always have Penetration Hammer PL2
+0=Disabled
+1=Enabled,FF8F2B,04
+Default=0
+
+[10]
+Name=Select Weapon PL2
+0=Disabled
+1=Energy Ball,FF8ED5,03
+2=Hammer,FF8ED5,04
+3=Wheel,FF8ED5,07
+4=Laser Sword,FF8ED5,09
+Default=0
+
+[11]
+Name=Select Region
+0=Disabled
+1=Japan,FF03E8,00
+2=USA,FF03E8,01
+3=ETC,FF03E8,02
+4=Hispanic,FF03E8,03
+5=Asia,FF03E8,04
+Default=0
+

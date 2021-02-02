@@ -1,0 +1,19 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,10FD88,64,1030B3,00
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,103610,99,103612,3B
+Default=0
+
+[2]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

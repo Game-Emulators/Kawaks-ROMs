@@ -1,0 +1,229 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF80B7,09
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FFEBA1,99
+Default=0
+
+[2]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,FFEBA1,00
+Default=0
+
+[3]
+Name=Go to Final Stage Now!
+0=Disabled
+1=Enabled,FF8531,08,FF852B,08,FFEB37,08
+Default=0
+
+[4]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF81E4,98
+Default=0
+
+[5]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,FF81E4,00
+Default=0
+
+[6]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,FF8535,3F
+Default=0
+
+[7]
+Name=Drain All Power Now! PL1
+0=Disabled
+1=Enabled,FF8535,00
+Default=0
+
+[8]
+Name=Infinite Arm Gauge PL1
+0=Disabled
+1=Enabled,FF830D,30
+Default=0
+
+[9]
+Name=Select Arm Gauge Regeneration Time PL1
+0=Disabled
+1=Instant,FF830C,FF
+2=Never,FF830C,00
+Default=0
+
+[10]
+Name=Arm VA Now! PL1
+0=Disabled
+1=Enabled,FF82AF,01
+Default=0
+
+[11]
+Name=Disarm VA Now! PL1
+0=Disabled
+1=Enabled,FF82AF,00
+Default=0
+
+[12]
+Name=Infinite Weapon PL1
+0=Disabled
+1=Enabled,FF830F,30,FF8311,30
+Default=0
+
+[13]
+Name=Infinite Boost PL1
+0=Disabled
+1=Enabled,FF830B,1D
+Default=0
+
+[14]
+Name=Select Perm Ride PL1
+0=Disabled
+1=Blodia,FF8510,00,FF8513,00,FF8512,00,FF852D,00
+2=Reptos,FF8510,01,FF8513,01,FF8512,01,FF852D,01
+3=Fordy,FF8510,02,FF8513,02,FF8512,02,FF852D,02
+4=Guldin,FF8510,03,FF8513,03,FF8512,03,FF852D,03
+5=Swordsman,FF8510,04,FF8513,04,FF8512,04,FF852D,04
+6=Lightning,FF8510,05,FF8513,05,FF8512,05,FF852D,05
+7=Jackal,FF8510,06,FF8513,06,FF8512,06,FF852D,06
+8=Vise,FF8510,07,FF8513,07,FF8512,07,FF852D,07
+9=Cyclone,FF8510,08,FF8513,08,FF8512,08,FF852D,08
+10=Riot,FF8510,09,FF8513,09,FF8512,09,FF852D,09
+11=Tarantula,FF8510,0A,FF8513,0A,FF8512,0A,FF852D,0A
+12=Helion,FF8510,0B,FF8513,0B,FF8512,0B,FF852D,0B
+13=Super-8,FF8510,0C,FF8513,0C,FF8512,0C,FF852D,0C
+14=Gaits,FF8510,0D,FF8513,0D,FF8512,0D,FF852D,0D
+15=Warlock,FF8510,0E,FF8513,0E,FF8512,0E,FF852D,0E
+16=Killer Bee,FF8510,0F,FF8513,0F,FF8512,0F,FF852D,0F
+Default=0
+
+[15]
+Name=Select Character PL1
+0=Disabled
+1=Jin,FF8511,00
+2=Santana,FF8511,01
+3=Mary,FF8511,02
+4=Arieta,FF8511,03
+5=Gawaine,FF8511,04
+6=Bao + Mao,FF8511,05
+7=Devilotte,FF8511,06
+8=Chiyomaru + Tessan,FF8511,07
+9=Shade,FF8511,08
+10=G. O. D.,FF8511,09
+Default=0
+
+[16]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF85E4,98
+Default=0
+
+[17]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,FF85E4,00
+Default=0
+
+[18]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,FF8935,3F
+Default=0
+
+[19]
+Name=Drain All Power Now! PL2
+0=Disabled
+1=Enabled,FF8935,00
+Default=0
+
+[20]
+Name=Infinite Arm Gauge PL2
+0=Disabled
+1=Enabled,FF870D,30
+Default=0
+
+[21]
+Name=Select Arm Gauge Regeneration Time PL2
+0=Disabled
+1=Instant,FF870C,FF
+2=Never,FF870C,00
+Default=0
+
+[22]
+Name=Arm VA Now! PL2
+0=Disabled
+1=Enabled,FF86AF,01
+Default=0
+
+[23]
+Name=Disarm VA Now! PL2
+0=Disabled
+1=Enabled,FF86AF,00
+Default=0
+
+[24]
+Name=Infinite Weapon PL2
+0=Disabled
+1=Enabled,FF870F,30,FF8711,30
+Default=0
+
+[25]
+Name=Infinite Boost PL2
+0=Disabled
+1=Enabled,FF870B,1D
+Default=0
+
+[26]
+Name=Select Perm Ride PL2
+0=Disabled
+1=Blodia,FF8910,00,FF8913,00,FF8912,00,FF892D,00
+2=Reptos,FF8910,01,FF8913,01,FF8912,01,FF892D,01
+3=Fordy,FF8910,02,FF8913,02,FF8912,02,FF892D,02
+4=Guldin,FF8910,03,FF8913,03,FF8912,03,FF892D,03
+5=Swordsman,FF8910,04,FF8913,04,FF8912,04,FF892D,04
+6=Lightning,FF8910,05,FF8913,05,FF8912,05,FF892D,05
+7=Jackal,FF8910,06,FF8913,06,FF8912,06,FF892D,06
+8=Vise,FF8910,07,FF8913,07,FF8912,07,FF892D,07
+9=Cyclone,FF8910,08,FF8913,08,FF8912,08,FF892D,08
+10=Riot,FF8910,09,FF8913,09,FF8912,09,FF892D,09
+11=Tarantula,FF8910,0A,FF8913,0A,FF8912,0A,FF892D,0A
+12=Helion,FF8910,0B,FF8913,0B,FF8912,0B,FF892D,0B
+13=Super-8,FF8910,0C,FF8913,0C,FF8912,0C,FF892D,0C
+14=Gaits,FF8910,0D,FF8913,0D,FF8912,0D,FF892D,0D
+15=Warlock,FF8910,0E,FF8913,0E,FF8912,0E,FF892D,0E
+16=Killer Bee,FF8910,0F,FF8913,0F,FF8912,0F,FF892D,0F
+Default=0
+
+[27]
+Name=Select Character PL1
+0=Disabled
+1=Jin,FF8911,00
+2=Santana,FF8911,01
+3=Mary,FF8911,02
+4=Arieta,FF8911,03
+5=Gawaine,FF8911,04
+6=Bao + Mao,FF8911,05
+7=Devilotte,FF8911,06
+8=Chiyomaru + Tessan,FF8911,07
+9=Shade,FF8911,08
+10=G. O. D.,FF8911,09
+Default=0
+
+[28]
+Name=Select Region
+0=Disabled
+1=Japan,FF80A1,00
+2=USA,FF80A1,02
+3=Asia,FF80A1,04
+4=Hispanic,FF80A1,06
+5=Euro,FF80A1,08
+6=Brazil,FF80A1,0A
+Default=0
+

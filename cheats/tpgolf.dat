@@ -1,0 +1,31 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10021A,3B
+Default=0
+
+[1]
+Name=Infinite Strokes
+0=Disabled
+1=Enabled,100107,01
+Default=0
+
+[2]
+Name=Infinite Holes PL1
+0=Disabled
+1=Enabled,10022D,63
+Default=0
+
+[3]
+Name=Infinite Holes PL2
+0=Disabled
+1=Enabled,1002AD,63
+Default=0
+
+[4]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,315 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF5009,99
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,FF5009,00
+Default=0
+
+[2]
+Name=Go to the Boss Battle Next!
+0=Disabled
+1=Enabled,FF5080,06
+Default=0
+
+[3]
+Name=Infinite Energy (Active Char) PL1
+0=Disabled
+1=Enabled,FF4210,90,FF421A,90
+Default=0
+
+[4]
+Name=Infinite Energy (Inactive Char) PL1
+0=Disabled
+1=Enabled,FF4A10,90,FF4A1A,90
+Default=0
+
+[5]
+Name=Drain All Energy Now! (Active Char) PL1
+0=Disabled
+1=Enabled,FF4210,00,FF421A,00
+Default=0
+
+[6]
+Name=Drain All Energy Now! (Inactive Char) PL1
+0=Disabled
+1=Enabled,FF4A10,00,FF4A1A,00
+Default=0
+
+[7]
+Name=Always Max Power PL1
+0=Disabled
+1=Enabled,FF4215,03,FF4212,90
+Default=0
+
+[8]
+Name=Always Min Power PL1
+0=Disabled
+1=Enabled,FF4215,00,FF4212,00
+Default=0
+
+[9]
+Name=Get Max Power PL1 Now!
+0=Disabled
+1=Enabled,FF4215,03,FF4212,90
+Default=0
+
+[10]
+Name=Get Min Power PL1 Now!
+0=Disabled
+1=Enabled,FF4215,00,FF4212,00
+Default=0
+
+[11]
+Name=Infinite Recovery Energy PL1
+0=Disabled
+1=Enabled,FF421A,90
+Default=0
+
+[12]
+Name=Hits always cause Max Damage PL1
+0=Disabled
+1=Enabled,FF4102,FF
+Default=0
+
+[13]
+Name=Play with Apocalypse PL1
+0=Disabled
+1=Enabled,FF4052,10,FF4852,10,FF50B0,10,FF50B2,10,FF5112,00
+Default=0
+
+[14]
+Name=Single Character Fighting Mode PL1
+0=Disabled
+1=Enabled,FF4A10,00,FF4A1A,00
+Default=0
+
+[15]
+Name=Select Character (Active Char) PL1
+0=Disabled
+1=Wolverine,FF4052,00
+2=Cyclops,FF4052,02
+3=Storm,FF4052,04
+4=Rogue,FF4052,06
+5=Gambit,FF4052,08
+6=Sabretooth,FF4052,0A
+7=Juggernaut,FF4052,0C
+8=Magneto,FF4052,0E
+9=#Apocalypse,FF4052,10
+10=Ryu,FF4052,12
+11=Ken Masters,FF4052,14
+12=Chun-Li,FF4052,16
+13=Dhalsim,FF4052,18
+14=Zangief,FF4052,1A
+15=M. Bison,FF4052,1C
+16=#Akuma,FF4052,1E
+17=Charlie,FF4052,20
+18=Cammy,FF4052,22
+19=#SFA-costume Chun-Li,FF4052,24
+Default=0
+
+[16]
+Name=Select Character (Inactive Char) PL1
+0=Disabled
+1=Wolverine,FF4852,00
+2=Cyclops,FF4852,02
+3=Storm,FF4852,04
+4=Rogue,FF4852,06
+5=Gambit,FF4852,08
+6=Sabretooth,FF4852,0A
+7=Juggernaut,FF4852,0C
+8=Magneto,FF4852,0E
+9=#Apocalypse,FF4852,10
+10=Ryu,FF4852,12
+11=Ken Masters,FF4852,14
+12=Chun-Li,FF4852,16
+13=Dhalsim,FF4852,18
+14=Zangief,FF4852,1A
+15=M. Bison,FF4852,1C
+16=#Akuma,FF4852,1E
+17=Charlie,FF4852,20
+18=Cammy,FF4852,22
+19=#SFA-costume Chun-Li,FF4852,24
+Default=0
+
+[17]
+Name=Select Rogue's Stolen Power PL1
+0=Disabled
+1=None,FF4343,FF,FF4342,FF
+2=Wolverine,FF4343,00,FF4342,00
+3=Cyclops,FF4343,00,FF4342,02
+4=Storm,FF4343,00,FF4342,04
+5=Gambit,FF4343,00,FF4342,08
+6=Sabretooth,FF4343,00,FF4342,0A
+7=Juggernaut,FF4343,00,FF4342,0C
+8=Magneto,FF4343,00,FF4342,0E
+9=Ryu,FF4343,00,FF4342,12
+10=Ken,FF4343,00,FF4342,14
+11=Chun-Li,FF4343,00,FF4342,16
+12=Dhalsim,FF4343,00,FF4342,18
+13=Zangief,FF4343,00,FF4342,1A
+14=Vega (M. Bison),FF4343,00,FF4342,1C
+15=Gouki (Akuma),FF4343,00,FF4342,1E
+16=Nash (Charlie),FF4343,00,FF4342,20
+17=Cammy,FF4343,00,FF4342,22
+18=Chun-Li (SFZ),FF4343,00,FF4342,24
+Default=0
+
+[18]
+Name=Infinite Energy (Active Char) PL2
+0=Disabled
+1=Enabled,FF4610,90,FF461A,90
+Default=0
+
+[19]
+Name=Infinite Energy (Inactive Char) PL2
+0=Disabled
+1=Enabled,FF4E10,90,FF4E1A,90
+Default=0
+
+[20]
+Name=Drain All Energy Now! (Active Char) PL2
+0=Disabled
+1=Enabled,FF4610,00,FF461A,00
+Default=0
+
+[21]
+Name=Drain All Energy Now! (Inactive Char) PL2
+0=Disabled
+1=Enabled,FF4E10,00,FF4E1A,00
+Default=0
+
+[22]
+Name=Always Max Power PL2
+0=Disabled
+1=Enabled,FF4615,03,FF4612,90
+Default=0
+
+[23]
+Name=Always Min Power PL2
+0=Disabled
+1=Enabled,FF4615,00,FF4612,00
+Default=0
+
+[24]
+Name=Get Max Power PL2 Now!
+0=Disabled
+1=Enabled,FF4615,03,FF4612,90
+Default=0
+
+[25]
+Name=Get Min Power PL2 Now!
+0=Disabled
+1=Enabled,FF4615,00,FF4612,00
+Default=0
+
+[26]
+Name=Infinite Recovery Energy PL2
+0=Disabled
+1=Enabled,FF461A,90
+Default=0
+
+[27]
+Name=Hits always cause Max Damage PL2
+0=Disabled
+1=Enabled,FF4502,FF
+Default=0
+
+[28]
+Name=Play with Apocalypse PL2
+0=Disabled
+1=Enabled,FF4452,10,FF4C52,10,FF50B4,10,FF50B6,10,FF5112,00
+Default=0
+
+[29]
+Name=Single Character Fighting Mode PL2
+0=Disabled
+1=Enabled,FF4E10,00,FF4E1A,00
+Default=0
+
+[30]
+Name=Select Character (Active Char) PL2
+0=Disabled
+1=Wolverine,FF4452,00
+2=Cyclops,FF4452,02
+3=Storm,FF4452,04
+4=Rogue,FF4452,06
+5=Gambit,FF4452,08
+6=Sabretooth,FF4452,0A
+7=Juggernaut,FF4452,0C
+8=Magneto,FF4452,0E
+9=#Apocalypse,FF4452,10
+10=Ryu,FF4452,12
+11=Ken Masters,FF4452,14
+12=Chun-Li,FF4452,16
+13=Dhalsim,FF4452,18
+14=Zangief,FF4452,1A
+15=M. Bison,FF4452,1C
+16=#Akuma,FF4452,1E
+17=Charlie,FF4452,20
+18=Cammy,FF4452,22
+19=#SFA-costume Chun-Li,FF4452,24
+Default=0
+
+[31]
+Name=Select Character (Inactive Char) PL2
+0=Disabled
+1=Wolverine,FF4C52,00
+2=Cyclops,FF4C52,02
+3=Storm,FF4C52,04
+4=Rogue,FF4C52,06
+5=Gambit,FF4C52,08
+6=Sabretooth,FF4C52,0A
+7=Juggernaut,FF4C52,0C
+8=Magneto,FF4C52,0E
+9=#Apocalypse,FF4C52,10
+10=Ryu,FF4C52,12
+11=Ken Masters,FF4C52,14
+12=Chun-Li,FF4C52,16
+13=Dhalsim,FF4C52,18
+14=Zangief,FF4C52,1A
+15=M. Bison,FF4C52,1C
+16=#Akuma,FF4C52,1E
+17=Charlie,FF4C52,20
+18=Cammy,FF4C52,22
+19=#SFA-costume Chun-Li,FF4C52,24
+Default=0
+
+[32]
+Name=Select Rogue's Stolen Power PL2
+0=Disabled
+1=None,FF4743,FF,FF4742,FF
+2=Wolverine,FF4743,00,FF4742,00
+3=Cyclops,FF4743,00,FF4742,02
+4=Storm,FF4743,00,FF4742,04
+5=Gambit,FF4743,00,FF4742,08
+6=Sabretooth,FF4743,00,FF4742,0A
+7=Juggernaut,FF4743,00,FF4742,0C
+8=Magneto,FF4743,00,FF4742,0E
+9=Ryu,FF4743,00,FF4742,12
+10=Ken,FF4743,00,FF4742,14
+11=Chun-Li,FF4743,00,FF4742,16
+12=Dhalsim,FF4743,00,FF4742,18
+13=Zangief,FF4743,00,FF4742,1A
+14=Vega (M. Bison),FF4743,00,FF4742,1C
+15=Gouki (Akuma),FF4743,00,FF4742,1E
+16=Nash (Charlie),FF4743,00,FF4742,20
+17=Cammy,FF4743,00,FF4742,22
+18=Chun-Li (SFZ),FF4743,00,FF4742,24
+Default=0
+
+[33]
+Name=Select Region
+0=Disabled
+1=Japan,FF5478,00
+2=USA,FF5478,02
+3=Hispanic,FF5478,04
+4=Asia,FF5478,06
+5=Euro,FF5478,08
+6=Brazil,FF5478,0A
+Default=0
+

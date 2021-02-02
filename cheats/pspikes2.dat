@@ -1,0 +1,67 @@
+[0]
+Name=Infinite Game Time
+0=Disabled
+1=Enabled,102B4A,3B,102B4C,3B
+Default=0
+
+[1]
+Name=Finish Game Now!
+0=Disabled
+1=Enabled,102B4C,01,102B4A,00
+Default=0
+
+[2]
+Name=Always Full Energy PL1
+0=Disabled
+1=Enabled,1018F8,60,102CD4,60
+Default=0
+
+[3]
+Name=Always have Max Power PL1
+0=Disabled
+1=Enabled,102CD8,30
+Default=0
+
+[4]
+Name=Always have Min Power PL1
+0=Disabled
+1=Enabled,102CD8,00
+Default=0
+
+[5]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,1018F8,00,102CD4,00
+Default=0
+
+[6]
+Name=Always Full Energy PL2
+0=Disabled
+1=Enabled,1018FA,60,102CD6,60
+Default=0
+
+[7]
+Name=Always have Max Power PL2
+0=Disabled
+1=Enabled,102CDA,30
+Default=0
+
+[8]
+Name=Always have Min Power PL2
+0=Disabled
+1=Enabled,102CDA,00
+Default=0
+
+[9]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,1018FA,00,102CD6,00
+Default=0
+
+[10]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

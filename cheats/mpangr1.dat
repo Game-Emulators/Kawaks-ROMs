@@ -1,0 +1,102 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8109,63,FF8108,3C
+Default=0
+
+[1]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,FF8127,09
+Default=0
+
+[2]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,FFA503,01
+Default=0
+
+[3]
+Name=Get Shield Now! PL1
+0=Disabled
+1=Enabled,FFA502,01
+Default=0
+
+[4]
+Name=Always Have Weapon PL1
+0=Disabled
+1=Normal,FFA50D,04
+2=Double Shot,FFA50D,00
+3=Sticky Shot,FFA50D,01
+4=Laser Gun,FFA50D,02
+Default=0
+
+[5]
+Name=Select Weapon Now! PL1
+0=Disabled
+1=Normal,FFA50D,04
+2=Double Shot,FFA50D,00
+3=Sticky Shot,FFA50D,01
+4=Laser Gun,FFA50D,02
+Default=0
+
+[6]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,FF8126,09
+Default=0
+
+[7]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,FFA5C3,01
+Default=0
+
+[8]
+Name=Get Shield Now! PL2
+0=Disabled
+1=Enabled,FFA5C2,01
+Default=0
+
+[9]
+Name=Always Have Weapon PL2
+0=Disabled
+1=Normal,FFA5CD,04
+2=Double Shot,FFA5CD,00
+3=Sticky Shot,FFA5CD,01
+4=Laser Gun,FFA5CD,02
+Default=0
+
+[10]
+Name=Select Weapon Now! PL2
+0=Disabled
+1=Normal,FFA5CD,04
+2=Double Shot,FFA5CD,00
+3=Sticky Shot,FFA5CD,01
+4=Laser Gun,FFA5CD,02
+Default=0
+
+[11]
+Name=Freeze Balls
+0=Disabled
+1=Enabled,FF810A,02
+Default=0
+
+[12]
+Name=Freeze Balls For 2 Sec Now!
+0=Disabled
+1=Enabled,FF810B,02
+Default=0
+
+[13]
+Name=Select Region
+0=Disabled
+1=Japan,FF80A0,00
+2=USA,FF80A0,02
+3=Hispanic,FF80A0,04
+4=Oceania,FF80A0,06
+5=Asia,FF80A0,08
+6=Euro,FF80A0,0A
+7=Brasil,FF80A0,0C
+Default=0
+

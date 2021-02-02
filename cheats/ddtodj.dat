@@ -1,0 +1,384 @@
+[0]
+Name=Infinite Energy 'ALL' PL1
+0=Disabled
+1=Enabled,FF8718,A0
+Default=0
+
+[1]
+Name=Infinite Gold 'ALL' PL1
+0=Disabled
+1=Enabled,FF874F,09,FF874E,99
+Default=0
+
+[2]
+Name=Infinite Dagger 'ALL' PL1
+0=Disabled
+1=Enabled,FF84A9,09
+Default=0
+
+[3]
+Name=Infinite Hammer 'ALL' PL1
+0=Disabled
+1=Enabled,FF84A8,09
+Default=0
+
+[4]
+Name=Infinite Arrows 'ALL' PL1
+0=Disabled
+1=Enabled,FF84AB,09
+Default=0
+
+[5]
+Name=Infinite Oil 'ALL' PL1
+0=Disabled
+1=Enabled,FF84AA,09
+Default=0
+
+[6]
+Name=Infinite Ring MM 'ALL' PL1
+0=Disabled
+1=Enabled,FF84AD,09
+Default=0
+
+[7]
+Name=Infinite Ring FB 'ALL' PL1
+0=Disabled
+1=Enabled,FF84AF,09
+Default=0
+
+[8]
+Name=Infinite Ring LB 'ALL' PL1
+0=Disabled
+1=Enabled,FF84AE,09
+Default=0
+
+[9]
+Name=Infinite Ring CL 'ALL' PL1
+0=Disabled
+1=Enabled,FF84B0,09
+Default=0
+
+[10]
+Name=Infinite Magic Missile 'ELF' PL1
+0=Disabled
+1=Enabled,FF84B9,09
+Default=0
+
+[11]
+Name=Infinite Invisibility 'ELF' PL1
+0=Disabled
+1=Enabled,FF84B8,09
+Default=0
+
+[12]
+Name=Infinite Fireball 'ELF' PL1
+0=Disabled
+1=Enabled,FF84BB,09
+Default=0
+
+[13]
+Name=Infinite Hold Person 'CLERIC' PL1
+0=Disabled
+1=Enabled,FF84B5,09
+Default=0
+
+[14]
+Name=Infinite Cont. Light 'CLERIC' PL1
+0=Disabled
+1=Enabled,FF84B4,09
+Default=0
+
+[15]
+Name=Infinite Striking 'CLERIC' PL1
+0=Disabled
+1=Enabled,FF84BE,09
+Default=0
+
+[16]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF8818,A0
+Default=0
+
+[17]
+Name=Infinite Gold PL2
+0=Disabled
+1=Enabled,FF884F,09,FF884E,99
+Default=0
+
+[18]
+Name=Infinite Dagger PL2
+0=Disabled
+1=Enabled,FF84E9,09
+Default=0
+
+[19]
+Name=Infinite Hammer PL2
+0=Disabled
+1=Enabled,FF84E8,09
+Default=0
+
+[20]
+Name=Infinite Arrows PL2
+0=Disabled
+1=Enabled,FF84EB,09
+Default=0
+
+[21]
+Name=Infinite Oil PL2
+0=Disabled
+1=Enabled,FF84EA,09
+Default=0
+
+[22]
+Name=Infinite Ring MM 'ALL' PL2
+0=Disabled
+1=Enabled,FF84ED,09
+Default=0
+
+[23]
+Name=Infinite Ring FB 'ALL' PL2
+0=Disabled
+1=Enabled,FF84EF,09
+Default=0
+
+[24]
+Name=Infinite Ring LB 'ALL' PL2
+0=Disabled
+1=Enabled,FF84EE,09
+Default=0
+
+[25]
+Name=Infinite Ring CL 'ALL' PL2
+0=Disabled
+1=Enabled,FF84F0,09
+Default=0
+
+[26]
+Name=Infinite Magic Missile 'ELF' PL2
+0=Disabled
+1=Enabled,FF84F9,09
+Default=0
+
+[27]
+Name=Infinite Invisibility 'ELF' PL2
+0=Disabled
+1=Enabled,FF84F8,09
+Default=0
+
+[28]
+Name=Infinite Fireball 'ELF' PL2
+0=Disabled
+1=Enabled,FF84FB,09
+Default=0
+
+[29]
+Name=Infinite Hold Person 'CLERIC' PL2
+0=Disabled
+1=Enabled,FF84F5,09
+Default=0
+
+[30]
+Name=Infinite Cont. Light 'CLERIC' PL2
+0=Disabled
+1=Enabled,FF84F4,09
+Default=0
+
+[31]
+Name=Infinite Striking 'CLERIC' PL2
+0=Disabled
+1=Enabled,FF84FE,09
+Default=0
+
+[32]
+Name=Infinite Energy PL3
+0=Disabled
+1=Enabled,FF8918,A0
+Default=0
+
+[33]
+Name=Infinite Gold PL3
+0=Disabled
+1=Enabled,FF894F,09,FF894E,99
+Default=0
+
+[34]
+Name=Infinite Dagger PL3
+0=Disabled
+1=Enabled,FF8529,09
+Default=0
+
+[35]
+Name=Infinite Hammer PL3
+0=Disabled
+1=Enabled,FF8528,09
+Default=0
+
+[36]
+Name=Infinite Arrows PL3
+0=Disabled
+1=Enabled,FF852B,09
+Default=0
+
+[37]
+Name=Infinite Oil PL3
+0=Disabled
+1=Enabled,FF852A,09
+Default=0
+
+[38]
+Name=Infinite Ring MM 'ALL' PL3
+0=Disabled
+1=Enabled,FF852D,09
+Default=0
+
+[39]
+Name=Infinite Ring FB 'ALL' PL3
+0=Disabled
+1=Enabled,FF852F,09
+Default=0
+
+[40]
+Name=Infinite Ring LB 'ALL' PL3
+0=Disabled
+1=Enabled,FF852E,09
+Default=0
+
+[41]
+Name=Infinite Ring CL 'ALL' PL3
+0=Disabled
+1=Enabled,FF8530,09
+Default=0
+
+[42]
+Name=Infinite Magic Missile 'ELF' PL3
+0=Disabled
+1=Enabled,FF8539,09
+Default=0
+
+[43]
+Name=Infinite Invisibility 'ELF' PL3
+0=Disabled
+1=Enabled,FF8538,09
+Default=0
+
+[44]
+Name=Infinite Fireball 'ELF' PL3
+0=Disabled
+1=Enabled,FF853B,09
+Default=0
+
+[45]
+Name=Infinite Hold Person 'CLERIC' PL3
+0=Disabled
+1=Enabled,FF8535,09
+Default=0
+
+[46]
+Name=Infinite Cont. Light 'CLERIC' PL3
+0=Disabled
+1=Enabled,FF8534,09
+Default=0
+
+[47]
+Name=Infinite Striking 'CLERIC' PL3
+0=Disabled
+1=Enabled,FF853E,09
+Default=0
+
+[48]
+Name=Infinite Energy PL4
+0=Disabled
+1=Enabled,FF8A18,A0
+Default=0
+
+[49]
+Name=Infinite Gold PL4
+0=Disabled
+1=Enabled,FF8A4F,09,FF8A4E,99
+Default=0
+
+[50]
+Name=Infinite Dagger PL4
+0=Disabled
+1=Enabled,FF8569,09
+Default=0
+
+[51]
+Name=Infinite Hammer PL4
+0=Disabled
+1=Enabled,FF8568,09
+Default=0
+
+[52]
+Name=Infinite Arrows PL4
+0=Disabled
+1=Enabled,FF856B,09
+Default=0
+
+[53]
+Name=Infinite Oil PL4
+0=Disabled
+1=Enabled,FF856A,09
+Default=0
+
+[54]
+Name=Infinite Ring MM 'ALL' PL4
+0=Disabled
+1=Enabled,FF856D,09
+Default=0
+
+[55]
+Name=Infinite Ring FB 'ALL' PL4
+0=Disabled
+1=Enabled,FF856F,09
+Default=0
+
+[56]
+Name=Infinite Ring LB 'ALL' PL4
+0=Disabled
+1=Enabled,FF856E,09
+Default=0
+
+[57]
+Name=Infinite Ring CL 'ALL' PL4
+0=Disabled
+1=Enabled,FF8570,09
+Default=0
+
+[58]
+Name=Infinite Magic Missile 'ELF' PL4
+0=Disabled
+1=Enabled,FF8579,09
+Default=0
+
+[59]
+Name=Infinite Invisibility 'ELF' PL4
+0=Disabled
+1=Enabled,FF8578,09
+Default=0
+
+[60]
+Name=Infinite Fireball 'ELF' PL4
+0=Disabled
+1=Enabled,FF857B,09
+Default=0
+
+[61]
+Name=Infinite Hold Person 'CLERIC' PL4
+0=Disabled
+1=Enabled,FF8575,09
+Default=0
+
+[62]
+Name=Infinite Cont. Light 'CLERIC' PL4
+0=Disabled
+1=Enabled,FF8574,09
+Default=0
+
+[63]
+Name=Infinite Striking 'CLERIC' PL4
+0=Disabled
+1=Enabled,FF857E,09
+Default=0
+

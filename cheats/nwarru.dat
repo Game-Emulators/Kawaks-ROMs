@@ -1,0 +1,241 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF81B3,09
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8E08,99
+Default=0
+
+[2]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,FF8E08,00
+Default=0
+
+[3]
+Name=Game Speed always =
+0=Disabled
+1=Normal,FF8212,00
+2=Turbo,FF8212,01
+Default=0
+
+[4]
+Name=Select Backdrop
+0=Disabled
+1=Demitri's,FF8D88,00
+2=Jon Talbain's,FF8D88,01
+3=Victor's,FF8D88,02
+4=Lord Raptor's,FF8D88,03
+5=Morrigan's,FF8D88,04
+6=Anakaris's,FF8D88,05
+7=Felicia's,FF8D88,06
+8=Bishamon's,FF8D88,07
+9=Rikuo's,FF8D88,08
+10=Sasquatch's,FF8D88,09
+11=Huitzil's,FF8D88,0A
+12=Pyron's,FF8D88,0B
+13=Hsien-Ko's,FF8D88,0C
+14=Donovan's,FF8D88,0D
+Default=0
+
+[5]
+Name=Select Starting Stage
+0=Disabled
+1=1,FF8843,00
+2=2,FF8843,01
+3=3,FF8843,02
+4=4,FF8843,03
+5=5,FF8843,04
+6=6,FF8843,05
+7=7,FF8843,06
+8=8,FF8843,07
+9=9,FF8843,08
+10=10,FF8843,09
+Default=0
+
+[6]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,FF83CA,00
+Default=0
+
+[7]
+Name=Infinite Special PL1
+0=Disabled
+1=Enabled,FF8564,0A,FF855E,70
+Default=0
+
+[8]
+Name=No Specials Available PL1
+0=Disabled
+1=Enabled,FF855C,00
+Default=0
+
+[9]
+Name=Select constant Attack Level PL1
+0=Disabled
+1=Low,FF83EC,00
+2=Medium,FF83EC,01
+3=High,FF83EC,02
+Default=0
+
+[10]
+Name=Infinite Auto Guard PL1
+0=Disabled
+1=Enabled,FF850C,01,FF884D,63
+Default=0
+
+[11]
+Name=Win this Round to Win Match Now! PL1
+0=Disabled
+1=Enabled,FF8831,02
+Default=0
+
+[12]
+Name=Action Speed Up PL1
+0=Disabled
+1=Enabled,FF8396,01
+Default=0
+
+[13]
+Name=Never be dazed PL1
+0=Disabled
+1=Enabled,FF83D2,00
+Default=0
+
+[14]
+Name=Select Character Now! PL1
+0=Disabled
+1=Demitri,FF8828,01
+2=Jon Talbain,FF8828,02
+3=Victor,FF8828,03
+4=Lord Raptor,FF8828,04
+5=Morrigan,FF8828,05
+6=Anakaris,FF8828,06
+7=Felicia,FF8828,07
+8=Bishamon,FF8828,08
+9=Rikuo,FF8828,09
+10=Sasquatch,FF8828,0A
+11=Huitzil,FF8828,0B
+12=Pyron,FF8828,0C
+13=Hsien-Ko,FF8828,0D
+14=Donovan,FF8828,0E
+Default=0
+
+[15]
+Name=Select Character Colour Now! PL1
+0=Disabled
+1=Colour 1,FF882E,00
+2=Colour 2,FF882E,01
+3=Colour 3,FF882E,02
+4=Colour 4,FF882E,03
+5=Colour 5,FF882E,04
+6=Colour 6,FF882E,05
+7=Colour 7,FF882E,06
+8=Colour 8,FF882E,07
+Default=0
+
+[16]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,FF88CA,00
+Default=0
+
+[17]
+Name=Infinite Special PL2
+0=Disabled
+1=Enabled,FF8A64,0A,FF8A5E,70
+Default=0
+
+[18]
+Name=No Specials Available PL2
+0=Disabled
+1=Enabled,FF8A5C,00
+Default=0
+
+[19]
+Name=Select constant Attack Level PL2
+0=Disabled
+1=Low,FF88EC,00
+2=Medium,FF88EC,01
+3=High,FF88EC,02
+Default=0
+
+[20]
+Name=Infinite Auto Guard PL2
+0=Disabled
+1=Enabled,FF8A0C,01,FF8D4D,63
+Default=0
+
+[21]
+Name=Win this Round to Win Match Now! PL2
+0=Disabled
+1=Enabled,FF8D31,02
+Default=0
+
+[22]
+Name=Action Speed Up PL2
+0=Disabled
+1=Enabled,FF8896,01
+Default=0
+
+[23]
+Name=Never be dazed PL2
+0=Disabled
+1=Enabled,FF88D2,00
+Default=0
+
+[24]
+Name=Select Character Now! PL2
+0=Disabled
+1=Demitri,FF8D28,01
+2=Jon Talbain,FF8D28,02
+3=Victor,FF8D28,03
+4=Lord Raptor,FF8D28,04
+5=Morrigan,FF8D28,05
+6=Anakaris,FF8D28,06
+7=Felicia,FF8D28,07
+8=Bishamon,FF8D28,08
+9=Rikuo,FF8D28,09
+10=Sasquatch,FF8D28,0A
+11=Huitzil,FF8D28,0B
+12=Pyron,FF8D28,0C
+13=Hsien-Ko,FF8D28,0D
+14=Donovan,FF8D28,0E
+Default=0
+
+[25]
+Name=Select Character Colour Now! PL2
+0=Disabled
+1=Colour 1,FF8D2E,00
+2=Colour 2,FF8D2E,01
+3=Colour 3,FF8D2E,02
+4=Colour 4,FF8D2E,03
+5=Colour 5,FF8D2E,04
+6=Colour 6,FF8D2E,05
+7=Colour 7,FF8D2E,06
+8=Colour 8,FF8D2E,07
+Default=0
+
+[26]
+Name=Select Region
+0=Disabled
+1=Japan,FF8204,00
+2=USA,FF8204,02
+3=Asia,FF8204,04
+4=Hispanic,FF8204,06
+5=Brazil,FF8204,08
+6=Euro,FF8204,0A
+Default=0
+
+[27]
+Name=Select Title
+0=Disabled
+1=Vampire Hunter,FF8215,00
+2=Night Warriors,FF8215,01
+Default=0
+

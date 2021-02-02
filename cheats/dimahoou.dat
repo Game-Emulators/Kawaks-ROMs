@@ -1,0 +1,84 @@
+[0]
+Name=Hidden characters 'ON'
+0=Disabled
+1=Enabled,928A8A,01
+Default=0
+
+[1]
+Name=Hidden characters 'OFF'
+0=Disabled
+1=Enabled,928A8A,00
+Default=0
+
+[2]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,92804F,09
+Default=0
+
+[3]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,92804E,09
+Default=0
+
+[4]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,FF10D4,03
+Default=0
+
+[5]
+Name=Maximum Power Charge PL1
+0=Disabled
+1=Enabled,92807B,2F
+Default=0
+
+[6]
+Name=Maximum Fire Power (Buggy) PL1
+0=Disabled
+1=Enabled,FF10F8,05
+Default=0
+
+[7]
+Name=Maximum Magic Power PL1
+0=Disabled
+1=Enabled,FF109C,03
+Default=0
+
+[8]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,92814F,09
+Default=0
+
+[9]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,92814E,09
+Default=0
+
+[10]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,FF1CD4,03
+Default=0
+
+[11]
+Name=Maximum Power Charge PL2
+0=Disabled
+1=Enabled,92817B,2F
+Default=0
+
+[12]
+Name=Maximum Fire Power (Buggy) PL2
+0=Disabled
+1=Enabled,FF1CF8,05
+Default=0
+
+[13]
+Name=Maximum Magic Power PL2
+0=Disabled
+1=Enabled,FF1C9C,03
+Default=0
+

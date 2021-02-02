@@ -1,0 +1,166 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF84E8,09
+Default=0
+
+[1]
+Name=Infinite Character Select Time
+0=Disabled
+1=Enabled,FF8634,0A
+Default=0
+
+[2]
+Name=Select Starting Episode
+0=Disabled
+1=1,FF84D8,00
+2=2,FF84D8,01
+3=3,FF84D8,02
+4=4,FF84D8,03
+5=5,FF84D8,04
+6=6,FF84D8,05
+7=7,FF84D8,06
+8=8,FF84D8,07
+Default=0
+
+[3]
+Name=Kill Vice T. with 1 hit Now!
+0=Disabled
+1=Enabled,FFDCA1,00,FFDCA0,01
+Default=0
+
+[4]
+Name=Kill Butcher with 1 hit Now!
+0=Disabled
+1=Enabled,FFDCA1,00,FFDCA0,01
+Default=0
+
+[5]
+Name=Kill Hogg with 1 hit Now!
+0=Disabled
+1=Enabled,FFD3E1,00,FFD3E0,01
+Default=0
+
+[6]
+Name=Kill Slice with 1 hit Now!
+0=Disabled
+1=Enabled,FFDAE1,00,FFDAE0,01
+Default=0
+
+[7]
+Name=Kill Morgan/Morgue with 1 hit Now!
+0=Disabled
+1=Enabled,FFDCA1,00,FFDCA0,01
+Default=0
+
+[8]
+Name=Kill Tyrog with 1 hit Now!
+0=Disabled
+1=Enabled,FFDCA1,00,FFDCA0,01
+Default=0
+
+[9]
+Name=Kill Slisaur 1 with 1 hit Now!
+0=Disabled
+1=Enabled,FFD681,00,FFD680,01
+Default=0
+
+[10]
+Name=Kill Slisaur 2 with 1 hit Now!
+0=Disabled
+1=Enabled,FFD5A1,00,FFD5A0,01
+Default=0
+
+[11]
+Name=Kill the one headed Fessenden with 1 hit Now!
+0=Disabled
+1=Enabled,FFD921,00,FFD920,01
+Default=0
+
+[12]
+Name=Kill the several headed Fessenden with 1 hit Now!
+0=Disabled
+1=Enabled,FFD4C1,00,FFD4C0,01
+Default=0
+
+[13]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,FFB316,03
+Default=0
+
+[14]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FFB2E0,64
+Default=0
+
+[15]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,FFB275,02,FFB361,00,FFB360,02
+Default=0
+
+[16]
+Name=Select Character PL1
+0=Disabled
+1=Jack.T,FFB276,00,FF863B,00
+2=Hannah.D,FFB276,02,FF863B,01
+3=Mustapha.C,FFB276,01,FF863B,02
+4=Mess.O,FFB276,03,FF863B,03
+Default=0
+
+[17]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,FFB496,03
+Default=0
+
+[18]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FFB460,64
+Default=0
+
+[19]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,FFB3F5,02,FFB4E1,00,FFB4E0,02
+Default=0
+
+[20]
+Name=Select Character PL2
+0=Disabled
+1=Jack.T,FFB3F6,00,FF8647,00
+2=Hannah.D,FFB3F6,02,FF8647,01
+3=Mustapha.C,FFB3F6,01,FF8647,02
+4=Mess.O,FFB3F6,03,FF8647,03
+Default=0
+
+[21]
+Name=Infinite Lives PL3
+0=Disabled
+1=Enabled,FFB616,03
+Default=0
+
+[22]
+Name=Infinite Energy PL3
+0=Disabled
+1=Enabled,FFB5E0,64
+Default=0
+
+[23]
+Name=Invincibility PL3
+0=Disabled
+1=Enabled,FFB575,02,FFB661,00,FFB660,02
+Default=0
+
+[24]
+Name=Select Character PL3
+0=Disabled
+1=Jack.T,FFB576,00,FF8653,00
+2=Hannah.D,FFB576,02,FF8653,01
+3=Mustapha.C,FFB576,01,FF8653,02
+4=Mess.O,FFB576,03,FF8653,03
+Default=0
+

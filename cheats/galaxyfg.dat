@@ -1,0 +1,79 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,101253,FF,101252,DB
+Default=0
+
+[1]
+Name=Fight Yacopu [First Boss] Now!
+0=Disabled
+1=Enabled,105C48,08
+Default=0
+
+[2]
+Name=Fight Felden [Final Boss] Now!
+0=Disabled
+1=Enabled,105C48,09
+Default=0
+
+[3]
+Name=Fight Rouwe [Secret Boss] Now!
+0=Disabled
+1=Enabled,105C48,0A
+Default=0
+
+[4]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10103D,FF
+Default=0
+
+[5]
+Name=Drain all Energy Now! PL1
+0=Disabled
+1=Enabled,10103D,00
+Default=0
+
+[6]
+Name=Play with Felden PL1
+0=Disabled
+1=Enabled,105C7E,03
+Default=0
+
+[7]
+Name=Play with Rouwe PL1
+0=Disabled
+1=Enabled,105C7E,0B
+Default=0
+
+[8]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,101153,FF
+Default=0
+
+[9]
+Name=Drain all Energy Now! PL2
+0=Disabled
+1=Enabled,101153,00
+Default=0
+
+[10]
+Name=Play with Felden PL2
+0=Disabled
+1=Enabled,105C80,03
+Default=0
+
+[11]
+Name=Play with Rouwe PL2
+0=Disabled
+1=Enabled,105C80,0B
+Default=0
+
+[12]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

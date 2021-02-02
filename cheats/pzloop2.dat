@@ -1,0 +1,31 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF80B1,09
+Default=0
+
+[1]
+Name=Always Have Slow Speed
+0=Disabled
+1=Enabled,FF96C9,00,FF96C8,02
+Default=0
+
+[2]
+Name=Always Have Time Stop
+0=Disabled
+1=Enabled,FF96C7,00,FF96C6,02
+Default=0
+
+[3]
+Name=Select Ball
+0=Disabled
+1=Red,FF98D5,00,FF98F9,00
+2=Blue,FF98D5,01,FF98F9,01
+3=Green,FF98D5,02,FF98F9,02
+4=Yellow,FF98D5,03,FF98F9,03
+5=Orange,FF98D5,04,FF98F9,04
+6=Purple,FF98D5,05,FF98F9,05
+7=Light Blue,FF98D5,06,FF98F9,06
+8=Black,FF98D5,07,FF98F9,07
+Default=0
+

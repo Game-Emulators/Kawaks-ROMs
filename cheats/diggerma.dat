@@ -1,0 +1,36 @@
+[0]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,102092,04
+Default=0
+
+[1]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,102090,A0
+Default=0
+
+[2]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,10219E,03
+Default=0
+
+[3]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,1020AE,04
+Default=0
+
+[4]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,1020AC,A0
+Default=0
+
+[5]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,1021A0,03
+Default=0
+

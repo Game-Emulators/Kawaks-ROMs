@@ -1,0 +1,61 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10092B,99
+Default=0
+
+[1]
+Name=Finish Round Now!
+0=Disabled
+1=Enabled,10092B,00
+Default=0
+
+[2]
+Name=Unlock Ryo Sakazaki
+0=Disabled
+1=Enabled,10E062,FF
+Default=0
+
+[3]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10049B,60
+Default=0
+
+[4]
+Name=Drain all Energy Now! PL1
+0=Disabled
+1=Enabled,10049B,00
+Default=0
+
+[5]
+Name=Play with Ryo Sakazaki PL1
+0=Disabled
+1=Enabled,101E92,10
+Default=0
+
+[6]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,10059B,60
+Default=0
+
+[7]
+Name=Drain all Energy Now! PL2
+0=Disabled
+1=Enabled,10059B,00
+Default=0
+
+[8]
+Name=Play with Ryo Sakazaki PL2
+0=Disabled
+1=Enabled,101F92,10
+Default=0
+
+[9]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,649 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF4009,99
+Default=0
+
+[1]
+Name=Infinite Char Select Time
+0=Disabled
+1=Enabled,FF416F,13
+Default=0
+
+[2]
+Name=Select Backdrop Now!
+0=Disabled
+1=1,FF4112,00
+2=2,FF4112,01
+3=3,FF4112,02
+4=4,FF4112,03
+5=5,FF4112,04
+6=6,FF4112,05
+7=7,FF4112,06
+8=8,FF4112,07
+9=9,FF4112,08
+10=10,FF4112,09
+Default=0
+
+[3]
+Name=Select Current Stage Now!
+0=Disabled
+1=1,FF4080,00
+2=2,FF4080,01
+3=3,FF4080,02
+4=4,FF4080,03
+5=5,FF4080,04
+6=6,FF4080,05
+7=7,FF4080,06
+8=8,FF4080,07
+9=9,FF4080,08
+10=10,FF4080,09
+Default=0
+
+[4]
+Name=Go to Final Stage Now!
+0=Disabled
+1=Enabled,FF4080,09
+Default=0
+
+[5]
+Name=Infinite Energy (1st Char) PL1
+0=Disabled
+1=Enabled,FF3270,90,FF327A,90
+Default=0
+
+[6]
+Name=Drain All Energy (1st Char) Now! PL1
+0=Disabled
+1=Enabled,FF3270,00,FF327A,00
+Default=0
+
+[7]
+Name=Infinite Energy (2nd Char) PL1
+0=Disabled
+1=Enabled,FF3A70,90,FF3A7A,90
+Default=0
+
+[8]
+Name=Drain All Energy (2nd Char) Now! PL1
+0=Disabled
+1=Enabled,FF3A70,00,FF3A7A,00
+Default=0
+
+[9]
+Name=Infinite Strikers PL1
+0=Disabled
+1=Enabled,FF32C7,09
+Default=0
+
+[10]
+Name=Always have Max Super PL1
+0=Disabled
+1=Enabled,FF3275,03,FF3A75,03
+Default=0
+
+[11]
+Name=Enable All Chars PL1
+0=Disabled
+1=Enabled,FF4198,40
+Default=0
+
+[12]
+Name=Select 1st Char PL1
+0=Disabled
+1=War Machine,FF3052,02
+2=Captain America,FF3052,04
+3=Hulk,FF3052,06
+4=Wolverine,FF3052,08
+5=Gambit,FF3052,0A
+6=Venom,FF3052,0C
+7=Spider-Man,FF3052,0E
+8=Roll,FF3052,10
+9=Ryu,FF3052,12
+10=Captain Commando,FF3052,14
+11=Chun-Li,FF3052,16
+12=Jin,FF3052,18
+13=Zangeif,FF3052,1A
+14=Strider Hiryu,FF3052,1C
+15=Morrigan,FF3052,1E
+16=Rockman,FF3052,20
+17=Onslaught,FF3052,22
+18=Alt-Venom,FF3052,24
+19=Alt-Hulk,FF3052,26
+20=Alt-War-Machine,FF3052,28
+21=Shadow Lady,FF3052,2A
+22=Alt-Morrigan,FF3052,2C
+Default=0
+
+[13]
+Name=Select 2nd Char PL1
+0=Disabled
+1=War Machine,FF3852,02
+2=Captain America,FF3852,04
+3=Hulk,FF3852,06
+4=Wolverine,FF3852,08
+5=Gambit,FF3852,0A
+6=Venom,FF3852,0C
+7=Spider-Man,FF3852,0E
+8=Roll,FF3852,10
+9=Ryu,FF3852,12
+10=Captain Commando,FF3852,14
+11=Chun-Li,FF3852,16
+12=Jin,FF3852,18
+13=Zangeif,FF3852,1A
+14=Strider Hiryu,FF3852,1C
+15=Morrigan,FF3852,1E
+16=Rockman,FF3852,20
+17=Onslaught,FF3852,22
+18=Alt-Venom,FF3852,24
+19=Alt-Hulk,FF3852,26
+20=Alt-War-Machine,FF3852,28
+21=Shadow Lady,FF3852,2A
+22=Alt-Morrigan,FF3852,2C
+Default=0
+
+[14]
+Name=Select Partner PL1
+0=Disabled
+1=Unknown Soldier,FF40D8,18
+2=Lou,FF40D8,00
+3=Arthur,FF40D8,20
+4=Saki,FF40D8,24
+5=Ton Pooh,FF40D8,1C
+6=Devilot,FF40D8,48
+7=Anita,FF40D8,44
+8=Pure + Fur,FF40D8,3C
+9=Miechele Heart,FF40D8,28
+10=Thor,FF40D8,2C
+11=Cyclops,FF40D8,10
+12=Magneto,FF40D8,08
+13=Storm,FF40D8,30
+14=Jubilee,FF40D8,4C
+15=Rogue,FF40D8,34
+16=Psylocke,FF40D8,0C
+17=Juggernaut,FF40D8,04
+18=Iceman,FF40D8,38
+19=Colossus,FF40D8,14
+20=U.S. Agent,FF40D8,40
+21=Shadow,FF40D8,50
+22=Sentinel,FF40D8,54
+Default=0
+
+[15]
+Name=Select Attacks (1st Char) Now! PL1
+0=Disabled
+1=Ryu's Attacks,FF30E7,1A,FF32CB,87,FF32CA,C4,FF3384,00
+2=Ken's Attacks,FF30E7,30,FF32CB,EC,FF32CA,44,FF3384,02
+3=Akuma's Attacks,FF30E7,32,FF32CB,ED,FF32CA,04,FF3384,04
+Default=0
+
+[16]
+Name=Play as Onslaught in Vs. Mode PL1
+0=Disabled
+1=Enabled,FF40B0,22,FF40B2,22,FF3002,01,FF3802,01,FF415F,22,FF415E,22
+Default=0
+
+[17]
+Name=Infinite Duo Time PL1
+0=Disabled
+1=Enabled,FF4034,8F,FF4035,02
+Default=0
+
+[18]
+Name=Infinite Air Jump (1st Char) PL1
+0=Disabled
+1=Enabled,FF3153,00
+Default=0
+
+[19]
+Name=Infinite Air Jump (2nd Char) PL1
+0=Disabled
+1=Enabled,FF3953,00
+Default=0
+
+[20]
+Name=Action Speed Up (1st Char) PL1
+0=Disabled
+1=Enabled,FF303E,01
+Default=0
+
+[21]
+Name=Action Speed Up (2nd Char) PL1
+0=Disabled
+1=Enabled,FF383E,01
+Default=0
+
+[22]
+Name=No Chain Limit (1st Char) PL1
+0=Disabled
+1=Enabled,FF30B6,01
+Default=0
+
+[23]
+Name=No Chain Limit (2nd Char) PL1
+0=Disabled
+1=Enabled,FF38B6,01
+Default=0
+
+[24]
+Name=No Hit Stop (1st Char) PL1
+0=Disabled
+1=Enabled,FF3084,00
+Default=0
+
+[25]
+Name=No Hit Stop (2nd Char) PL1
+0=Disabled
+1=Enabled,FF3884,00
+Default=0
+
+[26]
+Name=Select Control (1st Char) PL1
+0=Disabled
+1=Human Control,FF3002,01
+2=CPU Control,FF3002,00
+Default=0
+
+[27]
+Name=Select Control (2nd Char) PL1
+0=Disabled
+1=Human Control,FF3802,01
+2=CPU Control,FF3802,00
+Default=0
+
+[28]
+Name=Select Colours (1st Char) PL1
+0=Disabled
+1=P colours,FF3276,00
+2=K colours,FF3276,01
+Default=0
+
+[29]
+Name=Select Colours (2nd Char) PL1
+0=Disabled
+1=P colours,FF3A76,00
+2=K colours,FF3A76,01
+Default=0
+
+[30]
+Name=Select Helper 1 Colour PL1
+0=Disabled
+1=Colour 1,FF3094,00
+2=Colour 2,FF3094,01
+Default=0
+
+[31]
+Name=Select Helper 2 Colour PL1
+0=Disabled
+1=Colour 1,FF3894,00
+2=Colour 2,FF3894,01
+Default=0
+
+[32]
+Name=Select Shield (1st Char) PL1
+0=Disabled
+1=Enabled,FF33B5,00
+2=Disabled,FF33B5,01
+Default=0
+
+[33]
+Name=Select Shield (2nd Char) PL1
+0=Disabled
+1=Enabled,FF3BB5,00
+2=Disabled,FF3BB5,01
+Default=0
+
+[34]
+Name=Select Charge Type (1st Char) PL1
+0=Disabled
+1=No Charge,FF3191,00
+2=Controllable Auto Shot,FF3191,04
+3=Auto Shot,FF3191,06
+Default=0
+
+[35]
+Name=Select Charge Type (2nd Char) PL1
+0=Disabled
+1=No Charge,FF3991,00
+2=Controllable Auto Shot,FF3991,04
+3=Auto Shot,FF3991,06
+Default=0
+
+[36]
+Name=Infinite Beat Plane + Rush Drill Time PL1
+0=Disabled
+1=Enabled,FF339E,B4,FF3B9E,B4
+Default=0
+
+[37]
+Name=Select 1st Char Weapon PL1
+0=Disabled
+1=Rock Ball,FF3380,00
+2=Tornado Hold,FF3380,02
+3=Leaf Shield,FF3380,04
+4=Invisible Leaf Shield,FF3380,04,FF33AA,01
+Default=0
+
+[38]
+Name=Select 2nd Char Weapon PL1
+0=Disabled
+1=Rock Ball,FF3B80,00
+2=Tornado Hold,FF3B80,02
+3=Leaf Shield,FF3B80,04
+4=Invisible Leaf Shield,FF3B80,04,FF3BAA,01
+Default=0
+
+[39]
+Name=Infinite Heki Hari Tsuki Time for Strider Hiryu PL1
+0=Disabled
+1=Enabled,FF304F,01,FF304E,28,FF384F,01,FF384E,28
+Default=0
+
+[40]
+Name=Infinite Hikou Time for War Machine PL1
+0=Disabled
+1=Enabled,FF33C1,01,FF33C0,DE,FF3BC1,01,FF3BC0,DE
+Default=0
+
+[41]
+Name=Infinite Energy (1st Char) PL2
+0=Disabled
+1=Enabled,FF3670,90,FF367A,90
+Default=0
+
+[42]
+Name=Drain All Energy (1st Char) Now! PL2
+0=Disabled
+1=Enabled,FF3670,00,FF367A,00
+Default=0
+
+[43]
+Name=Infinite Energy (2nd Char) PL2
+0=Disabled
+1=Enabled,FF3E70,90,FF3E7A,90
+Default=0
+
+[44]
+Name=Drain All Energy (2nd Char) Now! PL2
+0=Disabled
+1=Enabled,FF3E70,00,FF3E7A,00
+Default=0
+
+[45]
+Name=Infinite Strikers PL2
+0=Disabled
+1=Enabled,FF36C7,09
+Default=0
+
+[46]
+Name=Always have Max Super PL2
+0=Disabled
+1=Enabled,FF3675,03,FF3E75,03
+Default=0
+
+[47]
+Name=Enable All Chars PL2
+0=Disabled
+1=Enabled,FF41C8,40
+Default=0
+
+[48]
+Name=Select 1st Char PL2
+0=Disabled
+1=War Machine,FF3452,02
+2=Captain America,FF3452,04
+3=Hulk,FF3452,06
+4=Wolverine,FF3452,08
+5=Gambit,FF3452,0A
+6=Venom,FF3452,0C
+7=Spider-Man,FF3452,0E
+8=Roll,FF3452,10
+9=Ryu,FF3452,12
+10=Captain Commando,FF3452,14
+11=Chun-Li,FF3452,16
+12=Jin,FF3452,18
+13=Zangeif,FF3452,1A
+14=Strider Hiryu,FF3452,1C
+15=Morrigan,FF3452,1E
+16=Rockman,FF3452,20
+17=Onslaught,FF3452,22
+18=Alt-Venom,FF3452,24
+19=Alt-Hulk,FF3452,26
+20=Alt-War-Machine,FF3452,28
+21=Shadow Lady,FF3452,2A
+22=Alt-Morrigan,FF3452,2C
+Default=0
+
+[49]
+Name=Select 2nd Char PL2
+0=Disabled
+1=War Machine,FF3C52,02
+2=Captain America,FF3C52,04
+3=Hulk,FF3C52,06
+4=Wolverine,FF3C52,08
+5=Gambit,FF3C52,0A
+6=Venom,FF3C52,0C
+7=Spider-Man,FF3C52,0E
+8=Roll,FF3C52,10
+9=Ryu,FF3C52,12
+10=Captain Commando,FF3C52,14
+11=Chun-Li,FF3C52,16
+12=Jin,FF3C52,18
+13=Zangeif,FF3C52,1A
+14=Strider Hiryu,FF3C52,1C
+15=Morrigan,FF3C52,1E
+16=Rockman,FF3C52,20
+17=Onslaught,FF3C52,22
+18=Alt-Venom,FF3C52,24
+19=Alt-Hulk,FF3C52,26
+20=Alt-War-Machine,FF3C52,28
+21=Shadow Lady,FF3C52,2A
+22=Alt-Morrigan,FF3C52,2C
+Default=0
+
+[50]
+Name=Select Partner PL2
+0=Disabled
+1=Unknown Soldier,FF40DA,18
+2=Lou,FF40DA,00
+3=Arthur,FF40DA,20
+4=Saki,FF40DA,24
+5=Ton Pooh,FF40DA,1C
+6=Devilot,FF40DA,48
+7=Anita,FF40DA,44
+8=Pure + Fur,FF40DA,3C
+9=Miechele Heart,FF40DA,28
+10=Thor,FF40DA,2C
+11=Cyclops,FF40DA,10
+12=Magneto,FF40DA,08
+13=Storm,FF40DA,30
+14=Jubilee,FF40DA,4C
+15=Rogue,FF40DA,34
+16=Psylocke,FF40DA,0C
+17=Juggernaut,FF40DA,04
+18=Iceman,FF40DA,38
+19=Colossus,FF40DA,14
+20=U.S. Agent,FF40DA,40
+21=Shadow,FF40DA,50
+22=Sentinel,FF40DA,54
+Default=0
+
+[51]
+Name=Play as Onslaught in Vs. Mode PL2
+0=Disabled
+1=Enabled,FF40B4,22,FF40B6,22,FF3402,01,FF3C02,01,FF415F,22,FF415E,22
+Default=0
+
+[52]
+Name=Infinite Duo Time PL2
+0=Disabled
+1=Enabled,FF4434,8F,FF4435,02
+Default=0
+
+[53]
+Name=Infinite Air Jump (1st Char) PL2
+0=Disabled
+1=Enabled,FF3453,00
+Default=0
+
+[54]
+Name=Infinite Air Jump (2nd Char) PL2
+0=Disabled
+1=Enabled,FF3D53,00
+Default=0
+
+[55]
+Name=Action Speed Up (1st Char) PL2
+0=Disabled
+1=Enabled,FF343E,01
+Default=0
+
+[56]
+Name=Action Speed Up (2nd Char) PL2
+0=Disabled
+1=Enabled,FF3C3E,01
+Default=0
+
+[57]
+Name=No Chain Limit (1st Char) PL2
+0=Disabled
+1=Enabled,FF34B6,01
+Default=0
+
+[58]
+Name=No Chain Limit (2nd Char) PL2
+0=Disabled
+1=Enabled,FF3CB6,01
+Default=0
+
+[59]
+Name=No Hit Stop (1st Char) PL2
+0=Disabled
+1=Enabled,FF3484,00
+Default=0
+
+[60]
+Name=No Hit Stop (2nd Char) PL2
+0=Disabled
+1=Enabled,FF3C84,00
+Default=0
+
+[61]
+Name=Select Control (1st Char) PL2
+0=Disabled
+1=Human Control,FF3402,01
+2=CPU Control,FF3402,00
+Default=0
+
+[62]
+Name=Select Control (2nd Char) PL2
+0=Disabled
+1=Human Control,FF3C02,01
+2=CPU Control,FF3C02,00
+Default=0
+
+[63]
+Name=Select Colours (1st Char) PL2
+0=Disabled
+1=P colours,FF3676,00
+2=K colours,FF3676,01
+Default=0
+
+[64]
+Name=Select Colours (2nd Char) PL2
+0=Disabled
+1=P colours,FF3E76,00
+2=K colours,FF3E76,01
+Default=0
+
+[65]
+Name=Select Helper 1 Colour PL2
+0=Disabled
+1=Colour 1,FF3494,00
+2=Colour 2,FF3494,01
+Default=0
+
+[66]
+Name=Select Helper 2 Colour PL2
+0=Disabled
+1=Colour 1,FF3C94,00
+2=Colour 2,FF3C94,01
+Default=0
+
+[67]
+Name=Select Shield (1st Char) PL2
+0=Disabled
+1=Enabled,FF37B5,00
+2=Disabled,FF37B5,01
+Default=0
+
+[68]
+Name=Select Shield (2nd Char) PL2
+0=Disabled
+1=Enabled,FF3FB5,00
+2=Disabled,FF3FB5,01
+Default=0
+
+[69]
+Name=Select Charge Type (1st Char) PL2
+0=Disabled
+1=No Charge,FF3591,00
+2=Controllable Auto Shot,FF3591,04
+3=Auto Shot,FF3591,06
+Default=0
+
+[70]
+Name=Select Charge Type (2nd Char) PL2
+0=Disabled
+1=No Charge,FF3D91,00
+2=Controllable Auto Shot,FF3D91,04
+3=Auto Shot,FF3D91,06
+Default=0
+
+[71]
+Name=Infinite Beat Plane + Rush Drill Time PL2
+0=Disabled
+1=Enabled,FF379E,B4,FF3F9E,B4
+Default=0
+
+[72]
+Name=Select 1st Char Weapon PL2
+0=Disabled
+1=Rock Ball,FF3780,00
+2=Tornado Hold,FF3780,02
+3=Leaf Shield,FF3780,04
+4=Invisible Leaf Shield,FF3780,04,FF37AA,01
+Default=0
+
+[73]
+Name=Select 2nd Char Weapon PL2
+0=Disabled
+1=Rock Ball,FF3F80,00
+2=Tornado Hold,FF3F80,02
+3=Leaf Shield,FF3F80,04
+4=Invisible Leaf Shield,FF3F80,04,FF3FAA,01
+Default=0
+
+[74]
+Name=Infinite Heki Hari Tsuki Time for Strider Hiryu PL2
+0=Disabled
+1=Enabled,FF344F,01,FF344E,28,FF3C4F,01,FF3C4E,28
+Default=0
+
+[75]
+Name=Infinite Hikou Time for War Machine PL2
+0=Disabled
+1=Enabled,FF37C1,01,FF37C0,DE,FF3FC1,01,FF3FC0,DE
+Default=0
+
+[76]
+Name=Select Region
+0=Disabled
+1=Japan,FF44B2,00
+2=USA,FF44B2,02
+3=Euro,FF44B2,04
+4=Brazil,FF44B2,06
+5=Hispanic,FF44B2,08
+6=Asia,FF44B2,0A
+Default=0
+

@@ -1,0 +1,129 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10ED61,99
+Default=0
+
+[1]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,100A88,09
+Default=0
+
+[2]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,10EDF0,63
+Default=0
+
+[3]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,100D16,40
+Default=0
+
+[4]
+Name=Invincibility (Fix Final Stage) PL1
+0=Disabled
+1=Enabled,100D40,01
+Default=0
+
+[5]
+Name=Infinite Arms PL1
+0=Disabled
+1=Enabled,10EDF7,FF,10EDF6,FF
+Default=0
+
+[6]
+Name=Select Weapon PL1
+0=Disabled
+1=Normal Gun,10EDEF,00
+2=Shotgun,10EDEF,02
+3=Rocket Launcher,10EDEF,03
+4=Flame Shot,10EDEF,04
+5=Heavy Machine Gun,10EDEF,05
+6=Laser Gun,10EDEF,06
+7=Big Shotgun,10EDEF,07
+8=Big Rocket Launcher,10EDEF,08
+9=Big Flame Shot,10EDEF,09
+10=Big Heavy Machine Gun,10EDEF,0A
+11=Big Laser Gun,10EDEF,0B
+12=Enemy Chaser,10EDEF,0C
+13=Iron Lizard,10EDEF,0D
+14=Drop Shot,10EDEF,0E
+15=Two Machine Gun,10EDEF,12
+Default=0
+
+[7]
+Name=Select Bomb PL1
+0=Disabled
+1=Normal,10EDF1,01
+2=Fire,10EDF1,02
+3=Rock,10EDF1,03
+Default=0
+
+[8]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,100B38,09
+Default=0
+
+[9]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,10EE00,63
+Default=0
+
+[10]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,100DC6,40
+Default=0
+
+[11]
+Name=Invincibility (Fix Final Stage) PL2
+0=Disabled
+1=Enabled,100DF0,01
+Default=0
+
+[12]
+Name=Infinite Arms PL2
+0=Disabled
+1=Enabled,10EE07,FF,10EE06,FF
+Default=0
+
+[13]
+Name=Select Weapon PL2
+0=Disabled
+1=Normal Gun,10EE03,00
+2=Shotgun,10EE03,02
+3=Rocket Launcher,10EE03,03
+4=Flame Shot,10EE03,04
+5=Heavy Machine Gun,10EE03,05
+6=Laser Gun,10EE03,06
+7=Big Shotgun,10EE03,07
+8=Big Rocket Launcher,10EE03,08
+9=Big Flame Shot,10EE03,09
+10=Big Heavy Machine Gun,10EE03,0A
+11=Big Laser Gun,10EE03,0B
+12=Enemy Chaser,10EE03,0C
+13=Iron Lizard,10EE03,0D
+14=Drop Shot,10EE03,0E
+15=Two Machine Gun,10EE03,12
+Default=0
+
+[14]
+Name=Select Bomb PL2
+0=Disabled
+1=Normal,10EE01,01
+2=Fire,10EE01,02
+3=Rock,10EE01,03
+Default=0
+
+[15]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

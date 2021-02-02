@@ -1,0 +1,93 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,108F7A,99
+Default=0
+
+[1]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,10905A,03
+Default=0
+
+[2]
+Name=Infinite Grenades PL1
+0=Disabled
+1=Enabled,10901E,0A
+Default=0
+
+[3]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,100126,FF
+Default=0
+
+[4]
+Name=Maximum Power(Lv3) PL1
+0=Disabled
+1=Enabled,109020,24
+Default=0
+
+[5]
+Name=Infinite Ammo PL1
+0=Disabled
+1=Enabled,109017,40
+Default=0
+
+[6]
+Name=Select Weapon PL1
+0=Disabled
+1=Normal Shot,109014,00
+2=Fire Shot,109014,04
+3=Round Shot,109014,08
+4=Missile Shot,109014,0C
+5=Boomerang Shot,109014,10
+Default=0
+
+[7]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,10915A,03
+Default=0
+
+[8]
+Name=Infinite Grenades PL2
+0=Disabled
+1=Enabled,10911E,0A
+Default=0
+
+[9]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,102126,FF
+Default=0
+
+[10]
+Name=Maximum Power(Lv3) PL2
+0=Disabled
+1=Enabled,109120,24
+Default=0
+
+[11]
+Name=Infinite Ammo PL2
+0=Disabled
+1=Enabled,109117,40
+Default=0
+
+[12]
+Name=Select Weapon PL2
+0=Disabled
+1=Normal Shot,109114,00
+2=Fire Shot,109114,04
+3=Round Shot,109114,08
+4=Missile Shot,109114,0C
+5=Boomerang Shot,109114,10
+Default=0
+
+[13]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

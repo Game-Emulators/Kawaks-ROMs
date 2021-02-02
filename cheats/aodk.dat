@@ -1,0 +1,37 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10B648,FA,10B64B,00,10B64A,00
+Default=0
+
+[1]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,100067,0B,100066,FF
+Default=0
+
+[2]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,100067,00,100066,00
+Default=0
+
+[3]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,100167,0B,100166,FF
+Default=0
+
+[4]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,100167,00,100166,00
+Default=0
+
+[5]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

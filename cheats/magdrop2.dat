@@ -1,0 +1,56 @@
+[0]
+Name=No more Level Gain
+0=Disabled
+1=Enabled,100A5E,00
+Default=0
+
+[1]
+Name=Unlock Secret Characters
+0=Disabled
+1=Enabled,101488,01
+Default=0
+
+[2]
+Name=Face The Black Clawn
+0=Disabled
+1=Enabled,100072,00
+Default=0
+
+[3]
+Name=Select Starting Stage
+0=Disabled
+1=Empress Castle,100073,09
+2=Black Clawn (The Special Ending),100073,0A
+Default=0
+
+[4]
+Name=Always have Quota=200 PL1
+0=Disabled
+1=Enabled,100A4A,C8
+Default=0
+
+[5]
+Name=Play as Black Clawn (Buggy) PL1
+0=Disabled
+1=Enabled,100116,0A,100804,09
+Default=0
+
+[6]
+Name=Always have Quota=200 PL2
+0=Disabled
+1=Enabled,100A6A,C8
+Default=0
+
+[7]
+Name=Play as Black Clawn PL2
+0=Disabled
+1=Enabled,100119,0A,100904,09
+Default=0
+
+[8]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

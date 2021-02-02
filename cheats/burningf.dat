@@ -1,0 +1,43 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,103E79,FF
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10D003,99
+Default=0
+
+[2]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,100231,09
+Default=0
+
+[3]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,100220,FF
+Default=0
+
+[4]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,1002B1,09
+Default=0
+
+[5]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,1002A0,FF
+Default=0
+
+[6]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

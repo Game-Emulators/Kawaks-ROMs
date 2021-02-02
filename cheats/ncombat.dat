@@ -1,0 +1,109 @@
+[0]
+Name=Infinite Time PL1
+0=Disabled
+1=Enabled,101819,7F,101818,FF
+Default=0
+
+[1]
+Name=Infinite Continues PL1
+0=Disabled
+1=Enabled,101810,64
+Default=0
+
+[2]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,102403,0A
+Default=0
+
+[3]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,100633,20
+Default=0
+
+[4]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,10261A,01,10261F,02
+Default=0
+
+[5]
+Name=Maximum Fire Power PL1
+0=Disabled
+1=Enabled,1018C1,02,10063A,02
+Default=0
+
+[6]
+Name=Maximum Speed PL1
+0=Disabled
+1=Enabled,1018C0,02,102634,02
+Default=0
+
+[7]
+Name=Select Character PL1
+0=Disabled
+1=Joe,10262F,00
+2=Musashi,10262F,01
+3=Gembu,10262F,02
+4=Kagerow,10262F,03
+Default=0
+
+[8]
+Name=Infinite Time PL2
+0=Disabled
+1=Enabled,101829,7F,101828,FF
+Default=0
+
+[9]
+Name=Infinite Continues PL2
+0=Disabled
+1=Enabled,101820,64
+Default=0
+
+[10]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,102402,0A
+Default=0
+
+[11]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,100683,20
+Default=0
+
+[12]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,10266A,01,10266F,02
+Default=0
+
+[13]
+Name=Always Maximum Fire Power PL2
+0=Disabled
+1=Enabled,1018E1,02,10068A,02
+Default=0
+
+[14]
+Name=Always Maximum Speed PL2
+0=Disabled
+1=Enabled,1018E0,02,102684,02
+Default=0
+
+[15]
+Name=Select Character PL2
+0=Disabled
+1=Hayabusa,10267F,00
+2=Musashi,10267F,01
+3=Gembu,10267F,02
+4=Kagerow,10267F,03
+Default=0
+
+[16]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

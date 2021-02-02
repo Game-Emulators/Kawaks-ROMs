@@ -1,0 +1,175 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF5862,09
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF5D56,5A
+Default=0
+
+[2]
+Name=Infinite Time To Buy Upgrades
+0=Disabled
+1=Enabled,FF5951,0A
+Default=0
+
+[3]
+Name=Select Starting Round
+0=Disabled
+1=1,FF5935,00
+2=2,FF5935,01
+3=3,FF5935,02
+4=4,FF5935,03
+5=5,FF5935,04
+6=6,FF5935,05
+7=7,FF5935,06
+8=8,FF5935,07
+Default=0
+
+[4]
+Name=Select Next Round
+0=Disabled
+1=1,FF5935,00
+2=2,FF5935,01
+3=3,FF5935,02
+4=4,FF5935,03
+5=5,FF5935,04
+6=6,FF5935,05
+7=7,FF5935,06
+8=8,FF5935,07
+Default=0
+
+[5]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,FF830B,09
+Default=0
+
+[6]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF82B6,80,FF82EA,80
+Default=0
+
+[7]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,FF830D,03
+Default=0
+
+[8]
+Name=Infinite Money PL1
+0=Disabled
+1=Enabled,FF8329,27,FF8328,0F
+Default=0
+
+[9]
+Name=Infinite Battle Download Units PL1
+0=Disabled
+1=Enabled,FF833F,05
+Default=0
+
+[10]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,FF844B,09
+Default=0
+
+[11]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF83F6,80,FF842A,80
+Default=0
+
+[12]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,FF844D,03
+Default=0
+
+[13]
+Name=Infinite Money PL2
+0=Disabled
+1=Enabled,FF8469,27,FF8468,0F
+Default=0
+
+[14]
+Name=Infinite Battle Download Units PL2
+0=Disabled
+1=Enabled,FF847F,05
+Default=0
+
+[15]
+Name=Infinite Lives PL3
+0=Disabled
+1=Enabled,FF858B,09
+Default=0
+
+[16]
+Name=Infinite Energy PL3
+0=Disabled
+1=Enabled,FF8536,80,FF856A,80
+Default=0
+
+[17]
+Name=Invincibility PL3
+0=Disabled
+1=Enabled,FF858D,03
+Default=0
+
+[18]
+Name=Infinite Money PL3
+0=Disabled
+1=Enabled,FF85A9,27,FF85A8,0F
+Default=0
+
+[19]
+Name=Infinite Battle Download Units PL3
+0=Disabled
+1=Enabled,FF85BF,05
+Default=0
+
+[20]
+Name=Infinite Lives PL4
+0=Disabled
+1=Enabled,FF86CB,09
+Default=0
+
+[21]
+Name=Infinite Energy PL4
+0=Disabled
+1=Enabled,FF8676,80,FF86AA,80
+Default=0
+
+[22]
+Name=Invincibility PL4
+0=Disabled
+1=Enabled,FF86CD,03
+Default=0
+
+[23]
+Name=Infinite Money PL4
+0=Disabled
+1=Enabled,FF86E9,27,FF86E8,0F
+Default=0
+
+[24]
+Name=Infinite Battle Download Units PL4
+0=Disabled
+1=Enabled,FF86FF,05
+Default=0
+
+[25]
+Name=Select Region
+0=Disabled
+1=Japan,FF58C5,00
+2=USA,FF58C5,01
+3=Asia,FF58C5,02
+4=Hispanic,FF58C5,03
+5=Euro,FF58C5,04
+6=Brazil,FF58C5,05
+Default=0
+

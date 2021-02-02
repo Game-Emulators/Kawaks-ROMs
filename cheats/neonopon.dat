@@ -1,0 +1,12 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,100100,00,100103,00,100102,00
+Default=0
+
+[1]
+Name=Stop Rising
+0=Disabled
+1=Enabled,100030,0E
+Default=0
+

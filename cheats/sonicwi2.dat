@@ -1,0 +1,43 @@
+[0]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,10E43E,05
+Default=0
+
+[1]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,10E456,03
+Default=0
+
+[2]
+Name=Maximum Fire Power PL1
+0=Disabled
+1=Enabled,10E442,03
+Default=0
+
+[3]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,10E4A0,05
+Default=0
+
+[4]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,10E4B8,03
+Default=0
+
+[5]
+Name=Maximum Fire Power PL2
+0=Disabled
+1=Enabled,10E4A4,03
+Default=0
+
+[6]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,221 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8108,63
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,FF8108,00
+Default=0
+
+[2]
+Name=Select Backdrop
+0=Disabled
+1=Japan (Winter),FF8100,00
+2=USA (Party),FF8100,02
+3=Japan (Gokuentou),FF8100,04
+4=USA (Plane),FF8100,06
+5=China (Street),FF8100,08
+6=Thailand (Lake),FF8100,0A
+7=USA (Truck),FF8100,0C
+8=USA (Metro City),FF8100,0E
+9=England,FF8100,10
+10=Italy,FF8100,12
+11=Brazil,FF8100,14
+12=Thailand (Statue),FF8100,16
+13=Hong Kong,FF8100,18
+14=Japan (House),FF8100,1A
+15=USA (Elevator),FF8100,1C
+16=India,FF8100,1E
+17=USSR,FF8100,20
+18=China (Alley),FF8100,22
+19=#Australia,FF8100,24
+20=#Venezuela,FF8100,26
+Default=0
+
+[3]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF8450,90,FF8452,90
+Default=0
+
+[4]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,FF8450,00,FF8452,00
+Default=0
+
+[5]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,FF849E,90
+Default=0
+
+[6]
+Name=Drain All Power Now! PL1
+0=Disabled
+1=Enabled,FF849E,00
+Default=0
+
+[7]
+Name=Infinite Taunts PL1
+0=Disabled
+1=Enabled,FF854E,01
+Default=0
+
+[8]
+Name=Never Get Dizzied PL1
+0=Disabled
+1=Enabled,FF8685,00,FF8684,00
+Default=0
+
+[9]
+Name=Infinite Custom Combo PL1
+0=Disabled
+1=Enabled,FF8698,B0,FF869B,00
+Default=0
+
+[10]
+Name=Fight Mid-Boss Next PL1
+0=Disabled
+1=Enabled,FF84C7,05
+Default=0
+
+[11]
+Name=Fight Shin-Akuma PL1
+0=Disabled
+1=Enabled,FF84C9,03
+Default=0
+
+[12]
+Name=Select Character PL1
+0=Disabled
+1=Ryu,FF8483,00
+2=Ken Masters,FF8483,01
+3=Akuma,FF8483,02
+4=Charlie,FF8483,03
+5=Chun-Li,FF8483,04
+6=Adon,FF8483,05
+7=Sodom,FF8483,06
+8=Guy,FF8483,07
+9=Birdie,FF8483,08
+10=Rose,FF8483,09
+11=M. Bison,FF8483,0A
+12=Sagat,FF8483,0B
+13=Dan Hibiki,FF8483,0C
+14=Sakura Kasugano,FF8483,0D
+15=Rolento Schugerg,FF8483,0E
+16=Dhalsim,FF8483,0F
+17=Zangief,FF8483,10
+18=Gen (Sou-ryuu),FF8483,11
+19=#Chun-Li (SF2 clothes),FF8483,12
+20=#Gen (Ki-ryuu),FF8483,13
+21=#Shin-Akuma,FF8483,14
+22=#SF2-style Zangief,FF8483,15
+23=#SF2-style Dhalsim,FF8483,16
+24=#Satsui no Hadou ni Mezameta Ryu,FF8483,17
+Default=0
+
+[13]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF8850,90,FF8852,90
+Default=0
+
+[14]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,FF8850,00,FF8852,00
+Default=0
+
+[15]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,FF889E,90
+Default=0
+
+[16]
+Name=Drain All Power Now! PL2
+0=Disabled
+1=Enabled,FF889E,00
+Default=0
+
+[17]
+Name=Infinite Taunts PL2
+0=Disabled
+1=Enabled,FF894E,01
+Default=0
+
+[18]
+Name=Never Get Dizzied PL2
+0=Disabled
+1=Enabled,FF8A85,00,FF8A84,00
+Default=0
+
+[19]
+Name=Infinite Custom Combo PL2
+0=Disabled
+1=Enabled,FF8A98,B0,FF8A9B,00
+Default=0
+
+[20]
+Name=Fight Mid-Boss Next PL2
+0=Disabled
+1=Enabled,FF88C7,05
+Default=0
+
+[21]
+Name=Fight Shin-Akuma PL2
+0=Disabled
+1=Enabled,FF88C9,03
+Default=0
+
+[22]
+Name=Select Character PL2
+0=Disabled
+1=Ryu,FF8883,00
+2=Ken Masters,FF8883,01
+3=Akuma,FF8883,02
+4=Charlie,FF8883,03
+5=Chun-Li,FF8883,04
+6=Adon,FF8883,05
+7=Sodom,FF8883,06
+8=Guy,FF8883,07
+9=Birdie,FF8883,08
+10=Rose,FF8883,09
+11=M. Bison,FF8883,0A
+12=Sagat,FF8883,0B
+13=Dan Hibiki,FF8883,0C
+14=Sakura Kasugano,FF8883,0D
+15=Rolento Schugerg,FF8883,0E
+16=Dhalsim,FF8883,0F
+17=Zangief,FF8883,10
+18=Gen (Sou-ryuu),FF8883,11
+19=#Chun-Li (SF2 clothes),FF8883,12
+20=#Gen (Ki-ryuu),FF8883,13
+21=#Shin-Akuma,FF8883,14
+22=#SF2-style Zangief,FF8883,15
+23=#SF2-style Dhalsim,FF8883,16
+24=#Satsui no Hadou ni Mezameta Ryu,FF8883,17
+Default=0
+
+[23]
+Name=Select Region
+0=Disabled
+1=Japan,FF8090,00
+2=USA,FF8090,02
+3=Hispanic,FF8090,04
+4=Oceania,FF8090,06
+5=Asia,FF8090,08
+6=Euro,FF8090,0A
+7=Brazil,FF8090,0C
+Default=0
+
+[24]
+Name=Sound Test Timer Stop
+0=Disabled
+1=Enabled,FF800A,FF
+Default=0
+

@@ -1,0 +1,67 @@
+[0]
+Name=Infinite Continues PL1
+0=Disabled
+1=Enabled,106022,64
+Default=0
+
+[1]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10405A,32
+Default=0
+
+[2]
+Name=Maximum weapon power PL1
+0=Disabled
+1=Enabled,104053,FF
+Default=0
+
+[3]
+Name=Infinite Magic PL1
+0=Disabled
+1=Enabled,10405D,63
+Default=0
+
+[4]
+Name=Infinite Money PL1
+0=Disabled
+1=Enabled,104067,FF,104066,FF
+Default=0
+
+[5]
+Name=Infinite Continues PL2
+0=Disabled
+1=Enabled,106042,64
+Default=0
+
+[6]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,1040DA,32
+Default=0
+
+[7]
+Name=Maximum weapon power PL2
+0=Disabled
+1=Enabled,1040D3,FF
+Default=0
+
+[8]
+Name=Infinite Magic PL2
+0=Disabled
+1=Enabled,1040DD,63
+Default=0
+
+[9]
+Name=Infinite Money PL2
+0=Disabled
+1=Enabled,1040E7,FF,1040E6,FF
+Default=0
+
+[10]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

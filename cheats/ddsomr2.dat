@@ -1,0 +1,906 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FFCAB3,04,FFCB03,04
+Default=0
+
+[1]
+Name=Infinite Keys
+0=Disabled
+1=Enabled,FF8044,09
+Default=0
+
+[2]
+Name=Maximum Stage Clear Bonus (Rest Time)
+0=Disabled
+1=Enabled,FF803B,59
+Default=0
+
+[3]
+Name=Select Starting Stage
+0=Disabled
+1=STAGE 1 -OPENING-,FF8035,01
+2=STAGE 2 The Village of Trintan,FF8035,02
+3=STAGE 3-A To ride a Juggernaut!,FF8035,04
+4=STAGE 3-B Battle on the Vesuvia,FF8035,07
+5=STAGE 4 The skies over Aengmore,FF8035,0B
+6=STAGE 4 #BOSS#,FF8035,0D
+7=STAGE 5-A Forest of despair,FF8035,0E
+8=STAGE 5-B The riddle of Aensun,FF8035,14
+9=STAGE 5-C The forest bridge,FF8035,05
+10=STAGE 6 Battle of Strong Oak,FF8035,18
+11=STAGE 6 #BOSS#,FF8035,1A
+12=STAGE 7 The grove of destruction,FF8035,1B
+13=STAGE 8-A Forest Labyrinth,FF8035,1C
+14=STAGE 8-B Rescue at the Gnome Village,FF8035,23
+15=Village 1,FF8035,22
+16=Village 2,FF8035,6E
+17=PENALTY STAGE Blackwing The Dragon,FF8035,20
+18=The cave of Rafael  the Immortal,FF8035,43
+19=Hidden treasures 'Pathway to Red Dragon',FF8035,2D
+20=Red Dragon,FF8035,2E
+21=STAGE 9-A Land of Fire,FF8035,27
+22=STAGE 9-B Lost World,FF8035,2B
+23=STAGE 9-C Secret Underworld,FF8035,29
+24=STAGE 10-1 Gateway,FF8035,2F
+25=STAGE 10-2 Overtures,FF8035,36
+26=STAGE 10-3 Arena,FF8035,3A
+27=STAGE 10-4 Battle Royal,FF8035,3B
+28=STAGE 10-5 Arena revisted,FF8035,40
+29=STAGE 10-6 Inner Heart  Dark Heart,FF8035,41
+30=Last Stage #BOSS#,FF8035,69
+Default=0
+
+[4]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF8640,9A
+Default=0
+
+[5]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,FF865D,03
+Default=0
+
+[6]
+Name=Maximum SP PL1
+0=Disabled
+1=Enabled,FF86F3,00,FF86F2,09,FF86F5,99,FF86F4,99
+Default=0
+
+[7]
+Name=Infinite Item PL1
+0=Disabled
+1=Enabled,FF8727,09,FF8726,09,FF8729,09,FF8728,09,FF872B,09,FF872A,09
+Default=0
+
+[8]
+Name=Infinite Magic PL1
+0=Disabled
+1=Enabled,FF872E,09,FF8731,09,FF8730,09,FF8733,09,FF8733,00,FF8732,09,FF8735,09,FF8734,09,FF8736,09
+Default=0
+
+[9]
+Name=Infinite Wands PL1
+0=Disabled
+1=Enabled,FF8768,14,FF876B,14,FF876A,14,FF876E,14
+Default=0
+
+[10]
+Name=Select Right Hand Weapon PL1
+0=Disabled
+1=Normal Sword Lv1,FF86EA,00
+2=Normal Sword Lv2,FF86EA,01
+3=Normal Sword Lv3,FF86EA,02
+4=Normal Sword Lv4,FF86EA,03
+5=Short Sword Lv1,FF86EA,04
+6=Short Sword Lv2,FF86EA,05
+7=Short Sword Lv3,FF86EA,06
+8=Short Sword Lv4,FF86EA,07
+9=Two Handed Sword,FF86EA,08
+10=Bastard Sword,FF86EA,09
+11=Dragon Slayer,FF86EA,0B
+12=Holy Avenger,FF86EA,0C
+13=Sword of Legend,FF86EA,0D
+14=Cursed Sword 1,FF86EA,0E
+15=Cursed Sword 2,FF86EA,0F
+16=Sword of Flame,FF86EA,10
+17=Sword of Freeze,FF86EA,11
+18=Storm Blade,FF86EA,12
+19=Hand Axe,FF86EA,16
+20=Battle Axe,FF86EA,18
+21=Mace,FF86EA,19
+22=War Hammer,FF86EA,1D
+23=Morning Star,FF86EA,1E
+24=Element Power Staff,FF86EA,1F
+25=Magical Power Staff,FF86EA,20
+26=Wizardry Staff,FF86EA,21
+27=Striking Staff,FF86EA,22
+28=Snake Staff,FF86EA,23
+29=Wand of Cold,FF86EA,24
+30=Wand of Fire Ball,FF86EA,25
+31=Wand of Lightning Bolt,FF86EA,26
+32=Wand of Paralyze,FF86EA,27
+33=Shield,FF86EA,28
+34=Shield (Elf),FF86EA,29
+Default=0
+
+[11]
+Name=Select Left Hand Weapon PL1
+0=Disabled
+1=None,FF86ED,FF
+2=Normal Sword Lv1,FF86ED,00
+3=Normal Sword Lv2,FF86ED,01
+4=Normal Sword Lv3,FF86ED,02
+5=Normal Sword Lv4,FF86ED,03
+6=Short Sword Lv1,FF86ED,04
+7=Short Sword Lv2,FF86ED,05
+8=Short Sword Lv3,FF86ED,06
+9=Short Sword Lv4,FF86ED,07
+10=Two Handed Sword,FF86ED,08
+11=Bastard Sword,FF86ED,09
+12=Dragon Slayer,FF86ED,0B
+13=Holy Avenger,FF86ED,0C
+14=Sword of Legend,FF86ED,0D
+15=Cursed Sword 1,FF86ED,0E
+16=Cursed Sword 2,FF86ED,0F
+17=Sword of Flame,FF86ED,10
+18=Sword of Freeze,FF86ED,11
+19=Storm Blade,FF86ED,12
+20=Hand Axe,FF86ED,16
+21=Battle Axe,FF86ED,18
+22=Mace,FF86ED,19
+23=War Hammer,FF86ED,1D
+24=Morning Star,FF86ED,1E
+25=Element Power Staff,FF86ED,1F
+26=Magical Power Staff,FF86ED,20
+27=Wizardry Staff,FF86ED,21
+28=Striking Staff,FF86ED,22
+29=Snake Staff,FF86ED,23
+30=Wand of Cold,FF86ED,24
+31=Wand of Fire Ball,FF86ED,25
+32=Wand of Lightning Bolt,FF86ED,26
+33=Wand of Paralyze,FF86ED,27
+34=Shield,FF86ED,28
+35=Shield (Elf),FF86ED,29
+Default=0
+
+[12]
+Name=Select Head Equipment PL1
+0=Disabled
+1=None,FF873F,FF
+2=Helmet,FF873F,00
+3=Magical Hat,FF873F,01
+4=Hood,FF873F,02
+5=Ciaclet,FF873F,03
+6=Cleric Hat,FF873F,04
+7=Tiara,FF873F,05
+Default=0
+
+[13]
+Name=Select Body Equipment PL1
+0=Disabled
+1=None,FF873E,FF
+2=Fighter,FF873E,00
+3=Cleric,FF873E,01
+4=Elf,FF873E,02
+5=Dwarf,FF873E,03
+6=Magicuser,FF873E,04
+7=Thief,FF873E,05
+Default=0
+
+[14]
+Name=Select Leg Equipment PL1
+0=Disabled
+1=None,FF8741,FF,FF8748,00
+2=Boots of Speed,FF8741,00,FF8748,05
+3=Boots of Springing + Striding,FF8741,01,FF8748,05
+4=Boots of Levitation,FF8741,02,FF8748,05
+Default=0
+
+[15]
+Name=Select Arm Equipment PL1
+0=Disabled
+1=None,FF8740,FF,FF874B,00
+2=Gauntlet of Power,FF8740,00,FF874B,05
+Default=0
+
+[16]
+Name=Select Shield Equipment PL1
+0=Disabled
+1=None,FF8743,FF
+2=Normal Shield,FF8743,00
+3=Normal Shield (Elf),FF8743,01
+4=Dragon Shield,FF8743,04
+5=Frame Shield,FF8743,05
+6=Ice Shield,FF8743,06
+7=Shield of Protection from Dark Magic,FF8743,07
+Default=0
+
+[17]
+Name=Select Hand Equipment PL1
+0=Disabled
+1=None,FF8742,FF,FF874A,00
+2=Ring of Protection,FF8742,00,FF874A,05
+3=Ring of Fire Resistance,FF8742,01,FF874A,05
+4=Ring of Spell Turning,FF8742,02,FF874A,05
+5=Ring of Protection from Evil,FF8742,03,FF874A,05
+6=Rod of Fire Ball,FF8742,04,FF874A,05
+7=Rod of Cold,FF8742,05,FF874A,05
+8=Rod of Lightning,FF8742,06,FF874A,05
+Default=0
+
+[18]
+Name=Select Accessory PL1
+0=Disabled
+1=None,FF8745,FF
+2=Necklace,FF8745,00
+3=Orb,FF8745,01
+4=Bracelet,FF8745,02
+5=Brooch,FF8745,03
+6=Earring,FF8745,04
+7=Anklet,FF8745,05
+Default=0
+
+[19]
+Name=Select Artifact PL1
+0=Disabled
+1=None,FF8744,FF
+2=Eye of Beholder,FF8744,00
+3=Skin of Displacer Beast,FF8744,01
+4=Eye of Displacer Beast,FF8744,02
+5=Scale of Dragon,FF8744,03
+6=Skin of Manticore,FF8744,04
+7=Egg of Owlbear,FF8744,05
+8=???1,FF8744,06
+9=???2,FF8744,07
+10=Horn of Dragon,FF8744,08
+11=Medal,FF8744,09
+12=Displacer Cloak,FF8744,0A
+Default=0
+
+[20]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF8840,9A
+Default=0
+
+[21]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,FF885D,03
+Default=0
+
+[22]
+Name=Maximum SP PL2
+0=Disabled
+1=Enabled,FF88F3,00,FF88F2,09,FF88F5,99,FF88F4,99
+Default=0
+
+[23]
+Name=Infinite Item PL2
+0=Disabled
+1=Enabled,FF8927,09,FF8926,09,FF8929,09,FF8928,09,FF892B,09,FF892A,09
+Default=0
+
+[24]
+Name=Infinite Magic PL2
+0=Disabled
+1=Enabled,FF892E,09,FF8931,09,FF8930,09,FF8933,09,FF8933,00,FF8932,09,FF8935,09,FF8934,09,FF8936,09
+Default=0
+
+[25]
+Name=Infinite Wands PL2
+0=Disabled
+1=Enabled,FF8968,14,FF896B,14,FF896A,14,FF896E,14
+Default=0
+
+[26]
+Name=Select Right Hand Weapon PL2
+0=Disabled
+1=Normal Sword Lv1,FF88EA,00
+2=Normal Sword Lv2,FF88EA,01
+3=Normal Sword Lv3,FF88EA,02
+4=Normal Sword Lv4,FF88EA,03
+5=Short Sword Lv1,FF88EA,04
+6=Short Sword Lv2,FF88EA,05
+7=Short Sword Lv3,FF88EA,06
+8=Short Sword Lv4,FF88EA,07
+9=Two Handed Sword,FF88EA,08
+10=Bastard Sword,FF88EA,09
+11=Dragon Slayer,FF88EA,0B
+12=Holy Avenger,FF88EA,0C
+13=Sword of Legend,FF88EA,0D
+14=Cursed Sword 1,FF88EA,0E
+15=Cursed Sword 2,FF88EA,0F
+16=Sword of Flame,FF88EA,10
+17=Sword of Freeze,FF88EA,11
+18=Storm Blade,FF88EA,12
+19=Hand Axe,FF88EA,16
+20=Battle Axe,FF88EA,18
+21=Mace,FF88EA,19
+22=War Hammer,FF88EA,1D
+23=Morning Star,FF88EA,1E
+24=Element Power Staff,FF88EA,1F
+25=Magical Power Staff,FF88EA,20
+26=Wizardry Staff,FF88EA,21
+27=Striking Staff,FF88EA,22
+28=Snake Staff,FF88EA,23
+29=Wand of Cold,FF88EA,24
+30=Wand of Fire Ball,FF88EA,25
+31=Wand of Lightning Bolt,FF88EA,26
+32=Wand of Paralyze,FF88EA,27
+33=Shield,FF88EA,28
+34=Shield (Elf),FF88EA,29
+Default=0
+
+[27]
+Name=Select Left Hand Weapon PL2
+0=Disabled
+1=None,FF88ED,FF
+2=Normal Sword Lv1,FF88ED,00
+3=Normal Sword Lv2,FF88ED,01
+4=Normal Sword Lv3,FF88ED,02
+5=Normal Sword Lv4,FF88ED,03
+6=Short Sword Lv1,FF88ED,04
+7=Short Sword Lv2,FF88ED,05
+8=Short Sword Lv3,FF88ED,06
+9=Short Sword Lv4,FF88ED,07
+10=Two Handed Sword,FF88ED,08
+11=Bastard Sword,FF88ED,09
+12=Dragon Slayer,FF88ED,0B
+13=Holy Avenger,FF88ED,0C
+14=Sword of Legend,FF88ED,0D
+15=Cursed Sword 1,FF88ED,0E
+16=Cursed Sword 2,FF88ED,0F
+17=Sword of Flame,FF88ED,10
+18=Sword of Freeze,FF88ED,11
+19=Storm Blade,FF88ED,12
+20=Hand Axe,FF88ED,16
+21=Battle Axe,FF88ED,18
+22=Mace,FF88ED,19
+23=War Hammer,FF88ED,1D
+24=Morning Star,FF88ED,1E
+25=Element Power Staff,FF88ED,1F
+26=Magical Power Staff,FF88ED,20
+27=Wizardry Staff,FF88ED,21
+28=Striking Staff,FF88ED,22
+29=Snake Staff,FF88ED,23
+30=Wand of Cold,FF88ED,24
+31=Wand of Fire Ball,FF88ED,25
+32=Wand of Lightning Bolt,FF88ED,26
+33=Wand of Paralyze,FF88ED,27
+34=Shield,FF88ED,28
+35=Shield (Elf),FF88ED,29
+Default=0
+
+[28]
+Name=Select Head Equipment PL2
+0=Disabled
+1=None,FF893F,FF
+2=Helmet,FF893F,00
+3=Magical Hat,FF893F,01
+4=Hood,FF893F,02
+5=Ciaclet,FF893F,03
+6=Cleric Hat,FF893F,04
+7=Tiara,FF893F,05
+Default=0
+
+[29]
+Name=Select Body Equipment PL2
+0=Disabled
+1=None,FF893E,FF
+2=Fighter,FF893E,00
+3=Cleric,FF893E,01
+4=Elf,FF893E,02
+5=Dwarf,FF893E,03
+6=Magicuser,FF893E,04
+7=Thief,FF893E,05
+Default=0
+
+[30]
+Name=Select Leg Equipment PL2
+0=Disabled
+1=None,FF8941,FF,FF8948,00
+2=Boots of Speed,FF8941,00,FF8948,05
+3=Boots of Springing + Striding,FF8941,01,FF8948,05
+4=Boots of Levitation,FF8941,02,FF8948,05
+Default=0
+
+[31]
+Name=Select Arm Equipment PL2
+0=Disabled
+1=None,FF8940,FF,FF894B,00
+2=Gauntlet of Power,FF8940,00,FF894B,05
+Default=0
+
+[32]
+Name=Select Shield Equipment PL2
+0=Disabled
+1=None,FF8943,FF
+2=Normal Shield,FF8943,00
+3=Normal Shield (Elf),FF8943,01
+4=Dragon Shield,FF8943,04
+5=Frame Shield,FF8943,05
+6=Ice Shield,FF8943,06
+7=Shield of Protection from Dark Magic,FF8943,07
+Default=0
+
+[33]
+Name=Select Hand Equipment PL2
+0=Disabled
+1=None,FF8942,FF,FF894A,00
+2=Ring of Protection,FF8942,00,FF894A,05
+3=Ring of Fire Resistance,FF8942,01,FF894A,05
+4=Ring of Spell Turning,FF8942,02,FF894A,05
+5=Ring of Protection from Evil,FF8942,03,FF894A,05
+6=Rod of Fire Ball,FF8942,04,FF894A,05
+7=Rod of Cold,FF8942,05,FF894A,05
+8=Rod of Lightning,FF8942,06,FF894A,05
+Default=0
+
+[34]
+Name=Select Accessory PL2
+0=Disabled
+1=None,FF8945,FF
+2=Necklace,FF8945,00
+3=Orb,FF8945,01
+4=Bracelet,FF8945,02
+5=Brooch,FF8945,03
+6=Earring,FF8945,04
+7=Anklet,FF8945,05
+Default=0
+
+[35]
+Name=Select Artifact PL2
+0=Disabled
+1=None,FF8944,FF
+2=Eye of Beholder,FF8944,00
+3=Skin of Displacer Beast,FF8944,01
+4=Eye of Displacer Beast,FF8944,02
+5=Scale of Dragon,FF8944,03
+6=Skin of Manticore,FF8944,04
+7=Egg of Owlbear,FF8944,05
+8=???1,FF8944,06
+9=???2,FF8944,07
+10=Horn of Dragon,FF8944,08
+11=Medal,FF8944,09
+12=Displacer Cloak,FF8944,0A
+Default=0
+
+[36]
+Name=Infinite Energy PL3
+0=Disabled
+1=Enabled,FF8A40,9A
+Default=0
+
+[37]
+Name=Invincibility PL3
+0=Disabled
+1=Enabled,FF8A5D,03
+Default=0
+
+[38]
+Name=Maximum SP PL3
+0=Disabled
+1=Enabled,FF8AF3,00,FF8AF2,09,FF8AF5,99,FF8AF4,99
+Default=0
+
+[39]
+Name=Infinite Item PL3
+0=Disabled
+1=Enabled,FF8B27,09,FF8B26,09,FF8B29,09,FF8B28,09,FF8B2B,09,FF8B2A,09
+Default=0
+
+[40]
+Name=Infinite Magic PL3
+0=Disabled
+1=Enabled,FF8B2E,09,FF8B31,09,FF8B30,09,FF8B33,09,FF8B33,00,FF8B32,09,FF8B35,09,FF8B34,09,FF8B36,09
+Default=0
+
+[41]
+Name=Infinite Wands PL3
+0=Disabled
+1=Enabled,FF8B68,14,FF8B6B,14,FF8B6A,14,FF8B6E,14
+Default=0
+
+[42]
+Name=Select Right Hand Weapon PL3
+0=Disabled
+1=Normal Sword Lv1,FF8AEA,00
+2=Normal Sword Lv2,FF8AEA,01
+3=Normal Sword Lv3,FF8AEA,02
+4=Normal Sword Lv4,FF8AEA,03
+5=Short Sword Lv1,FF8AEA,04
+6=Short Sword Lv2,FF8AEA,05
+7=Short Sword Lv3,FF8AEA,06
+8=Short Sword Lv4,FF8AEA,07
+9=Two Handed Sword,FF8AEA,08
+10=Bastard Sword,FF8AEA,09
+11=Dragon Slayer,FF8AEA,0B
+12=Holy Avenger,FF8AEA,0C
+13=Sword of Legend,FF8AEA,0D
+14=Cursed Sword 1,FF8AEA,0E
+15=Cursed Sword 2,FF8AEA,0F
+16=Sword of Flame,FF8AEA,10
+17=Sword of Freeze,FF8AEA,11
+18=Storm Blade,FF8AEA,12
+19=Hand Axe,FF8AEA,16
+20=Battle Axe,FF8AEA,18
+21=Mace,FF8AEA,19
+22=War Hammer,FF8AEA,1D
+23=Morning Star,FF8AEA,1E
+24=Element Power Staff,FF8AEA,1F
+25=Magical Power Staff,FF8AEA,20
+26=Wizardry Staff,FF8AEA,21
+27=Striking Staff,FF8AEA,22
+28=Snake Staff,FF8AEA,23
+29=Wand of Cold,FF8AEA,24
+30=Wand of Fire Ball,FF8AEA,25
+31=Wand of Lightning Bolt,FF8AEA,26
+32=Wand of Paralyze,FF8AEA,27
+33=Shield,FF8AEA,28
+34=Shield (Elf),FF8AEA,29
+Default=0
+
+[43]
+Name=Select Left Hand Weapon PL3
+0=Disabled
+1=None,FF8AED,FF
+2=Normal Sword Lv1,FF8AED,00
+3=Normal Sword Lv2,FF8AED,01
+4=Normal Sword Lv3,FF8AED,02
+5=Normal Sword Lv4,FF8AED,03
+6=Short Sword Lv1,FF8AED,04
+7=Short Sword Lv2,FF8AED,05
+8=Short Sword Lv3,FF8AED,06
+9=Short Sword Lv4,FF8AED,07
+10=Two Handed Sword,FF8AED,08
+11=Bastard Sword,FF8AED,09
+12=Dragon Slayer,FF8AED,0B
+13=Holy Avenger,FF8AED,0C
+14=Sword of Legend,FF8AED,0D
+15=Cursed Sword 1,FF8AED,0E
+16=Cursed Sword 2,FF8AED,0F
+17=Sword of Flame,FF8AED,10
+18=Sword of Freeze,FF8AED,11
+19=Storm Blade,FF8AED,12
+20=Hand Axe,FF8AED,16
+21=Battle Axe,FF8AED,18
+22=Mace,FF8AED,19
+23=War Hammer,FF8AED,1D
+24=Morning Star,FF8AED,1E
+25=Element Power Staff,FF8AED,1F
+26=Magical Power Staff,FF8AED,20
+27=Wizardry Staff,FF8AED,21
+28=Striking Staff,FF8AED,22
+29=Snake Staff,FF8AED,23
+30=Wand of Cold,FF8AED,24
+31=Wand of Fire Ball,FF8AED,25
+32=Wand of Lightning Bolt,FF8AED,26
+33=Wand of Paralyze,FF8AED,27
+34=Shield,FF8AED,28
+35=Shield (Elf),FF8AED,29
+Default=0
+
+[44]
+Name=Select Head Equipment PL3
+0=Disabled
+1=None,FF8B3F,FF
+2=Helmet,FF8B3F,00
+3=Magical Hat,FF8B3F,01
+4=Hood,FF8B3F,02
+5=Ciaclet,FF8B3F,03
+6=Cleric Hat,FF8B3F,04
+7=Tiara,FF8B3F,05
+Default=0
+
+[45]
+Name=Select Body Equipment PL3
+0=Disabled
+1=None,FF8B3E,FF
+2=Fighter,FF8B3E,00
+3=Cleric,FF8B3E,01
+4=Elf,FF8B3E,02
+5=Dwarf,FF8B3E,03
+6=Magicuser,FF8B3E,04
+7=Thief,FF8B3E,05
+Default=0
+
+[46]
+Name=Select Leg Equipment PL3
+0=Disabled
+1=None,FF8B41,FF,FF8B48,00
+2=Boots of Speed,FF8B41,00,FF8B48,05
+3=Boots of Springing + Striding,FF8B41,01,FF8B48,05
+4=Boots of Levitation,FF8B41,02,FF8B48,05
+Default=0
+
+[47]
+Name=Select Arm Equipment PL3
+0=Disabled
+1=None,FF8B40,FF,FF8B4B,00
+2=Gauntlet of Power,FF8B40,00,FF8B4B,05
+Default=0
+
+[48]
+Name=Select Shield Equipment PL3
+0=Disabled
+1=None,FF8B43,FF
+2=Normal Shield,FF8B43,00
+3=Normal Shield (Elf),FF8B43,01
+4=Dragon Shield,FF8B43,04
+5=Frame Shield,FF8B43,05
+6=Ice Shield,FF8B43,06
+7=Shield of Protection from Dark Magic,FF8B43,07
+Default=0
+
+[49]
+Name=Select Hand Equipment PL3
+0=Disabled
+1=None,FF8B42,FF,FF8B4A,00
+2=Ring of Protection,FF8B42,00,FF8B4A,05
+3=Ring of Fire Resistance,FF8B42,01,FF8B4A,05
+4=Ring of Spell Turning,FF8B42,02,FF8B4A,05
+5=Ring of Protection from Evil,FF8B42,03,FF8B4A,05
+6=Rod of Fire Ball,FF8B42,04,FF8B4A,05
+7=Rod of Cold,FF8B42,05,FF8B4A,05
+8=Rod of Lightning,FF8B42,06,FF8B4A,05
+Default=0
+
+[50]
+Name=Select Accessory PL3
+0=Disabled
+1=None,FF8B45,FF
+2=Necklace,FF8B45,00
+3=Orb,FF8B45,01
+4=Bracelet,FF8B45,02
+5=Brooch,FF8B45,03
+6=Earring,FF8B45,04
+7=Anklet,FF8B45,05
+Default=0
+
+[51]
+Name=Select Artifact PL3
+0=Disabled
+1=None,FF8B44,FF
+2=Eye of Beholder,FF8B44,00
+3=Skin of Displacer Beast,FF8B44,01
+4=Eye of Displacer Beast,FF8B44,02
+5=Scale of Dragon,FF8B44,03
+6=Skin of Manticore,FF8B44,04
+7=Egg of Owlbear,FF8B44,05
+8=???1,FF8B44,06
+9=???2,FF8B44,07
+10=Horn of Dragon,FF8B44,08
+11=Medal,FF8B44,09
+12=Displacer Cloak,FF8B44,0A
+Default=0
+
+[52]
+Name=Infinite Energy PL4
+0=Disabled
+1=Enabled,FF8C40,9A
+Default=0
+
+[53]
+Name=Invincibility PL4
+0=Disabled
+1=Enabled,FF8C5D,03
+Default=0
+
+[54]
+Name=Maximum SP PL4
+0=Disabled
+1=Enabled,FF8CF3,00,FF8CF2,09,FF8CF5,99,FF8CF4,99
+Default=0
+
+[55]
+Name=Infinite Item PL4
+0=Disabled
+1=Enabled,FF8D27,09,FF8D26,09,FF8D29,09,FF8D28,09,FF8D2B,09,FF8D2A,09
+Default=0
+
+[56]
+Name=Infinite Magic PL4
+0=Disabled
+1=Enabled,FF8D2E,09,FF8D31,09,FF8D30,09,FF8D33,09,FF8D33,00,FF8D32,09,FF8D35,09,FF8D34,09,FF8D36,09
+Default=0
+
+[57]
+Name=Infinite Wands PL4
+0=Disabled
+1=Enabled,FF8D68,14,FF8D6B,14,FF8D6A,14,FF8D6E,14
+Default=0
+
+[58]
+Name=Select Right Hand Weapon PL4
+0=Disabled
+1=Normal Sword Lv1,FF8CEA,00
+2=Normal Sword Lv2,FF8CEA,01
+3=Normal Sword Lv3,FF8CEA,02
+4=Normal Sword Lv4,FF8CEA,03
+5=Short Sword Lv1,FF8CEA,04
+6=Short Sword Lv2,FF8CEA,05
+7=Short Sword Lv3,FF8CEA,06
+8=Short Sword Lv4,FF8CEA,07
+9=Two Handed Sword,FF8CEA,08
+10=Bastard Sword,FF8CEA,09
+11=Dragon Slayer,FF8CEA,0B
+12=Holy Avenger,FF8CEA,0C
+13=Sword of Legend,FF8CEA,0D
+14=Cursed Sword 1,FF8CEA,0E
+15=Cursed Sword 2,FF8CEA,0F
+16=Sword of Flame,FF8CEA,10
+17=Sword of Freeze,FF8CEA,11
+18=Storm Blade,FF8CEA,12
+19=Hand Axe,FF8CEA,16
+20=Battle Axe,FF8CEA,18
+21=Mace,FF8CEA,19
+22=War Hammer,FF8CEA,1D
+23=Morning Star,FF8CEA,1E
+24=Element Power Staff,FF8CEA,1F
+25=Magical Power Staff,FF8CEA,20
+26=Wizardry Staff,FF8CEA,21
+27=Striking Staff,FF8CEA,22
+28=Snake Staff,FF8CEA,23
+29=Wand of Cold,FF8CEA,24
+30=Wand of Fire Ball,FF8CEA,25
+31=Wand of Lightning Bolt,FF8CEA,26
+32=Wand of Paralyze,FF8CEA,27
+33=Shield,FF8CEA,28
+34=Shield (Elf),FF8CEA,29
+Default=0
+
+[59]
+Name=Select Left Hand Weapon PL4
+0=Disabled
+1=None,FF8CED,FF
+2=Normal Sword Lv1,FF8CED,00
+3=Normal Sword Lv2,FF8CED,01
+4=Normal Sword Lv3,FF8CED,02
+5=Normal Sword Lv4,FF8CED,03
+6=Short Sword Lv1,FF8CED,04
+7=Short Sword Lv2,FF8CED,05
+8=Short Sword Lv3,FF8CED,06
+9=Short Sword Lv4,FF8CED,07
+10=Two Handed Sword,FF8CED,08
+11=Bastard Sword,FF8CED,09
+12=Dragon Slayer,FF8CED,0B
+13=Holy Avenger,FF8CED,0C
+14=Sword of Legend,FF8CED,0D
+15=Cursed Sword 1,FF8CED,0E
+16=Cursed Sword 2,FF8CED,0F
+17=Sword of Flame,FF8CED,10
+18=Sword of Freeze,FF8CED,11
+19=Storm Blade,FF8CED,12
+20=Hand Axe,FF8CED,16
+21=Battle Axe,FF8CED,18
+22=Mace,FF8CED,19
+23=War Hammer,FF8CED,1D
+24=Morning Star,FF8CED,1E
+25=Element Power Staff,FF8CED,1F
+26=Magical Power Staff,FF8CED,20
+27=Wizardry Staff,FF8CED,21
+28=Striking Staff,FF8CED,22
+29=Snake Staff,FF8CED,23
+30=Wand of Cold,FF8CED,24
+31=Wand of Fire Ball,FF8CED,25
+32=Wand of Lightning Bolt,FF8CED,26
+33=Wand of Paralyze,FF8CED,27
+34=Shield,FF8CED,28
+35=Shield (Elf),FF8CED,29
+Default=0
+
+[60]
+Name=Select Head Equipment PL4
+0=Disabled
+1=None,FF8D3F,FF
+2=Helmet,FF8D3F,00
+3=Magical Hat,FF8D3F,01
+4=Hood,FF8D3F,02
+5=Ciaclet,FF8D3F,03
+6=Cleric Hat,FF8D3F,04
+7=Tiara,FF8D3F,05
+Default=0
+
+[61]
+Name=Select Body Equipment PL4
+0=Disabled
+1=None,FF8D3E,FF
+2=Fighter,FF8D3E,00
+3=Cleric,FF8D3E,01
+4=Elf,FF8D3E,02
+5=Dwarf,FF8D3E,03
+6=Magicuser,FF8D3E,04
+7=Thief,FF8D3E,05
+Default=0
+
+[62]
+Name=Select Leg Equipment PL4
+0=Disabled
+1=None,FF8D41,FF,FF8D48,00
+2=Boots of Speed,FF8D41,00,FF8D48,05
+3=Boots of Springing + Striding,FF8D41,01,FF8D48,05
+4=Boots of Levitation,FF8D41,02,FF8D48,05
+Default=0
+
+[63]
+Name=Select Arm Equipment PL4
+0=Disabled
+1=None,FF8D40,FF,FF8D4B,00
+2=Gauntlet of Power,FF8D40,00,FF8D4B,05
+Default=0
+
+[64]
+Name=Select Shield Equipment PL4
+0=Disabled
+1=None,FF8D43,FF
+2=Normal Shield,FF8D43,00
+3=Normal Shield (Elf),FF8D43,01
+4=Dragon Shield,FF8D43,04
+5=Frame Shield,FF8D43,05
+6=Ice Shield,FF8D43,06
+7=Shield of Protection from Dark Magic,FF8D43,07
+Default=0
+
+[65]
+Name=Select Hand Equipment PL4
+0=Disabled
+1=None,FF8D42,FF,FF8D4A,00
+2=Ring of Protection,FF8D42,00,FF8D4A,05
+3=Ring of Fire Resistance,FF8D42,01,FF8D4A,05
+4=Ring of Spell Turning,FF8D42,02,FF8D4A,05
+5=Ring of Protection from Evil,FF8D42,03,FF8D4A,05
+6=Rod of Fire Ball,FF8D42,04,FF8D4A,05
+7=Rod of Cold,FF8D42,05,FF8D4A,05
+8=Rod of Lightning,FF8D42,06,FF8D4A,05
+Default=0
+
+[66]
+Name=Select Accessory PL4
+0=Disabled
+1=None,FF8D45,FF
+2=Necklace,FF8D45,00
+3=Orb,FF8D45,01
+4=Bracelet,FF8D45,02
+5=Brooch,FF8D45,03
+6=Earring,FF8D45,04
+7=Anklet,FF8D45,05
+Default=0
+
+[67]
+Name=Select Artifact PL4
+0=Disabled
+1=None,FF8D44,FF
+2=Eye of Beholder,FF8D44,00
+3=Skin of Displacer Beast,FF8D44,01
+4=Eye of Displacer Beast,FF8D44,02
+5=Scale of Dragon,FF8D44,03
+6=Skin of Manticore,FF8D44,04
+7=Egg of Owlbear,FF8D44,05
+8=???1,FF8D44,06
+9=???2,FF8D44,07
+10=Horn of Dragon,FF8D44,08
+11=Medal,FF8D44,09
+12=Displacer Cloak,FF8D44,0A
+Default=0
+
+[68]
+Name=Infinite Final Strike!
+0=Disabled
+1=Enabled,FF8640,9A,FF86ED,21,FF86EF,01,FF8840,9A,FF88EF,01,FF8A40,9A,FF8AEF,01,FF8A40,9A,FF8CEF,01
+Default=0
+
+[69]
+Name=Select Region
+0=Disabled
+1=Japan,FF8070,00
+2=USA,FF8070,02
+3=Hispanic,FF8070,04
+4=Asia,FF8070,06
+5=Euro,FF8070,08
+6=Brazil,FF8070,0A
+Default=0
+

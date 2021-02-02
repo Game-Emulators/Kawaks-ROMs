@@ -1,0 +1,152 @@
+[0]
+Name=Enable C Button Rapid Fire
+0=Disabled
+1=Enabled,10007D,01
+Default=0
+
+[1]
+Name=Unlock Ascender P55
+0=Disabled
+1=Enabled,100333,01
+Default=0
+
+[2]
+Name=Select the Starting Mission
+0=Disabled
+1=1,10031E,00
+2=2,10031E,01
+3=3,10031E,02
+4=4,10031E,03
+5=5,10031E,04
+6=6,10031E,05
+7=7,10031E,06
+8=8,10031E,07
+Default=0
+
+[3]
+Name=Mission 1 = Level One
+0=Disabled
+1=Enabled,1002FA,00
+Default=0
+
+[4]
+Name=Mission 1 = Level Two
+0=Disabled
+1=Enabled,1002FA,01
+Default=0
+
+[5]
+Name=Mission 1 = Level Three
+0=Disabled
+1=Enabled,1002FA,02
+Default=0
+
+[6]
+Name=Mission 1 = Level Four
+0=Disabled
+1=Enabled,1002FA,03
+Default=0
+
+[7]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,1000E8,09
+Default=0
+
+[8]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,1000EA,09
+Default=0
+
+[9]
+Name=Instant Bomber Availability PL1
+0=Disabled
+1=Enabled,100108,00
+Default=0
+
+[10]
+Name=Infinite Super Shot PL1
+0=Disabled
+1=Enabled,1000F4,08,1000F0,08
+Default=0
+
+[11]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,1021E2,F0,102177,FF,102176,FF,102179,FF,102178,FF
+Default=0
+
+[12]
+Name=Always Max Firepower PL1
+0=Disabled
+1=Enabled,1000EC,04
+Default=0
+
+[13]
+Name=Select Plane PL1
+0=Disabled
+1=P38 Lightning,1000E6,01
+2=F5U Flying Pancake,1000E6,02
+3=Spitfire Mk.VI,1000E6,03
+4=TA-152 Focke-Wulf,1000E6,04
+5=Zero Fighter t.52,1000E6,05
+6=Fiat G-56,1000E6,06
+7=Ascender P55,1000E6,07
+Default=0
+
+[14]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,100144,09
+Default=0
+
+[15]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,100146,09
+Default=0
+
+[16]
+Name=Instant Bomber Availability PL2
+0=Disabled
+1=Enabled,100164,00
+Default=0
+
+[17]
+Name=Infinite Super Shot PL2
+0=Disabled
+1=Enabled,100150,08,10014C,08
+Default=0
+
+[18]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,10232A,F0,1022BF,FF,1022BE,FF,1022C1,FF,1022C0,FF
+Default=0
+
+[19]
+Name=Always Max Firepower PL2
+0=Disabled
+1=Enabled,100148,04
+Default=0
+
+[20]
+Name=Select Plane PL2
+0=Disabled
+1=P38 Lightning,100142,01
+2=F5U Flying Pancake,100142,02
+3=Spitfire Mk.VI,100142,03
+4=TA-152 Focke-Wulf,100142,04
+5=Zero Fighter t.52,100142,05
+6=Fiat G-56,100142,06
+7=Ascender P55,100142,07
+Default=0
+
+[21]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

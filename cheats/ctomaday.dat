@@ -1,0 +1,97 @@
+[0]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,10137C,0A
+Default=0
+
+[1]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,10413C,07
+Default=0
+
+[2]
+Name=Maximum Power Right Arm PL1
+0=Disabled
+1=Enabled,104200,05
+Default=0
+
+[3]
+Name=Maximum Power Left Arm PL1
+0=Disabled
+1=Enabled,1041AA,05
+Default=0
+
+[4]
+Name=Select Ship PL1
+0=Disabled
+1=Original Ship,104134,00
+2=Winged Ship,104134,01
+3=Mini Ship,104134,02
+4=Big Ship,104134,03
+5=Carrot Ship,104134,04
+6=Fish Ship,104134,05
+7=Cross Ship,104134,06
+8=Rabbit Ship,104134,07
+9=Blue-Fish Ship,104134,08
+10=Potplant Ship,104134,09
+11=Cat Ship,104134,0A
+12=Monkey Ship,104134,0B
+13=Prawn Ship,104134,0C
+14=Aeroplane Ship,104134,0D
+15=Cupid Ship,104134,0E
+16=Baby Ship,104134,0F
+Default=0
+
+[5]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,101398,0A
+Default=0
+
+[6]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,10432C,07
+Default=0
+
+[7]
+Name=Maximum Power Right Arm PL2
+0=Disabled
+1=Enabled,1043F0,05
+Default=0
+
+[8]
+Name=Maximum Power Left Arm PL2
+0=Disabled
+1=Enabled,10439A,05
+Default=0
+
+[9]
+Name=Select Ship PL2
+0=Disabled
+1=Original Ship,104324,00
+2=Winged Ship,104324,01
+3=Mini Ship,104324,02
+4=Big Ship,104324,03
+5=Carrot Ship,104324,04
+6=Fish Ship,104324,05
+7=Cross Ship,104324,06
+8=Rabbit Ship,104324,07
+9=Blue-Fish Ship,104324,08
+10=Potplant Ship,104324,09
+11=Cat Ship,104324,0A
+12=Monkey Ship,104324,0B
+13=Prawn Ship,104324,0C
+14=Aeroplane Ship,104324,0D
+15=Cupid Ship,104324,0E
+16=Baby Ship,104324,0F
+Default=0
+
+[10]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

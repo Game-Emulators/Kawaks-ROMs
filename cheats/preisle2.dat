@@ -1,0 +1,67 @@
+[0]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,105054,10
+Default=0
+
+[1]
+Name=Always have Max Power Up PL1
+0=Disabled
+1=Enabled,105077,10
+Default=0
+
+[2]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,105070,0A
+Default=0
+
+[3]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,10507C,02
+Default=0
+
+[4]
+Name=Always have 999 Stars PL1
+0=Disabled
+1=Enabled,10506B,03,10506A,E7
+Default=0
+
+[5]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,1062D4,09
+Default=0
+
+[6]
+Name=Always have Max Power Up PL2
+0=Disabled
+1=Enabled,1062F7,10
+Default=0
+
+[7]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,1062F0,0A
+Default=0
+
+[8]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,1062FC,02
+Default=0
+
+[9]
+Name=Always have 999 Stars PL2
+0=Disabled
+1=Enabled,1062EB,03,1062EA,E7
+Default=0
+
+[10]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,63 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,103A71,63
+Default=0
+
+[1]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,1037B6,FF,1037B9,FF
+Default=0
+
+[2]
+Name=Select Character PL1
+0=Disabled
+1=Ray,103670,00
+2=Feilin,103670,01
+3=Ryoko,103670,02
+4=Matlock,103670,03
+5=Samchay,103670,04
+6=Lee,103670,05
+7=Mizoguchi,103670,06
+8=Jean,103670,07
+9=Marstorius,103670,08
+10=Yungmie,103670,09
+11=Zazie,103670,0A
+12=Clown,103670,0B
+13=Karnov,103670,0C
+14=Bull,103670,0D
+Default=0
+
+[3]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,1039B6,FF,1039B9,FF
+Default=0
+
+[4]
+Name=Select Character PL2
+0=Disabled
+1=Ray,103870,00
+2=Feilin,103870,01
+3=Ryoko,103870,02
+4=Matlock,103870,03
+5=Samchay,103870,04
+6=Lee,103870,05
+7=Mizoguchi,103870,06
+8=Jean,103870,07
+9=Marstorius,103870,08
+10=Yungmie,103870,09
+11=Zazie,103870,0A
+12=Clown,103870,0B
+13=Karnov,103870,0C
+14=Bull,103870,0D
+Default=0
+
+[5]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

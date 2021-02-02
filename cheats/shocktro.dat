@@ -1,0 +1,203 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,108D00,99
+Default=0
+
+[1]
+Name=Infinite Credits (Home) PL1
+0=Disabled
+1=Enabled,108343,99
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,1001B4,80
+Default=0
+
+[3]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,100126,FF
+Default=0
+
+[4]
+Name=Infinite Normal Ammo PL1
+0=Disabled
+1=Enabled,108DBA,D0
+Default=0
+
+[5]
+Name=Select Normal Weapon PL1
+0=Disabled
+1=Normal Gun,108DB8,00
+2=Heavy Gun,108DB8,04
+3=Vulcan Gun,108DB8,08
+4=3-Way Gun,108DB8,0C
+5=Buster Gun,108DB8,10
+6=Flame Gun,108DB8,14
+7=Rocket Gun,108DB8,18
+8=Missile Gun,108DB8,1C
+9=Hyper Gun,108DB8,20
+Default=0
+
+[6]
+Name=Infinite Special Ammo TM1 PL1
+0=Disabled
+1=Enabled,108DC2,63
+Default=0
+
+[7]
+Name=Select Special Weapon TM1 PL1
+0=Disabled
+1=Grenade,108DC0,00
+2=Smoke Can,108DC0,04
+3=Can Gun,108DC0,08
+4=Boomerang,108DC0,0C
+5=Missile Launcher,108DC0,10
+6=Bow + Arrow,108DC0,14
+7=Chemical,108DC0,18
+8=Bazooka,108DC0,1C
+Default=0
+
+[8]
+Name=Infinite Special Ammo TM2 PL1
+0=Disabled
+1=Enabled,108DC6,63
+Default=0
+
+[9]
+Name=Select Special Weapon TM2 PL1
+0=Disabled
+1=Grenade,108DC4,00
+2=Smoke Can,108DC4,04
+3=Can Gun,108DC4,08
+4=Boomerang,108DC4,0C
+5=Missile Launcher,108DC4,10
+6=Bow + Arrow,108DC4,14
+7=Chemical,108DC4,18
+8=Bazooka,108DC4,1C
+Default=0
+
+[10]
+Name=Infinite Special Ammo TM3 PL1
+0=Disabled
+1=Enabled,108DCA,63
+Default=0
+
+[11]
+Name=Select Special Weapon TM3 PL1
+0=Disabled
+1=Grenade,108DC8,00
+2=Smoke Can,108DC8,04
+3=Can Gun,108DC8,08
+4=Boomerang,108DC8,0C
+5=Missile Launcher,108DC8,10
+6=Bow + Arrow,108DC8,14
+7=Chemical,108DC8,18
+8=Bazooka,108DC8,1C
+Default=0
+
+[12]
+Name=Infinite Credits (Home) PL2
+0=Disabled
+1=Enabled,108342,99
+Default=0
+
+[13]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,1021B4,80
+Default=0
+
+[14]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,102126,FF
+Default=0
+
+[15]
+Name=Infinite Normal Ammo PL2
+0=Disabled
+1=Enabled,108FBA,D0
+Default=0
+
+[16]
+Name=Select Normal Weapon PL2
+0=Disabled
+1=Normal Gun,108FB8,00
+2=Heavy Gun,108FB8,04
+3=Vulcan Gun,108FB8,08
+4=3-Way Gun,108FB8,0C
+5=Buster Gun,108FB8,10
+6=Flame Gun,108FB8,14
+7=Rocket Gun,108FB8,18
+8=Missile Gun,108FB8,1C
+9=Hyper Gun,108FB8,20
+Default=0
+
+[17]
+Name=Infinite Special Ammo TM1 PL2
+0=Disabled
+1=Enabled,108FC2,63
+Default=0
+
+[18]
+Name=Select Special Weapon TM1 PL2
+0=Disabled
+1=Grenade,108FC0,00
+2=Smoke Can,108FC0,04
+3=Can Gun,108FC0,08
+4=Boomerang,108FC0,0C
+5=Missile Launcher,108FC0,10
+6=Bow + Arrow,108FC0,14
+7=Chemical,108FC0,18
+8=Bazooka,108FC0,1C
+Default=0
+
+[19]
+Name=Infinite Special Ammo TM2 PL2
+0=Disabled
+1=Enabled,108FC6,63
+Default=0
+
+[20]
+Name=Select Special Weapon TM2 PL2
+0=Disabled
+1=Grenade,108FC4,00
+2=Smoke Can,108FC4,04
+3=Can Gun,108FC4,08
+4=Boomerang,108FC4,0C
+5=Missile Launcher,108FC4,10
+6=Bow + Arrow,108FC4,14
+7=Chemical,108FC4,18
+8=Bazooka,108FC4,1C
+Default=0
+
+[21]
+Name=Infinite Special Ammo TM3 PL2
+0=Disabled
+1=Enabled,108FCA,63
+Default=0
+
+[22]
+Name=Select Special Weapon TM3 PL2
+0=Disabled
+1=Grenade,108FC8,00
+2=Smoke Can,108FC8,04
+3=Can Gun,108FC8,08
+4=Boomerang,108FC8,0C
+5=Missile Launcher,108FC8,10
+6=Bow + Arrow,108FC8,14
+7=Chemical,108FC8,18
+8=Bazooka,108FC8,1C
+Default=0
+
+[23]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

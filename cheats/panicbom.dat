@@ -1,0 +1,43 @@
+[0]
+Name=Always Minimum Power Up PL1
+0=Disabled
+1=Enabled,1038CC,00
+Default=0
+
+[1]
+Name=Always Maximum Power Up PL1
+0=Disabled
+1=Enabled,1038CC,08
+Default=0
+
+[2]
+Name=No more level gain PL1
+0=Disabled
+1=Enabled,103940,00
+Default=0
+
+[3]
+Name=Always Minimum Power Up PL2
+0=Disabled
+1=Enabled,103B6E,00
+Default=0
+
+[4]
+Name=Always Maximum Power Up PL2
+0=Disabled
+1=Enabled,103B6E,08
+Default=0
+
+[5]
+Name=No more level gain PL2
+0=Disabled
+1=Enabled,103BE2,00
+Default=0
+
+[6]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,115 @@
+[0]
+Name=Infinite Time in Training
+0=Disabled
+1=Enabled,100023,32
+Default=0
+
+[1]
+Name=Infinite Money PL1
+0=Disabled
+1=Enabled,10029F,FF
+Default=0
+
+[2]
+Name=Always Extra Speed PL1
+0=Disabled
+1=Enabled,1002B9,0A
+Default=0
+
+[3]
+Name=Have Maximum Speed PL1
+0=Disabled
+1=Enabled,100274,08
+Default=0
+
+[4]
+Name=Have Maximum Stamina PL1
+0=Disabled
+1=Enabled,100276,08
+Default=0
+
+[5]
+Name=Have Maximum Strength PL1
+0=Disabled
+1=Enabled,10027A,08
+Default=0
+
+[6]
+Name=Power - 1 PL1
+0=Disabled
+1=Enabled,102999,44
+Default=0
+
+[7]
+Name=Power - 2 PL1
+0=Disabled
+1=Enabled,102AD7,44
+Default=0
+
+[8]
+Name=Power - 3 PL1
+0=Disabled
+1=Enabled,102C15,44
+Default=0
+
+[9]
+Name=Power - 4 PL1
+0=Disabled
+1=Enabled,102D53,44
+Default=0
+
+[10]
+Name=Power - 5 PL1
+0=Disabled
+1=Enabled,102E91,44
+Default=0
+
+[11]
+Name=Power - 6 PL1
+0=Disabled
+1=Enabled,102FCF,44
+Default=0
+
+[12]
+Name=Power - 7 PL1
+0=Disabled
+1=Enabled,10310D,44
+Default=0
+
+[13]
+Name=Infinite Money PL2
+0=Disabled
+1=Enabled,100337,FF
+Default=0
+
+[14]
+Name=Always Extra Speed PL2
+0=Disabled
+1=Enabled,100351,0A
+Default=0
+
+[15]
+Name=Have Maximum Speed PL2
+0=Disabled
+1=Enabled,10030C,08
+Default=0
+
+[16]
+Name=Have Maximum Stamina PL2
+0=Disabled
+1=Enabled,10030E,08
+Default=0
+
+[17]
+Name=Have Maximum Strength PL2
+0=Disabled
+1=Enabled,100312,08
+Default=0
+
+[18]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

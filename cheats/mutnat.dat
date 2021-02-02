@@ -1,0 +1,69 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,101563,63
+Default=0
+
+[1]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,102018,40
+Default=0
+
+[2]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,10202F,03
+Default=0
+
+[3]
+Name=Infinite Attack Items PL1
+0=Disabled
+1=Enabled,10153E,05
+Default=0
+
+[4]
+Name=Select Special Attack PL1
+0=Disabled
+1=None,10153F,00
+2=A,10153F,01
+3=B,10153F,02
+4=C,10153F,03
+5=D,10153F,04
+Default=0
+
+[5]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,102118,40
+Default=0
+
+[6]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,10212F,03
+Default=0
+
+[7]
+Name=Infinite Attack Items PL2
+0=Disabled
+1=Enabled,101540,05
+Default=0
+
+[8]
+Name=Select Special Attack PL2
+0=Disabled
+1=None,101541,00
+2=A,101541,01
+3=B,101541,02
+4=C,101541,03
+5=D,101541,04
+Default=0
+
+[9]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

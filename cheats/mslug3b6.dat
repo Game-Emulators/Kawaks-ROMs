@@ -1,0 +1,190 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10ED79,99
+Default=0
+
+[1]
+Name=Select Blood Colour
+0=Disabled
+1=Clear,10FD93,00
+2=Red,10FD93,01
+Default=0
+
+[2]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,1002BA,64
+Default=0
+
+[3]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,100580,02
+Default=0
+
+[4]
+Name=Infinite Ammo PL1
+0=Disabled
+1=Enabled,10EAFB,03,10EAFA,E7
+Default=0
+
+[5]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,10EAF4,63
+Default=0
+
+[6]
+Name=No bomb throwing delay PL1
+0=Disabled
+1=Enabled,10EAF1,00
+Default=0
+
+[7]
+Name=Always have 15 Prisoners PL1
+0=Disabled
+1=Enabled,10ED04,0F
+Default=0
+
+[8]
+Name=Get 15 Prisoners Now! PL1
+0=Disabled
+1=Enabled,10ED04,0F
+Default=0
+
+[9]
+Name=Select Shot Equipment PL1
+0=Disabled
+1=Normal Gun,10EAF3,FF,10EAF2,00
+2=MS Cannon,10EAF3,02,10EAF2,01
+3=Shotgun,10EAF3,01,10EAF2,02
+4=Rocket Launcher,10EAF3,02,10EAF2,03
+5=Flame Shot,10EAF3,01,10EAF2,04
+6=Heavy Machine Gun,10EAF3,FF,10EAF2,05
+7=Laser Gun,10EAF3,FF,10EAF2,06
+8=SUPER Shotgun,10EAF3,01,10EAF2,07
+9=SUPER Rocket Launcher,10EAF3,02,10EAF2,08
+10=SUPER Flame Shot,10EAF3,01,10EAF2,09
+11=SUPER Heavy Machine Gun,10EAF3,FF,10EAF2,0A
+12=SUPER Laser Gun,10EAF3,FF,10EAF2,0B
+13=Enemy Chaser,10EAF3,03,10EAF2,0C
+14=Iron Lizard,10EAF3,02,10EAF2,0D
+15=Drop Shot,10EAF3,03,10EAF2,0E
+16=SUPER Grenade,10EAF3,02,10EAF2,0F
+17=FAT Enemy Chaser,10EAF3,03,10EAF2,15
+18=Mobile Satellite (Buggy - see note),10EAF3,FF,10EAF2,10
+19=Thunder Cloud (Buggy - see note),10EAF3,FF,10EAF2,11
+Default=0
+
+[10]
+Name=Select Bomb PL1
+0=Disabled
+1=Mortar Grenade(Normal),10EAF5,01
+2=Petrol Bomb,10EAF5,02
+3=Rock,10EAF5,03
+Default=0
+
+[11]
+Name=Select Body Type PL1
+0=Disabled
+1=Human,10058E,00
+2=Fatman (Can't Move!),10058E,02
+3=Mummy,10058E,03
+4=Swimmer,10058E,05
+5=Snowman (Can't Move!),10058E,06
+6=Zombie,10058E,07
+Default=0
+
+[12]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,10036A,64
+Default=0
+
+[13]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,100630,02
+Default=0
+
+[14]
+Name=Infinite Ammo PL2
+0=Disabled
+1=Enabled,10EB09,03,10EB08,E7
+Default=0
+
+[15]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,10EB02,63
+Default=0
+
+[16]
+Name=No bomb throwing delay PL2
+0=Disabled
+1=Enabled,10EAFF,00
+Default=0
+
+[17]
+Name=Always have 15 Prisoners PL2
+0=Disabled
+1=Enabled,10ED0C,0F
+Default=0
+
+[18]
+Name=Get 15 Prisoners Now! PL2
+0=Disabled
+1=Enabled,10ED0C,0F
+Default=0
+
+[19]
+Name=Select Shot Equipment PL2
+0=Disabled
+1=Normal Gun,10EB01,FF,10EB00,00
+2=MS Cannon,10EB01,02,10EB00,01
+3=Shotgun,10EB01,01,10EB00,02
+4=Rocket Launcher,10EB01,02,10EB00,03
+5=Flame Shot,10EB01,01,10EB00,04
+6=Heavy Machine Gun,10EB01,FF,10EB00,05
+7=Laser Gun,10EB01,FF,10EB00,06
+8=SUPER Shotgun,10EB01,01,10EB00,07
+9=SUPER Rocket Launcher,10EB01,02,10EB00,08
+10=SUPER Flame Shot,10EB01,01,10EB00,09
+11=SUPER Heavy Machine Gun,10EB01,FF,10EB00,0A
+12=SUPER Laser Gun,10EB01,FF,10EB00,0B
+13=Enemy Chaser,10EB01,03,10EB00,0C
+14=Iron Lizard,10EB01,02,10EB00,0D
+15=Drop Shot,10EB01,03,10EB00,0E
+16=SUPER Grenade,10EB01,02,10EB00,0F
+17=FAT Enemy Chaser,10EB01,03,10EB00,15
+18=Mobile Satellite (Buggy - see note),10EB01,FF,10EB00,10
+19=Thunder Cloud (Buggy - see note),10EB01,FF,10EB00,11
+Default=0
+
+[20]
+Name=Select Bomb PL2
+0=Disabled
+1=Mortar Grenade(Normal),10EB03,01
+2=Petrol Bomb,10EB03,02
+3=Rock,10EB03,03
+Default=0
+
+[21]
+Name=Select Body Type PL2
+0=Disabled
+1=Human,10063E,00
+2=Fatman (Can't Move!),10063E,02
+3=Mummy,10063E,03
+4=Swimmer,10063E,05
+5=Snowman (Can't Move!),10063E,06
+6=Zombie,10063E,07
+Default=0
+
+[22]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

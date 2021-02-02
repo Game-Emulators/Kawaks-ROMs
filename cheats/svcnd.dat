@@ -1,0 +1,211 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10AC14,5B
+Default=0
+
+[1]
+Name=Stage 1 Clear to Ending
+0=Disabled
+1=Enabled,10ABDC,08
+Default=0
+
+[2]
+Name=Infinite Time in Player Select
+0=Disabled
+1=Enabled,10CD6D,0F
+Default=0
+
+[3]
+Name=Select Secret Ending Stage
+0=Disabled
+1=Heaven (Athena),10CDE9,0F
+2=Hell (Red Arremer),10CDE9,1F
+3=Nothing (Bad End),10CDE9,FF
+Default=0
+
+[4]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10A238,E0
+Default=0
+
+[5]
+Name=Infinite Energy (Red) PL1
+0=Disabled
+1=Enabled,10A238,70
+Default=0
+
+[6]
+Name=Always Max Power PL1
+0=Disabled
+1=Enabled,10A1E9,63,10A1E8,FF,10A21C,20
+Default=0
+
+[7]
+Name=Infinite Exceed PL1
+0=Disabled
+1=Enabled,1000A5,01
+Default=0
+
+[8]
+Name=Infinite Guard PL1
+0=Disabled
+1=Enabled,10A246,70
+Default=0
+
+[9]
+Name=No Energy PL1
+0=Disabled
+1=Enabled,10A238,00
+Default=0
+
+[10]
+Name=No Power PL1
+0=Disabled
+1=Enabled,10A1E9,00,10A1E8,00
+Default=0
+
+[11]
+Name=No Guard PL1
+0=Disabled
+1=Enabled,10A246,00
+Default=0
+
+[12]
+Name=Select Character PL1
+0=Disabled
+1=Kyo,10AC31,00
+2=Iori,10AC31,01
+3=Ryo,10AC31,02
+4=Terry,10AC31,03
+5=Mai,10AC31,04
+6=Kasumi,10AC31,05
+7=Kim,10AC31,06
+8=Mr.Karate,10AC31,07
+9=Choi,10AC31,08
+10=Earthquake,10AC31,09
+11=Genjyuro,10AC31,0A
+12=Shiki,10AC31,0B
+13=Geese *,10AC31,0C
+14=Mars People *,10AC31,0D
+15=Goenitz *,10AC31,0E
+16=Athena **,10AC31,0F
+17=Ryu,10AC31,10
+18=Ken,10AC31,11
+19=Chun-Li,10AC31,12
+20=Guile,10AC31,13
+21=Dhalsim,10AC31,14
+22=M.Bison (Balrog),10AC31,15
+23=Balrog (Vega),10AC31,16
+24=Sagat,10AC31,17
+25=Vega (M.Bison),10AC31,18
+26=Gouki (Akuma),10AC31,19
+27=Hugo,10AC31,1A
+28=Tessa,10AC31,1B
+29=Zero *,10AC31,1C
+30=Demitri *,10AC31,1D
+31=Dan *,10AC31,1E
+32=Red Arremer **,10AC31,1F
+33=Iori *,10AC31,20
+34=Mr.Karate **,10AC31,21
+35=Violent Ken *,10AC31,22
+36=Shin-Gouki (Shin-Akuma) **,10AC31,23
+Default=0
+
+[13]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,10A4B8,E0
+Default=0
+
+[14]
+Name=Infinite Energy (Red) PL2
+0=Disabled
+1=Enabled,10A4B8,70
+Default=0
+
+[15]
+Name=Always Max Power PL2
+0=Disabled
+1=Enabled,10A469,63,10A468,FF,10A49C,20
+Default=0
+
+[16]
+Name=Infinite Exceed PL2
+0=Disabled
+1=Enabled,1000A4,01
+Default=0
+
+[17]
+Name=Infinite Guard PL2
+0=Disabled
+1=Enabled,10A4C6,70
+Default=0
+
+[18]
+Name=No Energy PL2
+0=Disabled
+1=Enabled,10A4B8,00
+Default=0
+
+[19]
+Name=No Power PL2
+0=Disabled
+1=Enabled,10A469,00,10A468,00
+Default=0
+
+[20]
+Name=No Guard PL2
+0=Disabled
+1=Enabled,10A4C6,00
+Default=0
+
+[21]
+Name=Select Character PL2
+0=Disabled
+1=Kyo,10AC55,00
+2=Iori,10AC55,01
+3=Ryo,10AC55,02
+4=Terry,10AC55,03
+5=Mai,10AC55,04
+6=Kasumi,10AC55,05
+7=Kim,10AC55,06
+8=Mr.Karate,10AC55,07
+9=Choi,10AC55,08
+10=Earthquake,10AC55,09
+11=Genjyuro,10AC55,0A
+12=Shiki,10AC55,0B
+13=Geese *,10AC55,0C
+14=Mars People *,10AC55,0D
+15=Goenitz *,10AC55,0E
+16=Athena **,10AC55,0F
+17=Ryu,10AC55,10
+18=Ken,10AC55,11
+19=Chun-Li,10AC55,12
+20=Guile,10AC55,13
+21=Dhalsim,10AC55,14
+22=M.Bison (Balrog),10AC55,15
+23=Balrog (Vega),10AC55,16
+24=Sagat,10AC55,17
+25=Vega (M.Bison),10AC55,18
+26=Gouki (Akuma),10AC55,19
+27=Hugo,10AC55,1A
+28=Tessa,10AC55,1B
+29=Zero *,10AC55,1C
+30=Demitri *,10AC55,1D
+31=Dan *,10AC55,1E
+32=Red Arremer **,10AC55,1F
+33=Iori *,10AC55,20
+34=Mr.Karate **,10AC55,21
+35=Violent Ken *,10AC55,22
+36=Shin-Gouki (Shin-Akuma) **,10AC55,23
+Default=0
+
+[22]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,185 @@
+[0]
+Name=Go to Round 4 Next
+0=Disabled
+1=Enabled,102270,02,102272,02
+Default=0
+
+[1]
+Name=Go to Round 8 Next
+0=Disabled
+1=Enabled,102270,06,102272,06
+Default=0
+
+[2]
+Name=Go to Round 12 Next
+0=Disabled
+1=Enabled,102270,0A,102272,0A
+Default=0
+
+[3]
+Name=Go to Round 16 Next
+0=Disabled
+1=Enabled,102270,0E,102272,0E
+Default=0
+
+[4]
+Name=Go to Round 20 Next
+0=Disabled
+1=Enabled,102270,12,102272,12
+Default=0
+
+[5]
+Name=Go to Round 24 Next
+0=Disabled
+1=Enabled,102270,16,102272,16
+Default=0
+
+[6]
+Name=Go to Round 28 Next
+0=Disabled
+1=Enabled,102270,1A,102272,1A
+Default=0
+
+[7]
+Name=Go to Round 30 Next
+0=Disabled
+1=Enabled,102270,1C,102272,1C
+Default=0
+
+[8]
+Name=See End Sequence Next
+0=Disabled
+1=Enabled,102270,20,102272,20
+Default=0
+
+[9]
+Name=Quick Finish Cheat
+0=Disabled
+1=Enabled,105A9C,00,105AB0,00
+Default=0
+
+[10]
+Name=Select Help Line PL1
+0=Disabled
+1=Enabled,108286,01
+2=Disabled,108286,00
+Default=0
+
+[11]
+Name=Select Perm. Current Bubble PL1
+0=Disabled
+1=Blue,10821E,00
+2=Red,10821E,01
+3=Yellow,10821E,02
+4=Green,10821E,03
+5=Purple,10821E,04
+6=Orange,10821E,05
+7=Black,10821E,06
+8=Grey,10821E,07
+Default=0
+
+[12]
+Name=Select Perm. Next Bubble PL1
+0=Disabled
+1=Blue,10823C,00
+2=Red,10823C,01
+3=Yellow,10823C,02
+4=Green,10823C,03
+5=Purple,10823C,04
+6=Orange,10823C,05
+7=Black,10823C,06
+8=Grey,10823C,07
+Default=0
+
+[13]
+Name=Select Temp. Current Bubble PL1
+0=Disabled
+1=Blue,10821E,00
+2=Red,10821E,01
+3=Yellow,10821E,02
+4=Green,10821E,03
+5=Purple,10821E,04
+6=Orange,10821E,05
+7=Black,10821E,06
+8=Grey,10821E,07
+Default=0
+
+[14]
+Name=Select Temp. Next Bubble PL1
+0=Disabled
+1=Blue,10823C,00
+2=Red,10823C,01
+3=Yellow,10823C,02
+4=Green,10823C,03
+5=Purple,10823C,04
+6=Orange,10823C,05
+7=Black,10823C,06
+8=Grey,10823C,07
+Default=0
+
+[15]
+Name=Select Help Line PL2
+0=Disabled
+1=Enabled,108322,01
+2=Disabled,108322,00
+Default=0
+
+[16]
+Name=Select Perm. Current Bubble PL2
+0=Disabled
+1=Blue,1082BA,00
+2=Red,1082BA,01
+3=Yellow,1082BA,02
+4=Green,1082BA,03
+5=Purple,1082BA,04
+6=Orange,1082BA,05
+7=Black,1082BA,06
+8=Grey,1082BA,07
+Default=0
+
+[17]
+Name=Select Perm. Next Bubble PL2
+0=Disabled
+1=Blue,1082D8,00
+2=Red,1082D8,01
+3=Yellow,1082D8,02
+4=Green,1082D8,03
+5=Purple,1082D8,04
+6=Orange,1082D8,05
+7=Black,1082D8,06
+8=Grey,1082D8,07
+Default=0
+
+[18]
+Name=Select Temp. Current Bubble PL2
+0=Disabled
+1=Blue,1082BA,00
+2=Red,1082BA,01
+3=Yellow,1082BA,02
+4=Green,1082BA,03
+5=Purple,1082BA,04
+6=Orange,1082BA,05
+7=Black,1082BA,06
+8=Grey,1082BA,07
+Default=0
+
+[19]
+Name=Select Temp. Next Bubble PL2
+0=Disabled
+1=Blue,1082D8,00
+2=Red,1082D8,01
+3=Yellow,1082D8,02
+4=Green,1082D8,03
+5=Purple,1082D8,04
+6=Orange,1082D8,05
+7=Black,1082D8,06
+8=Grey,1082D8,07
+Default=0
+
+[20]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,43 @@
+[0]
+Name=Infinite Bonus Time
+0=Disabled
+1=Enabled,1085F4,59
+Default=0
+
+[1]
+Name=Faster Round Progression
+0=Disabled
+1=Enabled,10446E,05
+Default=0
+
+[2]
+Name=Answer A always correct
+0=Disabled
+1=Enabled,10446A,00
+Default=0
+
+[3]
+Name=Answer ends quiz Now!
+0=Disabled
+1=Enabled,103C71,01,103C73,00
+Default=0
+
+[4]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,10150B,05
+Default=0
+
+[5]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,10158B,05
+Default=0
+
+[6]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

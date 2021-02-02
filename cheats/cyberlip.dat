@@ -1,0 +1,109 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,107E24,59
+Default=0
+
+[1]
+Name=Infinite Continues PL1
+0=Disabled
+1=Enabled,107E3D,65
+Default=0
+
+[2]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,10209C,99
+Default=0
+
+[3]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,102042,FF,102045,FF,102048,0F,10204B,FF
+Default=0
+
+[4]
+Name=Infinite Auto Gun PL1
+0=Disabled
+1=Enabled,1020ED,99,1020EC,99
+Default=0
+
+[5]
+Name=Infinite Wide Gun PL1
+0=Disabled
+1=Enabled,1020F1,99,1020F0,99
+Default=0
+
+[6]
+Name=Infinite Bazooka PL1
+0=Disabled
+1=Enabled,1020F3,99,1020F2,99
+Default=0
+
+[7]
+Name=Infinite Fire PL1
+0=Disabled
+1=Enabled,1020EF,99,1020EE,99
+Default=0
+
+[8]
+Name=Infinite Grenades PL1
+0=Disabled
+1=Enabled,1020F5,99,1020F4,99
+Default=0
+
+[9]
+Name=Infinite Continues PL2
+0=Disabled
+1=Enabled,107E3F,65
+Default=0
+
+[10]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,10219C,99
+Default=0
+
+[11]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,102142,FF,102145,FF,102148,0F,10214B,FF
+Default=0
+
+[12]
+Name=Infinite Auto Gun PL2
+0=Disabled
+1=Enabled,1021ED,99,1021EC,99
+Default=0
+
+[13]
+Name=Infinite Wide Gun PL2
+0=Disabled
+1=Enabled,1021F1,99,1021F0,99
+Default=0
+
+[14]
+Name=Infinite Bazooka PL2
+0=Disabled
+1=Enabled,1021F3,99,1021F2,99
+Default=0
+
+[15]
+Name=Infinite Fire PL2
+0=Disabled
+1=Enabled,1021EF,99,1021EE,99
+Default=0
+
+[16]
+Name=Infinite Grenades PL2
+0=Disabled
+1=Enabled,1021F5,99,1021F4,99
+Default=0
+
+[17]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,37 @@
+[0]
+Name=Infinite Answer Time
+0=Disabled
+1=Enabled,100428,0F
+Default=0
+
+[1]
+Name=Answer A always correct
+0=Disabled
+1=Enabled,10040C,01
+Default=0
+
+[2]
+Name=Good answer ends quiz Now!
+0=Disabled
+1=Enabled,100820,01
+Default=0
+
+[3]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,101302,03
+Default=0
+
+[4]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,101402,03
+Default=0
+
+[5]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,43 @@
+[0]
+Name=Select next round
+0=Disabled
+1=1,101C86,00
+2=2,101C86,01
+3=3,101C86,02
+4=4,101C86,03
+5=5,101C86,04
+6=6,101C86,05
+7=7,101C86,06
+Default=0
+
+[1]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,101BA0,09
+Default=0
+
+[2]
+Name=Max Power PL1
+0=Disabled
+1=Enabled,101B78,03
+Default=0
+
+[3]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,101BA2,09
+Default=0
+
+[4]
+Name=Max Power PL2
+0=Disabled
+1=Enabled,101B7A,03
+Default=0
+
+[5]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

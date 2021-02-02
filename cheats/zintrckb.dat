@@ -1,0 +1,133 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10C418,64
+Default=0
+
+[1]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10C454,12
+Default=0
+
+[2]
+Name=Infinite Item PL1
+0=Disabled
+1=Enabled,10C445,12
+Default=0
+
+[3]
+Name=Blocks Never Fall PL1
+0=Disabled
+1=Enabled,10C143,FF,10C145,FF,10C147,FF,10C149,FF,10C14B,FF,10C14D,FF,10C14F,FF,10C151,FF
+Default=0
+
+[4]
+Name=Select Character PL1
+0=Disabled
+1=Subberg Hungneil,10B608,00
+2=Pukie,10B608,01
+3=Sheila Flay,10B608,02
+4=Reusha Fino (Elf),10B608,03
+5=Kaireen (Valkiree),10B608,04
+6=Hawk's Eye of Iga (Ninja),10B608,05
+7=Gimri (Troll),10B608,06
+8=Dark Sniper,10B608,07
+9=#Ryu Eagle,10B608,08
+10=#Fenril,10B608,09
+11=#Yormngand,10B608,0A
+12=#Roki,10B608,0B
+Default=0
+
+[5]
+Name=Select Level PL1
+0=Disabled
+1=0,10C453,00
+2=1,10C453,01
+3=2,10C453,02
+4=3,10C453,03
+5=4,10C453,04
+6=5,10C453,05
+7=6,10C453,06
+8=7,10C453,07
+9=8,10C453,08
+10=9,10C453,09
+11=10,10C453,0A
+12=11,10C453,0B
+13=12,10C453,0C
+14=13,10C453,0D
+15=14,10C453,0E
+16=15,10C453,0F
+17=16,10C453,10
+18=17,10C453,11
+19=18,10C453,12
+20=19,10C453,13
+Default=0
+
+[6]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,10C4D4,12
+Default=0
+
+[7]
+Name=Infinite Item PL2
+0=Disabled
+1=Enabled,10C4C5,12
+Default=0
+
+[8]
+Name=Blocks Never Fall PL2
+0=Disabled
+1=Enabled,10C157,FF,10C159,FF,10C15B,FF,10C15D,FF,10C15F,FF,10C161,FF,10C163,FF,10C165,FF
+Default=0
+
+[9]
+Name=Select Character PL2
+0=Disabled
+1=Subberg Hungneil,10B648,00
+2=Pukie,10B648,01
+3=Sheila Flay,10B648,02
+4=Reusha Fino (Elf),10B648,03
+5=Kaireen (Valkiree),10B648,04
+6=Hawk's Eye of Iga (Ninja),10B648,05
+7=Gimri (Troll),10B648,06
+8=Dark Sniper,10B648,07
+9=#Ryu Eagle,10B648,08
+10=#Fenril,10B648,09
+11=#Yormngand,10B648,0A
+12=#Roki,10B648,0B
+Default=0
+
+[10]
+Name=Select Level PL2
+0=Disabled
+1=0,10C4D3,00
+2=1,10C4D3,01
+3=2,10C4D3,02
+4=3,10C4D3,03
+5=4,10C4D3,04
+6=5,10C4D3,05
+7=6,10C4D3,06
+8=7,10C4D3,07
+9=8,10C4D3,08
+10=9,10C4D3,09
+11=10,10C4D3,0A
+12=11,10C4D3,0B
+13=12,10C4D3,0C
+14=13,10C4D3,0D
+15=14,10C4D3,0E
+16=15,10C4D3,0F
+17=16,10C4D3,10
+18=17,10C4D3,11
+19=18,10C4D3,12
+20=19,10C4D3,13
+Default=0
+
+[11]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

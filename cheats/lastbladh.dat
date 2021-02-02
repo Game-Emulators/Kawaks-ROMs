@@ -1,0 +1,110 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10E32A,61
+Default=0
+
+[1]
+Name=Story Part 1 (Stage 7)
+0=Disabled
+1=Enabled,10AC42,06
+Default=0
+
+[2]
+Name=Story Part 2 (Stage 8)
+0=Disabled
+1=Enabled,10AC42,07
+Default=0
+
+[3]
+Name=First Boss
+0=Disabled
+1=Enabled,10AC42,08
+Default=0
+
+[4]
+Name=Final Boss.
+0=Disabled
+1=Enabled,10AC42,09
+Default=0
+
+[5]
+Name=Select Next Cinematic Now!
+0=Disabled
+1=Middle Cinematic,10AC42,03
+2=First boss Cinematic,10AC42,07
+3=Inbetween Bosses Cinematic,10AC42,08
+4=Ending Cinematic,10AC42,09
+Default=0
+
+[6]
+Name=Middle cinematic
+0=Disabled
+1=Enabled,10AC42,03
+Default=0
+
+[7]
+Name=First boss cinematic
+0=Disabled
+1=Enabled,10AC42,07
+Default=0
+
+[8]
+Name=Inbetween Bosses cinematic
+0=Disabled
+1=Enabled,10AC42,08
+Default=0
+
+[9]
+Name=Ending cinematic
+0=Disabled
+1=Enabled,10AC42,09
+Default=0
+
+[10]
+Name=Select Character PL1
+0=Disabled
+1=Kaede,10EAAC,00
+2=Moriya,10EAAC,01
+3=Yuki,10EAAC,02
+4=Okina,10EAAC,03
+5=Akari,10EAAC,04
+6=Juzoh,10EAAC,05
+7=Washizuka,10EAAC,06
+8=Shikyoh,10EAAC,07
+9=Amano,10EAAC,08
+10=Lee,10EAAC,09
+11=Zantetsu,10EAAC,0A
+12=Shigen,10EAAC,0B
+13=Musashi,10EAAC,0C
+14=Kagami,10EAAC,0D
+15=Awakened Kaede,10EAAC,0E
+Default=0
+
+[11]
+Name=Select Character PL2
+0=Disabled
+1=Kaede,10EAAE,00
+2=Moriya,10EAAE,01
+3=Yuki,10EAAE,02
+4=Okina,10EAAE,03
+5=Akari,10EAAE,04
+6=Juzoh,10EAAE,05
+7=Washizuka,10EAAE,06
+8=Shikyoh,10EAAE,07
+9=Amano,10EAAE,08
+10=Lee,10EAAE,09
+11=Zantetsu,10EAAE,0A
+12=Shigen,10EAAE,0B
+13=Musashi,10EAAE,0C
+14=Kagami,10EAAE,0D
+15=Awakened Kaede,10EAAE,0E
+Default=0
+
+[12]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

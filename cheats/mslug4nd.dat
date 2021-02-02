@@ -1,0 +1,140 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10ED5D,99
+Default=0
+
+[1]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,100A88,09
+Default=0
+
+[2]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,10EDEC,63
+Default=0
+
+[3]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,100D16,40
+Default=0
+
+[4]
+Name=Invincibility (Fix Final Stage) PL1
+0=Disabled
+1=Enabled,100D40,01
+Default=0
+
+[5]
+Name=Infinite Arms PL1
+0=Disabled
+1=Enabled,10EDF3,FF,10EDF2,FF
+Default=0
+
+[6]
+Name=Select Weapon PL1
+0=Disabled
+1=Normal Gun,10EDEB,00
+2=Shotgun,10EDEB,02
+3=Rocket Launcher,10EDEB,03
+4=Flame Shot,10EDEB,04
+5=Heavy Machine Gun,10EDEB,05
+6=Laser Gun,10EDEB,06
+7=Big Shotgun,10EDEB,07
+8=Big Rocket Launcher,10EDEB,08
+9=Big Flame Shot,10EDEB,09
+10=Big Heavy Machine Gun,10EDEB,0A
+11=Big Laser Gun,10EDEB,0B
+12=Enemy Chaser,10EDEB,0C
+13=Iron Lizard,10EDEB,0D
+14=Drop Shot,10EDEB,0E
+15=Two Machine Gun,10EDEB,12
+Default=0
+
+[7]
+Name=Select Bomb PL1
+0=Disabled
+1=Normal,10EDED,01
+2=Fire,10EDED,02
+3=Rock,10EDED,03
+Default=0
+
+[8]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,100B38,09
+Default=0
+
+[9]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,10EDFC,63
+Default=0
+
+[10]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,100DC6,40
+Default=0
+
+[11]
+Name=Invincibility (Fix Final Stage) PL2
+0=Disabled
+1=Enabled,100DF0,01
+Default=0
+
+[12]
+Name=Infinite Arms PL2
+0=Disabled
+1=Enabled,10EE03,FF,10EE02,FF
+Default=0
+
+[13]
+Name=Select Weapon PL2
+0=Disabled
+1=Normal Gun,10EDFB,00
+2=Shotgun,10EDFB,02
+3=Rocket Launcher,10EDFB,03
+4=Flame Shot,10EDFB,04
+5=Heavy Machine Gun,10EDFB,05
+6=Laser Gun,10EDFB,06
+7=Big Shotgun,10EDFB,07
+8=Big Rocket Launcher,10EDFB,08
+9=Big Flame Shot,10EDFB,09
+10=Big Heavy Machine Gun,10EDFB,0A
+11=Big Laser Gun,10EDFB,0B
+12=Enemy Chaser,10EDFB,0C
+13=Iron Lizard,10EDFB,0D
+14=Drop Shot,10EDFB,0E
+15=Two Machine Gun,10EDFB,12
+Default=0
+
+[14]
+Name=Select Bomb PL2
+0=Disabled
+1=Normal,10EDFD,01
+2=Fire,10EDFD,02
+3=Rock,10EDFD,03
+Default=0
+
+[15]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+
+[16]
+name=infinite credits PL1
+0=none
+1=yes,100005,99
+default=0
+
+[17]
+name=infinite credits PL2
+0=none
+1=yes,100004,99
+default=0

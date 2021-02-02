@@ -1,0 +1,130 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10E594,60
+Default=0
+
+[1]
+Name=Finish this Fight Now!
+0=Disabled
+1=Enabled,10E594,00
+Default=0
+
+[2]
+Name=Go to Character Boss Now!
+0=Disabled
+1=Enabled,10E580,06
+Default=0
+
+[3]
+Name=Go to Final Boss Now!
+0=Disabled
+1=Enabled,10E580,07
+Default=0
+
+[4]
+Name=Select Constant Background
+0=Disabled
+1=Shimiji Pass,10E57C,00
+2=Battle of Cloudy Sky,10E57C,01
+3=13 Porttown,10E57C,02
+4=Village of Twilight,10E57C,03
+5=The Graveyard,10E57C,04
+6=Forest of Forgetfulness,10E57C,05
+7=The Night Before 'Yuki-Machi',10E57C,06
+8=Shrine of the Vanquished,10E57C,07
+9=Boss Stage,10E57C,08
+10=Fire at the Wadamoya,10E57C,09
+Default=0
+
+[5]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,10E4B3,01,10E44D,01
+Default=0
+
+[6]
+Name=Select Character PL1
+0=Disabled
+1=Kaede,10BD58,00
+2=Moriya,10BD58,01
+3=Yuki,10BD58,02
+4=Okina,10BD58,03
+5=Akari,10BD58,04
+6=Juzoh,10BD58,05
+7=Washizuka,10BD58,06
+8=Mukuro,10BD58,07
+9=Amano,10BD58,08
+10=Lee,10BD58,09
+11=Zantetsu,10BD58,0A
+12=Shigen,10BD58,0B
+13=Kagami,10BD58,0C
+14=Kojiroh,10BD58,0D
+15=Hibiki,10BD58,0E
+16=Setsuna,10BD58,0F
+17=Kouryu,10BD58,10
+18=Original Kaede,10BD58,11
+19=Hagure,10BD58,12
+20=Kotetsu,10BD58,13
+Default=0
+
+[7]
+Name=Select Colour PL1
+0=Disabled
+1=A colour (Power Mode),10BD61,00
+2=A colour (Speed Mode),10BD61,01
+3=A colour (EX Mode),10BD61,02
+4=D colour (Power Mode),10BD61,03
+5=D colour (Speed Mode),10BD61,04
+6=D colour (EX Mode),10BD61,05
+Default=0
+
+[8]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,10E4B2,01,10E451,01
+Default=0
+
+[9]
+Name=Select Character PL2
+0=Disabled
+1=Kaede,10BD5A,00
+2=Moriya,10BD5A,01
+3=Yuki,10BD5A,02
+4=Okina,10BD5A,03
+5=Akari,10BD5A,04
+6=Juzoh,10BD5A,05
+7=Washizuka,10BD5A,06
+8=Mukuro,10BD5A,07
+9=Amano,10BD5A,08
+10=Lee,10BD5A,09
+11=Zantetsu,10BD5A,0A
+12=Shigen,10BD5A,0B
+13=Kagami,10BD5A,0C
+14=Kojiroh,10BD5A,0D
+15=Hibiki,10BD5A,0E
+16=Setsuna,10BD5A,0F
+17=Kouryu,10BD5A,10
+18=Original Kaede,10BD5A,11
+19=Hagure,10BD5A,12
+20=Kotetsu,10BD5A,13
+Default=0
+
+[10]
+Name=Select Colour PL2
+0=Disabled
+1=A colour (Power Mode),10BD60,00
+2=A colour (Speed Mode),10BD60,01
+3=A colour (EX Mode),10BD60,02
+4=D colour (Power Mode),10BD60,03
+5=D colour (Speed Mode),10BD60,04
+6=D colour (EX Mode),10BD60,05
+Default=0
+
+[11]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

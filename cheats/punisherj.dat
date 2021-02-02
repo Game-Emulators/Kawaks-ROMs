@@ -1,0 +1,79 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF18AA,BF
+Default=0
+
+[1]
+Name=Always have Gun drawn
+0=Disabled
+1=Enabled,FF5D97,01
+Default=0
+
+[2]
+Name=Finish this Level Now!
+0=Disabled
+1=Enabled,FF5FA0,FF
+Default=0
+
+[3]
+Name=Select Starting Stage
+0=Disabled
+1=Stage 1,FF5BB8,00
+2=Stage 2,FF5BB8,01
+3=Stage 3,FF5BB8,02
+4=Bonus Stage,FF5BB8,07
+5=Stage 4,FF5BB8,03
+6=Stage 5,FF5BB8,04
+7=Last Stage,FF5BB8,05
+8=Hidden Bonus Stage,FF5BB8,06
+Default=0
+
+[4]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,FF5BA5,03
+Default=0
+
+[5]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF8E9E,88
+Default=0
+
+[6]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,FF5BCB,09
+Default=0
+
+[7]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,FF8EB4,F0
+Default=0
+
+[8]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF8F9E,88
+Default=0
+
+[9]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,FF5BCA,09
+Default=0
+
+[10]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,FF5BA4,03
+Default=0
+
+[11]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,FF8FB4,F0
+Default=0
+

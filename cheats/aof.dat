@@ -1,0 +1,109 @@
+[0]
+Name=Infinite Time (Turn OFF on the Bonus Stage!)
+0=Disabled
+1=Enabled,108407,99
+Default=0
+
+[1]
+Name=Finish this Fight Now!
+0=Disabled
+1=Enabled,108407,00
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,1092CC,60
+Default=0
+
+[3]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,1092CC,01
+Default=0
+
+[4]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,1094A5,80
+Default=0
+
+[5]
+Name=Always have Minimum Power PL1
+0=Disabled
+1=Enabled,1094A5,00
+Default=0
+
+[6]
+Name=Drain All Power Now! PL1
+0=Disabled
+1=Enabled,1094A5,00
+Default=0
+
+[7]
+Name=Select Character PL1
+0=Disabled
+1=Ryo Sakazaki,1092C3,00,1092C2,00
+2=Robert Garcia,1092C3,00,1092C2,01
+3=Ryuhaku Todo,1092C3,00,1092C2,02
+4=Jack Turner,1092C3,00,1092C2,03
+5=Lee Pai Long,1092C3,00,1092C2,04
+6=King,1092C3,00,1092C2,05
+7=Micky Rodgers,1092C3,00,1092C2,06
+8=John Crawley,1092C3,00,1092C2,07
+9=#Mr. Big,1092C3,00,1092C2,08
+10=#Mr. Karate,1092C3,00,1092C2,09
+Default=0
+
+[8]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,1093CC,60
+Default=0
+
+[9]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,1093CC,01
+Default=0
+
+[10]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,1095A5,80
+Default=0
+
+[11]
+Name=Always have Minimum Power PL2
+0=Disabled
+1=Enabled,1095A5,00
+Default=0
+
+[12]
+Name=Drain All Power Now! PL2
+0=Disabled
+1=Enabled,1095A5,00
+Default=0
+
+[13]
+Name=Select Character PL2
+0=Disabled
+1=Ryo Sakazaki,1093C3,00,1093C2,00
+2=Robert Garcia,1093C3,00,1093C2,01
+3=Ryuhaku Todo,1093C3,00,1093C2,02
+4=Jack Turner,1093C3,00,1093C2,03
+5=Lee Pai Long,1093C3,00,1093C2,04
+6=King,1093C3,00,1093C2,05
+7=Micky Rodgers,1093C3,00,1093C2,06
+8=John Crawley,1093C3,00,1093C2,07
+9=#Mr. Big,1093C3,00,1093C2,08
+10=#Mr. Karate,1093C3,00,1093C2,09
+Default=0
+
+[14]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

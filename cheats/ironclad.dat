@@ -1,0 +1,68 @@
+[0]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF027C,03
+Default=0
+
+[1]
+Name=Maximum Power PL1
+0=Disabled
+1=Enabled,FF8A14,0C
+Default=0
+
+[2]
+Name=Maximum Level PL1
+0=Disabled
+1=Enabled,FF8A16,20
+Default=0
+
+[3]
+Name=L-Armor PL1
+0=Disabled
+1=Laser,FF8A54,02
+2=H. Missile,FF8A54,04
+3=Fire Armor,FF8A54,06
+Default=0
+
+[4]
+Name=R-Armor PL1
+0=Disabled
+1=Drill,FF8A70,02
+2=Chainsaw,FF8A70,04
+3=Stab Ball,FF8A70,06
+Default=0
+
+[5]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF1F7C,03
+Default=0
+
+[6]
+Name=Maximum Power PL2
+0=Disabled
+1=Enabled,FF8C14,0C
+Default=0
+
+[7]
+Name=Maximum Level PL2
+0=Disabled
+1=Enabled,FF8C16,20
+Default=0
+
+[8]
+Name=L-Armor PL2
+0=Disabled
+1=Laser,FF8C54,02
+2=H. Missile,FF8C54,04
+3=Fire Armor,FF8C54,06
+Default=0
+
+[9]
+Name=R-Armor PL2
+0=Disabled
+1=Drill,FF8C70,02
+2=Chainsaw,FF8C70,04
+3=Stab Ball,FF8C70,06
+Default=0
+

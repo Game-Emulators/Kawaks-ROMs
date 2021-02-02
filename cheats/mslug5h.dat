@@ -1,0 +1,203 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10D67F,99
+Default=0
+
+[1]
+Name=Infinite Character Select Time
+0=Disabled
+1=Enabled,10095F,63
+Default=0
+
+[2]
+Name=Select Starting Mission
+0=Disabled
+1=Mission 1,10D681,00
+2=Mission 2,10D681,01
+3=Mission 3,10D681,02
+4=Mission 4,10D681,03
+5=Final Mission,10D681,04
+6=Ending,10D681,05
+Default=0
+
+[3]
+Name=Select Blood Colour
+0=Disabled
+1=Clear,10FD93,00
+2=Red,10FD93,01
+Default=0
+
+[4]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,100A40,09
+Default=0
+
+[5]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,100D48,01
+Default=0
+
+[6]
+Name=Infinite Bullets PL1
+0=Disabled
+1=Enabled,10D45D,FF,10D45C,FF
+Default=0
+
+[7]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,10D456,63
+Default=0
+
+[8]
+Name=Infinite Cannons PL1
+0=Disabled
+1=Enabled,10DCDE,63
+Default=0
+
+[9]
+Name=Infinite Vehicle Gas PL1
+0=Disabled
+1=Enabled,101B2C,28,10DCD6,28
+Default=0
+
+[10]
+Name=Select Weapon PL1
+0=Disabled
+1=Normal Weapon,10D455,00,100D59,00
+2=Shotgun,10D455,02,100D59,01
+3=Rocket Launcher,10D455,03,100D59,01
+4=Flame Shot,10D455,04,100D59,01
+5=Heavy Machine Gun,10D455,05,100D59,01
+6=Laser Gun,10D455,06,100D59,01
+7=Big Shotgun,10D455,07,100D59,01
+8=Big Rocket Launcher,10D455,08,100D59,01
+9=Big Flame Shot,10D455,09,100D59,01
+10=Big Heavy Machine Gun,10D455,0A,100D59,01
+11=Big Laser Gun,10D455,0B,100D59,01
+12=Enemy Chaser,10D455,0C,100D59,01
+13=Iron Lizard,10D455,0D,100D59,01
+14=Drop Shot,10D455,0E,100D59,01
+15=Super Grenade,10D455,0F,100D59,01
+16=Two Machine Gun,10D455,12,100D59,02
+Default=0
+
+[11]
+Name=Select Bomb PL1
+0=Disabled
+1=Normal,10D457,01
+2=Fire,10D457,02
+3=Rock,10D457,03
+Default=0
+
+[12]
+Name=Always have Pig PL1
+0=Disabled
+1=Enabled,100D57,01
+Default=0
+
+[13]
+Name=Get Pig Now! PL1
+0=Disabled
+1=Enabled,100D57,01
+Default=0
+
+[14]
+Name=Always have 15 Prisoners PL1
+0=Disabled
+1=Enabled,10DDDC,0F
+Default=0
+
+[15]
+Name=Get 15 Prisoners Now! PL1
+0=Disabled
+1=Enabled,10DDDC,0F
+Default=0
+
+[16]
+Name=Select Character PL1
+0=Disabled
+1=Marco,100A41,00
+2=Tarma,100A41,01
+3=Eri,100A41,02
+4=Fio,100A41,03
+Default=0
+
+[17]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,100B04,09
+Default=0
+
+[18]
+Name=Infinite Bullets PL2
+0=Disabled
+1=Enabled,10D46D,FF,10D46C,FF
+Default=0
+
+[19]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,10D466,63
+Default=0
+
+[20]
+Name=Infinite Cannons PL2
+0=Disabled
+1=Enabled,10DD0A,63
+Default=0
+
+[21]
+Name=Infinite Vehicle Gas PL2
+0=Disabled
+1=Enabled,101B2C,28,10DD02,28
+Default=0
+
+[22]
+Name=Select Weapon PL2
+0=Disabled
+1=Normal Weapon,10D465,00,100E49,00
+2=Shotgun,10D465,02,100E49,01
+3=Rocket Launcher,10D465,03,100E49,01
+4=Flame Shot,10D465,04,100E49,01
+5=Heavy Machine Gun,10D465,05,100E49,01
+6=Laser Gun,10D465,06,100E49,01
+7=Big Shotgun,10D465,07,100E49,01
+8=Big Rocket Launcher,10D465,08,100E49,01
+9=Big Flame Shot,10D465,09,100E49,01
+10=Big Heavy Machine Gun,10D465,0A,100E49,01
+11=Big Laser Gun,10D465,0B,100E49,01
+12=Enemy Chaser,10D465,0C,100E49,01
+13=Iron Lizard,10D465,0D,100E49,01
+14=Drop Shot,10D465,0E,100E49,01
+15=Super Grenade,10D465,0F,100E49,01
+16=Two Machine Gun,10D465,12,100E49,02
+Default=0
+
+[23]
+Name=Select Bomb PL2
+0=Disabled
+1=Normal,10D467,01
+2=Fire,10D467,02
+3=Rock,10D467,03
+Default=0
+
+[24]
+Name=Select Character PL2
+0=Disabled
+1=Marco,100B05,00
+2=Tarma,100B05,01
+3=Eri,100B05,02
+4=Fio,100B05,03
+Default=0
+
+[25]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

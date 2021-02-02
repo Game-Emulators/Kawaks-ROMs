@@ -1,0 +1,255 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF1E66,00
+Default=0
+
+[1]
+Name=Select Starting Stage
+0=Disabled
+1=1,FF81D1,00
+2=2,FF81D1,01
+3=3,FF81D1,02
+4=4,FF81D1,03
+5=5,FF81D1,04
+6=6,FF81D1,05
+7=7,FF81D1,06
+Default=0
+
+[2]
+Name=Select Combination Item Type
+0=Disabled
+1=TurboJet,FFF73E,00
+2=Robot,FFF73E,01
+3=Tank,FFF73E,02
+Default=0
+
+[3]
+Name=Get Combination Item Now!
+0=Disabled
+1=Enabled,FF9C8B,01
+Default=0
+
+[4]
+Name=Combination Item Power Now!
+0=Disabled
+1=Enabled,FF9C8C,06
+Default=0
+
+[5]
+Name=Infinite Combination Item Fuel
+0=Disabled
+1=Enabled,FF1E92,99
+Default=0
+
+[6]
+Name=Get off Combination Item Now!
+0=Disabled
+1=Enabled,FFF74E,00,FFF751,FF
+Default=0
+
+[7]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,FF96E2,04
+Default=0
+
+[8]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF95DC,50
+Default=0
+
+[9]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,FF9656,FE
+Default=0
+
+[10]
+Name=Infinite Bullets PL1
+0=Disabled
+1=Enabled,FF95FB,01
+Default=0
+
+[11]
+Name=Select Character PL1
+0=Disabled
+1=Bloodia,FF95DB,00,FF965D,00
+2=Reptos,FF95DB,01,FF965D,01
+3=Guldin,FF95DB,02,FF965D,02
+4=Fordy,FF95DB,03,FF965D,03
+Default=0
+
+[12]
+Name=Select Main Weapon PL1
+0=Disabled
+1=Machine Gun,FF965F,00
+2=Drill,FF965F,01
+3=Spark,FF965F,02
+4=Claw,FF965F,03
+5=Laser Blade,FF965F,04
+6=Shield,FF965F,05
+Default=0
+
+[13]
+Name=Select Sub Weapon PL1
+0=Disabled
+1=Vulcan,FF965E,00
+2=Missile,FF965E,01
+3=Guided,FF965E,02
+4=Laser,FF965E,03
+5=Flame,FF965E,04
+6=Bomb,FF965E,05
+7=Napalm,FF965E,06
+Default=0
+
+[14]
+Name=Select Legs PL1
+0=Disabled
+1=Robot,FF965C,00
+2=Tank,FF965C,01
+3=Power Bug,FF965C,02
+4=Turbo Jet,FF965C,03
+Default=0
+
+[15]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,FF98A2,04
+Default=0
+
+[16]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF979C,50
+Default=0
+
+[17]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,FF9816,FE
+Default=0
+
+[18]
+Name=Infinite Bullets PL2
+0=Disabled
+1=Enabled,FF97BB,01
+Default=0
+
+[19]
+Name=Select Character PL2
+0=Disabled
+1=Bloodia,FF979B,00,FF985D,00
+2=Reptos,FF979B,01,FF985D,01
+3=Guldin,FF979B,02,FF985D,02
+4=Fordy,FF979B,03,FF985D,03
+Default=0
+
+[20]
+Name=Select Main Weapon PL2
+0=Disabled
+1=Machine Gun,FF981F,00
+2=Drill,FF981F,01
+3=Spark,FF981F,02
+4=Claw,FF981F,03
+5=Laser Blade,FF981F,04
+6=Shield,FF981F,05
+Default=0
+
+[21]
+Name=Select Sub Weapon PL2
+0=Disabled
+1=Vulcan,FF981E,00
+2=Missile,FF981E,01
+3=Guided,FF981E,02
+4=Laser,FF981E,03
+5=Flame,FF981E,04
+6=Bomb,FF981E,05
+7=Napalm,FF981E,06
+Default=0
+
+[22]
+Name=Select Legs PL2
+0=Disabled
+1=Robot,FF981C,00
+2=Tank,FF981C,01
+3=Power Bug,FF981C,02
+4=Turbo Jet,FF981C,03
+Default=0
+
+[23]
+Name=Infinite Lives PL3
+0=Disabled
+1=Enabled,FF9A62,04
+Default=0
+
+[24]
+Name=Infinite Energy PL3
+0=Disabled
+1=Enabled,FF995C,50
+Default=0
+
+[25]
+Name=Invincibility PL3
+0=Disabled
+1=Enabled,FF99D6,FE
+Default=0
+
+[26]
+Name=Infinite Bullets PL3
+0=Disabled
+1=Enabled,FF997B,05
+Default=0
+
+[27]
+Name=Select Character PL3
+0=Disabled
+1=Bloodia,FF994B,00,FF9A5D,00
+2=Reptos,FF994B,01,FF9A5D,01
+3=Guldin,FF994B,02,FF9A5D,02
+4=Fordy,FF994B,03,FF9A5D,03
+Default=0
+
+[28]
+Name=Select Main Weapon PL3
+0=Disabled
+1=Machine Gun,FF99DF,00
+2=Drill,FF99DF,01
+3=Spark,FF99DF,02
+4=Claw,FF99DF,03
+5=Laser Blade,FF99DF,04
+6=Shield,FF99DF,05
+Default=0
+
+[29]
+Name=Select Sub Weapon PL3
+0=Disabled
+1=Vulcan,FF99DE,00
+2=Missile,FF99DE,01
+3=Guided,FF99DE,02
+4=Laser,FF99DE,03
+5=Flame,FF99DE,04
+6=Bomb,FF99DE,05
+7=Napalm,FF99DE,06
+Default=0
+
+[30]
+Name=Select Legs PL3
+0=Disabled
+1=Robot,FF99DC,00
+2=Tank,FF99DC,01
+3=Power Bug,FF99DC,02
+4=Turbo Jet,FF99DC,03
+Default=0
+
+[31]
+Name=Select Region
+0=Disabled
+1=USA,FF80DA,01
+2=Asia,FF80DA,02
+3=Hispanic,FF80DA,03
+4=Brazil,FF80DA,04
+5=Europe,FF80DA,05
+Default=0
+

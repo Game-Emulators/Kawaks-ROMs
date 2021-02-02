@@ -1,0 +1,99 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF9408,99
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,FF9408,00
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF83CA,90
+Default=0
+
+[3]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,FF83CA,00
+Default=0
+
+[4]
+Name=Infinite Special PL1
+0=Disabled
+1=Enabled,FF855E,8E
+Default=0
+
+[5]
+Name=Select Character PL1
+0=Disabled
+1=Dimitri,FF8728,01
+2=Gallon,FF8728,02
+3=Victor,FF8728,03
+4=Zabelzaroch,FF8728,04
+5=Morrigan,FF8728,05
+6=Anakaris,FF8728,06
+7=Felicia,FF8728,07
+8=Bishamon,FF8728,08
+9=Aulbath,FF8728,09
+10=Sasquatch,FF8728,0A
+11=Phobos,FF8728,0B
+12=Pyron,FF8728,0C
+Default=0
+
+[6]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF87CA,90
+Default=0
+
+[7]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,FF87CA,00
+Default=0
+
+[8]
+Name=Infinite Special PL2
+0=Disabled
+1=Enabled,FF895E,51
+Default=0
+
+[9]
+Name=Select Character PL2
+0=Disabled
+1=Dimitri,FF8B28,01
+2=Gallon,FF8B28,02
+3=Victor,FF8B28,03
+4=Zabelzaroch,FF8B28,04
+5=Morrigan,FF8B28,05
+6=Anakaris,FF8B28,06
+7=Felicia,FF8B28,07
+8=Bishamon,FF8B28,08
+9=Aulbath,FF8B28,09
+10=Sasquatch,FF8B28,0A
+11=Phobos,FF8B28,0B
+12=Pyron,FF8B28,0C
+Default=0
+
+[10]
+Name=Select Region
+0=Disabled
+1=Japan,FF8204,00
+2=USA,FF8204,02
+3=Asia,FF8204,04
+4=Hispanic,FF8204,06
+5=Euro,FF8204,08
+Default=0
+
+[11]
+Name=Select Title
+0=Disabled
+1=Vampire (Japanese Text),FF8215,00
+2=Darkstalkers (English Text),FF8215,01
+Default=0
+

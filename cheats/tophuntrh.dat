@@ -1,0 +1,103 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,10FD88,64,10008B,00,10008A,00
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,108CC3,99
+Default=0
+
+[2]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,108D1C,64
+Default=0
+
+[3]
+Name=Always have Power PL1
+0=Disabled
+1=Enabled,108D0C,05
+Default=0
+
+[4]
+Name=Get Power Now! PL1
+0=Disabled
+1=Enabled,108D0C,05
+Default=0
+
+[5]
+Name=Infinite Ammo (Forest 1) PL1
+0=Disabled
+1=Enabled,100506,04
+Default=0
+
+[6]
+Name=Always have Gun (Forest 1)PL1
+0=Disabled
+1=Enabled,10054D,01
+Default=0
+
+[7]
+Name=Get Gun Now! (Forest 1) PL1
+0=Disabled
+1=Enabled,10054D,01
+Default=0
+
+[8]
+Name=Lose Gun Now! (Forest 1) PL1
+0=Disabled
+1=Enabled,10054D,00
+Default=0
+
+[9]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,108D20,64
+Default=0
+
+[10]
+Name=Always have Power PL2
+0=Disabled
+1=Enabled,108D10,05
+Default=0
+
+[11]
+Name=Get Power Now! PL2
+0=Disabled
+1=Enabled,108D10,05
+Default=0
+
+[12]
+Name=Infinite Ammo (Forest 1) PL2
+0=Disabled
+1=Enabled,101106,04
+Default=0
+
+[13]
+Name=Always have Gun (Forest 1)PL2
+0=Disabled
+1=Enabled,10114D,01
+Default=0
+
+[14]
+Name=Get Gun Now! (Forest 1) PL2
+0=Disabled
+1=Enabled,10114D,01
+Default=0
+
+[15]
+Name=Lose Gun Now! (Forest 1) PL2
+0=Disabled
+1=Enabled,10114D,00
+Default=0
+
+[16]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

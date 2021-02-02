@@ -1,0 +1,103 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10B009,9A
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,10B009,01
+Default=0
+
+[2]
+Name=Select Background [Normal]
+0=Disabled
+1=Janne,10B004,00
+2=Hanzou,10B004,01
+3=Dragon,10B004,02
+4=Muscle Power,10B004,03
+5=J. Carn,10B004,04
+6=Rasputin,10B004,05
+7=Brocken,10B004,06
+8=Fuuma,10B004,07
+9=Geegus,10B004,08
+10=1st Bonus Stage,10B004,12
+11=2nd Bonus Stage,10B004,13
+Default=0
+
+[3]
+Name=Select Background [DeathMatch]
+0=Disabled
+1=Janne,10B004,09
+2=Hanzou,10B004,0A
+3=Dragon,10B004,0B
+4=Muscle Power,10B004,0C
+5=J. Carn,10B004,0D
+6=Rasputin,10B004,0E
+7=Brocken,10B004,0F
+8=Fuuma,10B004,10
+9=Geegus,10B004,11
+10=1st Bonus Stage,10B004,12
+11=2nd Bonus Stage,10B004,13
+Default=0
+
+[4]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10600B,68,10602F,68
+Default=0
+
+[5]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,10600B,00,10602F,00
+Default=0
+
+[6]
+Name=Select Character PL1
+0=Disabled
+1=Dragon,10600D,01
+2=Hanzo,10600D,02
+3=Muscle Power,10600D,03
+4=J. Carn,10600D,04
+5=Janne,10600D,05
+6=Rasputin,10600D,06
+7=Fuuma,10600D,07
+8=Brocken,10600D,08
+9=Geegus,10600D,09
+Default=0
+
+[7]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,10610B,68,10612F,68
+Default=0
+
+[8]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,10610B,00,10612F,00
+Default=0
+
+[9]
+Name=Select Character PL2
+0=Disabled
+1=Dragon,10610D,01
+2=Hanzo,10610D,02
+3=Muscle Power,10610D,03
+4=J. Carn,10610D,04
+5=Janne,10610D,05
+6=Rasputin,10610D,06
+7=Fuuma,10610D,07
+8=Brocken,10610D,08
+9=Geegus,10610D,09
+Default=0
+
+[10]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,92 @@
+[0]
+Name=Finish Round Now!
+0=Disabled
+1=Enabled,10882F,00
+Default=0
+
+[1]
+Name=Select Mai's Boobs
+0=Disabled
+1=Always Bounce,10C6E3,00
+2=Never Bounce,10C6E3,01
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,108220,CF
+Default=0
+
+[3]
+Name=Drain all Energy Now! PL1
+0=Disabled
+1=Enabled,108220,00
+Default=0
+
+[4]
+Name=Always have Max POW PL1
+0=Disabled
+1=Enabled,108218,7F
+Default=0
+
+[5]
+Name=Get Max POW Now! PL1
+0=Disabled
+1=Enabled,108218,7F
+Default=0
+
+[6]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,1082F1,01
+Default=0
+
+[7]
+Name=Play with Rugal PL1
+0=Disabled
+1=Enabled,108230,08
+Default=0
+
+[8]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,108420,CF
+Default=0
+
+[9]
+Name=Drain all Energy Now! PL2
+0=Disabled
+1=Enabled,108420,00
+Default=0
+
+[10]
+Name=Always have Max POW PL2
+0=Disabled
+1=Enabled,108418,7F
+Default=0
+
+[11]
+Name=Get Max POW Now! PL2
+0=Disabled
+1=Enabled,108418,7F
+Default=0
+
+[12]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,1084F1,01
+Default=0
+
+[13]
+Name=Play with Rugal PL2
+0=Disabled
+1=Enabled,108430,08
+Default=0
+
+[14]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

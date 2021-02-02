@@ -1,0 +1,25 @@
+[0]
+Name=Select Character PL1
+0=Disabled
+1=Behemoth,108D4D,08
+2=Eelis,108D4D,09
+3=Lucifer,108D4D,0A
+4=Gilfer,108D4D,0B
+Default=0
+
+[1]
+Name=Select Character PL2
+0=Disabled
+1=Behemoth,108D4C,08
+2=Eelis,108D4C,09
+3=Lucifer,108D4C,0A
+4=Gilfer,108D4C,0B
+Default=0
+
+[2]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,54 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF726F,09
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF72CB,99
+Default=0
+
+[2]
+Name=Finish this Battle Now!
+0=Disabled
+1=Enabled,FF72CB,01
+Default=0
+
+[3]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF802D,01,FF802C,16,FF802F,01,FF802E,17
+Default=0
+
+[4]
+Name=Drain Most Energy Now! PL1
+0=Disabled
+1=Enabled,FF802D,00,FF802C,00,FF802F,00,FF802E,00
+Default=0
+
+[5]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF842D,01,FF842C,16,FF842F,01,FF842E,17
+Default=0
+
+[6]
+Name=Drain Most Energy Now! PL2
+0=Disabled
+1=Enabled,FF842D,00,FF842C,00,FF842F,00,FF842E,00
+Default=0
+
+[7]
+Name=Select Region
+0=Disabled
+1=Japan,FF7444,00
+2=USA,FF7444,01
+3=Euro,FF7444,02
+4=Asia Sample,FF7444,03
+5=Asia TW,FF7444,04
+6=Hispanic,FF7444,05
+7=Brazil,FF7444,0A
+Default=0
+

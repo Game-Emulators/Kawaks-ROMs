@@ -1,0 +1,36 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF49A2,09
+Default=0
+
+[1]
+Name=Infinite Select Time
+0=Disabled
+1=Enabled,FF48F5,00,FF48F4,6A
+Default=0
+
+[2]
+Name=Infinite Lives (Turn ON in Game ONLY!) PL1
+0=Disabled
+1=Enabled,FF49A8,09
+Default=0
+
+[3]
+Name=Maximum Fire Power PL1
+0=Disabled
+1=Enabled,FF49B4,07
+Default=0
+
+[4]
+Name=Infinite Lives (Turn ON in Game ONLY!) PL2
+0=Disabled
+1=Enabled,FF49CE,09
+Default=0
+
+[5]
+Name=Maximum Fire Power PL2
+0=Disabled
+1=Enabled,FF49DA,07
+Default=0
+

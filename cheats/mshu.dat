@@ -1,0 +1,143 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF4809,99
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,FF4809,00
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF4190,90
+Default=0
+
+[3]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,FF4190,00
+Default=0
+
+[4]
+Name=Always have Max Power PL1
+0=Disabled
+1=Enabled,FF4199,03,FF4194,90
+Default=0
+
+[5]
+Name=Always have Min Power PL1
+0=Disabled
+1=Enabled,FF4199,00,FF4194,00
+Default=0
+
+[6]
+Name=Get Max Power Now! PL1
+0=Disabled
+1=Enabled,FF4199,03,FF4194,90
+Default=0
+
+[7]
+Name=Get Min Power Now! PL1
+0=Disabled
+1=Enabled,FF4199,00,FF4194,00
+Default=0
+
+[8]
+Name=No Ground Attacks PL1
+0=Disabled
+1=Enabled,FF406B,80
+Default=0
+
+[9]
+Name=Select Character PL1
+0=Disabled
+1=Spiderman,FF4050,00
+2=Capt. America,FF4050,02
+3=Hulk,FF4050,04
+4=Iron Man,FF4050,06
+5=Wolverine,FF4050,08
+6=Psylocke,FF4050,0A
+7=Blackheart,FF4050,0C
+8=Shama Gorath,FF4050,0E
+9=Juggernaut,FF4050,10
+10=Magneto,FF4050,12
+11=Doc Doom,FF4050,14
+12=Thanos,FF4050,16
+13=Anita,FF4050,18
+Default=0
+
+[10]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF4590,90
+Default=0
+
+[11]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,FF4590,00
+Default=0
+
+[12]
+Name=Always have Max Power PL2
+0=Disabled
+1=Enabled,FF4599,03,FF4594,90
+Default=0
+
+[13]
+Name=Always have Min Power PL2
+0=Disabled
+1=Enabled,FF4599,00,FF4594,00
+Default=0
+
+[14]
+Name=Get Max Power Now! PL2
+0=Disabled
+1=Enabled,FF4599,03,FF4594,90
+Default=0
+
+[15]
+Name=Get Min Power Now! PL2
+0=Disabled
+1=Enabled,FF4599,00,FF4594,00
+Default=0
+
+[16]
+Name=No Ground Attacks PL2
+0=Disabled
+1=Enabled,FF446B,80
+Default=0
+
+[17]
+Name=Select Character PL2
+0=Disabled
+1=Spiderman,FF4450,00
+2=Capt. America,FF4450,02
+3=Hulk,FF4450,04
+4=Iron Man,FF4450,06
+5=Wolverine,FF4450,08
+6=Psylocke,FF4450,0A
+7=Blackheart,FF4450,0C
+8=Shama Gorath,FF4450,0E
+9=Juggernaut,FF4450,10
+10=Magneto,FF4450,12
+11=Doc Doom,FF4450,14
+12=Thanos,FF4450,16
+13=Anita,FF4450,18
+Default=0
+
+[18]
+Name=Select Region
+0=Disabled
+1=Japan,FF4C22,00
+2=USA,FF4C22,02
+3=Hispanic,FF4C22,04
+4=Asia,FF4C22,06
+5=Euro,FF4C22,08
+6=Brazil,FF4C22,0A
+Default=0
+

@@ -1,0 +1,178 @@
+[0]
+Name=Infinite Time (Turn OFF on the Bonus Stage!)
+0=Disabled
+1=Enabled,108407,99
+Default=0
+
+[1]
+Name=Finish this Fight Now!
+0=Disabled
+1=Enabled,108407,00
+Default=0
+
+[2]
+Name=Select Ending
+0=Disabled
+1=Ryo,109F90,00
+2=Robert,109F90,01
+3=Eiji,109F90,02
+4=Jack,109F90,03
+5=LEE,109F90,04
+6=King,109F90,05
+7=Mickey,109F90,06
+8=John,109F90,07
+9=Big,109F90,08
+10=Takuma,109F90,09
+11=Yuri,109F90,0A
+12=Temjin,109F90,0B
+13=Big(2),109F90,0C
+Default=0
+
+[3]
+Name=Select Background
+0=Disabled
+1=Ryo,108400,01
+2=Robert,108400,02
+3=Eiji,108400,03
+4=Jack,108400,04
+5=LEE,108400,05
+6=King,108400,06
+7=Mickey,108400,07
+8=John,108400,08
+9=Big,108400,09
+10=Takuma,108400,0A
+11=Yuri,108400,0B
+12=Temjin,108400,0C
+13=Geese,108400,0D
+14=Bonus Stage,108400,0E
+15=Bonus Stage 2,108400,0F
+16=Blank,108400,0F
+Default=0
+
+[4]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,1092EC,60
+Default=0
+
+[5]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,1092EC,01
+Default=0
+
+[6]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,10A67F,01,10A97F,01,10AA7F,01,10AB7F,01
+Default=0
+
+[7]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,1094A5,80
+Default=0
+
+[8]
+Name=Always have Minimum Power PL1
+0=Disabled
+1=Enabled,1094A5,00
+Default=0
+
+[9]
+Name=Drain All Power Now! PL1
+0=Disabled
+1=Enabled,1094A5,00
+Default=0
+
+[10]
+Name=Select Character PL1
+0=Disabled
+1=Ryo Sakazaki,1092E2,01
+2=Robert Garcia,1092E2,02
+3=Eiji Kisaragi,1092E2,03
+4=Jack Turner,1092E2,04
+5=Lee Pai Long,1092E2,05
+6=King,1092E2,06
+7=Mickey Rogers,1092E2,07
+8=John Crawley,1092E2,08
+9=Big,1092E2,09
+10=Takuma Sakazaki,1092E2,0A
+11=Yuri Sakazaki,1092E2,0B
+12=Temjin,1092E2,0C
+13=Geese Howard,1092E2,0D
+Default=0
+
+[11]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,1093EC,60
+Default=0
+
+[12]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,1093EC,01
+Default=0
+
+[13]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,10A07F,01,10A37F,01,10A47F,01,10A57F,01
+Default=0
+
+[14]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,1095A5,80
+Default=0
+
+[15]
+Name=Always have Minimum Power PL2
+0=Disabled
+1=Enabled,1095A5,00
+Default=0
+
+[16]
+Name=Drain All Power Now! PL2
+0=Disabled
+1=Enabled,1095A5,00
+Default=0
+
+[17]
+Name=Next fight = Boss Now!
+0=Disabled
+1=Enabled,108428,0E
+Default=0
+
+[18]
+Name=Next fight = Special BossNow!
+0=Disabled
+1=Enabled,108428,0F
+Default=0
+
+[19]
+Name=Select Character PL2
+0=Disabled
+1=Ryo Sakazaki,1093E2,01
+2=Robert Garcia,1093E2,02
+3=Eiji Kisaragi,1093E2,03
+4=Jack Turner,1093E2,04
+5=Lee Pai Long,1093E2,05
+6=King,1093E2,06
+7=Mickey Rogers,1093E2,07
+8=John Crawley,1093E2,08
+9=Big,1093E2,09
+10=Takuma Sakazaki,1093E2,0A
+11=Yuri Sakazaki,1093E2,0B
+12=Temjin,1093E2,0C
+13=Geese Howard,1093E2,0D
+Default=0
+
+[20]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

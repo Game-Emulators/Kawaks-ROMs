@@ -1,0 +1,187 @@
+[0]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,1000B2,02
+Default=0
+
+[1]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,100304,06
+Default=0
+
+[2]
+Name=Enable Transformations PL1
+0=Disabled
+1=Enabled,100337,0F
+Default=0
+
+[3]
+Name=Change Time Ninja PL1
+0=Disabled
+1=Enabled,100364,60
+Default=0
+
+[4]
+Name=Change Time Samourai PL1
+0=Disabled
+1=Enabled,100366,60
+Default=0
+
+[5]
+Name=Change Time Dog PL1
+0=Disabled
+1=Enabled,100368,60
+Default=0
+
+[6]
+Name=Permanent Weapons PL1
+0=Disabled
+1=Enabled,100381,04
+Default=0
+
+[7]
+Name=No weapons PL1
+0=Disabled
+1=Enabled,1002F8,00
+Default=0
+
+[8]
+Name=Get Red Sphere PL1
+0=Disabled
+1=Enabled,1002F8,01
+Default=0
+
+[9]
+Name=Get Blue Sphere PL1
+0=Disabled
+1=Enabled,1002F8,02
+Default=0
+
+[10]
+Name=Get Purple Sphere PL1
+0=Disabled
+1=Enabled,1002F8,03
+Default=0
+
+[11]
+Name=Get Yellow Sphere PL1
+0=Disabled
+1=Enabled,1002F8,04
+Default=0
+
+[12]
+Name=Get Unknown Power 1 PL1
+0=Disabled
+1=Enabled,1002F8,05
+Default=0
+
+[13]
+Name=Get Unknown Power 2 PL1
+0=Disabled
+1=Enabled,1002F8,06
+Default=0
+
+[14]
+Name=Get Unknown Power 3 PL1
+0=Disabled
+1=Enabled,1002F8,07
+Default=0
+
+[15]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,1000B4,02
+Default=0
+
+[16]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,100404,06
+Default=0
+
+[17]
+Name=Enable Transformations PL2
+0=Disabled
+1=Enabled,100437,0F
+Default=0
+
+[18]
+Name=Change Time Ninja PL2
+0=Disabled
+1=Enabled,100464,60
+Default=0
+
+[19]
+Name=Change Time Samourai PL2
+0=Disabled
+1=Enabled,100466,60
+Default=0
+
+[20]
+Name=Change Time Dog PL2
+0=Disabled
+1=Enabled,100468,60
+Default=0
+
+[21]
+Name=Permanent Weapons PL2
+0=Disabled
+1=Enabled,100481,04
+Default=0
+
+[22]
+Name=No weapons PL2
+0=Disabled
+1=Enabled,1003F8,00
+Default=0
+
+[23]
+Name=Get Red Sphere PL2
+0=Disabled
+1=Enabled,1003F8,01
+Default=0
+
+[24]
+Name=Get Blue Sphere PL2
+0=Disabled
+1=Enabled,1003F8,02
+Default=0
+
+[25]
+Name=Get Purple Sphere PL2
+0=Disabled
+1=Enabled,1003F8,03
+Default=0
+
+[26]
+Name=Get Yellow Sphere PL2
+0=Disabled
+1=Enabled,1003F8,04
+Default=0
+
+[27]
+Name=Get Unknown Power 1 PL2
+0=Disabled
+1=Enabled,1003F8,05
+Default=0
+
+[28]
+Name=Get Unknown Power 2 PL2
+0=Disabled
+1=Enabled,1003F8,06
+Default=0
+
+[29]
+Name=Get Unknown Power 3 PL2
+0=Disabled
+1=Enabled,1003F8,07
+Default=0
+
+[30]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

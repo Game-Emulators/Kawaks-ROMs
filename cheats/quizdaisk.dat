@@ -1,0 +1,50 @@
+[0]
+Name=Select Perm. Answer Options
+0=Disabled
+1=3 Answers,105A73,03
+2=2 Answers,105A73,02
+Default=0
+
+[1]
+Name=Always 2 good answers needed
+0=Disabled
+1=Enabled,105A64,00
+Default=0
+
+[2]
+Name=Answer A always correct
+0=Disabled
+1=Enabled,105A8F,00
+Default=0
+
+[3]
+Name=Infinite Continues PL1
+0=Disabled
+1=Enabled,1022A0,64
+Default=0
+
+[4]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,1022B2,04
+Default=0
+
+[5]
+Name=Infinite Continues PL2
+0=Disabled
+1=Enabled,1023A0,64
+Default=0
+
+[6]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,1023B2,04
+Default=0
+
+[7]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

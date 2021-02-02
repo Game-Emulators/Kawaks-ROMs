@@ -1,0 +1,129 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,921D50,09
+Default=0
+
+[1]
+Name=Select Starting Stage (Buggy!)
+0=Disabled
+1=1,9221A8,00
+2=2,9221A8,01
+3=3,9221A8,02
+4=4,9221A8,03
+5=5,9221A8,04
+6=6,9221A8,05
+7=7,9221A8,06
+8=8,9221A8,07
+9=9,9221A8,08
+10=10,9221A8,09
+11=11,9221A8,0A
+12=12,9221A8,0B
+13=13,9221A8,0C
+14=14,9221A8,0D
+15=15,9221A8,0E
+Default=0
+
+[2]
+Name=Select Side Fighter Weapon
+0=Disabled
+1=Normal Shot,92BFF7,00
+2=Laser,92BFF7,FF
+Default=0
+
+[3]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,9226A4,4B
+Default=0
+
+[4]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,922404,0A
+Default=0
+
+[5]
+Name=Maximum Fire Power PL1
+0=Disabled
+1=Enabled,922428,03
+Default=0
+
+[6]
+Name=Always Maximum Charge PL1
+0=Disabled
+1=Enabled,922418,B6
+Default=0
+
+[7]
+Name=Infinite Side Arm Stock PL1
+0=Disabled
+1=Enabled,9223FA,63
+Default=0
+
+[8]
+Name=Maximum Gold PL1
+0=Disabled
+1=Enabled,9223FC,64
+Default=0
+
+[9]
+Name=Laser never overheats PL1
+0=Disabled
+1=Enabled,92242F,00
+Default=0
+
+[10]
+Name=Auto Charge Shot Fire PL1
+0=Disabled
+1=Enabled,92241A,40
+Default=0
+
+[11]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,9227A4,4B
+Default=0
+
+[12]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,922504,0A
+Default=0
+
+[13]
+Name=Maximum Fire Power PL2
+0=Disabled
+1=Enabled,922528,03
+Default=0
+
+[14]
+Name=Always Maximum Charge PL2
+0=Disabled
+1=Enabled,922518,B6
+Default=0
+
+[15]
+Name=Infinite Side Arm Stock PL2
+0=Disabled
+1=Enabled,9224FA,63
+Default=0
+
+[16]
+Name=Maximum Gold PL2
+0=Disabled
+1=Enabled,9224FC,64
+Default=0
+
+[17]
+Name=Laser never overheats PL2
+0=Disabled
+1=Enabled,92252F,00
+Default=0
+
+[18]
+Name=Auto Charge Shot Fire PL2
+0=Disabled
+1=Enabled,92251A,40
+Default=0
+

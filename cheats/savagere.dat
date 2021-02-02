@@ -1,0 +1,26 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,1084A9,59
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,1084A9,00
+Default=0
+
+[2]
+Name=Select Character
+0=Disabled
+1=King Leo [End Boss],1043C2,0A
+2=Angry Chung,1043C2,0B
+Default=0
+
+[3]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

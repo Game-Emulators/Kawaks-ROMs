@@ -1,0 +1,112 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8224,59
+Default=0
+
+[1]
+Name=Finish this Scene Now!
+0=Disabled
+1=Enabled,FF81F2,FF
+Default=0
+
+[2]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,FF8470,09
+Default=0
+
+[3]
+Name=Infinite Health PL1
+0=Disabled
+1=Enabled,FF83C0,65
+Default=0
+
+[4]
+Name=Infinite Special PL1
+0=Disabled
+1=Enabled,FF840A,00,FF840D,40
+Default=0
+
+[5]
+Name=Infinite Super PL1
+0=Disabled
+1=Enabled,FF842E,E4
+Default=0
+
+[6]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,FF83CD,01,FF83F1,10,FF841E,00,FF8428,00
+Default=0
+
+[7]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,FF8570,09
+Default=0
+
+[8]
+Name=Infinite Health PL2
+0=Disabled
+1=Enabled,FF84C0,65
+Default=0
+
+[9]
+Name=Infinite Special PL2
+0=Disabled
+1=Enabled,FF850A,00,FF850D,40
+Default=0
+
+[10]
+Name=Infinite Super PL2
+0=Disabled
+1=Enabled,FF852E,E4
+Default=0
+
+[11]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,FF84CD,01,FF84F1,10,FF851E,00,FF8528,00
+Default=0
+
+[12]
+Name=Infinite Lives PL3
+0=Disabled
+1=Enabled,FF8670,09
+Default=0
+
+[13]
+Name=Infinite Health PL3
+0=Disabled
+1=Enabled,FF85C0,65
+Default=0
+
+[14]
+Name=Infinite Special PL3
+0=Disabled
+1=Enabled,FF860A,00,FF860D,40
+Default=0
+
+[15]
+Name=Infinite Super PL3
+0=Disabled
+1=Enabled,FF862E,E4
+Default=0
+
+[16]
+Name=Invincibility PL3
+0=Disabled
+1=Enabled,FF85CD,01,FF85F1,10,FF861E,00,FF8628,00
+Default=0
+
+[17]
+Name=Select Region
+0=Disabled
+1=Japan,FF81C8,00
+2=USA,FF81C8,02
+3=Hispanic,FF81C8,04
+4=Asia,FF81C8,06
+5=Euro,FF81C8,08
+Default=0
+

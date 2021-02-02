@@ -1,0 +1,43 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,100AD9,99,100AD8,99
+Default=0
+
+[1]
+Name=Finish Quarter Now!
+0=Disabled
+1=Enabled,100AD9,00,100AD8,00
+Default=0
+
+[2]
+Name=Score always 00 PL1
+0=Disabled
+1=Enabled,104369,00,104368,00
+Default=0
+
+[3]
+Name=Score always 99 PL1
+0=Disabled
+1=Enabled,104369,99,104368,99
+Default=0
+
+[4]
+Name=Score always 00 PL2
+0=Disabled
+1=Enabled,104469,00,104468,00
+Default=0
+
+[5]
+Name=Score always 99 PL2
+0=Disabled
+1=Enabled,104469,99,104468,99
+Default=0
+
+[6]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

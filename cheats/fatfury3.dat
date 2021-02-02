@@ -1,0 +1,155 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,105681,9A
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,105681,00
+Default=0
+
+[2]
+Name=Select Perm. Background
+0=Disabled
+1=Sound Beach (Terry),105626,01
+2=Howard Arena (Andy),105626,02
+3=National Park (Joe),105626,03
+4=East Side Park (Mai),105626,04
+5=Geese Tower (Geese),105626,05
+6=Dream Amusement Park (Sokaku),105626,06
+7=Pao Pao Cafe 2 (Bob),105626,07
+8=Port Town (Hon-Fu),105626,08
+9=Pioneer Plaza (Mary),105626,09
+10=South Town Airport (Franco),105626,0A
+11=South Station (Yamazaki),105626,0B
+12=Delta Park (???),105626,0C
+13=Delta Park(2) (???),105626,0D
+14=Delta Park(3) (Chonshu  Chonrei),105626,0E
+15=Geese Tower(2),105626,0F
+Default=0
+
+[3]
+Name=Always have Easy Supers
+0=Disabled
+1=Enabled,10E000,01
+Default=0
+
+[4]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,100488,78
+Default=0
+
+[5]
+Name=Drain all Energy Now! PL1
+0=Disabled
+1=Enabled,100488,00
+Default=0
+
+[6]
+Name=Eliminate SDM Conditions PL1
+0=Disabled
+1=Enabled,108A85,FF,108A87,FF
+Default=0
+
+[7]
+Name=Infinite SDMs PL1
+0=Disabled
+1=Enabled,1004A3,00
+Default=0
+
+[8]
+Name=Rounds Won = 2  Now! PL1
+0=Disabled
+1=Enabled,105667,02
+Default=0
+
+[9]
+Name=Select Character PL1
+0=Disabled
+1=Terry Bogard,10561C,01
+2=Andy Bogard,10561C,02
+3=Joe Higashi,10561C,03
+4=Mai Shiranui,10561C,04
+5=Geese Howard,10561C,05
+6=Sokaku,10561C,06
+7=Bob Wilson,10561C,07
+8=Hon Fu,10561C,08
+9=Blue Mary,10561C,09
+10=Franco Bash,10561C,0A
+11=Ryuji Yamazaki,10561C,0B
+12=Jin Chonrei,10561C,0C
+13=Jin Chonshu,10561C,0D
+Default=0
+
+[10]
+Name=Select Colour PL1
+0=Disabled
+1=A colour,105625,00
+2=D colour,105625,01
+Default=0
+
+[11]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,100588,78
+Default=0
+
+[12]
+Name=Drain all Energy Now! PL2
+0=Disabled
+1=Enabled,100588,00
+Default=0
+
+[13]
+Name=Eliminate SDM Conditions PL2
+0=Disabled
+1=Enabled,108A84,FF,108A86,FF
+Default=0
+
+[14]
+Name=Infinite SDMs PL2
+0=Disabled
+1=Enabled,1005A3,00
+Default=0
+
+[15]
+Name=Rounds Won = 2  Now! PL2
+0=Disabled
+1=Enabled,105666,02
+Default=0
+
+[16]
+Name=Select Character PL2
+0=Disabled
+1=Terry Bogard,10561E,01
+2=Andy Bogard,10561E,02
+3=Joe Higashi,10561E,03
+4=Mai Shiranui,10561E,04
+5=Geese Howard,10561E,05
+6=Sokaku,10561E,06
+7=Bob Wilson,10561E,07
+8=Hon Fu,10561E,08
+9=Blue Mary,10561E,09
+10=Franco Bash,10561E,0A
+11=Ryuji Yamazaki,10561E,0B
+12=Jin Chonrei,10561E,0C
+13=Jin Chonshu,10561E,0D
+Default=0
+
+[17]
+Name=Select Colour PL2
+0=Disabled
+1=A colour,105624,00
+2=D colour,105624,01
+Default=0
+
+[18]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

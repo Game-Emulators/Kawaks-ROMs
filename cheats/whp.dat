@@ -1,0 +1,245 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10C108,9A
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,10C108,01
+Default=0
+
+[2]
+Name=Select Starting Stage
+0=Disabled
+1=1,10E217,00
+2=2,10E217,01
+3=3,10E217,02
+4=4,10E217,03
+5=5,10E217,04
+6=6,10E217,05
+7=7,10E217,06
+8=8,10E217,07
+9=9,10E217,08
+10=10,10E217,09
+11=11,10E217,0A
+12=12,10E217,0B
+Default=0
+
+[3]
+Name=Select Background
+0=Disabled
+1=Genesis,10B004,00
+2=Jurassic Period,10B004,01
+3=The Ice Ace,10B004,02
+4=The Stone Age,10B004,03
+5=The Megalithic Age,10B004,04
+6=The Dark Age,10B004,05
+7=Genroku Period,10B004,06
+8=The Industrial Revolution,10B004,07
+9=Great War Period,10B004,08
+10=The Period,10B004,09
+11=Blackness Castle,10B004,0A
+12=Final Stage,10B004,0B
+Default=0
+
+[4]
+Name=Select Round Count
+0=Disabled
+1=1 Round,10B050,01
+2=3 Rounds,10B050,03
+3=5 Rounds,10B050,05
+Default=0
+
+[5]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10600D,C0,10600C,C0
+Default=0
+
+[6]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,10600D,00,10600C,00
+Default=0
+
+[7]
+Name=Always Maximum Power PL1
+0=Disabled
+1=Enabled,106A17,00,106A16,DF,106A19,00,106A18,DF
+Default=0
+
+[8]
+Name=Always Minimum Power PL1
+0=Disabled
+1=Enabled,106A17,00,106A16,00,106A19,00,106A18,00
+Default=0
+
+[9]
+Name=Drain All Power Now! PL1
+0=Disabled
+1=Enabled,106A17,00,106A16,00,106A19,00,106A18,00
+Default=0
+
+[10]
+Name=Invincibility (Partial) PL1
+0=Disabled
+1=Enabled,1060D7,00,1060D6,09
+Default=0
+
+[11]
+Name=Select Character (Character Selection Screen) PL1
+0=Disabled
+1=Zeus,10B071,11
+2=Neo-Dio,10B071,12
+3=Goku,10B071,13
+Default=0
+
+[12]
+Name=Select Character (Between Rounds) PL1
+0=Disabled
+1=Dragon,106005,01
+2=Hanzou,106005,02
+3=Muscle,106005,03
+4=J. Carn,106005,04
+5=Janne,106005,05
+6=Rasputin,106005,06
+7=Fuuma,106005,07
+8=Brocken,106005,08
+9=Shura,106005,09
+10=Ryoko,106005,0A
+11=C. Kidd,106005,0B
+12=Mudman,106005,0C
+13=Erick,106005,0D
+14=J. Max,106005,0E
+15=Jack,106005,0F
+16=Ryofu,106005,10
+17=Zeus,106005,11
+18=Neo-Dio,106005,12
+19=Goku,106005,13
+Default=0
+
+[13]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,10610D,C0,10610C,C0
+Default=0
+
+[14]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,10610D,00,10610C,00
+Default=0
+
+[15]
+Name=Always Maximum Power PL2
+0=Disabled
+1=Enabled,106B17,00,106B16,DF,106B19,00,106B18,DF
+Default=0
+
+[16]
+Name=Always Minimum Power PL2
+0=Disabled
+1=Enabled,106B17,00,106B16,00,106B19,00,106B18,00
+Default=0
+
+[17]
+Name=Drain All Power Now! PL2
+0=Disabled
+1=Enabled,106B17,00,106B16,00,106B19,00,106B18,00
+Default=0
+
+[18]
+Name=Invincibility (Partial) PL2
+0=Disabled
+1=Enabled,1061D7,00,1061D6,09
+Default=0
+
+[19]
+Name=Select Character (Character Selection Screen) PL2
+0=Disabled
+1=Zeus,10B070,11
+2=Neo-Dio,10B070,12
+3=Goku,10B070,13
+Default=0
+
+[20]
+Name=Select Character (Between Rounds) PL2
+0=Disabled
+1=Dragon,106105,01
+2=Hanzou,106105,02
+3=Muscle,106105,03
+4=J. Carn,106105,04
+5=Janne,106105,05
+6=Rasputin,106105,06
+7=Fuuma,106105,07
+8=Brocken,106105,08
+9=Shura,106105,09
+10=Ryoko,106105,0A
+11=C. Kidd,106105,0B
+12=Mudman,106105,0C
+13=Erick,106105,0D
+14=J. Max,106105,0E
+15=Jack,106105,0F
+16=Ryofu,106105,10
+17=Zeus,106105,11
+18=Neo-Dio,106105,12
+19=Goku,106105,13
+Default=0
+
+[21]
+Name=Always Wins
+0=Disabled
+1=Enabled,10C122,0F
+Default=0
+
+[22]
+Name=Wins Now! PL1
+0=Disabled
+1=Enabled,10C122,0F
+Default=0
+
+[23]
+Name=Always Wins PL2
+0=Disabled
+1=Enabled,10C122,F0
+Default=0
+
+[24]
+Name=Wins Now! PL2
+0=Disabled
+1=Enabled,10C122,F0
+Default=0
+
+[25]
+Name=Always Wins PL1
+0=Disabled
+1=Enabled,10C123,0F
+Default=0
+
+[26]
+Name=Wins Now! PL1
+0=Disabled
+1=Enabled,10C123,0F
+Default=0
+
+[27]
+Name=Always Wins PL2
+0=Disabled
+1=Enabled,10C123,F0
+Default=0
+
+[28]
+Name=Wins Now! PL2
+0=Disabled
+1=Enabled,10C123,F0
+Default=0
+
+[29]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

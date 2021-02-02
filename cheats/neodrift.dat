@@ -1,0 +1,55 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,103335,17,103334,70
+Default=0
+
+[1]
+Name=Stop Total Time [Practice Stage]
+0=Disabled
+1=Enabled,103379,00,103378,00
+Default=0
+
+[2]
+Name=Stop Total Time [Stage 1]
+0=Disabled
+1=Enabled,10339B,00,10339A,00
+Default=0
+
+[3]
+Name=Stop Total Time [Stage 2]
+0=Disabled
+1=Enabled,1033BD,00,1033BC,00
+Default=0
+
+[4]
+Name=Stop Total Time [Stage 3]
+0=Disabled
+1=Enabled,1033DF,00,1033DE,00
+Default=0
+
+[5]
+Name=Stop Total Time [Stage 4]
+0=Disabled
+1=Enabled,103401,00,103400,00
+Default=0
+
+[6]
+Name=Stop Total Time [Stage 5]
+0=Disabled
+1=Enabled,103423,00,103422,00
+Default=0
+
+[7]
+Name=Stop Total Time [Stage 6]
+0=Disabled
+1=Enabled,103445,00,103444,00
+Default=0
+
+[8]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,127 @@
+[0]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,10C004,05
+Default=0
+
+[1]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10C015,28
+Default=0
+
+[2]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,10C020,02
+Default=0
+
+[3]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,10C08B,30,10C08A,00
+Default=0
+
+[4]
+Name=Get an Instant LV1 Attack Now! PL1
+0=Disabled
+1=Enabled,10C089,10
+Default=0
+
+[5]
+Name=Get an Instant LV2 Attack Now! PL1
+0=Disabled
+1=Enabled,10C089,20
+Default=0
+
+[6]
+Name=Get an Instant Boss Attack Now! PL1
+0=Disabled
+1=Enabled,10C089,30
+Default=0
+
+[7]
+Name=Select Character PL1
+0=Disabled
+1=Loadran,10A680,00,10C006,00
+2=Macky + Pentell,10A680,01,10C006,01
+3=Arthur Schmidt,10A680,02,10C006,02
+4=Yan Yanyung,10A680,03,10C006,03
+5=Griffon,10A680,04,10C006,04
+6=Really Till,10A680,05,10C006,05
+7=Tinker + Linker,10A680,06,10C006,06
+8=Nanja Monja,10A680,07,10C006,07
+9=Kim,10A680,08,10C006,08
+10=Sprites,10A680,09,10C006,09
+11=Dark Ran,10A680,0A,10C006,0A
+12=Mevious,10A680,0B,10C006,0B
+13=Memory,10A680,0C,10C006,0C
+Default=0
+
+[8]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,10D004,05
+Default=0
+
+[9]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,10D015,28
+Default=0
+
+[10]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,10D020,02
+Default=0
+
+[11]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,10D08B,30,10D08A,00
+Default=0
+
+[12]
+Name=Get an Instant LV1 Attack Now! PL2
+0=Disabled
+1=Enabled,10D089,10
+Default=0
+
+[13]
+Name=Get an Instant LV2 Attack Now! PL2
+0=Disabled
+1=Enabled,10D089,20
+Default=0
+
+[14]
+Name=Get an Instant Boss Attack Now! PL2
+0=Disabled
+1=Enabled,10D089,30
+Default=0
+
+[15]
+Name=Select Character PL2
+0=Disabled
+1=Loadran,10A6C0,00,10D006,00
+2=Macky + Pentell,10A6C0,01,10D006,01
+3=Arthur Schmidt,10A6C0,02,10D006,02
+4=Yan Yanyung,10A6C0,03,10D006,03
+5=Griffon,10A6C0,04,10D006,04
+6=Really Till,10A6C0,05,10D006,05
+7=Tinker + Linker,10A6C0,06,10D006,06
+8=Nanja Monja,10A6C0,07,10D006,07
+9=Kim,10A6C0,08,10D006,08
+10=Sprites,10A6C0,09,10D006,09
+11=Dark Ran,10A6C0,0A,10D006,0A
+12=Mevious,10A6C0,0B,10D006,0B
+13=Memory,10A6C0,0C,10D006,0C
+Default=0
+
+[16]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

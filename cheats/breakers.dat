@@ -1,0 +1,79 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,107C0A,64
+Default=0
+
+[1]
+Name=Goto Boss Fight Screen Now!
+0=Disabled
+1=Enabled,1070C4,09
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,107333,1E
+Default=0
+
+[3]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,107333,00
+Default=0
+
+[4]
+Name=Infinite Chi PL1
+0=Disabled
+1=Enabled,107344,03
+Default=0
+
+[5]
+Name=Always minimum Chi PL1
+0=Disabled
+1=Enabled,107344,00
+Default=0
+
+[6]
+Name=Play with Bai-Hu PL1
+0=Disabled
+1=Enabled,107154,08
+Default=0
+
+[7]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,107893,1E
+Default=0
+
+[8]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,107893,00
+Default=0
+
+[9]
+Name=Infinite Chi PL2
+0=Disabled
+1=Enabled,1078A4,03
+Default=0
+
+[10]
+Name=Always minimum Chi PL2
+0=Disabled
+1=Enabled,1078A4,00
+Default=0
+
+[11]
+Name=Play with Bai-Hu PL2
+0=Disabled
+1=Enabled,1076B4,08
+Default=0
+
+[12]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

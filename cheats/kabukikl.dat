@@ -1,0 +1,25 @@
+[0]
+Name=Select Character PL1
+0=Disabled
+1=Manto Ace,102E16,08
+2=Karakuri,102E16,09
+3=Jyashinsai,102E16,0A
+4=Lucifeller,102E16,0B
+Default=0
+
+[1]
+Name=Select Character PL2
+0=Disabled
+1=Manto Ace,102E19,08
+2=Karakuri,102E19,09
+3=Jyashinsai,102E19,0A
+4=Lucifeller,102E19,0B
+Default=0
+
+[2]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

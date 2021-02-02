@@ -1,0 +1,218 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8108,63
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,FF8108,00
+Default=0
+
+[2]
+Name=Select Background
+0=Disabled
+1=01 - FEAST OF THE DAMNED,FF8100,00
+2=02 - CONCRETE CAVE,FF8100,02
+3=03 - TOWER OF ARROGANCE,FF8100,04
+4=04 - RED THIRST,FF8100,06
+5=05 - DESERTED CHATEAU,FF8100,08
+6=06 - ABARAYA,FF8100,0A
+7=07 - VANITY PARADISE,FF8100,0C
+8=08 - WAR AGONY,FF8100,0E
+9=09 - FOREVER TORMENT,FF8100,10
+10=10 - GREEN SCREAM,FF8100,12
+11=11 - IRON HORSE  IRON TERROR,FF8100,14
+12=12 - FETUS OF GOD,FF8100,16
+13=13 - REVENGER'S ROOST,FF8100,18
+Default=0
+
+[3]
+Name=Soul Keeper 'ON' PL1
+0=Disabled
+1=Enabled,FF87BD,FF
+Default=0
+
+[4]
+Name=Soul Keeper 'OFF' PL1
+0=Disabled
+1=Enabled,FF87BD,00
+Default=0
+
+[5]
+Name=Maximum POW PL1
+0=Disabled
+1=Enabled,FF8508,63
+Default=0
+
+[6]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF8451,01,FF8450,20,FF8453,01,FF8452,20
+Default=0
+
+[7]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,FF8451,00,FF8450,00,FF8453,00,FF8452,00
+Default=0
+
+[8]
+Name=Infinite Dark Force Change Time PL1
+0=Disabled
+1=Enabled,FF85C4,70
+Default=0
+
+[9]
+Name=Infinite Dark Force Power Time PL1
+0=Disabled
+1=Enabled,FF8576,70
+Default=0
+
+[10]
+Name=Enable Marionette Effect for VS screen PL1
+0=Disabled
+1=Enabled,FF87C2,FF
+Default=0
+
+[11]
+Name=Select Character Colour PL1
+0=Disabled
+1=Dark,FF87AF,06
+2=Light,FF87AF,07
+Default=0
+
+[12]
+Name=Gloomy Puppet Show helper PL1
+0=Disabled
+1=Enabled,FF844A,FF
+Default=0
+
+[13]
+Name=Select Character PL1
+0=Disabled
+1=Bulleta,FF8783,00
+2=Dimitri,FF8783,01
+3=Gallon,FF8783,02
+4=Victor,FF8783,03
+5=Zabel,FF8783,04
+6=Morrigan,FF8783,05
+7=Anakaris,FF8783,06
+8=Felicia,FF8783,07
+9=Bishamon,FF8783,08
+10=Aulbath,FF8783,09
+11=Sasquatch,FF8783,0A
+12=Q-Bee,FF8783,0C
+13=Lei-Lei,FF8783,0D
+14=Lilith,FF8783,0E
+15=Jedah,FF8783,0F
+16=Alternate Phobos,FF8783,10,FF87C3,01
+17=Alternate Donovan,FF8783,13,FF87C3,00
+18=#Oboro Bishamon (Boss)#,FF8783,18
+19=#Oboro-Bishamon#,FF8783,19
+Default=0
+
+[14]
+Name=Soul Keeper 'ON' PL2
+0=Disabled
+1=Enabled,FF8BBD,FF
+Default=0
+
+[15]
+Name=Soul Keeper 'OFF' PL2
+0=Disabled
+1=Enabled,FF8BBD,00
+Default=0
+
+[16]
+Name=Maximum POW PL2
+0=Disabled
+1=Enabled,FF8908,63
+Default=0
+
+[17]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF8851,01,FF8850,20,FF8853,01,FF8852,20
+Default=0
+
+[18]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,FF8851,00,FF8850,00,FF8853,00,FF8852,00
+Default=0
+
+[19]
+Name=Infinite Dark Force Change Time PL2
+0=Disabled
+1=Enabled,FF89C4,70
+Default=0
+
+[20]
+Name=Infinite Dark Force Power Time PL2
+0=Disabled
+1=Enabled,FF8976,70
+Default=0
+
+[21]
+Name=Enable Marionette Effect for VS screen PL2
+0=Disabled
+1=Enabled,FF8BC2,FF
+Default=0
+
+[22]
+Name=Select Character Colour PL2
+0=Disabled
+1=Dark,FF8BAF,06
+2=Light,FF8BAF,07
+Default=0
+
+[23]
+Name=Gloomy Puppet Show helper PL2
+0=Disabled
+1=Enabled,FF884A,01
+Default=0
+
+[24]
+Name=Select Character PL2
+0=Disabled
+1=Bulleta,FF8B83,00
+2=Dimitri,FF8B83,01
+3=Gallon,FF8B83,02
+4=Victor,FF8B83,03
+5=Zabel,FF8B83,04
+6=Morrigan,FF8B83,05
+7=Anakaris,FF8B83,06
+8=Felicia,FF8B83,07
+9=Bishamon,FF8B83,08
+10=Aulbath,FF8B83,09
+11=Sasquatch,FF8B83,0A
+12=Q-Bee,FF8B83,0C
+13=Lei-Lei,FF8B83,0D
+14=Lilith,FF8B83,0E
+15=Jedah,FF8B83,0F
+16=Alternate Phobos,FF8B83,10,FF8BC3,01
+17=Alternate Donovan,FF8B83,13,FF8BC3,00
+18=#Oboro Bishamon (Boss)#,FF8B83,18
+19=#Oboro-Bishamon#,FF8B83,19
+Default=0
+
+[25]
+Name=Select Region
+0=Disabled
+1=Japan,FF8090,00
+2=USA,FF8090,02
+3=Hispanic,FF8090,04
+4=Oceania,FF8090,06
+5=Asia,FF8090,08
+6=Euro,FF8090,0A
+7=Brazil,FF8090,0C
+Default=0
+
+[26]
+Name=Sound Test Timer Stop
+0=Disabled
+1=Enabled,FF800A,FF
+Default=0
+

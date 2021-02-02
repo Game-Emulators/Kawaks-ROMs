@@ -1,0 +1,246 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,107491,99
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,107491,00
+Default=0
+
+[2]
+Name=Current Normal Level is Final Level Now!
+0=Disabled
+1=Enabled,107438,08
+Default=0
+
+[3]
+Name=Current Survival Level is Final Level Now!
+0=Disabled
+1=Enabled,107438,0E
+Default=0
+
+[4]
+Name=Select Backdrop
+0=Disabled
+1=Freight Express,107434,00
+2=Live House 'Old Line',107434,01
+3=Oriental Casino 'Woo',107434,02
+4=Yok Chong Market,107434,03
+5=Philantrophy Belfry,107434,04
+6=Barbaroi Falls,107434,05
+7=Blue Wave Harbor,107434,06
+8=Sarah Forest,107434,07
+9=5th Ave. and 2nd St.,107434,08
+10=Slam 'Free Field',107434,09
+11=Universal Arena,107434,0A
+12=S.S.P. Maneuver Field,107434,0B
+13=(Mansion Basement),107434,0C
+14=(Mansion),107434,0D
+Default=0
+
+[5]
+Name=Enable Survival Mode
+0=Disabled
+1=Enabled,1041D8,01
+Default=0
+
+[6]
+Name=Infinite Credits PL1
+0=Disabled
+1=Enabled,10E009,09
+Default=0
+
+[7]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10048F,78
+Default=0
+
+[8]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,10048F,00
+Default=0
+
+[9]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,1004BF,80
+Default=0
+
+[10]
+Name=Drain All Power Now! PL1
+0=Disabled
+1=Enabled,1004BF,00
+Default=0
+
+[11]
+Name=Select Character PL1
+0=Disabled
+1=Terry Bogard,10742A,00
+2=Rock Howard,10742A,01
+3=Kim Dong Hwan,10742A,02
+4=Kim Jae Hoon,10742A,03
+5=Hotaru Futaba,10742A,04
+6=Gato,10742A,05
+7=Bonne Jenet,10742A,06
+8=Khushnood Butt,10742A,07
+9=Hokutomaru,10742A,08
+10=Freeman,10742A,09
+11=Tizoc,10742A,0A
+12=Kevin Rian,10742A,0B
+13=Grant,10742A,0C
+14=Kain R. Heinlein,10742A,0D
+Default=0
+
+[12]
+Name=Select Character Colour PL1
+0=Disabled
+1=A colour,107433,00
+2=B colour,107433,01
+3=C colour,107433,02
+4=D colour,107433,03
+Default=0
+
+[13]
+Name=Select Rounds Won PL1
+0=Disabled
+1=0,107475,00
+2=1,107475,01
+3=2,107475,02
+Default=0
+
+[14]
+Name=Select TOP Bar Length PL1
+0=Disabled
+1=5 chunks,1074C3,00
+2=3 chunks,1074C3,01
+3=1 chunk,1074C3,02
+4=Entire Life Bar,1074C3,03
+Default=0
+
+[15]
+Name=Select Leftmost TOP Chunk PL1
+0=Disabled
+1=0,1074C2,00
+2=1,1074C2,01
+3=2,1074C2,02
+4=3,1074C2,03
+5=4,1074C2,04
+6=5,1074C2,05
+7=6,1074C2,06
+8=7,1074C2,07
+9=8,1074C2,08
+10=9,1074C2,09
+11=10,1074C2,0A
+12=11,1074C2,0B
+13=12,1074C2,0C
+14=13,1074C2,0D
+15=14,1074C2,0E
+Default=0
+
+[16]
+Name=Infinite Credits PL2
+0=Disabled
+1=Enabled,10E008,09
+Default=0
+
+[17]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,10058F,78
+Default=0
+
+[18]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,10058F,00
+Default=0
+
+[19]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,1005BF,80
+Default=0
+
+[20]
+Name=Drain All Power Now! PL2
+0=Disabled
+1=Enabled,1005BF,00
+Default=0
+
+[21]
+Name=Select Character PL2
+0=Disabled
+1=Terry Bogard,10742C,00
+2=Rock Howard,10742C,01
+3=Kim Dong Hwan,10742C,02
+4=Kim Jae Hoon,10742C,03
+5=Hotaru Futaba,10742C,04
+6=Gato,10742C,05
+7=Bonne Jenet,10742C,06
+8=Khushnood Butt,10742C,07
+9=Hokutomaru,10742C,08
+10=Freeman,10742C,09
+11=Tizoc,10742C,0A
+12=Kevin Rian,10742C,0B
+13=Grant,10742C,0C
+14=Kain R. Heinlein,10742C,0D
+Default=0
+
+[22]
+Name=Select Character Colour PL2
+0=Disabled
+1=A colour,107432,00
+2=B colour,107432,01
+3=C colour,107432,02
+4=D colour,107432,03
+Default=0
+
+[23]
+Name=Select Rounds Won PL2
+0=Disabled
+1=0,107474,00
+2=1,107474,01
+3=2,107474,02
+Default=0
+
+[24]
+Name=Select TOP Bar Length PL2
+0=Disabled
+1=5 chunks,1074C5,00
+2=3 chunks,1074C5,01
+3=1 chunk,1074C5,02
+4=Entire Life Bar,1074C5,03
+Default=0
+
+[25]
+Name=Select Leftmost TOP Chunk PL2
+0=Disabled
+1=0,1074C4,00
+2=1,1074C4,01
+3=2,1074C4,02
+4=3,1074C4,03
+5=4,1074C4,04
+6=5,1074C4,05
+7=6,1074C4,06
+8=7,1074C4,07
+9=8,1074C4,08
+10=9,1074C4,09
+11=10,1074C4,0A
+12=11,1074C4,0B
+13=12,1074C4,0C
+14=13,1074C4,0D
+15=14,1074C4,0E
+Default=0
+
+[26]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

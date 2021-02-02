@@ -1,0 +1,793 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10A7E7,60
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,10A7E7,00
+Default=0
+
+[2]
+Name=Infinite Selection Time
+0=Disabled
+1=Enabled,1085D2,0F
+Default=0
+
+[3]
+Name=Mai's boobs always bounce
+0=Disabled
+1=Enabled,10A7F5,00
+Default=0
+
+[4]
+Name=Always have 9999 Battle Points (Last Round)
+0=Disabled
+1=Enabled,10EC79,99,10EC78,99
+Default=0
+
+[5]
+Name=Always have 9999 Battle Points (Current)
+0=Disabled
+1=Enabled,10DAA3,99,10DAA2,99
+Default=0
+
+[6]
+Name=Select Current Round
+0=Disabled
+1=1,10A7B7,00
+2=2,10A7B7,01
+3=3,10A7B7,02
+4=4,10A7B7,03
+5=5,10A7B7,04
+6=6,10A7B7,05
+Default=0
+
+[7]
+Name=Select Backdrop
+0=Disabled
+1=Factory,10A7AF,00
+2=Scrap Dump,10A7AF,01
+3=Garbage Dump,10A7AF,02
+4=Desert,10A7AF,03
+5=Korea,10A7AF,04
+6=Aquarium,10A7AF,05
+7=Temple,10A7AF,06
+8=Frozen Factory,10A7AF,07
+9=Frozen Scrap Dump,10A7AF,08
+Default=0
+
+[8]
+Name=Select Backdrop Music
+0=Disabled
+1=KD-0084,10ED14,00
+2=Inner Shade,10ED14,01
+3=Terry115,10ED14,02
+4=Beauty + the Beast,10ED14,03
+5=The Trooper,10ED14,04
+6=Will,10ED14,05
+7=Come Up Smiling,10ED14,06
+8=Wild Party,10ED14,07
+9=Ice Place,10ED14,08
+10=Slasher Zero,10ED14,09
+11=Good Bye Esaka,10ED14,0A
+12=Stormy Scream - Arashi no Saxophone 4,10ED14,0B
+Default=0
+
+[9]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,108238,66
+Default=0
+
+[10]
+Name=Drain all Energy Now! PL1
+0=Disabled
+1=Enabled,108238,00
+Default=0
+
+[11]
+Name=Maximum Power PL1
+0=Disabled
+1=Enabled,1081E9,90
+Default=0
+
+[12]
+Name=Drain all Power Now! PL1
+0=Disabled
+1=Enabled,1081E9,00
+Default=0
+
+[13]
+Name=Infinite Strikers PL1
+0=Disabled
+1=Enabled,1082E2,05
+Default=0
+
+[14]
+Name=Select Striker Type PL1
+0=Disabled
+1=Regular,10A80B,00
+2=Alternate,10A80B,01
+3=Maniac,10A80B,02
+Default=0
+
+[15]
+Name=Never Get Dizzied PL1
+0=Disabled
+1=Enabled,10823E,66
+Default=0
+
+[16]
+Name=Every Hit Will Dizzy PL1
+0=Disabled
+1=Enabled,10823E,00
+Default=0
+
+[17]
+Name=Stun Gauge Never Recovers Until Dizzied PL1
+0=Disabled
+1=Enabled,108245,10
+Default=0
+
+[18]
+Name=Stun Gauge Instantly Recovers PL1
+0=Disabled
+1=Enabled,108245,00
+Default=0
+
+[19]
+Name=Never Get Guard Crushed PL1
+0=Disabled
+1=Enabled,108246,66
+Default=0
+
+[20]
+Name=Every Block Will Guard Crush PL1
+0=Disabled
+1=Enabled,108246,00
+Default=0
+
+[21]
+Name=Guard Bar Never Recovers Until Guard Crushed PL1
+0=Disabled
+1=Enabled,10824D,10
+Default=0
+
+[22]
+Name=Guard Bar Instantly Recovers PL1
+0=Disabled
+1=Enabled,10824D,00
+Default=0
+
+[23]
+Name=Select Rounds Lost PL1
+0=Disabled
+1=0,10A7F8,00
+2=1,10A7F8,01
+3=2,10A7F8,02
+Default=0
+
+[24]
+Name=Select Team PL1
+0=Disabled
+1=Hero Team,10A7F6,00
+2=Benimaru Team,10A7F6,01
+3=Fatal Fury Team,10A7F6,02
+4=Art of Fighting Team,10A7F6,03
+5=Ikari Team,10A7F6,04
+6=Psycho Soldier Team,10A7F6,05
+7=Gals Fighters Team,10A7F6,06
+8=Korea Team,10A7F6,07
+9=Kula (solo),10A7F6,08
+10=Zero (solo),10A7F6,09
+11=Kyo-Iori Team,10A7F6,0A
+12=Kula Team,10A7F6,0B
+13=Custom Team,10A7F6,0D
+Default=0
+
+[25]
+Name=Select Character (A) PL1
+0=Disabled
+1=K',10A7FB,00
+2=Maxima,10A7FB,01
+3=Benimaru Nikaido,10A7FB,02
+4=Shingo Yabuki,10A7FB,03
+5=Terry Bogard,10A7FB,04
+6=Andy Bogard,10A7FB,05
+7=Joe Higashi,10A7FB,06
+8=Mai Shiranui,10A7FB,07
+9=Ryo Sakazaki,10A7FB,08
+10=Robert Garcia,10A7FB,09
+11=Yuri Sakazaki,10A7FB,0A
+12=Takuma Sakazaki,10A7FB,0B
+13=Leona,10A7FB,0C
+14=Ralf Jones,10A7FB,0D
+15=Clark Steel,10A7FB,0E
+16=Whip,10A7FB,0F
+17=Athena Asamiya,10A7FB,10
+18=Sie Kensou,10A7FB,11
+19=Chin Gentsai,10A7FB,12
+20=Bao,10A7FB,13
+21=King,10A7FB,14
+22=Blue Mary,10A7FB,15
+23=Kasumi Todo,10A7FB,16
+24=Hinako Shijou,10A7FB,17
+25=Kim Kaphwan,10A7FB,18
+26=Chang Koehan,10A7FB,19
+27=Choi Bounge,10A7FB,1A
+28=Jhun Hoon,10A7FB,1B
+29=Kyo Kusanagi,10A7FB,1C
+30=Ramon,10A7FB,1D
+31=Iori Yagami,10A7FB,1E
+32=Vanessa,10A7FB,1F
+33=Lin,10A7FB,20
+34=Seth,10A7FB,21
+35=#Kula Diamond,10A7FB,22
+36=#Zero,10A7FB,23
+Default=0
+
+[26]
+Name=Select Character (B) PL1
+0=Disabled
+1=K',10A7FA,00
+2=Maxima,10A7FA,01
+3=Benimaru Nikaido,10A7FA,02
+4=Shingo Yabuki,10A7FA,03
+5=Terry Bogard,10A7FA,04
+6=Andy Bogard,10A7FA,05
+7=Joe Higashi,10A7FA,06
+8=Mai Shiranui,10A7FA,07
+9=Ryo Sakazaki,10A7FA,08
+10=Robert Garcia,10A7FA,09
+11=Yuri Sakazaki,10A7FA,0A
+12=Takuma Sakazaki,10A7FA,0B
+13=Leona,10A7FA,0C
+14=Ralf Jones,10A7FA,0D
+15=Clark Steel,10A7FA,0E
+16=Whip,10A7FA,0F
+17=Athena Asamiya,10A7FA,10
+18=Sie Kensou,10A7FA,11
+19=Chin Gentsai,10A7FA,12
+20=Bao,10A7FA,13
+21=King,10A7FA,14
+22=Blue Mary,10A7FA,15
+23=Kasumi Todo,10A7FA,16
+24=Hinako Shijou,10A7FA,17
+25=Kim Kaphwan,10A7FA,18
+26=Chang Koehan,10A7FA,19
+27=Choi Bounge,10A7FA,1A
+28=Jhun Hoon,10A7FA,1B
+29=Kyo Kusanagi,10A7FA,1C
+30=Ramon,10A7FA,1D
+31=Iori Yagami,10A7FA,1E
+32=Vanessa,10A7FA,1F
+33=Lin,10A7FA,20
+34=Seth,10A7FA,21
+35=#Kula Diamond,10A7FA,22
+36=#Zero,10A7FA,23
+Default=0
+
+[27]
+Name=Select Character (C) PL1
+0=Disabled
+1=K',10A7FD,00
+2=Maxima,10A7FD,01
+3=Benimaru Nikaido,10A7FD,02
+4=Shingo Yabuki,10A7FD,03
+5=Terry Bogard,10A7FD,04
+6=Andy Bogard,10A7FD,05
+7=Joe Higashi,10A7FD,06
+8=Mai Shiranui,10A7FD,07
+9=Ryo Sakazaki,10A7FD,08
+10=Robert Garcia,10A7FD,09
+11=Yuri Sakazaki,10A7FD,0A
+12=Takuma Sakazaki,10A7FD,0B
+13=Leona,10A7FD,0C
+14=Ralf Jones,10A7FD,0D
+15=Clark Steel,10A7FD,0E
+16=Whip,10A7FD,0F
+17=Athena Asamiya,10A7FD,10
+18=Sie Kensou,10A7FD,11
+19=Chin Gentsai,10A7FD,12
+20=Bao,10A7FD,13
+21=King,10A7FD,14
+22=Blue Mary,10A7FD,15
+23=Kasumi Todo,10A7FD,16
+24=Hinako Shijou,10A7FD,17
+25=Kim Kaphwan,10A7FD,18
+26=Chang Koehan,10A7FD,19
+27=Choi Bounge,10A7FD,1A
+28=Jhun Hoon,10A7FD,1B
+29=Kyo Kusanagi,10A7FD,1C
+30=Ramon,10A7FD,1D
+31=Iori Yagami,10A7FD,1E
+32=Vanessa,10A7FD,1F
+33=Lin,10A7FD,20
+34=Seth,10A7FD,21
+35=#Kula Diamond,10A7FD,22
+36=#Zero,10A7FD,23
+Default=0
+
+[28]
+Name=Select Character (D) PL1
+0=Disabled
+1=K',10A7FC,00
+2=Maxima,10A7FC,01
+3=Benimaru Nikaido,10A7FC,02
+4=Shingo Yabuki,10A7FC,03
+5=Terry Bogard,10A7FC,04
+6=Andy Bogard,10A7FC,05
+7=Joe Higashi,10A7FC,06
+8=Mai Shiranui,10A7FC,07
+9=Ryo Sakazaki,10A7FC,08
+10=Robert Garcia,10A7FC,09
+11=Yuri Sakazaki,10A7FC,0A
+12=Takuma Sakazaki,10A7FC,0B
+13=Leona,10A7FC,0C
+14=Ralf Jones,10A7FC,0D
+15=Clark Steel,10A7FC,0E
+16=Whip,10A7FC,0F
+17=Athena Asamiya,10A7FC,10
+18=Sie Kensou,10A7FC,11
+19=Chin Gentsai,10A7FC,12
+20=Bao,10A7FC,13
+21=King,10A7FC,14
+22=Blue Mary,10A7FC,15
+23=Kasumi Todo,10A7FC,16
+24=Hinako Shijou,10A7FC,17
+25=Kim Kaphwan,10A7FC,18
+26=Chang Koehan,10A7FC,19
+27=Choi Bounge,10A7FC,1A
+28=Jhun Hoon,10A7FC,1B
+29=Kyo Kusanagi,10A7FC,1C
+30=Ramon,10A7FC,1D
+31=Iori Yagami,10A7FC,1E
+32=Vanessa,10A7FC,1F
+33=Lin,10A7FC,20
+34=Seth,10A7FC,21
+35=#Kula Diamond,10A7FC,22
+36=#Zero,10A7FC,23
+Default=0
+
+[29]
+Name=Select Roulette Status PL1
+0=Disabled
+1=No one selected at random,10A84B,00
+2=All characters selected at random,10A84B,02
+3=2nd  3rd  and 4th characters selected at random,10A84B,03
+4=3rd and 4th characters selected at random,10A84B,04
+5=4th character selected at random,10A84B,05
+Default=0
+
+[30]
+Name=Select Colour PL1 (A)
+0=Disabled
+1=A colour,10A7FF,00
+2=B colour,10A7FF,01
+3=CD colour,10A7FF,02
+Default=0
+
+[31]
+Name=Select Colour PL1 (B)
+0=Disabled
+1=A colour,10A7FE,00
+2=B colour,10A7FE,01
+3=CD colour,10A7FE,02
+Default=0
+
+[32]
+Name=Select Colour PL1 (C)
+0=Disabled
+1=A colour,10A801,00
+2=B colour,10A801,01
+3=CD colour,10A801,02
+Default=0
+
+[33]
+Name=Select Colour PL1 (D)
+0=Disabled
+1=A colour,10A800,00
+2=B colour,10A800,01
+3=CD colour,10A800,02
+Default=0
+
+[34]
+Name=Select First Character PL1
+0=Disabled
+1=Character A,10A803,00
+2=Character B,10A803,01
+3=Character C,10A803,02
+4=Character D,10A803,03
+Default=0
+
+[35]
+Name=Select Second Character PL1
+0=Disabled
+1=Character A,10A802,00
+2=Character B,10A802,01
+3=Character C,10A802,02
+4=Character D,10A802,03
+Default=0
+
+[36]
+Name=Select Third Character PL1
+0=Disabled
+1=Character A,10A805,00
+2=Character B,10A805,01
+3=Character C,10A805,02
+4=Character D,10A805,03
+Default=0
+
+[37]
+Name=Select Striker PL1
+0=Disabled
+1=Character A,10A804,00
+2=Character B,10A804,01
+3=Character C,10A804,02
+4=Character D,10A804,03
+Default=0
+
+[38]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,108438,66
+Default=0
+
+[39]
+Name=Drain all Energy Now! PL2
+0=Disabled
+1=Enabled,108438,00
+Default=0
+
+[40]
+Name=Maximum Power PL2
+0=Disabled
+1=Enabled,1083E9,90
+Default=0
+
+[41]
+Name=Drain all Power Now! PL2
+0=Disabled
+1=Enabled,1083E9,00
+Default=0
+
+[42]
+Name=Infinite Strikers PL2
+0=Disabled
+1=Enabled,1084E2,05
+Default=0
+
+[43]
+Name=Select Striker Type PL2
+0=Disabled
+1=Regular,10A81E,00
+2=Alternate,10A81E,01
+3=Maniac,10A81E,02
+Default=0
+
+[44]
+Name=Never Get Dizzied PL2
+0=Disabled
+1=Enabled,10843E,66
+Default=0
+
+[45]
+Name=Every Hit Will Dizzy PL2
+0=Disabled
+1=Enabled,10843E,00
+Default=0
+
+[46]
+Name=Stun Gauge Never Recovers Until Dizzied PL2
+0=Disabled
+1=Enabled,108445,10
+Default=0
+
+[47]
+Name=Stun Gauge Instantly Recovers PL2
+0=Disabled
+1=Enabled,108445,00
+Default=0
+
+[48]
+Name=Never Get Guard Crushed PL2
+0=Disabled
+1=Enabled,108446,66
+Default=0
+
+[49]
+Name=Every Block Will Guard Crush PL2
+0=Disabled
+1=Enabled,108446,00
+Default=0
+
+[50]
+Name=Guard Bar Never Recovers Until Guard Crushed PL2
+0=Disabled
+1=Enabled,10844D,10
+Default=0
+
+[51]
+Name=Guard Bar Instantly Recovers PL2
+0=Disabled
+1=Enabled,10844D,00
+Default=0
+
+[52]
+Name=Select Team PL2
+0=Disabled
+1=Hero Team,10A80D,00
+2=Benimaru Team,10A80D,01
+3=Fatal Fury Team,10A80D,02
+4=Art of Fighting Team,10A80D,03
+5=Ikari Team,10A80D,04
+6=Psycho Soldier Team,10A80D,05
+7=Gals Fighters Team,10A80D,06
+8=Korea Team,10A80D,07
+9=Kula (solo),10A80D,08
+10=Zero (solo),10A80D,09
+11=Kyo-Iori Team,10A80D,0A
+12=Kula Team,10A80D,0B
+13=Custom Team,10A80D,0D
+Default=0
+
+[53]
+Name=Select Rounds Lost PL2
+0=Disabled
+1=0,10A80F,00
+2=1,10A80F,01
+3=2,10A80F,02
+Default=0
+
+[54]
+Name=Select Character (A) PL2
+0=Disabled
+1=K',10A80E,00
+2=Maxima,10A80E,01
+3=Benimaru Nikaido,10A80E,02
+4=Shingo Yabuki,10A80E,03
+5=Terry Bogard,10A80E,04
+6=Andy Bogard,10A80E,05
+7=Joe Higashi,10A80E,06
+8=Mai Shiranui,10A80E,07
+9=Ryo Sakazaki,10A80E,08
+10=Robert Garcia,10A80E,09
+11=Yuri Sakazaki,10A80E,0A
+12=Takuma Sakazaki,10A80E,0B
+13=Leona,10A80E,0C
+14=Ralf Jones,10A80E,0D
+15=Clark Steel,10A80E,0E
+16=Whip,10A80E,0F
+17=Athena Asamiya,10A80E,10
+18=Sie Kensou,10A80E,11
+19=Chin Gentsai,10A80E,12
+20=Bao,10A80E,13
+21=King,10A80E,14
+22=Blue Mary,10A80E,15
+23=Kasumi Todo,10A80E,16
+24=Hinako Shijou,10A80E,17
+25=Kim Kaphwan,10A80E,18
+26=Chang Koehan,10A80E,19
+27=Choi Bounge,10A80E,1A
+28=Jhun Hoon,10A80E,1B
+29=Kyo Kusanagi,10A80E,1C
+30=Ramon,10A80E,1D
+31=Iori Yagami,10A80E,1E
+32=Vanessa,10A80E,1F
+33=Lin,10A80E,20
+34=Seth,10A80E,21
+35=#Kula Diamond,10A80E,22
+36=#Zero,10A80E,23
+Default=0
+
+[55]
+Name=Select Character (B) PL2
+0=Disabled
+1=K',10A811,00
+2=Maxima,10A811,01
+3=Benimaru Nikaido,10A811,02
+4=Shingo Yabuki,10A811,03
+5=Terry Bogard,10A811,04
+6=Andy Bogard,10A811,05
+7=Joe Higashi,10A811,06
+8=Mai Shiranui,10A811,07
+9=Ryo Sakazaki,10A811,08
+10=Robert Garcia,10A811,09
+11=Yuri Sakazaki,10A811,0A
+12=Takuma Sakazaki,10A811,0B
+13=Leona,10A811,0C
+14=Ralf Jones,10A811,0D
+15=Clark Steel,10A811,0E
+16=Whip,10A811,0F
+17=Athena Asamiya,10A811,10
+18=Sie Kensou,10A811,11
+19=Chin Gentsai,10A811,12
+20=Bao,10A811,13
+21=King,10A811,14
+22=Blue Mary,10A811,15
+23=Kasumi Todo,10A811,16
+24=Hinako Shijou,10A811,17
+25=Kim Kaphwan,10A811,18
+26=Chang Koehan,10A811,19
+27=Choi Bounge,10A811,1A
+28=Jhun Hoon,10A811,1B
+29=Kyo Kusanagi,10A811,1C
+30=Ramon,10A811,1D
+31=Iori Yagami,10A811,1E
+32=Vanessa,10A811,1F
+33=Lin,10A811,20
+34=Seth,10A811,21
+35=#Kula Diamond,10A811,22
+36=#Zero,10A811,23
+Default=0
+
+[56]
+Name=Select Character (C) PL2
+0=Disabled
+1=K',10A810,00
+2=Maxima,10A810,01
+3=Benimaru Nikaido,10A810,02
+4=Shingo Yabuki,10A810,03
+5=Terry Bogard,10A810,04
+6=Andy Bogard,10A810,05
+7=Joe Higashi,10A810,06
+8=Mai Shiranui,10A810,07
+9=Ryo Sakazaki,10A810,08
+10=Robert Garcia,10A810,09
+11=Yuri Sakazaki,10A810,0A
+12=Takuma Sakazaki,10A810,0B
+13=Leona,10A810,0C
+14=Ralf Jones,10A810,0D
+15=Clark Steel,10A810,0E
+16=Whip,10A810,0F
+17=Athena Asamiya,10A810,10
+18=Sie Kensou,10A810,11
+19=Chin Gentsai,10A810,12
+20=Bao,10A810,13
+21=King,10A810,14
+22=Blue Mary,10A810,15
+23=Kasumi Todo,10A810,16
+24=Hinako Shijou,10A810,17
+25=Kim Kaphwan,10A810,18
+26=Chang Koehan,10A810,19
+27=Choi Bounge,10A810,1A
+28=Jhun Hoon,10A810,1B
+29=Kyo Kusanagi,10A810,1C
+30=Ramon,10A810,1D
+31=Iori Yagami,10A810,1E
+32=Vanessa,10A810,1F
+33=Lin,10A810,20
+34=Seth,10A810,21
+35=#Kula Diamond,10A810,22
+36=#Zero,10A810,23
+Default=0
+
+[57]
+Name=Select Character (D) PL2
+0=Disabled
+1=K',10A813,00
+2=Maxima,10A813,01
+3=Benimaru Nikaido,10A813,02
+4=Shingo Yabuki,10A813,03
+5=Terry Bogard,10A813,04
+6=Andy Bogard,10A813,05
+7=Joe Higashi,10A813,06
+8=Mai Shiranui,10A813,07
+9=Ryo Sakazaki,10A813,08
+10=Robert Garcia,10A813,09
+11=Yuri Sakazaki,10A813,0A
+12=Takuma Sakazaki,10A813,0B
+13=Leona,10A813,0C
+14=Ralf Jones,10A813,0D
+15=Clark Steel,10A813,0E
+16=Whip,10A813,0F
+17=Athena Asamiya,10A813,10
+18=Sie Kensou,10A813,11
+19=Chin Gentsai,10A813,12
+20=Bao,10A813,13
+21=King,10A813,14
+22=Blue Mary,10A813,15
+23=Kasumi Todo,10A813,16
+24=Hinako Shijou,10A813,17
+25=Kim Kaphwan,10A813,18
+26=Chang Koehan,10A813,19
+27=Choi Bounge,10A813,1A
+28=Jhun Hoon,10A813,1B
+29=Kyo Kusanagi,10A813,1C
+30=Ramon,10A813,1D
+31=Iori Yagami,10A813,1E
+32=Vanessa,10A813,1F
+33=Lin,10A813,20
+34=Seth,10A813,21
+35=#Kula Diamond,10A813,22
+36=#Zero,10A813,23
+Default=0
+
+[58]
+Name=Select Roulette Status PL2
+0=Disabled
+1=No one selected at random,10A85A,00
+2=All characters selected at random,10A85A,02
+3=2nd  3rd  and 4th characters selected at random,10A85A,03
+4=3rd and 4th characters selected at random,10A85A,04
+5=4th character selected at random,10A85A,05
+Default=0
+
+[59]
+Name=Select Colour PL2 (A)
+0=Disabled
+1=A colour,10A812,00
+2=B colour,10A812,01
+3=CD colour,10A812,02
+Default=0
+
+[60]
+Name=Select Colour PL2 (B)
+0=Disabled
+1=A colour,10A815,00
+2=B colour,10A815,01
+3=CD colour,10A815,02
+Default=0
+
+[61]
+Name=Select Colour PL2 (C)
+0=Disabled
+1=A colour,10A814,00
+2=B colour,10A814,01
+3=CD colour,10A814,02
+Default=0
+
+[62]
+Name=Select Colour PL2 (D)
+0=Disabled
+1=A colour,10A817,00
+2=B colour,10A817,01
+3=CD colour,10A817,02
+Default=0
+
+[63]
+Name=Select First Character PL2
+0=Disabled
+1=Character A,10A816,00
+2=Character B,10A816,01
+3=Character C,10A816,02
+4=Character D,10A816,03
+Default=0
+
+[64]
+Name=Select Second Character PL2
+0=Disabled
+1=Character A,10A819,00
+2=Character B,10A819,01
+3=Character C,10A819,02
+4=Character D,10A819,03
+Default=0
+
+[65]
+Name=Select Third Character PL2
+0=Disabled
+1=Character A,10A818,00
+2=Character B,10A818,01
+3=Character C,10A818,02
+4=Character D,10A818,03
+Default=0
+
+[66]
+Name=Select Striker PL2
+0=Disabled
+1=Character A,10A81B,00
+2=Character B,10A81B,01
+3=Character C,10A81B,02
+4=Character D,10A81B,03
+Default=0
+
+[67]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

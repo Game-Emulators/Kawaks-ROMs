@@ -1,0 +1,107 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,10FD88,64,1062C7,00,1062C6,00
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,102243,9A
+Default=0
+
+[2]
+Name=Infinite Character Selection Time
+0=Disabled
+1=Enabled,105BA2,78
+Default=0
+
+[3]
+Name=Unlock Secret Characters Now!
+0=Disabled
+1=Enabled,108E85,01
+Default=0
+
+[4]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,100451,00
+Default=0
+
+[5]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,100451,68
+Default=0
+
+[6]
+Name=Select Charge PL1
+0=Disabled
+1=Maximum Charge,100511,68
+2=Minimum Charge,100511,00
+Default=0
+
+[7]
+Name=Select Character PL1
+0=Disabled
+1=Billy,100444,00
+2=Super Billy,100444,01
+3=Jimmy,100444,02
+4=Super Jimmy,100444,03
+5=Marian,100444,04
+6=Abobo,100444,05
+7=Amon,100444,06
+8=Eddie,100444,07
+9=Rebecca,100444,08
+10=Dulton,100444,09
+11=Cheng-Fu,100444,0A
+12=Burnov,100444,0B
+13=Duke,100444,0C
+14=Shuko,100444,0D
+Default=0
+
+[8]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,100551,00
+Default=0
+
+[9]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,100551,68
+Default=0
+
+[10]
+Name=Select Charge PL2
+0=Disabled
+1=Maximum Charge,100611,68
+2=Minimum Charge,100611,00
+Default=0
+
+[11]
+Name=Select Character PL2
+0=Disabled
+1=Billy,100544,00
+2=Super Billy,100544,01
+3=Jimmy,100544,02
+4=Super Jimmy,100544,03
+5=Marian,100544,04
+6=Abobo,100544,05
+7=Amon,100544,06
+8=Eddie,100544,07
+9=Rebecca,100544,08
+10=Dulton,100544,09
+11=Cheng-Fu,100544,0A
+12=Burnov,100544,0B
+13=Duke,100544,0C
+14=Shuko,100544,0D
+Default=0
+
+[12]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

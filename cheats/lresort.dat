@@ -1,0 +1,115 @@
+[0]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,108031,02
+Default=0
+
+[1]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,104228,7D
+Default=0
+
+[2]
+Name=Always have Maximum Power PL1
+0=Disabled
+1=Enabled,104264,04
+Default=0
+
+[3]
+Name=Always have Maximum Speed PL1
+0=Disabled
+1=Enabled,104266,05
+Default=0
+
+[4]
+Name=Infinite Shot PL1
+0=Disabled
+1=Enabled,10425F,00,10425E,00
+Default=0
+
+[5]
+Name=Infinite Pod Shot PL1
+0=Disabled
+1=Enabled,104261,00,104260,00
+Default=0
+
+[6]
+Name=Infinite Laser PL1
+0=Disabled
+1=Enabled,104259,00,104258,00
+Default=0
+
+[7]
+Name=Infinite Homing PL1
+0=Disabled
+1=Enabled,10424D,00,10424C,00
+Default=0
+
+[8]
+Name=Infinite Grenade PL1
+0=Disabled
+1=Enabled,10425D,00,10425C,00
+Default=0
+
+[9]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,108030,02
+Default=0
+
+[10]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,1042A8,7D
+Default=0
+
+[11]
+Name=Always have Maximum Power PL2
+0=Disabled
+1=Enabled,1042E4,04
+Default=0
+
+[12]
+Name=Always have Maximum Speed PL2
+0=Disabled
+1=Enabled,1042E6,05
+Default=0
+
+[13]
+Name=Infinite Shot PL2
+0=Disabled
+1=Enabled,1042DF,00,1042DE,00
+Default=0
+
+[14]
+Name=Infinite Pod Shot PL2
+0=Disabled
+1=Enabled,1042E1,00,1042E0,00
+Default=0
+
+[15]
+Name=Infinite Laser PL2
+0=Disabled
+1=Enabled,1042D9,00,1042D8,00
+Default=0
+
+[16]
+Name=Infinite Homing PL2
+0=Disabled
+1=Enabled,1042CD,00,1042CC,00
+Default=0
+
+[17]
+Name=Infinite Grenade PL2
+0=Disabled
+1=Enabled,1042DD,00,1042DC,00
+Default=0
+
+[18]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

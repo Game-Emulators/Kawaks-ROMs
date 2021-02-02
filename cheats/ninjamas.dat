@@ -1,0 +1,111 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10C020,9A
+Default=0
+
+[1]
+Name=Boss Code
+0=Disabled
+1=Enabled,10C006,01
+Default=0
+
+[2]
+Name=Goto to First Boss Now!
+0=Disabled
+1=Enabled,10C016,0A
+Default=0
+
+[3]
+Name=Goto to Final Boss Now!
+0=Disabled
+1=Enabled,10C016,0B
+Default=0
+
+[4]
+Name=Goto Ending Now!
+0=Disabled
+1=Enabled,10C016,0C
+Default=0
+
+[5]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,100051,D0
+Default=0
+
+[6]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,100051,00
+Default=0
+
+[7]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,1000AF,60
+Default=0
+
+[8]
+Name=Drain All Power Now! PL1
+0=Disabled
+1=Enabled,1000AF,00
+Default=0
+
+[9]
+Name=Always have No Power PL1
+0=Disabled
+1=Enabled,1000AF,00
+Default=0
+
+[10]
+Name=Select Character PL1
+0=Disabled
+1=Ranmaru,10C045,0A
+2=Nobunaga,10C045,0B
+Default=0
+
+[11]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,101051,D0
+Default=0
+
+[12]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,101051,00
+Default=0
+
+[13]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,1010AF,60
+Default=0
+
+[14]
+Name=Drain All Power Now! PL2
+0=Disabled
+1=Enabled,1010AF,00
+Default=0
+
+[15]
+Name=Always have No Power PL2
+0=Disabled
+1=Enabled,1010AF,00
+Default=0
+
+[16]
+Name=Select Character PL2
+0=Disabled
+1=Ranmaru,10C085,0A
+2=Nobunaga,10C085,0B
+Default=0
+
+[17]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

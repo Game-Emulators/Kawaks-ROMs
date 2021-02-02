@@ -1,0 +1,206 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,106AB5,9A
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,106AB5,00
+Default=0
+
+[2]
+Name=Select Stage
+0=Disabled
+1=Japan,106A30,01
+2=Korea,106A30,02
+3=Brazil,106A30,03
+4=Hong Kong,106A30,04
+5=China,106A30,05
+6=USA (Beach),106A30,06
+7=USA (Stage),106A30,07
+8=Germany (Day),106A30,08
+9=Germany (Night),106A30,09
+10=Geese Tower,106A30,0A
+Default=0
+
+[3]
+Name=Goto Boss (Krauser) Now!
+0=Disabled
+1=Enabled,106A34,09
+Default=0
+
+[4]
+Name=Goto Secret Boss (Geese) Now!
+0=Disabled
+1=Enabled,106A34,0A
+Default=0
+
+[5]
+Name=Always have Easy Supers
+0=Disabled
+1=Enabled,10E000,01
+Default=0
+
+[6]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10048A,C0
+Default=0
+
+[7]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,10048A,00
+Default=0
+
+[8]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,1004BD,3C
+Default=0
+
+[9]
+Name=Quick Action PL1
+0=Disabled
+1=Enabled,10046E,00
+Default=0
+
+[10]
+Name=Infinite Select Time PL1
+0=Disabled
+1=Enabled,102589,0A
+Default=0
+
+[11]
+Name=Select Character PL1
+0=Disabled
+1=Terry B.,100410,01,106A24,01
+2=Andy B.,100410,02,106A24,02
+3=Joe H.,100410,03,106A24,03
+4=Mai S.,100410,04,106A24,04
+5=#Geese Howard#,100410,05,106A24,05
+6=Sokaku M.,100410,06,106A24,06
+7=Bob Wilson,100410,07,106A24,07
+8=Hon Fu,100410,08,106A24,08
+9=Blue Mary,100410,09,106A24,09
+10=Franco Bash,100410,0A,106A24,0A
+11=R. Yamazaki,100410,0B,106A24,0B
+12=Jin Chonshu,100410,0C,106A24,0C
+13=Jin Chonrei,100410,0D,106A24,0D
+14=Duck King,100410,0E,106A24,0E
+15=Kim Kaphwan,100410,0F,106A24,0F
+16=Billy Kane,100410,10,106A24,10
+17=Cheng S.,100410,11,106A24,11
+18=Tung Fu Rue,100410,12,106A24,12
+19=Laurence B.,100410,13,106A24,13
+20=#W. Krauser#,100410,14,106A24,14
+Default=0
+
+[12]
+Name=Activate #EX# Flag PL1
+0=Disabled
+1=Enabled,1004D9,81
+Default=0
+
+[13]
+Name=Select Control Type PL1
+0=Disabled
+1=-NOTHING-,100413,00
+2=1P (Human),100413,01
+3=2P (Human),100413,02
+4=CPU (AutoPlay),100413,03
+Default=0
+
+[14]
+Name=Select Colour PL1
+0=Disabled
+1=A Colour,106A2D,00
+2=D Colour,106A2D,01
+Default=0
+
+[15]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,10058A,C0
+Default=0
+
+[16]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,10058A,00
+Default=0
+
+[17]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,1005BD,3C
+Default=0
+
+[18]
+Name=Quick Action PL2
+0=Disabled
+1=Enabled,10056E,00
+Default=0
+
+[19]
+Name=Infinite Select Time PL2
+0=Disabled
+1=Enabled,102689,0A
+Default=0
+
+[20]
+Name=Select Character PL2
+0=Disabled
+1=Terry B.,100510,01,106B24,01
+2=Andy B.,100510,02,106B24,02
+3=Joe H.,100510,03,106B24,03
+4=Mai S.,100510,04,106B24,04
+5=#Geese Howard#,100510,05,106B24,05
+6=Sokaku M.,100510,06,106B24,06
+7=Bob Wilson,100510,07,106B24,07
+8=Hon Fu,100510,08,106B24,08
+9=Blue Mary,100510,09,106B24,09
+10=Franco Bash,100510,0A,106B24,0A
+11=R. Yamazaki,100510,0B,106B24,0B
+12=Jin Chonshu,100510,0C,106B24,0C
+13=Jin Chonrei,100510,0D,106B24,0D
+14=Duck King,100510,0E,106B24,0E
+15=Kim Kaphwan,100510,0F,106B24,0F
+16=Billy Kane,100510,10,106B24,10
+17=Cheng S.,100510,11,106B24,11
+18=Tung Fu Rue,100510,12,106B24,12
+19=Laurence B.,100510,13,106B24,13
+20=#W. Krauser#,100510,14,106B24,14
+Default=0
+
+[21]
+Name=Activate #EX# Flag PL2
+0=Disabled
+1=Enabled,1005D9,81
+Default=0
+
+[22]
+Name=Select Control Type PL2
+0=Disabled
+1=-NOTHING-,100513,00
+2=1P (Human),100513,01
+3=2P (Human),100513,02
+4=CPU (AutoPlay),100513,03
+Default=0
+
+[23]
+Name=Select Colour PL2
+0=Disabled
+1=A Colour,106A2C,00
+2=D Colour,106A2C,01
+Default=0
+
+[24]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

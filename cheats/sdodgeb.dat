@@ -1,0 +1,247 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,1065AA,99
+Default=0
+
+[1]
+Name=Time Up Now!
+0=Disabled
+1=Enabled,1065AA,00
+Default=0
+
+[2]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,10FD88,64,101081,00,101080,00
+Default=0
+
+[3]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,105CBC,FF,105CBE,FF,105CC0,FF
+Default=0
+
+[4]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,105CBC,00,105CBE,00,105CC0,00
+Default=0
+
+[5]
+Name=Always have Max Power PL1
+0=Disabled
+1=Enabled,105FD3,8F,105FD2,FF
+Default=0
+
+[6]
+Name=Drain All Power Now! PL1
+0=Disabled
+1=Enabled,105FD3,00,105FD2,00
+Default=0
+
+[7]
+Name=Select 1st Character PL1
+0=Disabled
+1=Kunio (Kunio Team),103E5A,00
+2=Riki (Riki Team),103E5A,01
+3=Shinji (Shinji Team),103E5A,02
+4=Misuzu (Misuzu Team),103E5A,03
+5=Kenji (Kenji Team),103E5A,04
+6=Miyuki (Miyuki Team),103E5A,05
+7=Sabu (Sabu Team),103E5A,06
+8=D.B.Maou (D.Maou Team),103E5A,07
+9=Kamekichi (Kunio Team),103E5A,0A
+10=Kiyoshi (Misuzu Team),103E5A,0B
+11=Musashi (Kunio Team),103E5A,0C
+12=Jyoji (Kenji Team),103E5A,0D
+13=Keiko (Miyuki Team),103E5A,0E
+14=Kaede (Miyuki Team),103E5A,0F
+15=Kozue (Riki Team),103E5A,10
+16=Hiromitsu (Shinji Team),103E5A,11
+17=Takuya (Sabu Team),103E5A,12
+18=Akemi (Sabu Team),103E5A,13
+19=Makoto (Kenji Team),103E5A,14
+20=Boo (D.Maou Team),103E5A,15
+21=Gonzou (Misuzu Team),103E5A,16
+22=Akira (Shinji Team),103E5A,17
+23=Ushimaru (Riki Team),103E5A,18
+24=Daa (D.Maou Team),103E5A,19
+Default=0
+
+[8]
+Name=Select 2nd Character PL1
+0=Disabled
+1=Kunio (Kunio Team),103E5C,00
+2=Riki (Riki Team),103E5C,01
+3=Shinji (Shinji Team),103E5C,02
+4=Misuzu (Misuzu Team),103E5C,03
+5=Kenji (Kenji Team),103E5C,04
+6=Miyuki (Miyuki Team),103E5C,05
+7=Sabu (Sabu Team),103E5C,06
+8=D.B.Maou (D.Maou Team),103E5C,07
+9=Kamekichi (Kunio Team),103E5C,0A
+10=Kiyoshi (Misuzu Team),103E5C,0B
+11=Musashi (Kunio Team),103E5C,0C
+12=Jyoji (Kenji Team),103E5C,0D
+13=Keiko (Miyuki Team),103E5C,0E
+14=Kaede (Miyuki Team),103E5C,0F
+15=Kozue (Riki Team),103E5C,10
+16=Hiromitsu (Shinji Team),103E5C,11
+17=Takuya (Sabu Team),103E5C,12
+18=Akemi (Sabu Team),103E5C,13
+19=Makoto (Kenji Team),103E5C,14
+20=Boo (D.Maou Team),103E5C,15
+21=Gonzou (Misuzu Team),103E5C,16
+22=Akira (Shinji Team),103E5C,17
+23=Ushimaru (Riki Team),103E5C,18
+24=Daa (D.Maou Team),103E5C,19
+Default=0
+
+[9]
+Name=Select 3rd Character PL1
+0=Disabled
+1=Kunio (Kunio Team),103E5E,00
+2=Riki (Riki Team),103E5E,01
+3=Shinji (Shinji Team),103E5E,02
+4=Misuzu (Misuzu Team),103E5E,03
+5=Kenji (Kenji Team),103E5E,04
+6=Miyuki (Miyuki Team),103E5E,05
+7=Sabu (Sabu Team),103E5E,06
+8=D.B.Maou (D.Maou Team),103E5E,07
+9=Kamekichi (Kunio Team),103E5E,0A
+10=Kiyoshi (Misuzu Team),103E5E,0B
+11=Musashi (Kunio Team),103E5E,0C
+12=Jyoji (Kenji Team),103E5E,0D
+13=Keiko (Miyuki Team),103E5E,0E
+14=Kaede (Miyuki Team),103E5E,0F
+15=Kozue (Riki Team),103E5E,10
+16=Hiromitsu (Shinji Team),103E5E,11
+17=Takuya (Sabu Team),103E5E,12
+18=Akemi (Sabu Team),103E5E,13
+19=Makoto (Kenji Team),103E5E,14
+20=Boo (D.Maou Team),103E5E,15
+21=Gonzou (Misuzu Team),103E5E,16
+22=Akira (Shinji Team),103E5E,17
+23=Ushimaru (Riki Team),103E5E,18
+24=Daa (D.Maou Team),103E5E,19
+Default=0
+
+[10]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,105CC4,FF,105CC6,FF,105CC8,FF
+Default=0
+
+[11]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,105CC4,00,105CC6,00,105CC8,00
+Default=0
+
+[12]
+Name=Always have Max Power PL2
+0=Disabled
+1=Enabled,105FDB,8F,105FDA,FF
+Default=0
+
+[13]
+Name=Drain All Power Now! PL2
+0=Disabled
+1=Enabled,105FDB,00,105FDA,00
+Default=0
+
+[14]
+Name=Select 1st Character PL2
+0=Disabled
+1=Kunio (Kunio Team),103E62,00
+2=Riki (Riki Team),103E62,01
+3=Shinji (Shinji Team),103E62,02
+4=Misuzu (Misuzu Team),103E62,03
+5=Kenji (Kenji Team),103E62,04
+6=Miyuki (Miyuki Team),103E62,05
+7=Sabu (Sabu Team),103E62,06
+8=D.B.Maou (D.Maou Team),103E62,07
+9=Kamekichi (Kunio Team),103E62,0A
+10=Kiyoshi (Misuzu Team),103E62,0B
+11=Musashi (Kunio Team),103E62,0C
+12=Jyoji (Kenji Team),103E62,0D
+13=Keiko (Miyuki Team),103E62,0E
+14=Kaede (Miyuki Team),103E62,0F
+15=Kozue (Riki Team),103E62,10
+16=Hiromitsu (Shinji Team),103E62,11
+17=Takuya (Sabu Team),103E62,12
+18=Akemi (Sabu Team),103E62,13
+19=Makoto (Kenji Team),103E62,14
+20=Boo (D.Maou Team),103E62,15
+21=Gonzou (Misuzu Team),103E62,16
+22=Akira (Shinji Team),103E62,17
+23=Ushimaru (Riki Team),103E62,18
+24=Daa (D.Maou Team),103E62,19
+Default=0
+
+[15]
+Name=Select 2nd Character PL2
+0=Disabled
+1=Kunio (Kunio Team),103E64,00
+2=Riki (Riki Team),103E64,01
+3=Shinji (Shinji Team),103E64,02
+4=Misuzu (Misuzu Team),103E64,03
+5=Kenji (Kenji Team),103E64,04
+6=Miyuki (Miyuki Team),103E64,05
+7=Sabu (Sabu Team),103E64,06
+8=D.B.Maou (D.Maou Team),103E64,07
+9=Kamekichi (Kunio Team),103E64,0A
+10=Kiyoshi (Misuzu Team),103E64,0B
+11=Musashi (Kunio Team),103E64,0C
+12=Jyoji (Kenji Team),103E64,0D
+13=Keiko (Miyuki Team),103E64,0E
+14=Kaede (Miyuki Team),103E64,0F
+15=Kozue (Riki Team),103E64,10
+16=Hiromitsu (Shinji Team),103E64,11
+17=Takuya (Sabu Team),103E64,12
+18=Akemi (Sabu Team),103E64,13
+19=Makoto (Kenji Team),103E64,14
+20=Boo (D.Maou Team),103E64,15
+21=Gonzou (Misuzu Team),103E64,16
+22=Akira (Shinji Team),103E64,17
+23=Ushimaru (Riki Team),103E64,18
+24=Daa (D.Maou Team),103E64,19
+Default=0
+
+[16]
+Name=Select 3rd Character PL2
+0=Disabled
+1=Kunio (Kunio Team),103E66,00
+2=Riki (Riki Team),103E66,01
+3=Shinji (Shinji Team),103E66,02
+4=Misuzu (Misuzu Team),103E66,03
+5=Kenji (Kenji Team),103E66,04
+6=Miyuki (Miyuki Team),103E66,05
+7=Sabu (Sabu Team),103E66,06
+8=D.B.Maou (D.Maou Team),103E66,07
+9=Kamekichi (Kunio Team),103E66,0A
+10=Kiyoshi (Misuzu Team),103E66,0B
+11=Musashi (Kunio Team),103E66,0C
+12=Jyoji (Kenji Team),103E66,0D
+13=Keiko (Miyuki Team),103E66,0E
+14=Kaede (Miyuki Team),103E66,0F
+15=Kozue (Riki Team),103E66,10
+16=Hiromitsu (Shinji Team),103E66,11
+17=Takuya (Sabu Team),103E66,12
+18=Akemi (Sabu Team),103E66,13
+19=Makoto (Kenji Team),103E66,14
+20=Boo (D.Maou Team),103E66,15
+21=Gonzou (Misuzu Team),103E66,16
+22=Akira (Shinji Team),103E66,17
+23=Ushimaru (Riki Team),103E66,18
+24=Daa (D.Maou Team),103E66,19
+Default=0
+
+[17]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

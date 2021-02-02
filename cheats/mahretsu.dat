@@ -1,0 +1,25 @@
+[0]
+Name=Infinite Main Game Time
+0=Disabled
+1=Enabled,10019C,FF
+Default=0
+
+[1]
+Name=Infinite Move Time
+0=Disabled
+1=Enabled,100226,FF
+Default=0
+
+[2]
+Name=Get winning hand Now!
+0=Disabled
+1=Enabled,10158E,11,101590,19,101592,21,101594,29,101596,31,101598,39,10159A,41,10159C,42,10159E,43,1015A0,44,1015A2,45,1015A4,46,1015A6,47
+Default=0
+
+[3]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

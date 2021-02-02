@@ -1,0 +1,234 @@
+[0]
+Name=Infinite Credits
+0=Disabled
+1=Enabled,FF8D66,09
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FFC1F1,00,FFC1F2,00,FFC171,00
+Default=0
+
+[2]
+Name=One Correct Answer Ends Quiz Now!
+0=Disabled
+1=Enabled,FF83B1,00
+Default=0
+
+[3]
+Name=Answer 1 always correct
+0=Disabled
+1=Enabled,FF8396,00
+Default=0
+
+[4]
+Name=Select Quiz Category
+0=Disabled
+1=Category 1,FF83C7,01,FF83C5,00
+2=Category 2,FF83C7,01,FF83C5,01
+3=Category 3,FF83C7,01,FF83C5,02
+4=Category 4,FF83C7,01,FF83C5,03
+5=Category 5,FF83C7,01,FF83C5,04
+6=Category 6,FF83C7,01,FF83C5,05
+7=Category 7,FF83C7,01,FF83C5,06
+8=Category 8,FF83C7,01,FF83C5,07
+9=Category 9,FF83C7,01,FF83C5,08
+10=Category 10,FF83C7,01,FF83C5,09
+11=Category 11,FF83C7,01,FF83C5,0A
+12=Category 12,FF83C7,01,FF83C5,0B
+13=Category 13,FF83C7,01,FF83C5,0C
+14=Category 14,FF83C7,01,FF83C5,0D
+15=Category 15,FF83C7,01,FF83C5,0E
+16=Category 16,FF83C7,01,FF83C5,0F
+17=Category 17,FF83C7,01,FF83C5,10
+Default=0
+
+[5]
+Name=Select Passes
+0=Disabled
+1=One Pass,FF834A,01
+2=Two Passes,FF834A,02
+3=Three Passes,FF834A,03
+4=Four Passes,FF834A,04
+5=Five Passes,FF834A,05
+6=Six Passes,FF834A,06
+7=End of Stage,FF834A,20
+8=Get Envy,FF834A,00
+Default=0
+
+[6]
+Name=Select First Help Item
+0=Disabled
+1=Nothing,FF8096,00
+2=2 Questions,FF8096,01
+3=3 Questions,FF8096,02
+4=Show Answer,FF8096,03
+5=Allow 1 Mistake,FF8096,04
+6=Genre Select,FF8096,05
+7=Slow Timer,FF8096,06
+8=Double Score,FF8096,07
+9=Bonus Love Points,FF8096,08
+10=Bonus Attack Points,FF8096,09
+Default=0
+
+[7]
+Name=Select Second Help Item
+0=Disabled
+1=Nothing,FF80A5,00
+2=2 Questions,FF80A5,01
+3=3 Questions,FF80A5,02
+4=Show Answer,FF80A5,03
+5=Allow 1 Mistake,FF80A5,04
+6=Genre Select,FF80A5,05
+7=Slow Timer,FF80A5,06
+8=Double Score,FF80A5,07
+9=Bonus Love Points,FF80A5,08
+10=Bonus Attack Points,FF80A5,09
+Default=0
+
+[8]
+Name=Select Character
+0=Disabled
+1=Ezaki Kumiko,FF4092,00,FF839C,00,FF83CE,00,FF83D0,00
+2=Fujiya Momoko,FF4092,01,FF839C,01,FF83CE,01
+3=Kanebo Saki,FF4092,03,FF839C,03,FF83CE,03
+4=Sakuma Emi,FF4092,05,FF839C,05,FF83CE,05
+5=Sakuma Megumi,FF4092,06,FF839C,06,FF83CE,06
+6=Shall-Lotte,FF4092,02,FF839C,02,FF83CE,02
+7=Toumato Mayumi,FF4092,04,FF839C,04,FF83CE,04
+Default=0
+
+[9]
+Name=Touch Quiz Count - Clear Quiz Count
+0=Disabled
+1=Enabled,FF8D5F,00
+Default=0
+
+[10]
+Name=Touch Quiz Count - Clear Answer Count
+0=Disabled
+1=Enabled,FF8078,00
+Default=0
+
+[11]
+Name=Select Starting Stage
+0=Disabled
+1=Stage 1,FF8201,01
+2=Stage 2,FF8201,02
+3=Stage 3,FF8201,03
+4=Stage 4,FF8201,04
+5=Stage 5,FF8201,05
+6=Stage 6,FF8201,06
+7=Stage 7,FF8201,07
+8=Stage 8,FF8201,08
+9=Stage 9,FF8201,09
+Default=0
+
+[12]
+Name=Always have 100 Love Points - Ezaki Kumiko PL1
+0=Disabled
+1=Enabled,FF855A,64,FF855B,00
+Default=0
+
+[13]
+Name=Always have 100 Love Points - Fujiya Momoko PL1
+0=Disabled
+1=Enabled,FF85DA,64,FF85DB,00
+Default=0
+
+[14]
+Name=Always have 100 Love Points - Kanebo Saki PL1
+0=Disabled
+1=Enabled,FF86DA,64,FF86DB,00
+Default=0
+
+[15]
+Name=Always have 100 Love Points - Sakuma Emi PL1
+0=Disabled
+1=Enabled,FF87DA,64,FF87DB,00
+Default=0
+
+[16]
+Name=Always have 100 Love Points - Sakuma Megumi PL1
+0=Disabled
+1=Enabled,FF885A,64,FF885B,00
+Default=0
+
+[17]
+Name=Always have 100 Love Points - Toumato Mayumi PL1
+0=Disabled
+1=Enabled,FF875A,64,FF875B,00
+Default=0
+
+[18]
+Name=Total Average always = 0% PL1
+0=Disabled
+1=Enabled,FF80A8,00
+Default=0
+
+[19]
+Name=Total Average always = 100% PL1
+0=Disabled
+1=Enabled,FF80A8,64
+Default=0
+
+[20]
+Name=Always have 100 Love Points - Ezaki Kumiko PL2
+0=Disabled
+1=Enabled,FF855C,64,FF855D,00
+Default=0
+
+[21]
+Name=Always have 100 Love Points - Fujiya Momoko PL2
+0=Disabled
+1=Enabled,FF85DC,64,FF85DD,00
+Default=0
+
+[22]
+Name=Always have 100 Love Points - Kanebo Saki PL2
+0=Disabled
+1=Enabled,FF86DC,64,FF86DD,00
+Default=0
+
+[23]
+Name=Always have 100 Love Points - Sakuma Emi PL2
+0=Disabled
+1=Enabled,FF87DC,64,FF87DD,00
+Default=0
+
+[24]
+Name=Always have 100 Love Points - Sakuma Megumi PL2
+0=Disabled
+1=Enabled,FF885C,64,FF885D,00
+Default=0
+
+[25]
+Name=Always have 100 Love Points - Toumato Mayumi PL2
+0=Disabled
+1=Enabled,FF875C,64,FF875D,00
+Default=0
+
+[26]
+Name=Total Average always = 0% PL2
+0=Disabled
+1=Enabled,FF81A8,00
+Default=0
+
+[27]
+Name=Total Average always = 100% PL2
+0=Disabled
+1=Enabled,FF81A8,64
+Default=0
+
+[28]
+Name=Select Region
+0=Disabled
+1=Japan,FF8D80,00
+2=USA,FF8D80,02
+3=Hispanic,FF8D80,04
+4=Asia,FF8D80,06
+5=Euro,FF8D80,08
+6=Brazil,FF8D80,0A
+Default=0
+

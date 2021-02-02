@@ -1,0 +1,152 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,100218,64
+Default=0
+
+[1]
+Name=Infinite Time (Solo)
+0=Disabled
+1=Enabled,107D22,78
+Default=0
+
+[2]
+Name=Select Help Line
+0=Disabled
+1=Enabled,1020FE,02,107D40,0A
+2=Disabled,1020FE,00,107D40,00
+Default=0
+
+[3]
+Name=Level 39 when level ends
+0=Disabled
+1=Enabled,1001E4,25
+Default=0
+
+[4]
+Name=Select Perm. Current Bubble PL1
+0=Disabled
+1=Blue,1023B4,01
+2=Red,1023B4,02
+3=Orange,1023B4,03
+4=Green,1023B4,04
+5=Yellow,1023B4,05
+6=Grey,1023B4,06
+7=Purple,1023B4,07
+8=Black,1023B4,08
+9=A Star,1023B4,09
+10=A Help,1023B4,0A
+11=A Bomb,1023B4,0B
+Default=0
+
+[5]
+Name=Select Perm. Next Bubble PL1
+0=Disabled
+1=Blue,10212A,01
+2=Red,10212A,02
+3=Orange,10212A,03
+4=Green,10212A,04
+5=Yellow,10212A,05
+6=Grey,10212A,06
+7=Purple,10212A,07
+8=Black,10212A,08
+9=A Star,10212A,09
+10=A Help,10212A,0A
+11=A Bomb,10212A,0B
+Default=0
+
+[6]
+Name=Select Temp. Current Bubble PL1
+0=Disabled
+1=Blue,1023B4,01
+2=Red,1023B4,02
+3=Orange,1023B4,03
+4=Green,1023B4,04
+5=Yellow,1023B4,05
+6=Grey,1023B4,06
+7=Purple,1023B4,07
+8=Black,1023B4,08
+9=A Star,1023B4,09
+10=A Help,1023B4,0A
+11=A Bomb,1023B4,0B
+Default=0
+
+[7]
+Name=Select Temp. Next Bubble PL1
+0=Disabled
+1=Blue,10212A,01
+2=Red,10212A,02
+3=Orange,10212A,03
+4=Green,10212A,04
+5=Yellow,10212A,05
+6=Grey,10212A,06
+7=Purple,10212A,07
+8=Black,10212A,08
+9=A Star,10212A,09
+10=A Help,10212A,0A
+11=A Bomb,10212A,0B
+Default=0
+
+[8]
+Name=Select Perm. Current Bubble PL2
+0=Disabled
+1=Blue,104B9C,01
+2=Red,104B9C,02
+3=Orange,104B9C,03
+4=Green,104B9C,04
+5=Yellow,104B9C,05
+6=Grey,104B9C,06
+7=Purple,104B9C,07
+8=Black,104B9C,08
+9=A Bomb,104B9C,0B
+Default=0
+
+[9]
+Name=Select Perm. Next Bubble PL2
+0=Disabled
+1=Blue,104912,01
+2=Red,104912,02
+3=Orange,104912,03
+4=Green,104912,04
+5=Yellow,104912,05
+6=Grey,104912,06
+7=Purple,104912,07
+8=Black,104912,08
+9=A Bomb,104912,0B
+Default=0
+
+[10]
+Name=Select Temp. Current Bubble PL2
+0=Disabled
+1=Blue,104B9C,01
+2=Red,104B9C,02
+3=Orange,104B9C,03
+4=Green,104B9C,04
+5=Yellow,104B9C,05
+6=Grey,104B9C,06
+7=Purple,104B9C,07
+8=Black,104B9C,08
+9=A Bomb,104B9C,0B
+Default=0
+
+[11]
+Name=Select Temp. Next Bubble PL2
+0=Disabled
+1=Blue,104912,01
+2=Red,104912,02
+3=Orange,104912,03
+4=Green,104912,04
+5=Yellow,104912,05
+6=Grey,104912,06
+7=Purple,104912,07
+8=Black,104912,08
+9=A Bomb,104912,0B
+Default=0
+
+[12]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

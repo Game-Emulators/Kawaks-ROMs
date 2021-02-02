@@ -1,0 +1,124 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,1042F2,99
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,1042F2,01
+Default=0
+
+[2]
+Name=Quick Timer 'ON' Now!
+0=Disabled
+1=Enabled,1042F4,FF
+Default=0
+
+[3]
+Name=Quick Timer 'OFF' Now!
+0=Disabled
+1=Enabled,1042F4,1E
+Default=0
+
+[4]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,1003B9,60,1003B8,60
+Default=0
+
+[5]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,1003B9,01,1003B8,01
+Default=0
+
+[6]
+Name=Select Character PL1
+0=Disabled
+1=Terry Bogard,100330,01
+2=Andy Bogard,100330,02
+3=Joe Higashi,100330,03
+4=Duck King,100330,04
+5=Richard Myer,100330,05
+6=Michael Max,100330,06
+7=Tung Fu Rue,100330,07
+8=Hwa Jai,100330,08
+9=Raiden,100330,09
+10=Billy Kane,100330,0A
+11=Geese Howard,100330,0B
+12='Reverse' Myer,100330,0C
+13='Beast' Tung Fu Rue,100330,0D
+14='Drunk' Hwa Jai,100330,0E
+Default=0
+
+[7]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,1004B9,60,1004B8,60
+Default=0
+
+[8]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,1004B9,01,1004B8,01
+Default=0
+
+[9]
+Name=Select Character PL2
+0=Disabled
+1=Terry Bogard,100430,01
+2=Andy Bogard,100430,02
+3=Joe Higashi,100430,03
+4=Duck King,100430,04
+5=Richard Myer,100430,05
+6=Michael Max,100430,06
+7=Tung Fu Rue,100430,07
+8=Hwa Jai,100430,08
+9=Raiden,100430,09
+10=Billy Kane,100430,0A
+11=Geese Howard,100430,0B
+12='Reverse' Myer,100430,0C
+13='Beast' Tung Fu Rue,100430,0D
+14='Drunk' Hwa Jai,100430,0E
+Default=0
+
+[10]
+Name=Infinite Energy CPU
+0=Disabled
+1=Enabled,1005B9,60,1005B8,60
+Default=0
+
+[11]
+Name=Drain All Energy Now! CPU
+0=Disabled
+1=Enabled,1005B9,01,1005B8,01
+Default=0
+
+[12]
+Name=Select Character CPU
+0=Disabled
+1=Terry Bogard,100530,01
+2=Andy Bogard,100530,02
+3=Joe Higashi,100530,03
+4=Duck King,100530,04
+5=Richard Myer,100530,05
+6=Michael Max,100530,06
+7=Tung Fu Rue,100530,07
+8=Hwa Jai,100530,08
+9=Raiden,100530,09
+10=Billy Kane,100530,0A
+11=Geese Howard,100530,0B
+12='Reverse' Myer,100530,0C
+13='Beast' Tung Fu Rue,100530,0D
+14='Drunk' Hwa Jai,100530,0E
+Default=0
+
+[13]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

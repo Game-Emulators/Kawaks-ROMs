@@ -1,0 +1,169 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,1013DF,5A
+Default=0
+
+[1]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,101289,02
+Default=0
+
+[2]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,101522,40,101548,99
+Default=0
+
+[3]
+Name=Get 50 Prisoners Now! PL1
+0=Disabled
+1=Enabled,10C5FC,32
+Default=0
+
+[4]
+Name=Infinite Ammo PL1
+0=Disabled
+1=Enabled,10C724,FF
+Default=0
+
+[5]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,10C721,63
+Default=0
+
+[6]
+Name=Infinite Vehicle Energy PL1
+0=Disabled
+1=Enabled,10C620,30
+Default=0
+
+[7]
+Name=Infinite Vehicle Cannon PL1
+0=Disabled
+1=Enabled,10C626,63
+Default=0
+
+[8]
+Name=Select Body Type PL1
+0=Disabled
+1=Normal,101556,01
+2=Fat,101556,02
+Default=0
+
+[9]
+Name=Select Shot Equipment PL1
+0=Disabled
+1=Normal Gun,10C71F,00
+2=MS Cannon,10C71F,01
+3=Small Machine Gun,10C71F,05
+4=Big Machine Gun,10C71F,0A
+5=Fuzzy Enemy Chaser,10C71F,03
+6=Homing Enemy Chaser,10C71F,0C
+7=Shotgun,10C71F,02
+8=Long Range ShotGun,10C71F,07
+9=Small Flamethrower,10C71F,04
+10=Big Flamethrower,10C71F,09
+11=Small Laser Gun,10C71F,06
+12=Big Laser Gun,10C71F,0B
+13=Rocket Launcher,10C71F,08
+14=Iron Laser,10C71F,0D
+15=Drop Shot,10C71F,0E
+16=Super Grenade,10C71F,0F
+Default=0
+
+[10]
+Name=Select Bomb Equipment PL1
+0=Disabled
+1=Normal Bomb,10C723,01
+2=Fire Bomb,10C723,02
+3=Stone,10C723,03
+Default=0
+
+[11]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,101339,02
+Default=0
+
+[12]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,1015D2,40,1015F8,71
+Default=0
+
+[13]
+Name=Get 50 Prisoners Now! PL2
+0=Disabled
+1=Enabled,10C600,32
+Default=0
+
+[14]
+Name=Infinite Ammo PL2
+0=Disabled
+1=Enabled,10C726,FF
+Default=0
+
+[15]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,10C720,14
+Default=0
+
+[16]
+Name=Infinite Vehicle Energy PL2
+0=Disabled
+1=Enabled,10C644,30
+Default=0
+
+[17]
+Name=Infinite Vehicle Cannon PL2
+0=Disabled
+1=Enabled,10C64A,19
+Default=0
+
+[18]
+Name=Select Body Type PL2
+0=Disabled
+1=Normal,101559,01
+2=Fat,101559,02
+Default=0
+
+[19]
+Name=Select Shot Equipment PL2
+0=Disabled
+1=Normal Gun,10C71E,00
+2=MS Cannon,10C71E,01
+3=Small Machine Gun,10C71E,05
+4=Big Machine Gun,10C71E,0A
+5=Fuzzy Enemy Chaser,10C71E,03
+6=Homing Enemy Chaser,10C71E,0C
+7=Shotgun,10C71E,02
+8=Long Range ShotGun,10C71E,07
+9=Small Flamethrower,10C71E,04
+10=Big Flamethrower,10C71E,09
+11=Small Laser Gun,10C71E,06
+12=Big Laser Gun,10C71E,0B
+13=Rocket Launcher,10C71E,08
+14=Iron Laser,10C71E,0D
+15=Drop Shot,10C71E,0E
+16=Super Grenade,10C71E,0F
+Default=0
+
+[20]
+Name=Select Bomb Equipment PL2
+0=Disabled
+1=Normal Bomb,10C722,01
+2=Fire Bomb,10C722,02
+3=Stone,10C722,03
+Default=0
+
+[21]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

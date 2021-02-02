@@ -1,0 +1,37 @@
+[0]
+Name=Infinite 'EXTRA' Bonus Stage Time
+0=Disabled
+1=Enabled,104256,63
+Default=0
+
+[1]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,10465B,03,10465A,E7
+Default=0
+
+[2]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,100E54,02
+Default=0
+
+[3]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,10465D,03,10465C,E7
+Default=0
+
+[4]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,100E70,02
+Default=0
+
+[5]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

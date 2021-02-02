@@ -1,0 +1,329 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FFAE08,63
+Default=0
+
+[1]
+Name=All characters selectable
+0=Disabled
+1=Enabled,FF81CC,01
+Default=0
+
+[2]
+Name=Quick Dramatic Battle
+0=Disabled
+1=Enabled,FFAE48,01,FF84A3,00,FF88A3,01
+Default=0
+
+[3]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF8440,90
+Default=0
+
+[4]
+Name=Energy always set to 0 PL1
+0=Disabled
+1=Enabled,FF8440,00
+Default=0
+
+[5]
+Name=Energy set to 0 Now! PL1
+0=Disabled
+1=Enabled,FF8440,00
+Default=0
+
+[6]
+Name=End round to win match PL1
+0=Disabled
+1=Enabled,FF84C7,01
+Default=0
+
+[7]
+Name=Rounds won always = 0 PL1
+0=Disabled
+1=Enabled,FF84C7,00
+Default=0
+
+[8]
+Name=Rounds won = 0 Now! PL1
+0=Disabled
+1=Enabled,FF84C7,00
+Default=0
+
+[9]
+Name=Air special/super moves PL1
+0=Disabled
+1=Enabled,FF842E,00
+Default=0
+
+[10]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,FF84BE,90
+Default=0
+
+[11]
+Name=Drain All Power Now! PL1
+0=Disabled
+1=Enabled,FF84BE,00
+Default=0
+
+[12]
+Name=Never Faint PL1
+0=Disabled
+1=Enabled,FF8536,00
+Default=0
+
+[13]
+Name=Faint on every hit PL1
+0=Disabled
+1=Enabled,FF853B,00
+Default=0
+
+[14]
+Name=Select Character PL1
+0=Disabled
+1=Ryu,FF84A3,00
+2=Ken,FF84A3,01
+3=Gouki,FF84A3,02
+4=Nash,FF84A3,03
+5=Chun Li,FF84A3,04
+6=Adon,FF84A3,05
+7=Sodom,FF84A3,06
+8=Guy,FF84A3,07
+9=Birdie,FF84A3,08
+10=Rose,FF84A3,09
+11=Vega,FF84A3,0A
+12=Sagat,FF84A3,0B
+13=Dan,FF84A3,0C
+Default=0
+
+[15]
+Name=Infinite Taunts for Ken or Ryu PL1
+0=Disabled
+1=Enabled,FF85F3,01
+Default=0
+
+[16]
+Name=Infinite Taunts for Chun Li PL1
+0=Disabled
+1=Enabled,FF85C0,01
+Default=0
+
+[17]
+Name=Infinite Taunts for Charlie PL1
+0=Disabled
+1=Enabled,FF85F1,01
+Default=0
+
+[18]
+Name=Infinite Taunts for Guy PL1
+0=Disabled
+1=Enabled,FF85C5,01
+Default=0
+
+[19]
+Name=Infinite Taunts for Birdie PL1
+0=Disabled
+1=Enabled,FF85F9,00
+Default=0
+
+[20]
+Name=Infinite Taunts for Sodom PL1
+0=Disabled
+1=Enabled,FF85FE,01
+Default=0
+
+[21]
+Name=Infinite Taunts for Adon PL1
+0=Disabled
+1=Enabled,FF85F9,01
+Default=0
+
+[22]
+Name=Infinite Taunts for Rose PL1
+0=Disabled
+1=Enabled,FF85E9,01
+Default=0
+
+[23]
+Name=Infinite Taunts for Sagat PL1
+0=Disabled
+1=Enabled,FF85C1,01
+Default=0
+
+[24]
+Name=Infinite Taunts for Akuma PL1
+0=Disabled
+1=Enabled,FF85F0,01
+Default=0
+
+[25]
+Name=Infinite Taunts for Bison PL1
+0=Disabled
+1=Enabled,FF85FA,01
+Default=0
+
+[26]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF8840,90
+Default=0
+
+[27]
+Name=Energy always set to 0 PL2
+0=Disabled
+1=Enabled,FF8840,00
+Default=0
+
+[28]
+Name=Energy set to 0 Now! PL2
+0=Disabled
+1=Enabled,FF8840,00
+Default=0
+
+[29]
+Name=End round to win match PL2
+0=Disabled
+1=Enabled,FF88C7,01
+Default=0
+
+[30]
+Name=Rounds won always = 0 PL2
+0=Disabled
+1=Enabled,FF88C7,00
+Default=0
+
+[31]
+Name=Rounds won = 0 Now! PL2
+0=Disabled
+1=Enabled,FF88C7,00
+Default=0
+
+[32]
+Name=Air special/super moves PL2
+0=Disabled
+1=Enabled,FF882E,00
+Default=0
+
+[33]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,FF88BE,90
+Default=0
+
+[34]
+Name=Drain All Power Now! PL2
+0=Disabled
+1=Enabled,FF88BE,00
+Default=0
+
+[35]
+Name=Never Faint PL2
+0=Disabled
+1=Enabled,FF8936,00
+Default=0
+
+[36]
+Name=Faint on every hit PL2
+0=Disabled
+1=Enabled,FF893B,00
+Default=0
+
+[37]
+Name=Select Character PL2
+0=Disabled
+1=Ryu,FF88A3,00
+2=Ken,FF88A3,01
+3=Gouki,FF88A3,02
+4=Nash,FF88A3,03
+5=Chun Li,FF88A3,04
+6=Adon,FF88A3,05
+7=Sodom,FF88A3,06
+8=Guy,FF88A3,07
+9=Birdie,FF88A3,08
+10=Rose,FF88A3,09
+11=Vega,FF88A3,0A
+12=Sagat,FF88A3,0B
+13=Dan,FF88A3,0C
+Default=0
+
+[38]
+Name=Infinite Taunts for Ken or Ryu PL2
+0=Disabled
+1=Enabled,FF89F3,01
+Default=0
+
+[39]
+Name=Infinite Taunts for Chun Li PL2
+0=Disabled
+1=Enabled,FF89C0,01
+Default=0
+
+[40]
+Name=Infinite Taunts for Charlie PL2
+0=Disabled
+1=Enabled,FF89F1,01
+Default=0
+
+[41]
+Name=Infinite Taunts for Guy PL2
+0=Disabled
+1=Enabled,FF89C5,01
+Default=0
+
+[42]
+Name=Infinite Taunts for Birdie PL2
+0=Disabled
+1=Enabled,FF89F9,00
+Default=0
+
+[43]
+Name=Infinite Taunts for Sodom PL2
+0=Disabled
+1=Enabled,FF89FE,01
+Default=0
+
+[44]
+Name=Infinite Taunts for Adon PL2
+0=Disabled
+1=Enabled,FF89F9,01
+Default=0
+
+[45]
+Name=Infinite Taunts for Rose PL2
+0=Disabled
+1=Enabled,FF89E9,01
+Default=0
+
+[46]
+Name=Infinite Taunts for Sagat PL2
+0=Disabled
+1=Enabled,FF89C1,01
+Default=0
+
+[47]
+Name=Infinite Taunts for Akuma PL2
+0=Disabled
+1=Enabled,FF89F0,01
+Default=0
+
+[48]
+Name=Infinite Taunts for Bison PL2
+0=Disabled
+1=Enabled,FF89FA,01
+Default=0
+
+[49]
+Name=Select Region
+0=Disabled
+1=Japan,FF8190,00
+2=USA,FF8190,02
+3=Hispanic,FF8190,04
+4=Asia,FF8190,06
+5=Euro,FF8190,08
+6=Brazil,FF8190,0A
+Default=0
+

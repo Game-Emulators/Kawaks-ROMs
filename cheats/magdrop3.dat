@@ -1,0 +1,137 @@
+[0]
+Name=No more level gain
+0=Disabled
+1=Enabled,100627,00
+Default=0
+
+[1]
+Name=Unlock Secret Characters
+0=Disabled
+1=Enabled,100113,03,100112,03
+Default=0
+
+[2]
+Name=Always have Quota=200 PL1
+0=Disabled
+1=Enabled,100610,C8
+Default=0
+
+[3]
+Name=Select Card PL1
+0=Disabled
+1=Fool,1000FB,00
+2=Magician,1000FB,01
+3=High Priestess,1000FB,02
+4=Empress,1000FB,03
+5=Emperor,1000FB,04
+6=Hierophant,1000FB,05
+7=Lovers,1000FB,06
+8=Chariot,1000FB,07
+9=Strength,1000FB,08
+10=#Hermit#,1000FB,09
+11=#Fortune#,1000FB,0A
+12=Justice,1000FB,0B
+13=#Hanged Man#,1000FB,0C
+14=Death,1000FB,0D
+15=#Temperance#,1000FB,0E
+16=Devil,1000FB,0F
+17=#Tower#,1000FB,10
+18=Star,1000FB,11
+19=#Moon#,1000FB,12
+20=Sun,1000FB,13
+21=Judgment,1000FB,14
+22=World,1000FB,15
+23=#Black Pierrot#,1000FB,16
+24=#Strength's Father#,1000FB,17
+25=Fool (CPU),1000FB,80
+26=Magician (CPU),1000FB,81
+27=High Priestess (CPU),1000FB,82
+28=Empress (CPU),1000FB,83
+29=Emperor (CPU),1000FB,84
+30=Hierophant (CPU),1000FB,85
+31=Lovers (CPU),1000FB,86
+32=Chariot (CPU),1000FB,87
+33=Strength (CPU),1000FB,88
+34=#Hermit (CPU)#,1000FB,89
+35=#Fortune (CPU)#,1000FB,8A
+36=Justice (CPU),1000FB,8B
+37=#Hanged Man (CPU)#,1000FB,8C
+38=Death (CPU),1000FB,8D
+39=#Temperance (CPU)#,1000FB,8E
+40=Devil (CPU),1000FB,8F
+41=#Tower (CPU)#,1000FB,90
+42=Star (CPU),1000FB,91
+43=#Moon (CPU)#,1000FB,92
+44=Sun (CPU),1000FB,93
+45=Judgment (CPU),1000FB,94
+46=World (CPU),1000FB,95
+47=#Black Pierrot (CPU)#,1000FB,96
+48=#Strength's Father (CPU)#,1000FB,97
+Default=0
+
+[4]
+Name=Always have Quota=200 PL2
+0=Disabled
+1=Enabled,100650,C8
+Default=0
+
+[5]
+Name=Select Card PL2
+0=Disabled
+1=Fool,1000FA,00
+2=Magician,1000FA,01
+3=High Priestess,1000FA,02
+4=Empress,1000FA,03
+5=Emperor,1000FA,04
+6=Hierophant,1000FA,05
+7=Lovers,1000FA,06
+8=Chariot,1000FA,07
+9=Strength,1000FA,08
+10=#Hermit#,1000FA,09
+11=#Fortune#,1000FA,0A
+12=Justice,1000FA,0B
+13=#Hanged Man#,1000FA,0C
+14=Death,1000FA,0D
+15=#Temperance#,1000FA,0E
+16=Devil,1000FA,0F
+17=#Tower#,1000FA,10
+18=Star,1000FA,11
+19=#Moon#,1000FA,12
+20=Sun,1000FA,13
+21=Judgment,1000FA,14
+22=World,1000FA,15
+23=#Black Pierrot#,1000FA,16
+24=#Strength's Father#,1000FA,17
+25=Fool (CPU),1000FA,80
+26=Magician (CPU),1000FA,81
+27=High Priestess (CPU),1000FA,82
+28=Empress (CPU),1000FA,83
+29=Emperor (CPU),1000FA,84
+30=Hierophant (CPU),1000FA,85
+31=Lovers (CPU),1000FA,86
+32=Chariot (CPU),1000FA,87
+33=Strength (CPU),1000FA,88
+34=#Hermit (CPU)#,1000FA,89
+35=#Fortune (CPU)#,1000FA,8A
+36=Justice (CPU),1000FA,8B
+37=#Hanged Man (CPU)#,1000FA,8C
+38=Death (CPU),1000FA,8D
+39=#Temperance (CPU)#,1000FA,8E
+40=Devil (CPU),1000FA,8F
+41=#Tower (CPU)#,1000FA,90
+42=Star (CPU),1000FA,91
+43=#Moon (CPU)#,1000FA,92
+44=Sun (CPU),1000FA,93
+45=Judgment (CPU),1000FA,94
+46=World (CPU),1000FA,95
+47=#Black Pierrot (CPU)#,1000FA,96
+48=#Strength's Father (CPU)#,1000FA,97
+Default=0
+
+[6]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

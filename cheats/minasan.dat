@@ -1,0 +1,43 @@
+[0]
+Name=Infinite Move Time
+0=Disabled
+1=Enabled,1000CC,F4
+Default=0
+
+[1]
+Name=Get winning hand Now!
+0=Disabled
+1=Enabled,10119B,31,10119A,31,10119D,31,10119C,32,10119F,32,10119E,32,1011A1,33,1011A0,33,1011A3,33,1011A2,34,1011A5,34,1011A4,34,1011A7,35,1011A6,35
+Default=0
+
+[2]
+Name=Always make 1 step (always)
+0=Disabled
+1=Enabled,10131D,01
+Default=0
+
+[3]
+Name=Make 1 step Now!
+0=Disabled
+1=Enabled,10131D,01
+Default=0
+
+[4]
+Name=Always make 2 steps (always)
+0=Disabled
+1=Enabled,10131D,02
+Default=0
+
+[5]
+Name=Make 2 step Now!
+0=Disabled
+1=Enabled,10131D,02
+Default=0
+
+[6]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

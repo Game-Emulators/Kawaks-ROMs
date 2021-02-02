@@ -1,0 +1,73 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10004B,59
+Default=0
+
+[1]
+Name=Infinite Innings
+0=Disabled
+1=Enabled,101082,09
+Default=0
+
+[2]
+Name=Infinite Strikes
+0=Disabled
+1=Enabled,10107F,00
+Default=0
+
+[3]
+Name=Set Strikes to 0 Now!
+0=Disabled
+1=Enabled,10107F,00
+Default=0
+
+[4]
+Name=Set Strikes to 2 Now!
+0=Disabled
+1=Enabled,10107F,02
+Default=0
+
+[5]
+Name=Infinite Balls
+0=Disabled
+1=Enabled,10107C,00
+Default=0
+
+[6]
+Name=Set Balls to 0 Now!
+0=Disabled
+1=Enabled,10107C,00
+Default=0
+
+[7]
+Name=Set Balls to 3 Now!
+0=Disabled
+1=Enabled,10107C,03
+Default=0
+
+[8]
+Name=Infinite Outs
+0=Disabled
+1=Enabled,10107D,00
+Default=0
+
+[9]
+Name=Set Outs to 0 Now!
+0=Disabled
+1=Enabled,10107D,00
+Default=0
+
+[10]
+Name=Set Outs to 2 Now!
+0=Disabled
+1=Enabled,10107D,02
+Default=0
+
+[11]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

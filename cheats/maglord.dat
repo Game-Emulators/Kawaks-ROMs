@@ -1,0 +1,91 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,10FD88,64,100CB3,00,100CB2,00
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,103A0D,00,103A0C,05,103A0F,DB,103A0E,FF
+Default=0
+
+[2]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,103C01,09
+Default=0
+
+[3]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,103C06,05
+Default=0
+
+[4]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,103C05,02
+Default=0
+
+[5]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,103C08,9F
+Default=0
+
+[6]
+Name=Select Character PL1
+0=Disabled
+1=Magician Lord,103C04,01
+2=Shinobi,103C04,0D
+3=Waterman,103C04,09
+4=Samurai,103C04,0E
+5=Dragon Warrior,103C04,05
+6=Poseidon,103C04,0A
+7=Raijin,103C04,0F
+Default=0
+
+[7]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,103C81,09
+Default=0
+
+[8]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,103C86,05
+Default=0
+
+[9]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,103C85,02
+Default=0
+
+[10]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,103C88,9F
+Default=0
+
+[11]
+Name=Select Character PL2
+0=Disabled
+1=Magician Lord,103C84,01
+2=Shinobi,103C84,0D
+3=Waterman,103C84,09
+4=Samurai,103C84,0E
+5=Dragon Warrior,103C84,05
+6=Poseidon,103C84,0A
+7=Raijin,103C84,0F
+Default=0
+
+[12]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

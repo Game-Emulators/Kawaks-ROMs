@@ -1,0 +1,91 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,1000C0,64
+Default=0
+
+[1]
+Name=Infinite Total Outs
+0=Disabled
+1=Enabled,1000C1,16
+Default=0
+
+[2]
+Name=Infinite Game Time
+0=Disabled
+1=Enabled,104291,59
+Default=0
+
+[3]
+Name=Infinite Strikes
+0=Disabled
+1=Enabled,101987,00
+Default=0
+
+[4]
+Name=Infinite Balls
+0=Disabled
+1=Enabled,101986,00
+Default=0
+
+[5]
+Name=Infinite Outs
+0=Disabled
+1=Enabled,101989,00
+Default=0
+
+[6]
+Name=Make the next Strike = 3 Now!
+0=Disabled
+1=Enabled,101987,02
+Default=0
+
+[7]
+Name=Quick Change Now!
+0=Disabled
+1=Enabled,101989,03
+Default=0
+
+[8]
+Name=Infinite Select Time
+0=Disabled
+1=Enabled,105BA5,02
+Default=0
+
+[9]
+Name=Player 2 Score = 0
+0=Disabled
+1=Enabled,10198A,00,10170A,00
+Default=0
+
+[10]
+Name=Bottom of Ninth
+0=Disabled
+1=Enabled,101988,11,101708,11
+Default=0
+
+[11]
+Name=Top of Ninth
+0=Disabled
+1=Enabled,101708,10,101988,10
+Default=0
+
+[12]
+Name=Player 2 Score = 0 WS
+0=Disabled
+1=Enabled,103A0A,00
+Default=0
+
+[13]
+Name=Bottom of Ninth WS
+0=Disabled
+1=Enabled,103A08,11
+Default=0
+
+[14]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

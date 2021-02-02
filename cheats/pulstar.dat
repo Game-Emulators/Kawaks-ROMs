@@ -1,0 +1,59 @@
+[0]
+Name=Always have Maximum Speed
+0=Disabled
+1=Enabled,1017DF,07
+Default=0
+
+[1]
+Name=Always have Full Charge
+0=Disabled
+1=Enabled,101697,FF
+Default=0
+
+[2]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,10132B,02
+Default=0
+
+[3]
+Name=Select Starting Stage PL1
+0=Disabled
+1=Stage 1 - Front Line On The Earth,101ADC,01
+2=Stage 2 - Water Vein Under Ground,101ADC,02
+3=Stage 3 - The Fire Prominence,101ADC,03
+4=Stage 4 - Attack On Space Station,101ADC,04
+5=Stage 5 - The Dangerous Forest,101ADC,05
+6=Stage 6 - The Terminators,101ADC,06
+7=Stage 7 - Darkness Nebura,101ADC,07
+8=Final Stage Pt 1 - Life or Death,101ADC,08
+9=Final Stage Pt 2 - Final Boss,101ADC,09
+Default=0
+
+[4]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,10132A,02
+Default=0
+
+[5]
+Name=Select Starting Stage PL2
+0=Disabled
+1=Stage 1 - Front Line On The Earth,101ADE,01
+2=Stage 2 - Water Vein Under Ground,101ADE,02
+3=Stage 3 - The Fire Prominence,101ADE,03
+4=Stage 4 - Attack On Space Station,101ADE,04
+5=Stage 5 - The Dangerous Forest,101ADE,05
+6=Stage 6 - The Terminators,101ADE,06
+7=Stage 7 - Darkness Nebura,101ADE,07
+8=Final Stage Pt 1 - Life or Death,101ADE,08
+9=Final Stage Pt 2 - Final Boss,101ADE,09
+Default=0
+
+[6]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

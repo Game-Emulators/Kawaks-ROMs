@@ -1,0 +1,73 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,108111,99
+Default=0
+
+[1]
+Name=Finish Round Now!
+0=Disabled
+1=Enabled,108111,00
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10C603,78
+Default=0
+
+[3]
+Name=Drain all Energy Now! PL1
+0=Disabled
+1=Enabled,10C603,00
+Default=0
+
+[4]
+Name=Select Character PL1
+0=Disabled
+1=Han Baedal,10C6B1,00
+2=Miyuki,10C6B1,01
+3=Rophen Heimer,10C6B1,02
+4=Golrio,10C6B1,03
+5=Nick Commando,10C6B1,04
+6=Chintao,10C6B1,05
+7=Kim Hoon,10C6B1,06
+8=#Master Taekuk,10C6B1,07
+9=Magic Dunker,10C6B1,08
+10=#Karate Kenji,10C6B1,09
+Default=0
+
+[5]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,10C703,78
+Default=0
+
+[6]
+Name=Drain all Energy Now! PL2
+0=Disabled
+1=Enabled,10C703,00
+Default=0
+
+[7]
+Name=Select Character PL2
+0=Disabled
+1=Han Baedal,10C7B1,00
+2=Miyuki,10C7B1,01
+3=Rophen Heimer,10C7B1,02
+4=Golrio,10C7B1,03
+5=Nick Commando,10C7B1,04
+6=Chintao,10C7B1,05
+7=Kim Hoon,10C7B1,06
+8=#Master Taekuk,10C7B1,07
+9=Magic Dunker,10C7B1,08
+10=#Karate Kenji,10C7B1,09
+Default=0
+
+[8]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

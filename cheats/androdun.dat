@@ -1,0 +1,91 @@
+[0]
+Name=Infinite Continues PL1
+0=Disabled
+1=Enabled,1000D9,FF
+Default=0
+
+[1]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,100342,03
+Default=0
+
+[2]
+Name=Maximum Shot Power (Blue Weapon) PL1
+0=Disabled
+1=Enabled,100351,07
+Default=0
+
+[3]
+Name=Maximum Bomb Power (Orange Weapon) PL1
+0=Disabled
+1=Enabled,100350,05
+Default=0
+
+[4]
+Name=Maximum Missile Power (Yellow Weapon) PL1
+0=Disabled
+1=Enabled,100353,08
+Default=0
+
+[5]
+Name=Maximum Unit Power (Green Weapon) PL1
+0=Disabled
+1=Enabled,100352,08
+Default=0
+
+[6]
+Name=Perfect Bonus PL1
+0=Disabled
+1=Enabled,1001A6,07,1001A8,00
+Default=0
+
+[7]
+Name=Infinite Continues PL2
+0=Disabled
+1=Enabled,1000D8,FF
+Default=0
+
+[8]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,100382,03
+Default=0
+
+[9]
+Name=Maximum Shot Power (Blue Weapon) PL2
+0=Disabled
+1=Enabled,100391,07
+Default=0
+
+[10]
+Name=Maximum Bomb Power (Orange Weapon) PL2
+0=Disabled
+1=Enabled,100390,05
+Default=0
+
+[11]
+Name=Maximum Missile Power (Yellow Weapon) PL2
+0=Disabled
+1=Enabled,100393,08
+Default=0
+
+[12]
+Name=Maximum Unit Power (Green Weapon) PL2
+0=Disabled
+1=Enabled,100392,08
+Default=0
+
+[13]
+Name=Perfect Bonus PL2
+0=Disabled
+1=Enabled,1001A6,00,1001A8,07
+Default=0
+
+[14]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

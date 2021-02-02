@@ -1,0 +1,85 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10C108,9A
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,10C108,01
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10600D,76,10600C,76
+Default=0
+
+[3]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,10600D,00,10600C,00
+Default=0
+
+[4]
+Name=Select Character PL1
+0=Disabled
+1=K. Dragon,106005,01
+2=Hanzou,106005,02
+3=Muscle Power,106005,03
+4=J. Carn,106005,04
+5=Janne,106005,05
+6=Rasputin,106005,06
+7=Fuuma,106005,07
+8=Brocken,106005,08
+9=Shura,106005,09
+10=Ryoko,106005,0A
+11=C. Kidd,106005,0B
+12=Mudman,106005,0C
+13=Erick,106005,0D
+14=J. Max,106005,0E
+15=Dio,106005,0F
+16=Neo Geegus (Buggy!!),106005,10
+Default=0
+
+[5]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,10610D,76,10610C,76
+Default=0
+
+[6]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,10610D,00,10610C,00
+Default=0
+
+[7]
+Name=Select Character PL2
+0=Disabled
+1=K. Dragon,106105,01
+2=Hanzou,106105,02
+3=Muscle Power,106105,03
+4=J. Carn,106105,04
+5=Janne,106105,05
+6=Rasputin,106105,06
+7=Fuuma,106105,07
+8=Brocken,106105,08
+9=Shura,106105,09
+10=Ryoko,106105,0A
+11=C. Kidd,106105,0B
+12=Mudman,106105,0C
+13=Erick,106105,0D
+14=J. Max,106105,0E
+15=Dio,106105,0F
+16=Neo Geegus (Buggy!!),106105,10
+Default=0
+
+[8]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,107 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,100B03,9B
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,100B03,00
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10014B,FF,10014A,E4
+Default=0
+
+[3]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,10014B,00,10014A,00
+Default=0
+
+[4]
+Name=Always have Maximum Power PL1
+0=Disabled
+1=Enabled,100157,FF,100156,FF,100158,07
+Default=0
+
+[5]
+Name=Always have Minimum Power PL1
+0=Disabled
+1=Enabled,100157,00,100156,00,100158,00
+Default=0
+
+[6]
+Name=Drain All Power Now! PL1
+0=Disabled
+1=Enabled,100157,00,100156,00,100158,00
+Default=0
+
+[7]
+Name=Select Character PL1
+0=Disabled
+1=Rai,106996,00
+2=Arina,106996,01
+3=Slash,106996,02
+4=Dandy-J,106996,03
+5=Tess,106996,04
+6=Mauru,106996,05
+7=Politank-Z,106996,06
+8=Fernandez,106996,07
+9=Bonus Kun,106996,08
+Default=0
+
+[8]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,10028B,FF,10028A,E4
+Default=0
+
+[9]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,10028B,00,10028A,00
+Default=0
+
+[10]
+Name=Always have Maximum Power PL2
+0=Disabled
+1=Enabled,100297,FF,100296,FF,100298,07
+Default=0
+
+[11]
+Name=Always have Minimum Power PL2
+0=Disabled
+1=Enabled,100297,00,100296,00,100298,00
+Default=0
+
+[12]
+Name=Drain All Power Now! PL2
+0=Disabled
+1=Enabled,100297,00,100296,00,100298,00
+Default=0
+
+[13]
+Name=Select Character PL2
+0=Disabled
+1=Rai,1069A0,00
+2=Arina,1069A0,01
+3=Slash,1069A0,02
+4=Dandy-J,1069A0,03
+5=Tess,1069A0,04
+6=Mauru,1069A0,05
+7=Politank-Z,1069A0,06
+8=Fernandez,1069A0,07
+9=Bonus Kun,1069A0,08
+Default=0
+
+[14]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

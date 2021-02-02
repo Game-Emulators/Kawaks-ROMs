@@ -1,0 +1,379 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,10FD88,64,1030B3,00,1030B2,00
+Default=0
+
+[1]
+Name=Infinite Shop Time
+0=Disabled
+1=Enabled,10783E,09
+Default=0
+
+[2]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,107001,09
+Default=0
+
+[3]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,107008,7F
+Default=0
+
+[4]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,107010,05,107021,05
+Default=0
+
+[5]
+Name=Get 255 Roses Now! PL1
+0=Disabled
+1=Enabled,107011,FF
+Default=0
+
+[6]
+Name=Infinite Money PL1
+0=Disabled
+1=Enabled,107011,FF,10701A,FF
+Default=0
+
+[7]
+Name=Always 1 cocoon for life PL1
+0=Disabled
+1=Enabled,107016,04
+Default=0
+
+[8]
+Name=Get 1 cocoon for life Now!PL1
+0=Disabled
+1=Enabled,107016,04
+Default=0
+
+[9]
+Name=Always have leaf PL1
+0=Disabled
+1=Enabled,107013,02,10702A,00,10702D,00
+Default=0
+
+[10]
+Name=Always have boomrang PL1
+0=Disabled
+1=Enabled,107013,00,10702A,03,10702D,00
+Default=0
+
+[11]
+Name=Always have 'bomb' PL1
+0=Disabled
+1=Enabled,107013,00,10702A,00,10702D,03
+Default=0
+
+[12]
+Name=Get leaf Now! PL1
+0=Disabled
+1=Enabled,107013,02,10702A,00,10702D,00
+Default=0
+
+[13]
+Name=Get boomrang Now! PL1
+0=Disabled
+1=Enabled,107013,00,10702A,03,10702D,00
+Default=0
+
+[14]
+Name=Get 'bomb' Now! PL1
+0=Disabled
+1=Enabled,107013,00,10702A,00,10702D,03
+Default=0
+
+[15]
+Name=Never lose flowers PL1
+0=Disabled
+1=Enabled,10701D,01
+Default=0
+
+[16]
+Name=Never get cursed PL1
+0=Disabled
+1=Enabled,107018,00
+Default=0
+
+[17]
+Name=Always have the club PL1
+0=Disabled
+1=Enabled,10701B,01
+Default=0
+
+[18]
+Name=Always have the spikes PL1
+0=Disabled
+1=Enabled,107012,01
+Default=0
+
+[19]
+Name=Always have the spring PL1
+0=Disabled
+1=Enabled,107015,01
+Default=0
+
+[20]
+Name=Always have the swin fin PL1
+0=Disabled
+1=Enabled,107014,01
+Default=0
+
+[21]
+Name=Always have the light safe PL1
+0=Disabled
+1=Enabled,107014,01
+Default=0
+
+[22]
+Name=Always have the super safe PL1
+0=Disabled
+1=Enabled,107014,02
+Default=0
+
+[23]
+Name=Get the club Now! PL1
+0=Disabled
+1=Enabled,10701B,01
+Default=0
+
+[24]
+Name=Get the spikes Now! PL1
+0=Disabled
+1=Enabled,107012,01
+Default=0
+
+[25]
+Name=Get the spring Now! PL1
+0=Disabled
+1=Enabled,107015,01
+Default=0
+
+[26]
+Name=Get the swin fin Now! PL1
+0=Disabled
+1=Enabled,107014,01
+Default=0
+
+[27]
+Name=Always have No Safe PL1
+0=Disabled
+1=Enabled,107017,00
+Default=0
+
+[28]
+Name=Always have the Light Safe PL1
+0=Disabled
+1=Enabled,107017,01
+Default=0
+
+[29]
+Name=Always have the Super Safe PL1
+0=Disabled
+1=Enabled,107017,02
+Default=0
+
+[30]
+Name=Get No Safe Now! PL1
+0=Disabled
+1=Enabled,107017,00
+Default=0
+
+[31]
+Name=Get the Light Safe Now! PL1
+0=Disabled
+1=Enabled,107017,01
+Default=0
+
+[32]
+Name=Get the Super Safe Now! PL1
+0=Disabled
+1=Enabled,107017,02
+Default=0
+
+[33]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,107401,09
+Default=0
+
+[34]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,107408,7F
+Default=0
+
+[35]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,107410,05,107421,05
+Default=0
+
+[36]
+Name=Get 255 Roses Now! PL2
+0=Disabled
+1=Enabled,107411,FF
+Default=0
+
+[37]
+Name=Infinite Money PL2
+0=Disabled
+1=Enabled,107411,FF,10741A,FF
+Default=0
+
+[38]
+Name=Always 1 cocoon for life PL2
+0=Disabled
+1=Enabled,107416,04
+Default=0
+
+[39]
+Name=Get 1 cocoon for life Now!PL2
+0=Disabled
+1=Enabled,107416,04
+Default=0
+
+[40]
+Name=Always have leaf PL2
+0=Disabled
+1=Enabled,107413,02,10742A,00,10742D,00
+Default=0
+
+[41]
+Name=Always have boomrang PL2
+0=Disabled
+1=Enabled,107413,00,10742A,03,10742D,00
+Default=0
+
+[42]
+Name=Always have 'bomb' PL2
+0=Disabled
+1=Enabled,107413,00,10742A,00,10742D,03
+Default=0
+
+[43]
+Name=Get leaf Now! PL2
+0=Disabled
+1=Enabled,107413,02,10742A,00,10742D,00
+Default=0
+
+[44]
+Name=Get boomrang Now! PL2
+0=Disabled
+1=Enabled,107413,00,10742A,03,10742D,00
+Default=0
+
+[45]
+Name=Get 'bomb' Now! PL2
+0=Disabled
+1=Enabled,107413,00,10742A,00,10742D,03
+Default=0
+
+[46]
+Name=Never lose flowers PL2
+0=Disabled
+1=Enabled,10741D,01
+Default=0
+
+[47]
+Name=Never get cursed PL2
+0=Disabled
+1=Enabled,107418,00
+Default=0
+
+[48]
+Name=Always have the club PL2
+0=Disabled
+1=Enabled,10741B,01
+Default=0
+
+[49]
+Name=Always have the spikes PL2
+0=Disabled
+1=Enabled,107412,01
+Default=0
+
+[50]
+Name=Always have the spring PL2
+0=Disabled
+1=Enabled,107415,01
+Default=0
+
+[51]
+Name=Always have the swin fin PL2
+0=Disabled
+1=Enabled,107414,01
+Default=0
+
+[52]
+Name=Get the club Now! PL2
+0=Disabled
+1=Enabled,10741B,01
+Default=0
+
+[53]
+Name=Get the spikes Now! PL2
+0=Disabled
+1=Enabled,107412,01
+Default=0
+
+[54]
+Name=Get the spring Now! PL2
+0=Disabled
+1=Enabled,107415,01
+Default=0
+
+[55]
+Name=Get the swin fin Now! PL2
+0=Disabled
+1=Enabled,107414,01
+Default=0
+
+[56]
+Name=Always have No Safe PL2
+0=Disabled
+1=Enabled,107417,00
+Default=0
+
+[57]
+Name=Always have the Light Safe PL2
+0=Disabled
+1=Enabled,107417,01
+Default=0
+
+[58]
+Name=Always have the Super Safe PL2
+0=Disabled
+1=Enabled,107417,02
+Default=0
+
+[59]
+Name=Get No Safe Now! PL2
+0=Disabled
+1=Enabled,107417,00
+Default=0
+
+[60]
+Name=Get the Light Safe Now! PL2
+0=Disabled
+1=Enabled,107417,01
+Default=0
+
+[61]
+Name=Get the Super Safe Now! PL2
+0=Disabled
+1=Enabled,107417,02
+Default=0
+
+[62]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

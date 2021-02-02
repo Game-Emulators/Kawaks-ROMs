@@ -1,0 +1,119 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10849F,99
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,10849F,00
+Default=0
+
+[2]
+Name=Select Backdrop
+0=Disabled
+1=Haohmaru,109068,00
+2=Nakoruru,109068,01
+3=Rimururu,109068,02
+4=Hanzo Hattori,109068,03
+5=Galford,109068,04
+6=Kyoshiro Senryou,109068,05
+7=Ukyo Tachibana,109068,06
+8=Genjuro Kibagami,109068,07
+9=Kubikiri Basara,109068,08
+10=Shizumaru Hisame,109068,09
+11=Gaira Kafuin,109068,0A
+12=Amakusa Shirou Tokisada,109068,0B
+13=Kuroko,109068,0C
+14=Zankuro Minazuki,109068,0D
+15=Zankuro Minazuki (Final Battle),109068,0E
+Default=0
+
+[3]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,108572,80
+Default=0
+
+[4]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,108572,00
+Default=0
+
+[5]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,10857D,40
+Default=0
+
+[6]
+Name=Drain All Power Now! PL1
+0=Disabled
+1=Enabled,10857D,00
+Default=0
+
+[7]
+Name=Select Rounds Won PL1
+0=Disabled
+1=0,108593,00
+2=1,108593,01
+3=2,108593,02
+Default=0
+
+[8]
+Name=Select Character Difficulty PL1
+0=Disabled
+1=Beginners Class,108473,00
+2=Medium Grade,108473,01
+3=Upper Grade,108473,02
+Default=0
+
+[9]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,108672,80
+Default=0
+
+[10]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,108672,00
+Default=0
+
+[11]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,10867D,40
+Default=0
+
+[12]
+Name=Drain All Power Now! PL2
+0=Disabled
+1=Enabled,10867D,00
+Default=0
+
+[13]
+Name=Select Rounds Won PL2
+0=Disabled
+1=0,108693,00
+2=1,108693,01
+3=2,108693,02
+Default=0
+
+[14]
+Name=Select Character Difficulty PL2
+0=Disabled
+1=Beginners Class,108472,00
+2=Medium Grade,108472,01
+3=Upper Grade,108472,02
+Default=0
+
+[15]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

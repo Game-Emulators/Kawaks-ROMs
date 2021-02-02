@@ -1,0 +1,43 @@
+[0]
+Name=Infinite Energy
+0=Disabled
+1=Enabled,10181E,08
+Default=0
+
+[1]
+Name=Always have Machine Gun
+0=Disabled
+1=Enabled,101857,0F
+Default=0
+
+[2]
+Name=Always have Pistol
+0=Disabled
+1=Enabled,101857,00
+Default=0
+
+[3]
+Name=Infinite Pistol Ammo
+0=Disabled
+1=Enabled,1017F7,09,1017F6,99
+Default=0
+
+[4]
+Name=Infinite M. Gun Ammo
+0=Disabled
+1=Enabled,101855,09,101854,99
+Default=0
+
+[5]
+Name=Indestructible Knife
+0=Disabled
+1=Enabled,101879,10
+Default=0
+
+[6]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,37 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10B005,99
+Default=0
+
+[1]
+Name=Infinite Select Time
+0=Disabled
+1=Enabled,10B067,12
+Default=0
+
+[2]
+Name=Lap time always = 0'00'00
+0=Disabled
+1=Enabled,10E099,00,10E098,00,10E09B,00
+Default=0
+
+[3]
+Name=Always Finish 1st Place
+0=Disabled
+1=Enabled,10E0FC,00
+Default=0
+
+[4]
+Name=Go at max speed - take care!
+0=Disabled
+1=Enabled,104850,FF
+Default=0
+
+[5]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

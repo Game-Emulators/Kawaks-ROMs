@@ -1,0 +1,91 @@
+[0]
+Name=Infinite Continues PL1
+0=Disabled
+1=Enabled,10090D,64
+Default=0
+
+[1]
+Name=Minimum Piece Speed PL1
+0=Disabled
+1=Enabled,100643,00,100642,00
+Default=0
+
+[2]
+Name=Max L-Ball PL1
+0=Disabled
+1=Enabled,100905,0C
+Default=0
+
+[3]
+Name=Select Perm. Next Shape PL1
+0=Disabled
+1=Red,100672,00
+2=Purple,100672,01
+3=Orange,100672,02
+4=Blue,100672,03
+5=Yellow,100672,04
+6=Green,100672,05
+7=Cyan,100672,06
+Default=0
+
+[4]
+Name=Select Temp. Next Shape PL1
+0=Disabled
+1=Red,100672,00
+2=Purple,100672,01
+3=Orange,100672,02
+4=Blue,100672,03
+5=Yellow,100672,04
+6=Green,100672,05
+7=Cyan,100672,06
+Default=0
+
+[5]
+Name=Infinite Continues PL2
+0=Disabled
+1=Enabled,100C1D,64
+Default=0
+
+[6]
+Name=Minimum Piece Speed PL2
+0=Disabled
+1=Enabled,100953,00,100952,00
+Default=0
+
+[7]
+Name=Max L-Ball PL2
+0=Disabled
+1=Enabled,100C15,0C
+Default=0
+
+[8]
+Name=Select Perm. Next Shape PL2
+0=Disabled
+1=Red,100982,00
+2=Purple,100982,01
+3=Orange,100982,02
+4=Blue,100982,03
+5=Yellow,100982,04
+6=Green,100982,05
+7=Cyan,100982,06
+Default=0
+
+[9]
+Name=Select Temp. Next Shape PL2
+0=Disabled
+1=Red,100982,00
+2=Purple,100982,01
+3=Orange,100982,02
+4=Blue,100982,03
+5=Yellow,100982,04
+6=Green,100982,05
+7=Cyan,100982,06
+Default=0
+
+[10]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

@@ -1,0 +1,122 @@
+[0]
+Name=Select Shot Power
+0=Disabled
+1=1 Line (Green),106FE6,04
+2=2 Lines (Green),106FE6,08
+3=3 Lines (Green),106FE6,0C
+4=4 Lines (Green),106FE6,10
+5=5 Lines (Green),106FE6,14
+6=6 Lines (Green),106FE6,18
+7=7 Lines (Green),106FE6,1C
+8=8 Lines (Green),106FE6,20
+9=9 Lines (Green),106FE6,24
+10=10 Lines (Green),106FE6,28
+11=50% (Off Green),106FE6,32
+12=60% (Off Green),106FE6,3C
+13=70% (Off Green),106FE6,46
+14=80% (Off Green),106FE6,50
+15=90% (Off Green),106FE6,5A
+16=100% (Off Green),106FE6,64
+17=Maximum (Tee Shot),106FE6,7F
+Default=0
+
+[1]
+Name=Select Club
+0=Disabled
+1=1W (260 Yards),106FDE,00
+2=3W (240 Yards),106FDE,01
+3=4W (230 Yards),106FDE,02
+4=1I (220 Yards),106FDE,03
+5=3I (200 Yards),106FDE,04
+6=4I (190 Yards),106FDE,05
+7=5I (180 Yards),106FDE,06
+8=6I (170 Yards),106FDE,07
+9=7I (160 Yards),106FDE,08
+10=8I (150 Yards),106FDE,09
+11=9I (140 Yards),106FDE,0A
+12=PW (120 Yards),106FDE,0B
+13=SW (100 Yards),106FDE,0C
+14=PT (28 Yards),106FDE,0D
+Default=0
+
+[2]
+Name=Select Wind Power
+0=Disabled
+1=No Wind,106FE0,00
+2=Full Wind,106FE0,13
+Default=0
+
+[3]
+Name=Select Wind Direction
+0=Disabled
+1=NORTH,106FE2,00
+2=NNE,106FE2,01
+3=NE,106FE2,02
+4=NEE,106FE2,03
+5=EAST,106FE2,04
+6=SEE,106FE2,05
+7=SE,106FE2,06
+8=SSE,106FE2,07
+9=SOUTH,106FE2,08
+10=SSW,106FE2,09
+11=SW,106FE2,0A
+12=SWW,106FE2,0B
+13=WEST,106FE2,0C
+14=NWW,106FE2,0D
+15=NW,106FE2,0E
+16=NNW,106FE2,0F
+Default=0
+
+[4]
+Name=Infinite Strokes PL1
+0=Disabled
+1=Enabled,107007,01
+Default=0
+
+[5]
+Name=Infinite Holes PL1
+0=Disabled
+1=Enabled,10D573,63
+Default=0
+
+[6]
+Name=Select Character PL1
+0=Disabled
+1=Young Hero   (USA),107004,00
+2=Power Golfer (BRA),107004,01
+3=Shot Maker   (GER),107004,02
+4=Putt Master  (JAP),107004,03
+5=Veteran      (AUS),107004,04
+6=Technician   (GBR),107004,05
+Default=0
+
+[7]
+Name=Infinite Strokes PL2
+0=Disabled
+1=Enabled,10702D,01
+Default=0
+
+[8]
+Name=Infinite Holes PL2
+0=Disabled
+1=Enabled,10D5D3,63
+Default=0
+
+[9]
+Name=Select Character PL2
+0=Disabled
+1=Young Hero   (USA),10702A,00
+2=Power Golfer (BRA),10702A,01
+3=Shot Maker   (GER),10702A,02
+4=Putt Master  (JAP),10702A,03
+5=Veteran      (AUS),10702A,04
+6=Technician   (GBR),10702A,05
+Default=0
+
+[10]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

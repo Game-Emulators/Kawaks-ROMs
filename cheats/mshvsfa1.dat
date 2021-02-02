@@ -1,0 +1,210 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF4809,99
+Default=0
+
+[1]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,FF4809,00
+Default=0
+
+[2]
+Name=Go to Final Stage Next
+0=Disabled
+1=Enabled,FF4880,08
+Default=0
+
+[3]
+Name=Infinite Energy (1st Character) PL1
+0=Disabled
+1=Enabled,FF3A50,90,FF3A5A,90
+Default=0
+
+[4]
+Name=Drain All Energy (1st Character) Now! PL1
+0=Disabled
+1=Enabled,FF3A50,00,FF3A5A,00
+Default=0
+
+[5]
+Name=Infinite Energy (2nd Character) PL1
+0=Disabled
+1=Enabled,FF4250,90,FF425A,90
+Default=0
+
+[6]
+Name=Drain All Energy (2nd Character) Now! PL1
+0=Disabled
+1=Enabled,FF4250,00,FF425A,00
+Default=0
+
+[7]
+Name=Always Max Power PL1
+0=Disabled
+1=Enabled,FF3A55,03,FF4255,03
+Default=0
+
+[8]
+Name=Play with Apocalypse PL1
+0=Disabled
+1=Enabled,FF3852,00,FF4052,00,FF48B0,00,FF48B2,00,FF4912,00
+Default=0
+
+[9]
+Name=Select 1st Character PL1
+0=Disabled
+1=Cyclops,FF3852,02
+2=Captain America,FF3852,04
+3=Hulk,FF3852,06
+4=Wolverine,FF3852,08
+5=Shuma Gorath,FF3852,0A
+6=Omega Red,FF3852,0C
+7=Spider-Man,FF3852,0E
+8=Blackheart,FF3852,10
+9=Ryu,FF3852,12
+10=Ken,FF3852,14
+11=Chun-Li,FF3852,16
+12=Dhalsim,FF3852,18
+13=Zangief,FF3852,1A
+14=Bison,FF3852,1C
+15=Akuma,FF3852,1E
+16=Sakura,FF3852,20
+17=Dan,FF3852,24
+18=#Norimaro#,FF3852,22
+19=#Mech-Akuma#,FF3852,26
+20=#Mech-Zangief#,FF3852,28
+21=#Sunburned Sakura#,FF3852,2A
+22=#Shadow#,FF3852,2C
+23=#U.S.Agent#,FF3852,2E
+24=#Mephisto#,FF3852,30
+25=#Armor Spider-Man#,FF3852,32
+Default=0
+
+[10]
+Name=Select 2nd Character PL1
+0=Disabled
+1=Cyclops,FF4052,02
+2=Captain America,FF4052,04
+3=Hulk,FF4052,06
+4=Wolverine,FF4052,08
+5=Shuma Gorath,FF4052,0A
+6=Omega Red,FF4052,0C
+7=Spider-Man,FF4052,0E
+8=Blackheart,FF4052,10
+9=Ryu,FF4052,12
+10=Ken,FF4052,14
+11=Chun-Li,FF4052,16
+12=Dhalsim,FF4052,18
+13=Zangief,FF4052,1A
+14=Bison,FF4052,1C
+15=Akuma,FF4052,1E
+16=Sakura,FF4052,20
+17=Dan,FF4052,24
+18=#Norimaro#,FF4052,22
+19=#Mech-Akuma#,FF4052,26
+20=#Mech-Zangief#,FF4052,28
+21=#Sunburned Sakura#,FF4052,2A
+22=#Shadow#,FF4052,2C
+23=#U.S.Agent#,FF4052,2E
+24=#Mephisto#,FF4052,30
+25=#Armor Spider-Man#,FF4052,32
+Default=0
+
+[11]
+Name=Infinite Energy (1st Character) PL2
+0=Disabled
+1=Enabled,FF3E50,90,FF3E5A,90
+Default=0
+
+[12]
+Name=Drain All Energy (1st Character) Now! PL2
+0=Disabled
+1=Enabled,FF3E50,00,FF3E5A,00
+Default=0
+
+[13]
+Name=Infinite Energy (2nd Character) PL2
+0=Disabled
+1=Enabled,FF4650,90,FF465A,90
+Default=0
+
+[14]
+Name=Drain All Energy (2nd Character) Now! PL2
+0=Disabled
+1=Enabled,FF4650,00,FF465A,00
+Default=0
+
+[15]
+Name=Always Max Power PL2
+0=Disabled
+1=Enabled,FF3E55,03,FF4655,03
+Default=0
+
+[16]
+Name=Play with Apocalypse PL2
+0=Disabled
+1=Enabled,FF3C52,00,FF4452,00,FF48B4,00,FF48B6,00,FF4912,00
+Default=0
+
+[17]
+Name=Select 1st Character PL2
+0=Disabled
+1=Cyclops,FF3C52,02
+2=Captain America,FF3C52,04
+3=Hulk,FF3C52,06
+4=Wolverine,FF3C52,08
+5=Shuma Gorath,FF3C52,0A
+6=Omega Red,FF3C52,0C
+7=Spider-Man,FF3C52,0E
+8=Blackheart,FF3C52,10
+9=Ryu,FF3C52,12
+10=Ken,FF3C52,14
+11=Chun-Li,FF3C52,16
+12=Dhalsim,FF3C52,18
+13=Zangief,FF3C52,1A
+14=Bison,FF3C52,1C
+15=Akuma,FF3C52,1E
+16=Sakura,FF3C52,20
+17=Dan,FF3C52,24
+18=#Norimaro#,FF3C52,22
+19=#Mech-Akuma#,FF3C52,26
+20=#Mech-Zangief#,FF3C52,28
+21=#Sunburned Sakura#,FF3C52,2A
+22=#Shadow#,FF3C52,2C
+23=#U.S.Agent#,FF3C52,2E
+24=#Mephisto#,FF3C52,30
+25=#Armor Spider-Man#,FF3C52,32
+Default=0
+
+[18]
+Name=Select 2nd Character PL2
+0=Disabled
+1=Cyclops,FF4452,02
+2=Captain America,FF4452,04
+3=Hulk,FF4452,06
+4=Wolverine,FF4452,08
+5=Shuma Gorath,FF4452,0A
+6=Omega Red,FF4452,0C
+7=Spider-Man,FF4452,0E
+8=Blackheart,FF4452,10
+9=Ryu,FF4452,12
+10=Ken,FF4452,14
+11=Chun-Li,FF4452,16
+12=Dhalsim,FF4452,18
+13=Zangief,FF4452,1A
+14=Bison,FF4452,1C
+15=Akuma,FF4452,1E
+16=Sakura,FF4452,20
+17=Dan,FF4452,24
+18=#Norimaro#,FF4452,22
+19=#Mech-Akuma#,FF4452,26
+20=#Mech-Zangief#,FF4452,28
+21=#Sunburned Sakura#,FF4452,2A
+22=#Shadow#,FF4452,2C
+23=#U.S.Agent#,FF4452,2E
+24=#Mephisto#,FF4452,30
+25=#Armor Spider-Man#,FF4452,32
+Default=0
+

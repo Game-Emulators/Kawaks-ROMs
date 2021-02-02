@@ -1,0 +1,61 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,10FD88,64,100115,FF
+Default=0
+
+[1]
+Name=Infinite Time - W.G.P
+0=Disabled
+1=Enabled,1000F9,99
+Default=0
+
+[2]
+Name=Infinite Time - Story
+0=Disabled
+1=Enabled,10011A,99
+Default=0
+
+[3]
+Name=Infinite Time Remaining [STORY MODE]
+0=Disabled
+1=Enabled,1000FD,08,1000FC,60
+Default=0
+
+[4]
+Name=Infinite Turbos
+0=Disabled
+1=Enabled,100F78,04
+Default=0
+
+[5]
+Name=Win every race (as 1st)
+0=Disabled
+1=Enabled,100F88,01
+Default=0
+
+[6]
+Name=Always ride at Maximum Speed
+0=Disabled
+1=Enabled,100F53,01,100F52,99
+Default=0
+
+[7]
+Name=Get Maximum Speed Boost Now!
+0=Disabled
+1=Enabled,100F53,01,100F52,99
+Default=0
+
+[8]
+Name=Infinite Money [STORY MODE]
+0=Disabled
+1=Enabled,100C1D,99,100C1C,99
+Default=0
+
+[9]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

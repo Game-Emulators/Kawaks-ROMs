@@ -1,0 +1,210 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,108369,61
+Default=0
+
+[1]
+Name=Select Backdrop
+0=Disabled
+1=Arie,108B2A,00
+2=Obama,108B2A,01
+3=Kuchinotsu,108B2A,02
+4=Koga,108B2A,03
+5=Kushiyama,108B2A,04
+6=Dohsaki,108B2A,05
+7=Funatsu,108B2A,06
+8=Fukae,108B2A,07
+9=Kusenbutake,108B2A,08
+10=Amakusa Castle (vs Amakusa),108B2A,09
+11=Amakusa Castle (vs Zankuro),108B2A,0A
+12=Amakusa Castle (vs Rival),108B2A,0B
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,108442,FC
+Default=0
+
+[3]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,108442,00
+Default=0
+
+[4]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,10844D,40
+Default=0
+
+[5]
+Name=Always Have Power Gauge PL1
+0=Disabled
+1=Enabled,108559,00
+Default=0
+
+[6]
+Name=Never Have Power Gauge PL1
+0=Disabled
+1=Enabled,108559,FF
+Default=0
+
+[7]
+Name=Select Rounds Won PL1
+0=Disabled
+1=0,108463,00
+2=1,108463,01
+3=2,108463,02
+Default=0
+
+[8]
+Name=Select Character PL1
+0=Disabled
+1=Haohmaru,108323,00
+2=Nakoruru,108323,01
+3=Rimururu,108323,02
+4=Hanzo Hattori,108323,03
+5=Galford,108323,04
+6=Kyoshiro Senryou,108323,05
+7=Ukyo Tachibana,108323,06
+8=Genjuro Kibagami,108323,07
+9=Kubikiri Basara,108323,08
+10=Shizumaru Hisame,108323,09
+11=Gaira Kafuin,108323,0A
+12=Amakusa Shirou Tokisada,108323,0B
+13=Jubei Yagyu,108323,0C
+14=#Zankuro Minazuki,108323,0D
+15=Charlotte,108323,0E
+16=Tam Tam,108323,0F
+17=Kazuki Kazama,108323,10
+18=Sogetsu Kazama,108323,11
+Default=0
+
+[9]
+Name=Select Colour PL1
+0=Disabled
+1=A Colour,10832B,00
+2=B Colour,10832B,01
+Default=0
+
+[10]
+Name=Select Playing Style PL1
+0=Disabled
+1=Slash,108325,00
+2=Bust,108325,01
+Default=0
+
+[11]
+Name=Select Character Difficulty PL1
+0=Disabled
+1=Beginners Class,108327,00
+2=Medium Grade,108327,01
+3=Upper Grade,108327,02
+Default=0
+
+[12]
+Name=Select Control PL1
+0=Disabled
+1=Human Control,108321,FF
+2=CPU Control,108321,00
+Default=0
+
+[13]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,108642,FC
+Default=0
+
+[14]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,108642,00
+Default=0
+
+[15]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,10864D,40
+Default=0
+
+[16]
+Name=Always Have Power Gauge PL2
+0=Disabled
+1=Enabled,108759,00
+Default=0
+
+[17]
+Name=Never Have Power Gauge PL2
+0=Disabled
+1=Enabled,108759,FF
+Default=0
+
+[18]
+Name=Select Rounds Won PL2
+0=Disabled
+1=0,108663,00
+2=1,108663,01
+3=2,108663,02
+Default=0
+
+[19]
+Name=Select Character PL2
+0=Disabled
+1=Haohmaru,108322,00
+2=Nakoruru,108322,01
+3=Rimururu,108322,02
+4=Hanzo Hattori,108322,03
+5=Galford,108322,04
+6=Kyoshiro Senryou,108322,05
+7=Ukyo Tachibana,108322,06
+8=Genjuro Kibagami,108322,07
+9=Kubikiri Basara,108322,08
+10=Shizumaru Hisame,108322,09
+11=Gaira Kafuin,108322,0A
+12=Amakusa Shirou Tokisada,108322,0B
+13=Jubei Yagyu,108322,0C
+14=#Zankuro Minazuki,108322,0D
+15=Charlotte,108322,0E
+16=Tam Tam,108322,0F
+17=Kazuki Kazama,108322,10
+18=Sogetsu Kazama,108332,11
+Default=0
+
+[20]
+Name=Select Colour PL2
+0=Disabled
+1=A Colour,10832A,00
+2=B Colour,10832A,01
+Default=0
+
+[21]
+Name=Select Playing Style PL2
+0=Disabled
+1=Slash,108324,00
+2=Bust,108324,01
+Default=0
+
+[22]
+Name=Select Difficulty PL2
+0=Disabled
+1=Beginners Class,108326,00
+2=Medium Grade,108326,01
+3=Upper Grade,108326,02
+Default=0
+
+[23]
+Name=Select Control PL2
+0=Disabled
+1=Human Control,108320,FF
+2=CPU Control,108320,00
+Default=0
+
+[24]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

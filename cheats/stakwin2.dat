@@ -1,0 +1,97 @@
+[0]
+Name=Infinite Shop Time
+0=Disabled
+1=Enabled,108942,0A
+Default=0
+
+[1]
+Name=Infinite Money PL1
+0=Disabled
+1=Enabled,108B5D,FF,108B5C,FF
+Default=0
+
+[2]
+Name=Infinite Power PL1
+0=Disabled
+1=Enabled,1089E3,EA
+Default=0
+
+[3]
+Name=Always Extra Speed PL1
+0=Disabled
+1=Enabled,1089C1,23
+Default=0
+
+[4]
+Name=Have Maximum Speed PL1
+0=Disabled
+1=Enabled,1080F9,07
+Default=0
+
+[5]
+Name=Have Maximum Stamina PL1
+0=Disabled
+1=Enabled,1080F8,07
+Default=0
+
+[6]
+Name=Have Maximum Burst PL1
+0=Disabled
+1=Enabled,1080FB,07
+Default=0
+
+[7]
+Name=Infinite Money PL2
+0=Disabled
+1=Enabled,10800B,FF,10800A,FF
+Default=0
+
+[8]
+Name=Infinite Power PL2
+0=Disabled
+1=Enabled,108BA1,FF
+Default=0
+
+[9]
+Name=Always Extra Speed PL2
+0=Disabled
+1=Enabled,108B7F,23
+Default=0
+
+[10]
+Name=Have Maximum Speed PL2
+0=Disabled
+1=Enabled,108139,07
+Default=0
+
+[11]
+Name=Have Maximum Stamina PL2
+0=Disabled
+1=Enabled,108138,07
+Default=0
+
+[12]
+Name=Have Maximum Burst PL2
+0=Disabled
+1=Enabled,10813B,07
+Default=0
+
+[13]
+Name=Enable All Special Moves PL1
+0=Disabled
+1=Enabled,1080D8,FF
+Default=0
+
+[14]
+Name=Enable All Special Moves PL2
+0=Disabled
+1=Enabled,108118,FF
+Default=0
+
+[15]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

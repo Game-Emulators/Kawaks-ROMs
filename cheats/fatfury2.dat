@@ -1,0 +1,61 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,10092B,99
+Default=0
+
+[1]
+Name=Finish Round Now!
+0=Disabled
+1=Enabled,10092B,00
+Default=0
+
+[2]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,1003CA,60
+Default=0
+
+[3]
+Name=Drain all Energy Now! PL1
+0=Disabled
+1=Enabled,1003CA,00
+Default=0
+
+[4]
+Name=Select Character PL1
+0=Disabled
+1=Billy Kane,102692,09
+2=Axel Hawk,102692,0A
+3=Laurence Blood,102692,0B
+4=Wolfgang Krauser,102692,0C
+Default=0
+
+[5]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,1004CA,60
+Default=0
+
+[6]
+Name=Drain all Energy Now! PL2
+0=Disabled
+1=Enabled,1004CA,00
+Default=0
+
+[7]
+Name=Select Character PL2
+0=Disabled
+1=Billy Kane,102792,09
+2=Axel Hawk,102792,0A
+3=Laurence Blood,102792,0B
+4=Wolfgang Krauser,102792,0C
+Default=0
+
+[8]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

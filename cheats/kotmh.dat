@@ -1,0 +1,61 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,10FD88,64,10202D,00
+Default=0
+
+[1]
+Name=Drain Energy Enemy 1 Now!
+0=Disabled
+1=Enabled,10226A,01
+Default=0
+
+[2]
+Name=Drain Energy Enemy 2 Now!
+0=Disabled
+1=Enabled,10236A,01
+Default=0
+
+[3]
+Name=Infinite Energy Enemy 1
+0=Disabled
+1=Enabled,10226A,3C
+Default=0
+
+[4]
+Name=Infinite Energy Enemy 2
+0=Disabled
+1=Enabled,10236A,3C
+Default=0
+
+[5]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,10206A,3C
+Default=0
+
+[6]
+Name=Always have Maximum Power PL1
+0=Disabled
+1=Enabled,1020C0,0A
+Default=0
+
+[7]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,10216A,3C
+Default=0
+
+[8]
+Name=Always have Maximum Power PL2
+0=Disabled
+1=Enabled,1021C0,0A
+Default=0
+
+[9]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

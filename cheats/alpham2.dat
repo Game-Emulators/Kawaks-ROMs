@@ -1,0 +1,49 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,10FD88,64,100FED,00
+Default=0
+
+[1]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,1010F3,03
+Default=0
+
+[2]
+Name=Weapon Power Up PL1
+0=Disabled
+1=Enabled,1010DC,18
+Default=0
+
+[3]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,101014,00
+Default=0
+
+[4]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,1011F3,03
+Default=0
+
+[5]
+Name=Weapon Power Up PL2
+0=Disabled
+1=Enabled,1011DC,18
+Default=0
+
+[6]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,101114,00
+Default=0
+
+[7]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

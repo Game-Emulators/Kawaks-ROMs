@@ -1,0 +1,65 @@
+[0]
+Name=Infinite Continues
+0=Disabled
+1=Enabled,108026,64,10804D,64,10805D,64
+Default=0
+
+[1]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,108D98,63
+Default=0
+
+[2]
+Name=Select Infinite Bombs PL1
+0=Disabled
+1=Infinite Plasma Bombs,108D8E,01
+2=Infinite Fire Bombs,108D8E,02
+3=Infinite Homing Bombs,108D8E,03
+Default=0
+
+[3]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,108D3D,08
+Default=0
+
+[4]
+Name=Fast Full Charge Shot PL1
+0=Disabled
+1=Enabled,108D96,50
+Default=0
+
+[5]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,1090EC,63
+Default=0
+
+[6]
+Name=Select Infinite Bombs PL2
+0=Disabled
+1=Infinite Plasma Bombs,1090E2,01
+2=Infinite Fire Bombs,1090E2,02
+3=Infinite Homing Bombs,1090E2,03
+Default=0
+
+[7]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,109091,08
+Default=0
+
+[8]
+Name=Fast Full Charge Shot PL2
+0=Disabled
+1=Enabled,1090EA,50
+Default=0
+
+[9]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

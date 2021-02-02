@@ -1,0 +1,104 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,106E92,3C
+Default=0
+
+[1]
+Name=Infinite Tank Gas
+0=Disabled
+1=Enabled,1005E6,30
+Default=0
+
+[2]
+Name=Infinite Tank Cannon
+0=Disabled
+1=Enabled,100611,0A
+Default=0
+
+[3]
+Name=Select Starting Mission
+0=Disabled
+1=1,10E3B6,00
+2=2,10E3B6,01
+3=3,10E3B6,02
+4=4,10E3B6,03
+5=5,10E3B6,04
+6=6,10E3B6,05
+Default=0
+
+[4]
+Name=Infinite Lives PL1
+0=Disabled
+1=Enabled,100376,03
+Default=0
+
+[5]
+Name=Infinite Ammo PL1
+0=Disabled
+1=Enabled,1004C3,FF
+Default=0
+
+[6]
+Name=Infinite Bombs PL1
+0=Disabled
+1=Enabled,1004C1,0A
+Default=0
+
+[7]
+Name=Invincibility PL1
+0=Disabled
+1=Enabled,100484,40
+Default=0
+
+[8]
+Name=Select Weapon PL1
+0=Disabled
+1=Normal Gun,1004B0,00
+2=Shotgun,1004B0,01
+3=Flamer,1004B0,02
+4=Rocket Launcher,1004B0,03
+5=Machine Gun,1004B0,04
+Default=0
+
+[9]
+Name=Infinite Lives PL2
+0=Disabled
+1=Enabled,100416,03
+Default=0
+
+[10]
+Name=Infinite Ammo PL2
+0=Disabled
+1=Enabled,100563,FF
+Default=0
+
+[11]
+Name=Infinite Bombs PL2
+0=Disabled
+1=Enabled,100561,0A
+Default=0
+
+[12]
+Name=Invincibility PL2
+0=Disabled
+1=Enabled,100524,40
+Default=0
+
+[13]
+Name=Select Weapon PL2
+0=Disabled
+1=Normal Gun,100550,00
+2=Shotgun,100550,01
+3=Flamer,100550,02
+4=Rocket Launcher,100550,03
+5=Machine Gun,100550,04
+Default=0
+
+[14]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

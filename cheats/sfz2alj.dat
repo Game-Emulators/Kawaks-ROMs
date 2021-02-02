@@ -1,0 +1,424 @@
+[0]
+Name=Free Play Mode 'ON'
+0=Disabled
+1=Enabled,FF809D,01
+Default=0
+
+[1]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8108,63
+Default=0
+
+[2]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,FF8108,00
+Default=0
+
+[3]
+Name=Change to Normal Mode Now!
+0=Disabled
+1=Enabled,FF816D,00,FF84CA,00
+Default=0
+
+[4]
+Name=Change to Dramatic Battle Now!
+0=Disabled
+1=Enabled,FF816D,01,FF84CA,00
+Default=0
+
+[5]
+Name=Change to Survival Mode Now!
+0=Disabled
+1=Enabled,FF84CA,FF,FF816D,00
+Default=0
+
+[6]
+Name=Next fight is last fight Now! (Normal)
+0=Disabled
+1=Enabled,FF8114,07
+Default=0
+
+[7]
+Name=Next fight is last fight Now! (Dramatic)
+0=Disabled
+1=Enabled,FF8114,03
+Default=0
+
+[8]
+Name=Next fight is last fight Now! (Survival)
+0=Disabled
+1=Enabled,FF8114,11
+Default=0
+
+[9]
+Name=Select Next Stage Now!
+0=Disabled
+1=Japan (Snow),FF8100,00
+2=USA (Boat),FF8100,02
+3=Japan (Akuma's Island),FF8100,04
+4=USA (Plane),FF8100,06
+5=China (Bikes),FF8100,08
+6=Thailand (Lakeside),FF8100,0A
+7=USA (Truck),FF8100,0C
+8=USA (Alley),FF8100,0E
+9=England (Toilets),FF8100,10
+10=Italy (Venice),FF8100,12
+11=Brazil (Plane),FF8100,14
+12=Thailand (Buddha),FF8100,16
+13=Hong Kong (Market),FF8100,18
+14=Japan (Outside House),FF8100,1A
+15=USA (Yard),FF8100,1C
+16=India (Elephants),FF8100,1E
+17=USSR (Factory),FF8100,20
+18=China (Alley),FF8100,22
+19=Australia (Crop Field),FF8100,24
+20=Venezuela (Waterfall),FF8100,26
+Default=0
+
+[10]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF8450,90,FF8452,90
+Default=0
+
+[11]
+Name=Drain All Energy Now! PL1
+0=Disabled
+1=Enabled,FF8450,00,FF8452,00
+Default=0
+
+[12]
+Name=Always have Maximum POW PL1
+0=Disabled
+1=Enabled,FF849E,90
+Default=0
+
+[13]
+Name=Always have Minimum POW PL1
+0=Disabled
+1=Enabled,FF849E,00
+Default=0
+
+[14]
+Name=Get Maximum POW Now! PL1
+0=Disabled
+1=Enabled,FF849E,90
+Default=0
+
+[15]
+Name=Get Minimum POW Now! PL1
+0=Disabled
+1=Enabled,FF849E,00
+Default=0
+
+[16]
+Name=Infinite Custom Combo PL1
+0=Disabled
+1=Enabled,FF8698,B0,FF869B,00
+Default=0
+
+[17]
+Name=Never Faint PL1
+0=Disabled
+1=Enabled,FF8536,00
+Default=0
+
+[18]
+Name=Select Colour Scheme PL1
+0=Disabled
+1=0,FF84A9,00
+2=1,FF84A9,01
+3=2,FF84A9,02
+4=3,FF84A9,03
+5=4,FF84A9,04
+6=5,FF84A9,05
+Default=0
+
+[19]
+Name=Enable Rival Character PL1
+0=Disabled
+1=Enabled,FF84C7,05
+Default=0
+
+[20]
+Name=Enable CPU Shin Gouki PL1
+0=Disabled
+1=Enabled,FF84C9,03
+Default=0
+
+[21]
+Name=Disable Rival Character PL1
+0=Disabled
+1=Enabled,FF84C7,00
+Default=0
+
+[22]
+Name=Disable CPU Shin Gouki PL1
+0=Disabled
+1=Enabled,FF84C9,00
+Default=0
+
+[23]
+Name=Select Character PL1
+0=Disabled
+1=Ryu,FF8483,00
+2=Ken,FF8483,01
+3=Akuma,FF8483,02
+4=Charlie,FF8483,03
+5=Chun-Li,FF8483,04
+6=Adon,FF8483,05
+7=Sodom,FF8483,06
+8=Guy,FF8483,07
+9=Birdie,FF8483,08
+10=Rose,FF8483,09
+11=M. Bison,FF8483,0A
+12=Sagat,FF8483,0B
+13=Dan,FF8483,0C
+14=Sakura,FF8483,0D
+15=Rolento,FF8483,0E
+16=Dhalsim,FF8483,0F
+17=Zangief,FF8483,10
+18=Gen,FF8483,11
+19=Chun-Li (SF2),FF8483,12
+20=Akuma (Blue),FF8483,14
+21=Evil Ryu,FF8483,17
+Default=0
+
+[24]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF8850,90,FF8852,90
+Default=0
+
+[25]
+Name=Drain All Energy Now! PL2
+0=Disabled
+1=Enabled,FF8850,00,FF8852,00
+Default=0
+
+[26]
+Name=Always have Maximum POW PL2
+0=Disabled
+1=Enabled,FF889E,90
+Default=0
+
+[27]
+Name=Always have Minimum POW PL2
+0=Disabled
+1=Enabled,FF889E,00
+Default=0
+
+[28]
+Name=Get Maximum POW Now! PL2
+0=Disabled
+1=Enabled,FF889E,90
+Default=0
+
+[29]
+Name=Get Minimum POW Now! PL2
+0=Disabled
+1=Enabled,FF889E,00
+Default=0
+
+[30]
+Name=Infinite Custom Combo PL2
+0=Disabled
+1=Enabled,FF8A98,B0,FF8A9B,00
+Default=0
+
+[31]
+Name=Never Faint PL2
+0=Disabled
+1=Enabled,FF8936,00
+Default=0
+
+[32]
+Name=Select Colour Scheme PL2
+0=Disabled
+1=0,FF88A9,00
+2=1,FF88A9,01
+3=2,FF88A9,02
+4=3,FF88A9,03
+5=4,FF88A9,04
+6=5,FF88A9,05
+Default=0
+
+[33]
+Name=Enable Rival Character PL2
+0=Disabled
+1=Enabled,FF88C7,05
+Default=0
+
+[34]
+Name=Enable CPU Shin Gouki PL2
+0=Disabled
+1=Enabled,FF88C9,03
+Default=0
+
+[35]
+Name=Disable Rival Character PL2
+0=Disabled
+1=Enabled,FF88C7,00
+Default=0
+
+[36]
+Name=Disable CPU Shin Gouki PL2
+0=Disabled
+1=Enabled,FF88C9,00
+Default=0
+
+[37]
+Name=Select Character PL2
+0=Disabled
+1=Ryu,FF8883,00
+2=Ken,FF8883,01
+3=Akuma,FF8883,02
+4=Charlie,FF8883,03
+5=Chun-Li,FF8883,04
+6=Adon,FF8883,05
+7=Sodom,FF8883,06
+8=Guy,FF8883,07
+9=Birdie,FF8883,08
+10=Rose,FF8883,09
+11=M. Bison,FF8883,0A
+12=Sagat,FF8883,0B
+13=Dan,FF8883,0C
+14=Sakura,FF8883,0D
+15=Rolento,FF8883,0E
+16=Dhalsim,FF8883,0F
+17=Zangief,FF8883,10
+18=Gen,FF8883,11
+19=Chun-Li (SF2),FF8883,12
+20=Akuma (Blue),FF8883,14
+21=Evil Ryu,FF8883,17
+Default=0
+
+[38]
+Name=Infinite Energy PL3
+0=Disabled
+1=Enabled,FF8C50,90,FF8C52,90
+Default=0
+
+[39]
+Name=Drain All Energy Now! PL3
+0=Disabled
+1=Enabled,FF8C50,00,FF8C52,00
+Default=0
+
+[40]
+Name=Always have Maximum POW PL3
+0=Disabled
+1=Enabled,FF8C9E,90
+Default=0
+
+[41]
+Name=Always have Minimum POW PL3
+0=Disabled
+1=Enabled,FF8C9E,00
+Default=0
+
+[42]
+Name=Get Maximum POW Now! PL3
+0=Disabled
+1=Enabled,FF8C9E,90
+Default=0
+
+[43]
+Name=Get Minimum POW Now! PL3
+0=Disabled
+1=Enabled,FF8C9E,00
+Default=0
+
+[44]
+Name=Infinite Custom Combo PL3
+0=Disabled
+1=Enabled,FF8E98,B0,FF8E9B,00
+Default=0
+
+[45]
+Name=Never Faint PL3
+0=Disabled
+1=Enabled,FF8D36,00
+Default=0
+
+[46]
+Name=Select Colour Scheme PL3
+0=Disabled
+1=0,FF8CA9,00
+2=1,FF8CA9,01
+3=2,FF8CA9,02
+4=3,FF8CA9,03
+5=4,FF8CA9,04
+6=5,FF8CA9,05
+Default=0
+
+[47]
+Name=Enable Rival Character PL3
+0=Disabled
+1=Enabled,FF8CC7,05
+Default=0
+
+[48]
+Name=Enable CPU Shin Gouki PL3
+0=Disabled
+1=Enabled,FF8CC9,03
+Default=0
+
+[49]
+Name=Disable Rival Character PL3
+0=Disabled
+1=Enabled,FF8CC7,00
+Default=0
+
+[50]
+Name=Disable CPU Shin Gouki PL3
+0=Disabled
+1=Enabled,FF8CC9,00
+Default=0
+
+[51]
+Name=Select Character PL3
+0=Disabled
+1=Ryu,FF8C83,00
+2=Ken,FF8C83,01
+3=Akuma,FF8C83,02
+4=Charlie,FF8C83,03
+5=Chun-Li,FF8C83,04
+6=Adon,FF8C83,05
+7=Sodom,FF8C83,06
+8=Guy,FF8C83,07
+9=Birdie,FF8C83,08
+10=Rose,FF8C83,09
+11=M. Bison,FF8C83,0A
+12=Sagat,FF8C83,0B
+13=Dan,FF8C83,0C
+14=Sakura,FF8C83,0D
+15=Rolento,FF8C83,0E
+16=Dhalsim,FF8C83,0F
+17=Zangief,FF8C83,10
+18=Gen,FF8C83,11
+19=Chun-Li (SF2),FF8C83,12
+20=Akuma (Blue),FF8C83,14
+21=Evil Ryu,FF8C83,17
+Default=0
+
+[52]
+Name=Select Region
+0=Disabled
+1=Japan,FF8090,00
+2=USA,FF8090,02
+3=Hispanic,FF8090,04
+4=Oceania,FF8090,06
+5=Asia,FF8090,08
+6=Euro,FF8090,0A
+7=Brazil,FF8090,0C
+Default=0
+
+[53]
+Name=Sound Test Timer Stop
+0=Disabled
+1=Enabled,FF800A,FF
+Default=0
+

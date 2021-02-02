@@ -1,0 +1,47 @@
+[0]
+Name=Finish this Round Now!
+0=Disabled
+1=Enabled,1037AF,01
+Default=0
+
+[1]
+Name=Never Lose Targets PL1
+0=Disabled
+1=Enabled,103516,04,1034FE,04,1034CE,04,10352E,04,1034E6,04,1034B6,04
+Default=0
+
+[2]
+Name=Select Character PL1
+0=Disabled
+1=Chinta Nemoto,1033EC,00
+2=Siren,1033EC,01
+3=Saimon,1033EC,02
+4=Mr. Justice,1033EC,03
+5=Bloody Wolf,1033EC,04
+6=Boss,1033EC,05
+Default=0
+
+[3]
+Name=Never Lose Targets PL2
+0=Disabled
+1=Enabled,103546,04,103576,04,10355E,04,10358E,04,1035A6,04,1035BE,04
+Default=0
+
+[4]
+Name=Select Character PL2
+0=Disabled
+1=Chinta Nemoto,1033EE,00
+2=Siren,1033EE,01
+3=Saimon,1033EE,02
+4=Mr. Justice,1033EE,03
+5=Bloody Wolf,1033EE,04
+6=Boss,1033EE,05
+Default=0
+
+[5]
+Name=Select Cartridge/NeoGeo Type
+0=Disabled
+1=Arcade (MVS),10FD83,80
+2=Home (NEOGEO),10FD83,00
+Default=0
+

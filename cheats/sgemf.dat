@@ -1,0 +1,360 @@
+[0]
+Name=Infinite Time
+0=Disabled
+1=Enabled,FF8189,99
+Default=0
+
+[1]
+Name=Select next round
+0=Disabled
+1=1,FF8192,00
+2=2,FF8192,01
+3=3,FF8192,02
+4=4,FF8192,03
+5=5,FF8192,04
+6=6,FF8192,05
+7=7,FF8192,06
+8=8,FF8192,07
+Default=0
+
+[2]
+Name=Move Round Announce
+0=Disabled
+1=Enabled,FF818F,00
+Default=0
+
+[3]
+Name=Background always =
+0=Disabled
+1=Capcom Cafe,FF8180,00
+2=Shopping Center,FF8180,02
+3=Slopes,FF8180,04
+4=Dock,FF8180,06
+5=Chinatown,FF8180,08
+6=Fireplace,FF8180,0A
+7=Morrigan's Castle,FF8180,0C
+8=Demitri's Castle,FF8180,0E
+Default=0
+
+[4]
+Name=Infinite Energy PL1
+0=Disabled
+1=Enabled,FF8440,90
+Default=0
+
+[5]
+Name=Always have Max Power PL1
+0=Disabled
+1=Enabled,FF8594,60
+Default=0
+
+[6]
+Name=Infinite Super Stocks PL1
+0=Disabled
+1=Enabled,FF8595,09
+Default=0
+
+[7]
+Name=Max Red Gem Attack PL1
+0=Disabled
+1=Enabled,FF85A2,60
+Default=0
+
+[8]
+Name=Max Yellow Gem Attack PL1
+0=Disabled
+1=Enabled,FF85A4,60
+Default=0
+
+[9]
+Name=Max Blue Gem Attack PL1
+0=Disabled
+1=Enabled,FF85A6,60
+Default=0
+
+[10]
+Name=Air Moves PL1
+0=Disabled
+1=Enabled,FF844E,00
+Default=0
+
+[11]
+Name=No Hit Stop PL1
+0=Disabled
+1=Enabled,FF844D,00
+Default=0
+
+[12]
+Name=No Shot Limit PL1
+0=Disabled
+1=Enabled,FF8571,00
+Default=0
+
+[13]
+Name=Endless Shot Hit PL1
+0=Disabled
+1=Enabled,FF9840,63,FF9940,63
+Default=0
+
+[14]
+Name=Action Speed Up PL1
+0=Disabled
+1=Enabled,FF8418,01
+Default=0
+
+[15]
+Name=Max Guard Crush PL1
+0=Disabled
+1=Enabled,FF8538,3C
+Default=0
+
+[16]
+Name=No Flash Combo PL1
+0=Disabled
+1=Enabled,FF859A,00,FF859B,01,FF859C,00
+Default=0
+
+[17]
+Name=Display 99 Hits PL1
+0=Disabled
+1=Enabled,FF8945,63
+Default=0
+
+[18]
+Name=Gem (A) PL1 always =
+0=Disabled
+1=None,FF85F1,FF
+2=Flame,FF85F1,00
+3=Water,FF85F1,01
+4=Lightning,FF85F1,02
+5=Skull,FF85F1,03
+6=Banana,FF85F1,04
+7=Bomb,FF85F1,05
+8=Petrify,FF85F1,06
+Default=0
+
+[19]
+Name=Gem (B) PL1 always =
+0=Disabled
+1=None,FF85F0,FF
+2=Flame,FF85F0,00
+3=Water,FF85F0,01
+4=Lightning,FF85F0,02
+5=Skull,FF85F0,03
+6=Banana,FF85F0,04
+7=Bomb,FF85F0,05
+8=Petrify,FF85F0,06
+Default=0
+
+[20]
+Name=Gem (C) PL1 always =
+0=Disabled
+1=None,FF85F3,FF
+2=Flame,FF85F3,00
+3=Water,FF85F3,01
+4=Lightning,FF85F3,02
+5=Skull,FF85F3,03
+6=Banana,FF85F3,04
+7=Bomb,FF85F3,05
+8=Petrify,FF85F3,06
+Default=0
+
+[21]
+Name=Infinite Select Time PL1
+0=Disabled
+1=Enabled,FF840F,14
+Default=0
+
+[22]
+Name=Select Character PL1
+0=Disabled
+1=Ryu,FF8780,00
+2=Ken,FF8780,01
+3=Chun-Li,FF8780,02
+4=Sakura,FF8780,03
+5=Morrigan,FF8780,04
+6=Lei-Lei (Hsien-Ko),FF8780,05
+7=Felicia,FF8780,06
+8=Tabasa (Tessa),FF8780,07
+9=Ibuki,FF8780,08
+10=Zangief,FF8780,09
+11=Dan,FF8780,0A
+12=Gouki (Akuma),FF8780,0B
+Default=0
+
+[23]
+Name=Select Player Colour PL1
+0=Disabled
+1=Punch,FF879E,00
+2=Kick,FF879E,01
+3=Special,FF879E,02
+4=PKS,FF879E,03
+Default=0
+
+[24]
+Name=Infinite Energy PL2
+0=Disabled
+1=Enabled,FF8840,90
+Default=0
+
+[25]
+Name=Always have Max Power PL2
+0=Disabled
+1=Enabled,FF8994,60
+Default=0
+
+[26]
+Name=Infinite Super Stocks PL2
+0=Disabled
+1=Enabled,FF8995,09
+Default=0
+
+[27]
+Name=Max Red Gem Attack PL2
+0=Disabled
+1=Enabled,FF89A2,60
+Default=0
+
+[28]
+Name=Max Yellow Gem Attack PL2
+0=Disabled
+1=Enabled,FF89A4,60
+Default=0
+
+[29]
+Name=Max Blue Gem Attack PL2
+0=Disabled
+1=Enabled,FF89A6,60
+Default=0
+
+[30]
+Name=Air Moves PL2
+0=Disabled
+1=Enabled,FF884E,00
+Default=0
+
+[31]
+Name=No Hit Stop PL2
+0=Disabled
+1=Enabled,FF884D,00
+Default=0
+
+[32]
+Name=No Shot Limit PL2
+0=Disabled
+1=Enabled,FF8971,00
+Default=0
+
+[33]
+Name=Endless Shot Hit PL2
+0=Disabled
+1=Enabled,FF9440,63,FF9540,63
+Default=0
+
+[34]
+Name=Action Speed Up PL2
+0=Disabled
+1=Enabled,FF8818,01
+Default=0
+
+[35]
+Name=Max Guard Crush PL2
+0=Disabled
+1=Enabled,FF8938,3C
+Default=0
+
+[36]
+Name=No Flash Combo PL2
+0=Disabled
+1=Enabled,FF899A,00,FF899B,01,FF899C,00
+Default=0
+
+[37]
+Name=Display 99 Hits PL2
+0=Disabled
+1=Enabled,FF8545,63
+Default=0
+
+[38]
+Name=Gem (A) PL2 always =
+0=Disabled
+1=None,FF89F1,FF
+2=Flame,FF89F1,00
+3=Water,FF89F1,01
+4=Lightning,FF89F1,02
+5=Skull,FF89F1,03
+6=Banana,FF89F1,04
+7=Bomb,FF89F1,05
+8=Petrify,FF89F1,06
+Default=0
+
+[39]
+Name=Gem (B) PL2 always =
+0=Disabled
+1=None,FF89F0,FF
+2=Flame,FF89F0,00
+3=Water,FF89F0,01
+4=Lightning,FF89F0,02
+5=Skull,FF89F0,03
+6=Banana,FF89F0,04
+7=Bomb,FF89F0,05
+8=Petrify,FF89F0,06
+Default=0
+
+[40]
+Name=Gem (C) PL2 always =
+0=Disabled
+1=None,FF89F3,FF
+2=Flame,FF89F3,00
+3=Water,FF89F3,01
+4=Lightning,FF89F3,02
+5=Skull,FF89F3,03
+6=Banana,FF89F3,04
+7=Bomb,FF89F3,05
+8=Petrify,FF89F3,06
+Default=0
+
+[41]
+Name=Infinite Select Time PL2
+0=Disabled
+1=Enabled,FF880F,14
+Default=0
+
+[42]
+Name=Select Character PL2
+0=Disabled
+1=Ryu,FF8B80,00
+2=Ken,FF8B80,01
+3=Chun-Li,FF8B80,02
+4=Sakura,FF8B80,03
+5=Morrigan,FF8B80,04
+6=Lei-Lei (Hsien-Ko),FF8B80,05
+7=Felicia,FF8B80,06
+8=Tabasa (Tessa),FF8B80,07
+9=Ibuki,FF8B80,08
+10=Zangief,FF8B80,09
+11=Dan,FF8B80,0A
+12=Gouki (Akuma),FF8B80,0B
+Default=0
+
+[43]
+Name=Select Player Colour PL2
+0=Disabled
+1=Punch,FF8B9E,00
+2=Kick,FF8B9E,01
+3=Special,FF8B9E,02
+4=PKS,FF8B9E,03
+Default=0
+
+[44]
+Name=Select Region
+0=Disabled
+1=Japan,FF8110,00
+2=USA,FF8110,02
+3=Hispanic,FF8110,04
+4=Oceania,FF8110,06
+5=Asia,FF8110,08
+6=Euro,FF8110,0A
+7=Brazil,FF8110,0C
+Default=0
+
